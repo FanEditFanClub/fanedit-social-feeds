@@ -27,6 +27,6 @@ jobs:
         run: |
           git config user.name "feeds-bot"
           git config user.email "feeds-bot@users.noreply.github.com"
-          git add x-posts.json reddit-community.json reddit-multireddit.json
+          git add -A
           git diff --cached --quiet || git commit -m "refresh feeds"
           git push
