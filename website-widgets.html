@@ -51,16 +51,27 @@
     width: 100%;
   }
 
-  .top-row .widget-container,
-  .top-row .rss-container {
-    flex: 1 1 260px;
-  }
-
   /* Reddit row: 2 cards share the row equally (base .widget-row .rss-container
      caps at 450px, so it must be reset here) */
   .reddit-row .rss-container {
     flex: 1 1 300px;
     max-width: none;
+  }
+
+  /* X row: the X card takes its own full-width line, as wide as the
+     Discord block above (1172px of visible cards) */
+  .x-row .rss-container {
+    flex: 1 1 100%;
+    max-width: none;
+  }
+
+  /* Facebook row: the Page + Group cards share their own line beneath the
+     X card, at the same total width (reset the 450px caps like reddit-row) */
+  .fb-row .rss-container,
+  .fb-row .widget-container {
+    flex: 1 1 300px;
+    max-width: none;
+    margin: 0;
   }
 
   /* ===== X Profile card / Facebook Group card (shared styles) ===== */
@@ -483,8 +494,8 @@
 
 <div class="page-wrap">
 
-  <!-- Widget 1, 2, 3: Top Row (X Feed, Facebook Page, Facebook Group) -->
-  <div class="widget-row top-row">
+  <!-- Widget 1: X Feed on its own full-width line -->
+  <div class="widget-row x-row">
     <div class="rss-container">
       <div class="rss-header">
         <div class="header-left">
@@ -501,7 +512,10 @@
       </div>
       <a href="https://x.com/FanEditFanClub" target="_blank" class="action-btn">Open X Profile</a>
     </div>
+  </div>
 
+  <!-- Widgets 2 & 3: Facebook Page + Facebook Group on their own line -->
+  <div class="widget-row fb-row">
     <div class="rss-container">
       <div class="rss-header">
         <div class="header-left">
