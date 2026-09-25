@@ -44,7 +44,6 @@
   }
 
   .widget-row .widget-container,
-  .widget-row .fb-outer,
   .widget-row .rss-container {
     flex: 1 1 400px;
     max-width: 450px;
@@ -52,7 +51,6 @@
   }
 
   .top-row .widget-container,
-  .top-row .fb-outer,
   .top-row .rss-container {
     flex: 1 1 260px;
   }
@@ -170,48 +168,7 @@
   .x-post-action:hover { color: #1d9bf0; background-color: rgba(29,155,240,0.1); }
   .x-post-action svg { width: 17px; height: 17px; }
 
-  /* ===== Facebook Page embed card ===== */
-  .fb-outer {
-    background-color: #000000;
-    padding: 12px;
-    border: 1px solid #2f3336;
-    border-radius: 16px;
-    margin: 0 auto;
-    text-align: center;
-    position: relative;
-  }
-  .fb-card-wrapper {
-    position: relative;
-    background-color: #000000;
-    border-radius: 8px;
-    overflow: hidden;
-    display: block;
-    width: 100%;
-    max-width: 340px;
-    height: 500px;
-    margin: 0 auto;
-  }
-  .fb-dark-timeline {
-    filter: invert(1) hue-rotate(180deg);
-    width: 100%;
-    height: 100%;
-    border: none;
-    overflow: hidden;
-  }
-  .fb-full-header-shield {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    height: 72px;
-    background-color: #000000;
-    z-index: 9999;
-    pointer-events: none;
-    display: flex;
-    align-items: center;
-    padding-left: 12px;
-    border-bottom: 1px solid #2f3336;
-  }
+  /* ===== Facebook Page native feed card ===== */
   .fb-logo-graphic {
     width: 44px;
     height: 44px;
@@ -223,17 +180,42 @@
     margin-right: 12px;
     flex-shrink: 0;
   }
-  .fb-header-text-lines {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: left;
+  .fb-page-scroll {
+    max-height: 380px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scrollbar-width: thin;
+    scrollbar-color: #2f3336 transparent;
   }
-  .fb-title-name { color: #e7e9ea; font-weight: bold; font-size: 14px; line-height: 1.3; }
+  .fb-page-scroll::-webkit-scrollbar { width: 5px; }
+  .fb-page-scroll::-webkit-scrollbar-track { background: transparent; }
+  .fb-page-scroll::-webkit-scrollbar-thumb { background-color: #2f3336; border-radius: 10px; }
 
-  @media screen and (max-width: 480px) {
-    .fb-card-wrapper { height: 440px; }
+  /* ===== Facebook post cards (mirror the X post look) ===== */
+  .fb-post {
+    border: 1px solid #2f3336;
+    border-radius: 16px;
+    padding: 12px;
+    margin-bottom: 12px;
+    background-color: #000000;
+    text-align: left;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
   }
+  .fb-post:hover { background-color: #0a0b0d; border-color: #3e4247; }
+  .fb-post:last-child { margin-bottom: 0; }
+  .fb-post-avatar {
+    width: 40px; height: 40px; border-radius: 50%; flex-shrink: 0;
+    object-fit: cover; border: 1px solid #2f3336;
+  }
+  .fb-post-image {
+    width: 100%; border-radius: 12px; margin-top: 10px;
+    border: 1px solid #2f3336; display: block;
+  }
+  .fb-post-stats { display: flex; align-items: center; gap: 18px; margin-top: 10px; }
+  .fb-post-stat { color: #71767b; font-size: 12.5px; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; }
+  a.fb-post-stat:hover { color: #0866ff; }
+  .fb-post-stat svg { width: 15px; height: 15px; }
+
 
   /* ===== Reddit RSS cards (shared) ===== */
   .rss-container {
@@ -515,22 +497,21 @@
       <a href="https://x.com/FanEditFanClub" target="_blank" class="action-btn">Open X Profile</a>
     </div>
 
-    <div class="fb-outer">
-      <div class="fb-card-wrapper">
-        <div class="fb-full-header-shield">
+    <div class="rss-container">
+      <div class="rss-header">
+        <div class="header-left">
           <div class="fb-logo-graphic"></div>
-          <div class="fb-header-text-lines">
-            <div class="fb-title-name">Fan Edit Fan Club</div>
+          <div class="rss-title-group">
+            <h3 class="rss-title">Fan Edit Fan Club</h3>
+            <span class="rss-sub" style="color:#71767b;">Facebook Page</span>
           </div>
         </div>
-        <iframe class="fb-dark-timeline"
-                src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFanEditFanClub&tabs=timeline&width=290&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
-                scrolling="no"
-                frameborder="0"
-                allowfullscreen="true"
-                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
-        </iframe>
+        <a href="https://www.facebook.com/FanEditFanClub" target="_blank" class="feed-btn" style="background-color:#0866ff;color:#ffffff;">Follow</a>
       </div>
+      <div class="rss-feed-list fb-page-scroll" id="fb-page-feed">
+        <div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">Loading posts...</div>
+      </div>
+      <a href="https://www.facebook.com/FanEditFanClub" target="_blank" class="action-btn">Open Facebook Page</a>
     </div>
 
     <div class="widget-container">
@@ -763,6 +744,39 @@
       } else { feedEmpty('x-feed'); }
     })
     .catch(function () { feedFail('x-feed'); });
+
+  /* ---- Facebook Page feed: latest page posts (via Graph API, refreshed every 30 min) ---- */
+  var FB_SVGS = {
+    like: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3z"/><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"/></svg>',
+    comment: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>',
+    share: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>'
+  };
+  fetch(FEEDS_BASE + "/fb-page.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var posts = data && data.posts;
+      var profile = (data && data.profile) || {};
+      var el = document.getElementById('fb-page-feed');
+      if (posts && posts.length > 0) {
+        el.innerHTML = posts.slice(0, 6).map(function (p) {
+          var avatar = profile.picture
+            ? '<img class="fb-post-avatar" src="' + profile.picture + '" alt="">'
+            : '<div class="fb-logo-graphic" style="width:40px;height:40px;margin-right:0;"></div>';
+          var stats = [['like', p.likes], ['comment', p.comments], ['share', p.shares]].map(function (s) {
+            return '<a class="fb-post-stat" href="' + p.url + '" target="_blank">' + FB_SVGS[s[0]] + '<span>' + (s[1] || 0) + '</span></a>';
+          }).join('');
+          return '<article class="fb-post">' +
+            '<div class="x-post-header">' + avatar +
+            '<div class="x-post-names"><span class="x-post-name">' + escapeHtml(profile.name || 'Fan Edit Fan Club') + '</span>' +
+            '<a class="x-post-date" href="' + p.url + '" target="_blank">' + fmtDate(p.created_at) + '</a></div></div>' +
+            (p.text ? '<div class="x-post-body">' + linkify(p.text) + '</div>' : '') +
+            (p.image ? '<a href="' + p.url + '" target="_blank"><img class="fb-post-image" src="' + p.image + '" alt="" loading="lazy"></a>' : '') +
+            '<div class="fb-post-stats">' + stats + '</div>' +
+          '</article>';
+        }).join('');
+      } else { feedEmpty('fb-page-feed'); }
+    })
+    .catch(function () { feedFail('fb-page-feed'); });
 
   /* ---- Reddit community feed: r/FanEditFanClub (via Reddit API, refreshed every 30 min) ---- */
   fetch(FEEDS_BASE + "/reddit-community.json")
