@@ -57,9 +57,11 @@
     flex: 1 1 260px;
   }
 
-  /* Reddit row: 2 cards share the row equally */
+  /* Reddit row: 2 cards share the row equally (base .widget-row .rss-container
+     caps at 450px, so it must be reset here) */
   .reddit-row .rss-container {
     flex: 1 1 300px;
+    max-width: none;
   }
 
   /* ===== X Profile card / Facebook Group card (shared styles) ===== */
