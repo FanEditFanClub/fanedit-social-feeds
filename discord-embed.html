@@ -89,6 +89,14 @@
       width: calc(100% - 4px);
     }
   }
+  /* The Discord block's section renders ~16px narrower than the feeds
+     block's section, leaving this 1172px box 8px left of the 1172px card
+     row. Nudge it right so both edges line up exactly. */
+  @media (min-width: 481px) {
+    .discord-merge {
+      transform: translateX(8px);
+    }
+  }
 </style>
 </head>
 <body>
