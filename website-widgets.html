@@ -380,6 +380,23 @@
     border-color: #3d444d !important;
   }
 
+  /* Merge PayPal's own header into one line: "Fan Edit Fan Club — Donation".
+     The h3 and the form are siblings; inline them so the label flows right
+     after the business name, with the amount field dropping below. */
+  #paypal-container-6N34NNU436TT4 #form-container-6N34NNU436TT4 > h3#desc-label,
+  #paypal-container-6N34NNU436TT4 #form-container-6N34NNU436TT4 > form {
+    display: inline !important;
+  }
+  #paypal-container-6N34NNU436TT4 #desc-label::after {
+    content: "\00a0\2014\00a0";
+  }
+  #paypal-container-6N34NNU436TT4 label.input-label[for="amount"] {
+    display: inline !important;
+    font-size: 1.17em !important;
+    font-weight: 700 !important;
+    margin-bottom: 0 !important;
+  }
+
   /* ===== Social icon grid ===== */
   .social-widget {
     background: transparent;
