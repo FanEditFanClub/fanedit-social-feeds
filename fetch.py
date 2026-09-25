@@ -2,27 +2,28 @@
 """Build public JSON feeds for the Fan Edit Fan Club website widgets.
 
 - x-posts.json: latest sent X posts, via Buffer's GraphQL API.
-- reddit-community.json: latest r/FanEditFanClub posts, via Reddit app-only OAuth.
-- reddit-multireddit.json: latest posts from the club's multireddit feed.
+- reddit-community.json: latest r/FanEditFanClub posts, via Reddit's public RSS.
+- reddit-multireddit.json: latest posts from the club's multireddit feed, via RSS.
 
 Runs on GitHub Actions; served to the site via GitHub Pages. 100% free.
-Required env: BUFFER_TOKEN, REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET.
+Reddit's RSS endpoints serve fine without auth as long as the request
+carries a descriptive User-Agent; generic/no UA gets 403'd.
+Required env: BUFFER_TOKEN (Reddit needs no credentials).
 """
 from __future__ import annotations
 
-import base64
 import json
 import os
 import sys
+import time
 import urllib.parse
 import urllib.request
 import urllib.error
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 UA = "fanedit-social-feeds/1.0 (by /u/faneditfanclub)"
 BUFFER_TOKEN = os.environ.get("BUFFER_TOKEN", "")
-REDDIT_CLIENT_ID = os.environ.get("REDDIT_CLIENT_ID", "")
-REDDIT_CLIENT_SECRET = os.environ.get("REDDIT_CLIENT_SECRET", "")
 BUFFER_X_CHANNEL_ID = "6a63a3d9e2638b94d7ca2793"
 BUFFER_ORG_ID = "6a63a35db088b578e206e7b2"
 LIMIT = 10
@@ -76,38 +77,29 @@ def fetch_x_posts():
     }
 
 
-def reddit_token():
-    if not (REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET):
-        print("Reddit credentials missing, skipping Reddit feeds.")
-        return None
-    basic = base64.b64encode(f"{REDDIT_CLIENT_ID}:{REDDIT_CLIENT_SECRET}".encode()).decode()
-    res = http_json(
-        "POST", "https://www.reddit.com/api/v1/access_token",
-        {"Authorization": f"Basic {basic}"},
-        body={"grant_type": "client_credentials"},
-    )
-    return (res or {}).get("access_token")
-
-
-def fetch_reddit_listing(token, path):
-    res = http_json(
-        "GET", f"https://oauth.reddit.com{path}?limit={LIMIT}&raw_json=1",
-        {"Authorization": f"Bearer {token}"},
-    )
-    if not res:
-        return None
-    posts = []
-    for child in res.get("data", {}).get("children", []):
-        d = child["data"]
-        posts.append({
-            "title": d.get("title", ""),
-            "url": "https://www.reddit.com" + d.get("permalink", ""),
-            "created_utc": d.get("created_utc"),
-            "author": d.get("author", ""),
-            "num_comments": d.get("num_comments", 0),
-            "score": d.get("score", 0),
-        })
-    return {"updated_at": datetime.now(timezone.utc).isoformat(), "posts": posts}
+def fetch_reddit_rss(url, attempts=4):
+    """Fetch a Reddit RSS/Atom feed. Retries with backoff; None if all fail."""
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    for i in range(attempts):
+        try:
+            req = urllib.request.Request(url, method="GET")
+            req.add_header("User-Agent", UA)
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                root = ET.fromstring(resp.read().decode())
+            posts = []
+            for entry in root.findall("a:entry", ns)[:LIMIT]:
+                link = entry.find("a:link", ns)
+                posts.append({
+                    "title": (entry.find("a:title", ns).text or "").strip(),
+                    "url": link.get("href") if link is not None else "",
+                    "published": entry.find("a:updated", ns).text,
+                    "author": (entry.find("a:author/a:name", ns).text or "").strip(),
+                })
+            return {"updated_at": datetime.now(timezone.utc).isoformat(), "posts": posts}
+        except Exception as e:  # noqa: BLE001 - any failure -> retry/skip
+            print(f"RSS attempt {i + 1}/{attempts} failed for {url}: {e}")
+            time.sleep(2 * (i + 1))
+    return None
 
 
 def write(name, payload):
@@ -122,14 +114,10 @@ def write(name, payload):
 def main():
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
     write("x-posts.json", fetch_x_posts())
-    token = reddit_token()
-    if token:
-        write("reddit-community.json",
-              fetch_reddit_listing(token, "/r/FanEditFanClub/new"))
-        write("reddit-multireddit.json",
-              fetch_reddit_listing(token, "/user/faneditfanclub/m/fan_edit_fan_club_reddit_feed/new"))
-    else:
-        print("reddit-*.json: no token, leaving existing files.")
+    write("reddit-community.json",
+          fetch_reddit_rss("https://www.reddit.com/r/FanEditFanClub/new/.rss"))
+    write("reddit-multireddit.json",
+          fetch_reddit_rss("https://www.reddit.com/user/faneditfanclub/m/fan_edit_fan_club_reddit_feed/new/.rss"))
 
 
 if __name__ == "__main__":
