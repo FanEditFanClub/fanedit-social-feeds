@@ -2,13 +2,16 @@
 """Build public JSON feeds for the Fan Edit Fan Club website widgets.
 
 - x-posts.json: latest sent X posts, via Buffer's GraphQL API.
+- fb-page.json: latest Fan Edit Fan Club Facebook Page posts, via the Graph API.
 - reddit-community.json: latest r/FanEditFanClub posts, via Reddit's public RSS.
 - reddit-multireddit.json: latest posts from the club's multireddit feed, via RSS.
 
 Runs on GitHub Actions; served to the site via GitHub Pages. 100% free.
 Reddit's RSS endpoints serve fine without auth as long as the request
 carries a descriptive User-Agent; generic/no UA gets 403'd.
-Required env: BUFFER_TOKEN (Reddit needs no credentials).
+Required env: BUFFER_TOKEN, FACEBOOK_PAGE_TOKEN (Reddit needs no credentials).
+The page token is sent via Authorization header, never in the URL, and is
+never printed to logs.
 """
 from __future__ import annotations
 
@@ -26,6 +29,8 @@ UA = "fanedit-social-feeds/1.0 (by /u/faneditfanclub)"
 BUFFER_TOKEN = os.environ.get("BUFFER_TOKEN", "")
 BUFFER_X_CHANNEL_ID = "6a63a3d9e2638b94d7ca2793"
 BUFFER_ORG_ID = "6a63a35db088b578e206e7b2"
+FB_PAGE_ID = "1240699955783812"
+FB_PAGE_TOKEN = os.environ.get("FACEBOOK_PAGE_TOKEN", "")
 LIMIT = 10
 
 
@@ -77,6 +82,69 @@ def fetch_x_posts():
     }
 
 
+def fb_api(path, params):
+    """GET the Facebook Graph API with the page token in the Authorization
+    header (never in the URL, never logged)."""
+    url = "https://graph.facebook.com/v24.0/" + path + "?" + urllib.parse.urlencode(params)
+    req = urllib.request.Request(url, method="GET")
+    req.add_header("User-Agent", UA)
+    req.add_header("Authorization", f"Bearer {FB_PAGE_TOKEN}")
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            return json.loads(resp.read().decode())
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode(errors="replace")[:300]
+        print(f"FB Graph HTTP {e.code} on {path}: {detail}")
+        return None
+
+
+def fetch_fb_page():
+    if not FB_PAGE_TOKEN:
+        print("FACEBOOK_PAGE_TOKEN missing, skipping FB Page feed.")
+        return None
+    page = fb_api(FB_PAGE_ID, {"fields": "name,picture{url}"})
+    res = fb_api(f"{FB_PAGE_ID}/posts", {
+        "fields": "id,message,story,full_picture,created_time,permalink_url,"
+                  "shares,reactions.summary(true).limit(0),comments.summary(true).limit(0)",
+        "limit": 20,
+    })
+    if not res or "data" not in res:
+        print("FB posts error:", json.dumps(res)[:300] if res else "no response")
+        return None
+    posts = []
+    for p in res["data"]:
+        text = (p.get("message") or "").strip()
+        img = p.get("full_picture") or ""
+        if not text and not img:
+            continue
+        posts.append({
+            "id": p["id"],
+            "text": text,
+            "image": img,
+            "url": p.get("permalink_url") or "",
+            "created_at": p.get("created_time"),
+            "likes": ((p.get("reactions") or {}).get("summary") or {}).get("total_count", 0),
+            "comments": ((p.get("comments") or {}).get("summary") or {}).get("total_count", 0),
+            "shares": (p.get("shares") or {}).get("count", 0),
+        })
+        if len(posts) >= LIMIT:
+            break
+    pic = ""
+    try:
+        pic = page["picture"]["data"]["url"]
+    except (TypeError, KeyError):
+        pass
+    return {
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "profile": {
+            "name": (page or {}).get("name", "Fan Edit Fan Club"),
+            "handle": "FanEditFanClub",
+            "picture": pic,
+        },
+        "posts": posts,
+    }
+
+
 def fetch_reddit_rss(url, attempts=4):
     """Fetch a Reddit RSS/Atom feed. Retries with backoff; None if all fail."""
     ns = {"a": "http://www.w3.org/2005/Atom"}
@@ -114,6 +182,7 @@ def write(name, payload):
 def main():
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
     write("x-posts.json", fetch_x_posts())
+    write("fb-page.json", fetch_fb_page())
     write("reddit-community.json",
           fetch_reddit_rss("https://www.reddit.com/r/FanEditFanClub/new/.rss"))
     write("reddit-multireddit.json",
