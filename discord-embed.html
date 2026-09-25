@@ -15,15 +15,16 @@
     overflow-x: clip;
   }
   /* Gray merged container: single widget look. max-width + margin center it
-     so its edges align exactly with the social feeds block below (page-wrap
-     is also 1180px centered). Without the cap, the gray background paints the
-     full iframe width and looks wider than the cards underneath. */
+     so its edges align exactly with the social feeds block below. The feeds
+     page-wrap is 1180px but carries 4px horizontal padding, so its visible
+     cards sit at 1172px — the gray box caps at 1172px to match the cards'
+     edges exactly (not the wrap's). */
   .discord-merge {
     background: #313338;
     border-radius: 12px;
     padding: 12px;
     width: 100%;
-    max-width: 1180px;
+    max-width: 1172px;
     margin: 0 auto;
   }
   /* Single container controlling how the two panels relate to each other
@@ -79,6 +80,13 @@
     }
     .discord-panel {
       height: 420px;
+    }
+  }
+  /* Mirror the feeds block's phone padding (page-wrap goes to 2px sides
+     under 480px) so the gray edges stay flush with the cards there too. */
+  @media (max-width: 480px) {
+    .discord-merge {
+      width: calc(100% - 4px);
     }
   }
 </style>
