@@ -57,7 +57,10 @@
     min-width: 0;
   }
   /* Below this width, side-by-side gets too cramped for either panel to
-     read well — stack them instead of letting them squeeze/overlap. */
+     read well — stack them instead of letting them squeeze/overlap.
+     NOTE: the desktop `flex` shorthands set a flex-basis, which would
+     override `height` on the column axis, so flex is reset here and height
+     takes control of the panel size. */
   @media (max-width: 900px) {
     .discord-combo {
       flex-direction: column;
@@ -65,21 +68,25 @@
     }
     .discord-panel {
       order: 1;
+      flex: none;
+      width: 100%;
+      max-width: 560px;
+      height: 480px;
     }
     .widgetbot-container {
       order: 2;
-    }
-    .discord-panel,
-    .widgetbot-container {
-      max-width: 500px;
+      flex: none;
+      width: 100%;
+      max-width: 560px;
+      height: 560px;
     }
   }
   @media (max-width: 600px) {
-    .widgetbot-container {
-      height: 450px; /* Reduces height so it fits better on phone screens */
-    }
     .discord-panel {
-      height: 420px;
+      height: 400px;
+    }
+    .widgetbot-container {
+      height: 500px;
     }
   }
   /* Mirror the feeds block's phone padding (page-wrap goes to 2px sides
