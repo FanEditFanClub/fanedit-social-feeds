@@ -89,6 +89,15 @@
       width: calc(100% - 4px);
     }
   }
+  /* Tablet widths (481-1171px): no width cap binds, so the gray spans the
+     iframe; the feeds' card row starts 4px in (page-wrap padding), so
+     inset the gray to match its left edge exactly. */
+  @media (min-width: 481px) and (max-width: 1171px) {
+    .discord-merge {
+      width: calc(100% - 4px);
+      margin: 0 0 0 4px;
+    }
+  }
   /* The Discord block's section renders ~16px narrower than the feeds
      block's section (both left-aligned). The 1172px cap binds exactly when
      this iframe is >=1172px wide: the gray then centers 8px left of the
