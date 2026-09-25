@@ -1,0 +1,6 @@
+{
+ "updated_at": "2026-09-25T19:51:46.077823+00:00",
+ "error": "FB Graph HTTP 400 on 1240699955783812/posts: {\"error\":{\"message\":\"(#10) This endpoint requires the 'pages_read_user_content' permission or the 'Page Public Content Access' feature. Refer to https:\\/\\/developers.facebook.com\\/docs\\/apps\\/review\\/login-permissions#manage-pages and https:\\/\\/developers.facebook.com\\/docs\\/apps\\/review\\/feature#re",
+ "token_present": true,
+ "token_len": 205
+}
