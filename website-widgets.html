@@ -12,6 +12,7 @@
 
   html, body {
     width: 100%;
+    overflow-x: clip;
     background-color: transparent;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     color: #e7e9ea;
@@ -88,7 +89,7 @@
     flex-shrink: 0;
   }
   .text-group { flex-shrink: 0; }
-  .fb-group-scroll { max-height: 300px; overflow-y: auto; margin: 10px 0; border-radius: 8px; }
+  .fb-group-scroll { max-height: 300px; overflow-y: auto; overflow-x: hidden; margin: 10px 0; border-radius: 8px; }
   .title { color: #ffffff; margin: 0 0 2px 0; font-size: 17px; font-weight: 800; letter-spacing: -0.3px; }
   .handle { color: #71767b; font-size: 13px; display: block; }
   .description {
