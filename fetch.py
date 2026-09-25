@@ -109,7 +109,7 @@ def fetch_fb_page():
         print("FACEBOOK_PAGE_TOKEN missing, skipping FB Page feed.")
         return None
     page = fb_api(FB_PAGE_ID, {"fields": "name,picture{url}"})
-    res = fb_api(f"{FB_PAGE_ID}/posts", {
+    res = fb_api(f"{FB_PAGE_ID}/promotable_posts", {
         "fields": "id,message,story,full_picture,created_time,permalink_url,"
                   "shares,reactions.summary(true).limit(0),comments.summary(true).limit(0)",
         "limit": 20,
