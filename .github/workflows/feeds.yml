@@ -22,6 +22,7 @@ jobs:
       - name: Fetch feeds
         env:
           BUFFER_TOKEN: ${{ secrets.BUFFER_TOKEN }}
+          FACEBOOK_PAGE_TOKEN: ${{ secrets.FACEBOOK_PAGE_TOKEN }}
         run: python fetch.py
       - name: Commit updates
         run: |
