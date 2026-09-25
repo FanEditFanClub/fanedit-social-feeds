@@ -146,6 +146,7 @@
     margin-bottom: 12px;
     background-color: #000000;
     text-align: left;
+    min-width: 0;
     transition: background-color 0.2s ease, border-color 0.2s ease;
   }
   .x-post:hover { background-color: #0a0b0d; border-color: #3e4247; }
@@ -160,7 +161,7 @@
   .x-post-name { color: #ffffff; font-weight: 700; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .x-post-date { color: #71767b; font-size: 12.5px; text-decoration: none; }
   .x-post-date:hover { text-decoration: underline; }
-  .x-post-body { color: #e7e9ea; font-size: 14px; line-height: 1.45; overflow-wrap: break-word; }
+  .x-post-body { color: #e7e9ea; font-size: 14px; line-height: 1.45; overflow-wrap: anywhere; }
   .x-post-body a { color: #1d9bf0; text-decoration: none; }
   .x-post-body a:hover { text-decoration: underline; }
   .x-post-actions { display: flex; align-items: center; justify-content: space-between; max-width: 300px; margin-top: 10px; }
@@ -199,6 +200,7 @@
     margin-bottom: 12px;
     background-color: #000000;
     text-align: left;
+    min-width: 0;
     transition: background-color 0.2s ease, border-color 0.2s ease;
   }
   .fb-post:hover { background-color: #0a0b0d; border-color: #3e4247; }
@@ -225,6 +227,7 @@
     padding: 16px;
     width: 100%;
     max-width: 450px;
+    min-width: 0;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -285,6 +288,7 @@
   .rss-feed-list {
     display: flex;
     flex-direction: column;
+    min-width: 0;
   }
   .rss-item {
     padding: 10px 0;
