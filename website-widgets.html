@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, body {
+    width: 100%;
+    background-color: transparent;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #e7e9ea;
+  }
+
+  /* Single container that controls ALL vertical spacing between rows/widgets. */
+  .page-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 930px;
+    margin: 0 auto;
+    gap: 20px;
+    padding: 4px;
+  }
+
+  @media screen and (max-width: 480px) {
+    .page-wrap { gap: 16px; padding: 4px 2px; }
+  }
+
+  /* Multi-column row layout (used for Top Row & Reddit Row) */
+  .widget-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    gap: 16px;
+    width: 100%;
+  }
+
+  .widget-row .widget-container,
+  .widget-row .fb-outer,
+  .widget-row .rss-container {
+    flex: 1 1 400px;
+    max-width: 450px;
+    width: 100%;
+  }
+
+  .top-row .widget-container,
+  .top-row .fb-outer,
+  .top-row .rss-container {
+    flex: 1 1 260px;
+    max-width: 320px;
+  }
+
+  /* ===== X Profile card / Facebook Group card (shared styles) ===== */
+  .widget-container {
+    background-color: #000000;
+    padding: 16px;
+    border: 1px solid #2f3336;
+    border-radius: 16px;
+    width: 100%;
+    max-width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  .profile-pic {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background-image: url('https://i.imgur.com/xGyaOEB.jpeg');
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #2f3336;
+    flex-shrink: 0;
+  }
+  .text-group { flex-shrink: 0; }
+  .title { color: #ffffff; margin: 0 0 2px 0; font-size: 17px; font-weight: 800; letter-spacing: -0.3px; }
+  .handle { color: #71767b; font-size: 13px; display: block; }
+  .description {
+    color: #e7e9ea;
+    margin: 0;
+    font-size: 13.5px;
+    line-height: 1.35;
+    text-align: center;
+  }
+  .action-btn {
+    display: inline-block;
+    width: 100%;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 14px;
+    text-decoration: none;
+    flex-shrink: 0;
+    transition: opacity 0.2s ease;
+    margin-top: auto;
+  }
+  .action-btn:hover { opacity: 0.9; }
+
+  /* ===== X feed card extras ===== */
+  .x-profile-pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url('https://i.imgur.com/xGyaOEB.jpeg');
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #2f3336;
+    flex-shrink: 0;
+  }
+  .x-feed-scroll {
+    max-height: 380px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scrollbar-width: thin;
+    scrollbar-color: #2f3336 transparent;
+  }
+  .x-feed-scroll::-webkit-scrollbar { width: 5px; }
+  .x-feed-scroll::-webkit-scrollbar-track { background: transparent; }
+  .x-feed-scroll::-webkit-scrollbar-thumb { background-color: #2f3336; border-radius: 10px; }
+
+  /* ===== Facebook Page embed card ===== */
+  .fb-outer {
+    background-color: #000000;
+    padding: 12px;
+    border: 1px solid #2f3336;
+    border-radius: 16px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+  }
+  .fb-card-wrapper {
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+    display: block;
+    width: 100%;
+    max-width: 340px;
+    height: 500px;
+    margin: 0 auto;
+  }
+  .fb-dark-timeline {
+    filter: invert(1) hue-rotate(180deg);
+    width: 100%;
+    height: 100%;
+    border: none;
+    overflow: hidden;
+  }
+  .fb-full-header-shield {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 72px;
+    background-color: #000000;
+    z-index: 9999;
+    pointer-events: none;
+    display: flex;
+    align-items: center;
+    padding-left: 12px;
+    border-bottom: 1px solid #2f3336;
+  }
+  .fb-logo-graphic {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background-image: url('https://i.imgur.com/xGyaOEB.jpeg');
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #2f3336;
+    margin-right: 12px;
+    flex-shrink: 0;
+  }
+  .fb-header-text-lines {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+  }
+  .fb-title-name { color: #e7e9ea; font-weight: bold; font-size: 14px; line-height: 1.3; }
+  .fb-meta-followers { color: #71767b; font-size: 12px; margin-top: 2px; }
+
+  @media screen and (max-width: 480px) {
+    .fb-card-wrapper { height: 440px; }
+  }
+
+  /* ===== Reddit RSS cards (shared) ===== */
+  .rss-container {
+    background-color: #000000;
+    border: 1px solid #2f3336;
+    border-radius: 16px;
+    padding: 16px;
+    width: 100%;
+    max-width: 450px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .rss-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #2f3336;
+    gap: 12px;
+  }
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .reddit-icon {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+    fill: #ff4500;
+  }
+  .rss-title-group {
+    display: flex;
+    flex-direction: column;
+  }
+  .rss-title {
+    font-size: 15px;
+    font-weight: 800;
+    color: #ffffff;
+    letter-spacing: -0.3px;
+    line-height: 1.25;
+    margin: 0;
+  }
+  .rss-sub {
+    font-size: 12px;
+    color: #ff4500;
+    font-weight: 600;
+    display: block;
+    margin-top: 2px;
+  }
+  .feed-btn {
+    background-color: #ff4500;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 6px 14px;
+    border-radius: 20px;
+    white-space: nowrap;
+    transition: opacity 0.2s ease;
+    flex-shrink: 0;
+  }
+  .feed-btn:hover { opacity: 0.9; }
+
+  .rss-feed-list {
+    display: flex;
+    flex-direction: column;
+  }
+  .rss-item {
+    padding: 10px 0;
+    border-bottom: 1px solid #16181c;
+  }
+  .rss-item:first-child { padding-top: 0; }
+  .rss-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .rss-item-title {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    display: block;
+    line-height: 1.35;
+  }
+  .rss-item-title:hover { text-decoration: underline; color: #ff4500; }
+  .rss-meta { font-size: 11px; color: #71767b; margin-top: 4px; }
+
+  @media screen and (max-width: 480px) {
+    .widget-row { gap: 16px; padding: 0 4px; }
+    .rss-container { padding: 14px 12px; border-radius: 12px; }
+    .rss-title { font-size: 14px; }
+    .rss-sub { font-size: 11.5px; }
+    .reddit-icon { width: 24px; height: 24px; }
+    .rss-item { padding: 8px 0; }
+    .rss-item-title { font-size: 13px; }
+    .rss-meta { font-size: 10.5px; }
+    .feed-btn { font-size: 11px; padding: 5px 10px; }
+  }
+
+  /* ===== PayPal support card ===== */
+  .paypal-card {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 16px;
+    padding: 16px;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .paypal-title { color: #ffffff; font-size: 1.1rem; font-weight: 700; line-height: 1.2; margin-bottom: 4px; width: 100%; text-align: center; }
+  .paypal-subtitle { color: #c9d1d9; font-size: 0.8rem; line-height: 1.3; margin-bottom: 12px; width: 100%; text-align: center; }
+  #paypal-container-6N34NNU436TT4 {
+    width: 100%;
+    min-height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  #paypal-container-6N34NNU436TT4 * {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+  }
+  #paypal-container-6N34NNU436TT4 > div { width: 100% !important; }
+
+  /* ===== Social icon grid ===== */
+  .social-widget {
+    background: transparent;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .scroll-container {
+    width: 100%;
+    max-height: 290px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 4px;
+    scrollbar-width: thin;
+    scrollbar-color: #30363d transparent;
+    scrollbar-gutter: stable;
+  }
+  .scroll-container::-webkit-scrollbar { width: 5px; }
+  .scroll-container::-webkit-scrollbar-track { background: transparent; }
+  .scroll-container::-webkit-scrollbar-thumb { background-color: #30363d; border-radius: 10px; }
+  .social-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 10px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 4px 0;
+  }
+  .social-icon-btn {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: none;
+    padding: 0;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+    text-decoration: none;
+    z-index: 1;
+  }
+  .social-icon-btn:hover { transform: translateY(-2px); opacity: 0.9; z-index: 999; }
+  .social-icon { width: 38px; height: 38px; border-radius: 6px; object-fit: contain; }
+  .icon-light-bg { background-color: #ffffff; padding: 2px; border-radius: 6px; }
+  .social-icon-btn::after {
+    content: attr(data-label);
+    position: absolute;
+    bottom: -26px;
+    left: 50%;
+    transform: translateX(-50%) translateY(4px);
+    background-color: #1a1d21;
+    color: #ffffff;
+    font-size: 10px;
+    font-weight: 500;
+    padding: 3px 6px;
+    border-radius: 4px;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+    border: 1px solid #30363d;
+    z-index: 1000;
+  }
+  .social-icon-btn::before {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 4px;
+    border-style: solid;
+    border-color: transparent transparent #1a1d21 transparent;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease;
+    z-index: 1000;
+  }
+  .social-icon-btn:hover::after,
+  .social-icon-btn:hover::before { opacity: 1; visibility: visible; transform: translateX(-50%) translateY(0); }
+
+  @media (min-width: 768px) {
+    .social-grid { gap: 12px 14px; }
+    .social-icon { width: 44px; height: 44px; border-radius: 8px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="page-wrap">
+
+  <!-- Widget 1, 2, 3: Top Row (X Feed, Facebook Page, Facebook Group) -->
+  <div class="widget-row top-row">
+    <div class="rss-container">
+      <div class="rss-header">
+        <div class="header-left">
+          <div class="x-profile-pic"></div>
+          <div class="rss-title-group">
+            <h3 class="rss-title">Fan Edit Fan Club</h3>
+            <span class="rss-sub" style="color:#71767b;">@FanEditFanClub on X</span>
+          </div>
+        </div>
+        <a href="https://x.com/FanEditFanClub" target="_blank" class="feed-btn" style="background-color:#ffffff;color:#000000;">Follow</a>
+      </div>
+      <div class="rss-feed-list x-feed-scroll" id="x-feed">
+        <div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">Loading posts...</div>
+      </div>
+      <a href="https://x.com/FanEditFanClub" target="_blank" class="action-btn">Open X Profile</a>
+    </div>
+
+    <div class="fb-outer">
+      <div class="fb-card-wrapper">
+        <div class="fb-full-header-shield">
+          <div class="fb-logo-graphic"></div>
+          <div class="fb-header-text-lines">
+            <div class="fb-title-name">Fan Edit Fan Club</div>
+            <div class="fb-meta-followers">2 followers</div>
+          </div>
+        </div>
+        <iframe class="fb-dark-timeline"
+                src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFanEditFanClub&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+                scrolling="no"
+                frameborder="0"
+                allowfullscreen="true"
+                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+        </iframe>
+      </div>
+    </div>
+
+    <div class="widget-container">
+      <div class="profile-pic"></div>
+      <div class="text-group">
+        <h3 class="title">Fan Edit Fan Club</h3>
+        <span class="handle">@FanEditFanClub</span>
+      </div>
+      <p class="description">We're a Community for Fans &amp; Editors Dedicated to The Art of The Fan Edit.</p>
+      <a href="https://www.facebook.com/groups/faneditfanclub" target="_blank" class="action-btn">Open Facebook Group</a>
+    </div>
+  </div>
+
+  <!-- Widget 4 & 5: Reddit Row (Community Feed & Custom RSS Feed side by side) -->
+  <div class="widget-row">
+
+    <!-- Widget 4: r/FanEditFanClub Community Feed -->
+    <div class="rss-container">
+      <div class="rss-header">
+        <div class="header-left">
+          <svg class="reddit-icon" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+            <path d="M16.67 10a1.46 1.46 0 0 0-2.47-1 7.12 7.12 0 0 0-3.85-1.23l.65-3.08 2.13.45a1.08 1.08 0 1 0 1.13-1 1.08 1.08 0 0 0-1.07.82l-2.37-.5a.18.18 0 0 0-.21.14l-.74 3.47a7.14 7.14 0 0 0-3.86 1.23 1.46 1.46 0 1 0-1.61 2.39 2.87 2.87 0 0 0 0 .44c0 2.22 2.58 4 5.77 4s5.77-1.8 5.77-4a2.87 2.87 0 0 0 0-.44 1.46 1.46 0 0 0 .74-1.7zm-9.33 1.2a1 1 0 1 1 1 1 1 1 0 0 1-1-1zm5.2 2.45a3.43 3.43 0 0 1-2.54.77 3.43 3.43 0 0 1-2.54-.77.18.18 0 0 1 .25-.26 3.08 3.08 0 0 0 2.29.65 3.08 3.08 0 0 0 2.29-.65.18.18 0 0 1 .25.26zm-.37-1.45a1 1 0 1 1 1-1 1 1 0 0 1-1 1z"/>
+          </svg>
+          <div class="rss-title-group">
+            <h3 class="rss-title">r/FanEditFanClub</h3>
+            <span class="rss-sub">Latest Discussions</span>
+          </div>
+        </div>
+        <a href="https://www.reddit.com/r/FanEditFanClub" target="_blank" class="feed-btn">Open Community</a>
+      </div>
+      <div class="rss-feed-list" id="community-rss-feed">
+        <div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">Loading posts...</div>
+      </div>
+    </div>
+
+    <!-- Widget 5: Fan Edit Fan Club Custom RSS Feed -->
+    <div class="rss-container">
+      <div class="rss-header">
+        <div class="header-left">
+          <svg class="reddit-icon" viewBox="0 0 24 24">
+            <path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.5 1.207-.5.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.06 1.61,0 .034.01.067.01.102 0 3.18-3.684 5.76-8.23 5.76s-8.23-2.58-8.23-5.76c0-.035.01-.068.01-.102a1.748 1.748 0 0 1-1.06-1.61c0-.968.786-1.754 1.754-1.754.477 0 .898.191 1.206.5 1.196-.856 2.852-1.418 4.676-1.489l.808-3.79a.375.375 0 0 1 .446-.292l3.078.648c.25-.436.72-.731 1.264-.731zm-9.356 7.625a1.285 1.285 0 1 0 0 2.57 1.285 1.285 0 0 0 0-2.57zm7.45 0a1.285 1.285 0 1 0 0 2.57 1.285 1.285 0 0 0 0-2.57zm-3.745 3.328c-1.393 0-2.535.534-3.15 1.29-.074.09-.01.22.106.23.493.045 1.05.08 3.044.08 1.995 0 2.551-.035 3.045-.08.116-.01.18-.14.106-.23-.615-.756-1.757-1.29-3.151-1.29z"/>
+          </svg>
+          <div class="rss-title-group">
+            <h3 class="rss-title">Fan Edit Fan Club Reddit Feed</h3>
+          </div>
+        </div>
+        <a href="https://www.reddit.com/user/faneditfanclub/m/fan_edit_fan_club_reddit_feed/new" target="_blank" class="feed-btn">Open Feed</a>
+      </div>
+      <div class="rss-feed-list" id="custom-rss-feed">
+        <div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">Loading posts...</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Widget 6: PayPal Support Card -->
+  <div class="paypal-card">
+    <div class="paypal-title">Support Fan Edit Fan Club</div>
+    <div class="paypal-subtitle">Safe &amp; Secure Payment via PayPal or Venmo</div>
+    <div id="paypal-container-6N34NNU436TT4"></div>
+    <script src="https://www.paypal.com/sdk/js?client-id=BAAOf94djAa5CPNEqov7_VKaz7cLdghzLv-FPW4D7z_hdQO3rHzp9pDbwfzzdkO3T7b4Pk1lNIITEstuss&components=hosted-buttons&enable-funding=venmo&currency=USD"></script>
+    <script>
+      paypal.HostedButtons({
+        hostedButtonId: "6N34NNU436TT4",
+        style: {
+          layout: 'vertical',
+          color: 'gold',
+          shape: 'rect',
+          label: 'paypal',
+          tagline: false
+        }
+      }).render("#paypal-container-6N34NNU436TT4");
+    </script>
+  </div>
+
+  <!-- Widget 7: Full Social Link Icon Grid -->
+  <div class="social-widget">
+    <div class="scroll-container">
+      <div class="social-grid" id="iconGrid">
+        <!-- Website & Linktree -->
+        <a href="https://sites.google.com/u/0/d/1cpg60SU-PoXVWUHRqXJPIpag2vu8CmAF/p/1YBCKHYTh-wrjxPQduwGGqspRRnrXptrQ/preview?authuser=02" target="_blank" class="social-icon-btn" data-label="Website"><img class="social-icon" src="https://i.imgur.com/9ONFKFd.png" alt="Website"></a>
+        <a href="https://linktr.ee/faneditfanclub" target="_blank" class="social-icon-btn" data-label="Linktree"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=linktr.ee&sz=128" alt="Linktree"></a>
+        <a href="https://gravatar.com/scrumptiously4cebb12f65" target="_blank" class="social-icon-btn" data-label="Gravatar"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=gravatar.com&sz=128" alt="Gravatar"></a>
+
+        <!-- Payments & Support -->
+        <a href="https://www.paypal.biz/faneditfanclub" target="_blank" class="social-icon-btn" data-label="PayPal"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=paypal.com&sz=128" alt="PayPal"></a>
+        <a href="https://venmo.com/u/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="Venmo"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=venmo.com&sz=128" alt="Venmo"></a>
+        <a href="https://www.patreon.com/cw/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="Patreon"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=patreon.com&sz=128" alt="Patreon"></a>
+
+        <!-- Community & Chat -->
+        <a href="https://discord.com/users/1529915104659898541" target="_blank" class="social-icon-btn" data-label="Discord Profile"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=discord.com&sz=128" alt="Discord Profile"></a>
+        <a href="https://discord.gg/d8A9xHTey7" target="_blank" class="social-icon-btn" data-label="Discord Server"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=discord.com&sz=128" alt="Discord Server"></a>
+
+        <!-- X (Twitter) -->
+        <a href="https://x.com/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="X Profile"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=x.com&sz=128" alt="X Profile"></a>
+        <a href="https://x.com/i/chat/group_join/g2084666734565285936/d014sDtior" target="_blank" class="social-icon-btn" data-label="X Group Chat"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=x.com&sz=128" alt="X Group Chat"></a>
+        <a href="https://x.com/i/lists/2072540475530084770" target="_blank" class="social-icon-btn" data-label="Fan Editors X List"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=x.com&sz=128" alt="Fan Editors X List"></a>
+
+        <!-- Microblogging & Socials -->
+        <a href="https://www.threads.net/@faneditfanclub" target="_blank" class="social-icon-btn" data-label="Threads"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=threads.net&sz=128" alt="Threads"></a>
+        <a href="https://bsky.app/profile/faneditfanclub.bsky.social" target="_blank" class="social-icon-btn" data-label="Bluesky"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=bsky.app&sz=128" alt="Bluesky"></a>
+        <a href="https://bsky.app/profile/faneditfanclub.bsky.social/lists/3mrshgzpzgk2s" target="_blank" class="social-icon-btn" data-label="Fan Editors Bluesky List"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=bsky.app&sz=128" alt="Bluesky"></a>
+        <a href="https://truthsocial.com/@FanEditFanClub" target="_blank" class="social-icon-btn" data-label="Truth Social"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=truthsocial.com&sz=128" alt="Truth Social"></a>
+        <a href="https://mastodon.social/@FanEditFanClub" target="_blank" class="social-icon-btn" data-label="mastodon"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=mastodon.social&sz=128" alt="mastodon"></a>
+
+        <!-- Facebook -->
+        <a href="https://www.facebook.com/FanEditFanClub/" target="_blank" class="social-icon-btn" data-label="Facebook Page"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=facebook.com&sz=128" alt="Facebook Page"></a>
+        <a href="https://www.facebook.com/groups/faneditfanclub" target="_blank" class="social-icon-btn" data-label="Facebook Group"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=facebook.com&sz=128" alt="Facebook Group"></a>
+
+        <!-- Media & Streaming -->
+        <a href="https://www.instagram.com/faneditfanclub/" target="_blank" class="social-icon-btn" data-label="Instagram"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=instagram.com&sz=128" alt="Instagram"></a>
+        <a href="https://www.tiktok.com/@faneditfanclub" target="_blank" class="social-icon-btn" data-label="TikTok"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=tiktok.com&sz=128" alt="TikTok"></a>
+        <a href="https://www.snapchat.com/@faneditfanclub" target="_blank" class="social-icon-btn" data-label="Snapchat"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=snapchat.com&sz=128" alt="Snapchat"></a>
+        <a href="https://www.youtube.com/@FanEditFanClub" target="_blank" class="social-icon-btn" data-label="YouTube"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=youtube.com&sz=128" alt="YouTube"></a>
+        <a href="https://vimeo.com/faneditfanclub" target="_blank" class="social-icon-btn" data-label="Vimeo"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=vimeo.com&sz=128" alt="Vimeo"></a>
+        <a href="https://rumble.com/user/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="Rumble"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=rumble.com&sz=128" alt="Rumble"></a>
+        <a href="https://www.twitch.tv/faneditfanclub" target="_blank" class="social-icon-btn" data-label="Twitch"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=twitch.tv&sz=128" alt="Twitch"></a>
+
+        <!-- Professional & Blogs -->
+        <a href="http://www.linkedin.com/in/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="LinkedIn"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=128" alt="LinkedIn"></a>
+        <a href="https://www.tumblr.com/faneditfanclub" target="_blank" class="social-icon-btn" data-label="tumblr"><img class="social-icon" src="https://i.imgur.com/FWAffkp.png" alt="tumblr"></a>
+        <a href="https://medium.com/@faneditfanclub" target="_blank" class="social-icon-btn" data-label="Medium"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=medium.com&sz=128" alt="Medium"></a>
+        <a href="https://profiles.wordpress.org/faneditfanclub/" target="_blank" class="social-icon-btn" data-label="WordPress"><img class="social-icon icon-light-bg" src="https://www.google.com/s2/favicons?domain=wordpress.org&sz=128" alt="WordPress"></a>
+        <a href="https://www.pinterest.com/FanEditFanClub/" target="_blank" class="social-icon-btn" data-label="Pinterest"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=128" alt="Pinterest"></a>
+
+        <!-- Communities & Forums -->
+        <a href="https://www.reddit.com/user/FanEditFanClub/" target="_blank" class="social-icon-btn" data-label="Reddit Profile"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=reddit.com&sz=128" alt="Reddit Profile"></a>
+        <a href="https://www.reddit.com/r/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="Reddit Community"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=reddit.com&sz=128" alt="Reddit Community"></a>
+        <a href="https://www.reddit.com/user/faneditfanclub/m/fan_edit_fan_club_reddit_feed/new" target="_blank" class="social-icon-btn" data-label="Fan Edit Fan Club Reddit Feed"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=reddit.com&sz=128" alt="Reddit Feed"></a>
+        <a href="https://faneditfanclub.eventbrite.com/" target="_blank" class="social-icon-btn" data-label="Eventbrite"><img class="social-icon" src="https://i.imgur.com/KFCsiTt.png" alt="Eventbrite"></a>
+        <a href="https://fanedit.org/forums/members/faneditfanclub.77013/" target="_blank" class="social-icon-btn" data-label="FANEDIT.ORG"><img class="social-icon" src="https://i.imgur.com/Is0jSb4.png" alt="FANEDIT.ORG"></a>
+        <a href="https://www.moviesremastered.com/user/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="MRDb"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=moviesremastered.com&sz=128" alt="MRDb"></a>
+        <a href="https://www.fanworx.org/users/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="FanWorx"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=fanworx.org&sz=128" alt="FanWorx"></a>
+        <a href="https://originaltrilogy.com/user/FanEditFanClub/id/114627" target="_blank" class="social-icon-btn" data-label="Original Trilogy"><img class="social-icon" src="https://i.imgur.com/2RP6GG3.png" alt="Original Trilogy"></a>
+        <a href="https://forums.thestarwarstrilogy.com/members/faneditfanclub.103634/" target="_blank" class="social-icon-btn" data-label="The Star Wars Trilogy"><img class="social-icon" src="https://i.imgur.com/9WKxknd.png" alt="The Star Wars Trilogy"></a>
+        <a href="https://rutracker.org/forum/profile.php?mode=viewprofile&u=55366254" target="_blank" class="social-icon-btn" data-label="rutracker"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=rutracker.org&sz=128" alt="rutracker"></a>
+
+        <!-- Databases & Entertainment -->
+        <a href="https://www.imdb.com/user/p.ieo7ewhuvte7xbevoomk3uoptm?ref_=ext_shr_lnk" target="_blank" class="social-icon-btn" data-label="IMDb"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=imdb.com&sz=128" alt="IMDb"></a>
+        <a href="https://www.themoviedb.org/u/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="TMDB"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=themoviedb.org&sz=128" alt="TMDB"></a>
+        <a href="https://letterboxd.com/FanEditFanClub/" target="_blank" class="social-icon-btn" data-label="Letterboxd"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=letterboxd.com&sz=128" alt="Letterboxd"></a>
+        <a href="https://www.serializd.com/user/FanEditFanClub/profile" target="_blank" class="social-icon-btn" data-label="serializd"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=serializd.com&sz=128" alt="serializd"></a>
+
+        <!-- Audio & Music -->
+        <a href="https://open.spotify.com/user/31tn37rwnwqbaxnjnoxoijh3qh7u" target="_blank" class="social-icon-btn" data-label="Spotify"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=spotify.com&sz=128" alt="Spotify"></a>
+        <a href="https://soundcloud.com/faneditfanclub" target="_blank" class="social-icon-btn" data-label="SoundCloud"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=soundcloud.com&sz=128" alt="SoundCloud"></a>
+        <a href="https://bandcamp.com/faneditfanclub" target="_blank" class="social-icon-btn" data-label="Bandcamp"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=bandcamp.com&sz=128" alt="Bandcamp"></a>
+
+        <!-- Portfolios, Art & Design -->
+        <a href="https://www.flickr.com/people/204825721@N02/" target="_blank" class="social-icon-btn" data-label="Flickr"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=flickr.com&sz=128" alt="Flickr"></a>
+        <a href="https://imgur.com/user/FanEditFanClub/about" target="_blank" class="social-icon-btn" data-label="Imgur"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=imgur.com&sz=128" alt="Imgur"></a>
+        <a href="https://www.deviantart.com/faneditfanclub" target="_blank" class="social-icon-btn" data-label="DeviantArt"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=deviantart.com&sz=128" alt="DeviantArt"></a>
+        <a href="https://dribbble.com/fan-edit-fan-club" target="_blank" class="social-icon-btn" data-label="Dribbble"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=dribbble.com&sz=128" alt="Dribbble"></a>
+        <a href="https://500px.com/p/faneditfanclub?view=photos" target="_blank" class="social-icon" src="https://i.imgur.com/wuSwvWq.jpeg" alt="500px"></a>
+        <a href="https://www.behance.net/faneditfanclub" target="_blank" class="social-icon-btn" data-label="Behance"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=behance.net&sz=128" alt="Behance"></a>
+        <a href="https://www.figma.com/@faneditfanclub" target="_blank" class="social-icon-btn" data-label="Figma"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=figma.com&sz=128" alt="Figma"></a>
+        <a href="https://creativemarket.com/users/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="Creative Market"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=creativemarket.com&sz=128" alt="Creative Market"></a>
+        <a href="https://forums.autodesk.com/t5/user/viewprofilepage/user-id/19344251" target="_blank" class="social-icon-btn" data-label="Autodesk"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=autodesk.com&sz=128" alt="Autodesk"></a>
+        <a href="https://www.ebay.com/usr/TheFanEditFanClub" target="_blank" class="social-icon-btn" data-label="eBay"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=ebay.com&sz=128" alt="eBay"></a>
+        <a href="https://www.etsy.com/people/ech7pubmwgeaygs8" target="_blank" class="social-icon-btn" data-label="Etsy"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=etsy.com&sz=128" alt="Etsy"></a>
+        <a href="https://app.foursquare.com/user/1416754388" target="_blank" class="social-icon-btn" data-label="Foursquare"><img class="social-icon" src="https://i.imgur.com/SB8eWgS.png" alt="Foursquare"></a>
+
+        <!-- Code, Gaming & Newsletters -->
+        <a href="https://github.com/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="GitHub"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=github.com&sz=128" alt="GitHub"></a>
+        <a href="https://codepen.io/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="CodePen"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=codepen.io&sz=128" alt="CodePen"></a>
+        <a href="https://substack.com/@faneditfanclub" target="_blank" class="social-icon-btn" data-label="Substack"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=substack.com&sz=128" alt="Substack"></a>
+        <a href="https://www.xbox.com/en-US/play/user/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="Xbox"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=xbox.com&sz=128" alt="Xbox"></a>
+        <a href="https://steamcommunity.com/id/FanEditFanClub/" target="_blank" class="social-icon-btn" data-label="Steam"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=steamcommunity.com&sz=128" alt="Steam"></a>
+        <a href="https://socialclub.rockstargames.com/member/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="Rockstar Games"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=rockstargames.com&sz=128" alt="Rockstar Games"></a>
+
+        <!-- Email Contact -->
+        <a href="mailto:FanEditFanClub@gmail.com" class="social-icon-btn" data-label="Email"><img class="social-icon" src="https://lh3.googleusercontent.com/d/129YPkYMYycsNL7J0yZSXt1CyaHuXu-Qf" alt="Email"></a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+  var FEEDS_BASE = "https://faneditfanclub.github.io/fanedit-social-feeds";
+
+  function escapeHtml(s) {
+    return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+  function linkify(s) {
+    return escapeHtml(s)
+      .replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" style="color:#1d9bf0;text-decoration:none;">$1</a>')
+      .replace(/\n/g, "<br>");
+  }
+  function fmtDate(v) {
+    var d = (typeof v === "number") ? new Date(v * 1000) : new Date(v);
+    return d.toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+  }
+  function feedFail(elId) {
+    document.getElementById(elId).innerHTML = '<div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">Unable to load feed.</div>';
+  }
+  function feedEmpty(elId) {
+    document.getElementById(elId).innerHTML = '<div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">No posts found yet.</div>';
+  }
+
+  /* ---- X feed: latest @FanEditFanClub posts (via Buffer, refreshed every 30 min) ---- */
+  fetch(FEEDS_BASE + "/x-posts.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var posts = data && data.posts;
+      var el = document.getElementById('x-feed');
+      if (posts && posts.length > 0) {
+        el.innerHTML = posts.slice(0, 6).map(function (p) {
+          return '<div class="rss-item">' +
+            '<div class="rss-item-title" style="cursor:default;">' + linkify(p.text) + '</div>' +
+            '<div class="rss-meta"><a href="' + p.url + '" target="_blank" style="color:#71767b;text-decoration:none;">' + fmtDate(p.sent_at) + ' &middot; View on X</a></div>' +
+          '</div>';
+        }).join('');
+      } else { feedEmpty('x-feed'); }
+    })
+    .catch(function () { feedFail('x-feed'); });
+
+  /* ---- Reddit community feed: r/FanEditFanClub (via Reddit API, refreshed every 30 min) ---- */
+  fetch(FEEDS_BASE + "/reddit-community.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var posts = data && data.posts;
+      var el = document.getElementById('community-rss-feed');
+      if (posts && posts.length > 0) {
+        el.innerHTML = posts.map(function (p) {
+          return '<div class="rss-item">' +
+            '<a class="rss-item-title" href="' + p.url + '" target="_blank">' + escapeHtml(p.title) + '</a>' +
+            '<div class="rss-meta">' + fmtDate(p.published) + '</div>' +
+          '</div>';
+        }).join('');
+      } else { feedEmpty('community-rss-feed'); }
+    })
+    .catch(function () { feedFail('community-rss-feed'); });
+
+  /* ---- Reddit multireddit feed (via Reddit API, refreshed every 30 min) ---- */
+  fetch(FEEDS_BASE + "/reddit-multireddit.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var posts = data && data.posts;
+      var el = document.getElementById('custom-rss-feed');
+      if (posts && posts.length > 0) {
+        el.innerHTML = posts.map(function (p) {
+          return '<div class="rss-item">' +
+            '<a class="rss-item-title" href="' + p.url + '" target="_blank">' + escapeHtml(p.title) + '</a>' +
+            '<div class="rss-meta">Posted on ' + fmtDate(p.published) + '</div>' +
+          '</div>';
+        }).join('');
+      } else { feedEmpty('custom-rss-feed'); }
+    })
+    .catch(function () { feedFail('custom-rss-feed'); });
+</script>
+
+</body>
+</html>
