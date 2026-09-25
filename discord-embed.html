@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  html, body {
+    width: 100%;
+    background-color: transparent;
+    overflow-x: clip;
+  }
+  /* Gray merged container: single widget look. max-width + margin center it
+     so its edges align exactly with the social feeds block below (page-wrap
+     is also 1180px centered). Without the cap, the gray background paints the
+     full iframe width and looks wider than the cards underneath. */
+  .discord-merge {
+    background: #313338;
+    border-radius: 12px;
+    padding: 12px;
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+  }
+  /* Single container controlling how the two panels relate to each other
+     at every breakpoint. */
+  .discord-combo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+    width: 100%;
+  }
+  .discord-panel {
+    width: 100%;
+    max-width: 350px;
+    height: 600px;
+    flex: 0 1 350px;
+    min-width: 0;
+  }
+  .discord-panel iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+  .widgetbot-container {
+    width: 100%;
+    max-width: 800px;
+    height: 600px;
+    flex: 1 1 500px;
+    min-width: 0;
+  }
+  /* Below this width, side-by-side gets too cramped for either panel to
+     read well — stack them instead of letting them squeeze/overlap. */
+  @media (max-width: 900px) {
+    .discord-combo {
+      flex-direction: column;
+      align-items: center;
+    }
+    .discord-panel {
+      order: 1;
+    }
+    .widgetbot-container {
+      order: 2;
+    }
+    .discord-panel,
+    .widgetbot-container {
+      max-width: 500px;
+    }
+  }
+  @media (max-width: 600px) {
+    .widgetbot-container {
+      height: 450px; /* Reduces height so it fits better on phone screens */
+    }
+    .discord-panel {
+      height: 420px;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="discord-merge">
+  <div class="discord-combo">
+    <div class="discord-panel">
+      <iframe
+        src="https://discord.com/widget?id=1529915531736383702&theme=dark"
+        allowtransparency="true"
+        frameborder="0"
+        sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+      </iframe>
+    </div>
+    <div class="widgetbot-container">
+      <widgetbot
+        server="1529915531736383702"
+        channel="1529915534466875546"
+        width="100%"
+        height="100%"
+        shard="https://e.widgetbot.io"
+      ></widgetbot>
+    </div>
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+</body>
+</html>
