@@ -58,6 +58,12 @@
     max-width: 320px;
   }
 
+  /* Reddit row: 2 cards span the same total width as the 3 cards above (2×488+16 = 992) */
+  .reddit-row .rss-container {
+    flex: 1 1 300px;
+    max-width: 488px;
+  }
+
   /* ===== X Profile card / Facebook Group card (shared styles) ===== */
   .widget-container {
     background-color: #000000;
@@ -333,7 +339,7 @@
     border-radius: 16px;
     padding: 16px;
     width: 100%;
-    max-width: 400px;
+    max-width: 600px;
     margin: 0 auto;
     text-align: center;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
@@ -508,7 +514,7 @@
   </div>
 
   <!-- Widget 4 & 5: Reddit Row (Community Feed & Custom RSS Feed side by side) -->
-  <div class="widget-row">
+  <div class="widget-row reddit-row">
 
     <!-- Widget 4: r/FanEditFanClub Community Feed -->
     <div class="rss-container">
