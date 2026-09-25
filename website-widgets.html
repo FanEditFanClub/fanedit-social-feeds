@@ -23,7 +23,7 @@
     flex-direction: column;
     align-items: center;
     width: 100%;
-    max-width: 1020px;
+    max-width: 1180px;
     margin: 0 auto;
     gap: 20px;
     padding: 4px;
@@ -55,13 +55,11 @@
   .top-row .fb-outer,
   .top-row .rss-container {
     flex: 1 1 260px;
-    max-width: 320px;
   }
 
-  /* Reddit row: 2 cards span the same total width as the 3 cards above (2×488+16 = 992) */
+  /* Reddit row: 2 cards share the row equally */
   .reddit-row .rss-container {
     flex: 1 1 300px;
-    max-width: 488px;
   }
 
   /* ===== X Profile card / Facebook Group card (shared styles) ===== */
@@ -365,6 +363,21 @@
   }
   #paypal-container-6N34NNU436TT4 > div { width: 100% !important; }
 
+  /* PayPal renders its amount field ($ / input / USD) as plain DOM inside the
+     container (the actual Pay buttons are isolated iframes, unaffected) — force
+     readable light text on the dark card. */
+  #paypal-container-6N34NNU436TT4 div,
+  #paypal-container-6N34NNU436TT4 span,
+  #paypal-container-6N34NNU436TT4 label,
+  #paypal-container-6N34NNU436TT4 p {
+    color: #e8eaed !important;
+  }
+  #paypal-container-6N34NNU436TT4 input {
+    color: #e8eaed !important;
+    background-color: #2a2f35 !important;
+    border-color: #3d444d !important;
+  }
+
   /* ===== Social icon grid ===== */
   .social-widget {
     background: transparent;
@@ -557,7 +570,7 @@
 
   <!-- Widget 6: PayPal Support Card -->
   <div class="paypal-card">
-    <div class="paypal-title">Support Fan Edit Fan Club</div>
+    <div class="paypal-title">Support Fan Edit Fan Club &mdash; Donation</div>
     <div class="paypal-subtitle">Safe &amp; Secure Payment via PayPal or Venmo</div>
     <div id="paypal-container-6N34NNU436TT4"></div>
     <script src="https://www.paypal.com/sdk/js?client-id=BAAOf94djAa5CPNEqov7_VKaz7cLdghzLv-FPW4D7z_hdQO3rHzp9pDbwfzzdkO3T7b4Pk1lNIITEstuss&components=hosted-buttons&enable-funding=venmo&currency=USD"></script>
@@ -653,7 +666,7 @@
         <a href="https://imgur.com/user/FanEditFanClub/about" target="_blank" class="social-icon-btn" data-label="Imgur"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=imgur.com&sz=128" alt="Imgur"></a>
         <a href="https://www.deviantart.com/faneditfanclub" target="_blank" class="social-icon-btn" data-label="DeviantArt"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=deviantart.com&sz=128" alt="DeviantArt"></a>
         <a href="https://dribbble.com/fan-edit-fan-club" target="_blank" class="social-icon-btn" data-label="Dribbble"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=dribbble.com&sz=128" alt="Dribbble"></a>
-        <a href="https://500px.com/p/faneditfanclub?view=photos" target="_blank" class="social-icon-btn" data-label="500px"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=500px.com&sz=128" alt="500px"></a>
+        <a href="https://500px.com/p/faneditfanclub?view=photos" target="_blank" class="social-icon-btn" data-label="500px"><img class="social-icon" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%23000'/><text x='32' y='40' font-family='Arial,Helvetica,sans-serif' font-size='18' font-weight='700' fill='%23fff' text-anchor='middle'>500px</text></svg>" alt="500px"></a>
         <a href="https://www.behance.net/faneditfanclub" target="_blank" class="social-icon-btn" data-label="Behance"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=behance.net&sz=128" alt="Behance"></a>
         <a href="https://www.figma.com/@faneditfanclub" target="_blank" class="social-icon-btn" data-label="Figma"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=figma.com&sz=128" alt="Figma"></a>
         <a href="https://creativemarket.com/users/FanEditFanClub" target="_blank" class="social-icon-btn" data-label="Creative Market"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=creativemarket.com&sz=128" alt="Creative Market"></a>
