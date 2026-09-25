@@ -25,6 +25,10 @@ import urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
+# Temporary diagnostic: records the last FB Graph error (never the token)
+# into fb-debug.json so failures can be read without the Actions log UI.
+FB_DEBUG = {}
+
 UA = "fanedit-social-feeds/1.0 (by /u/faneditfanclub)"
 BUFFER_TOKEN = os.environ.get("BUFFER_TOKEN", "")
 BUFFER_X_CHANNEL_ID = "6a63a3d9e2638b94d7ca2793"
@@ -94,7 +98,9 @@ def fb_api(path, params):
             return json.loads(resp.read().decode())
     except urllib.error.HTTPError as e:
         detail = e.read().decode(errors="replace")[:300]
-        print(f"FB Graph HTTP {e.code} on {path}: {detail}")
+        msg = f"FB Graph HTTP {e.code} on {path}: {detail}"
+        print(msg)
+        FB_DEBUG["last_error"] = msg
         return None
 
 
@@ -182,7 +188,17 @@ def write(name, payload):
 def main():
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
     write("x-posts.json", fetch_x_posts())
-    write("fb-page.json", fetch_fb_page())
+    fb = fetch_fb_page()
+    write("fb-page.json", fb)
+    if fb is None:
+        with open("fb-debug.json", "w") as f:
+            json.dump({
+                "updated_at": datetime.now(timezone.utc).isoformat(),
+                "error": FB_DEBUG.get("last_error", "no Graph call was made"),
+                "token_present": bool(FB_PAGE_TOKEN),
+                "token_len": len(FB_PAGE_TOKEN),
+            }, f, indent=1)
+        print("wrote fb-debug.json")
     write("reddit-community.json",
           fetch_reddit_rss("https://www.reddit.com/r/FanEditFanClub/new/.rss"))
     write("reddit-multireddit.json",
