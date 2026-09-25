@@ -90,9 +90,11 @@
     }
   }
   /* The Discord block's section renders ~16px narrower than the feeds
-     block's section, leaving this 1172px box 8px left of the 1172px card
-     row. Nudge it right so both edges line up exactly. */
-  @media (min-width: 481px) {
+     block's section (both left-aligned). The 1172px cap binds exactly when
+     this iframe is >=1172px wide: the gray then centers 8px left of the
+     card row, so nudge it right. Below the cap the gray spans the iframe
+     and its left edge already lines up — no nudge. */
+  @media (min-width: 1172px) {
     .discord-merge {
       transform: translateX(8px);
     }
