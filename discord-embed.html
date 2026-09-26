@@ -55,6 +55,51 @@
     height: 600px;
     flex: 1 1 500px;
     min-width: 0;
+    position: relative;
+  }
+  /* The <widgetbot> host is display:inline with zero size until its script
+     runs — make it a proper block filling the container from first paint,
+     so the panel box is stable even before the script executes. */
+  widgetbot {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  /* Loading overlay: WidgetBot's chat takes seconds to boot (its iframe
+     lives in a shadow root, so nothing renders until then). This covers
+     the panel with a Discord-styled spinner instead of a blank box that
+     looks "cut off", then fades when the chat iframe reports loaded.
+     Desktop and mobile both get it; no layout or functionality changes. */
+  .wb-loading {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    background: #2b2d31;
+    border-radius: 8px;
+    color: #b5bac1;
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    transition: opacity 0.4s ease;
+  }
+  .wb-loading.done {
+    opacity: 0;
+    pointer-events: none;
+  }
+  .wb-spinner {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 3px solid #1e1f22;
+    border-top-color: #5865f2;
+    animation: wb-spin 0.9s linear infinite;
+  }
+  @keyframes wb-spin {
+    to { transform: rotate(360deg); }
   }
   /* Below this width, side-by-side gets too cramped for either panel to
      read well — stack them instead of letting them squeeze/overlap.
@@ -137,6 +182,10 @@
       </iframe>
     </div>
     <div class="widgetbot-container">
+      <div class="wb-loading" id="wb-loading">
+        <div class="wb-spinner"></div>
+        <div>Loading Discord chat…</div>
+      </div>
       <widgetbot
         server="1529915531736383702"
         channel="1529915534466875546"
@@ -148,5 +197,34 @@
   </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+<script>
+(function () {
+  var overlay = document.getElementById('wb-loading');
+  if (!overlay) return;
+  var finished = false;
+  var finish = function () {
+    if (finished) return;
+    finished = true;
+    overlay.classList.add('done');
+    setTimeout(function () { overlay.remove(); }, 500);
+  };
+  var attach = function () {
+    var host = document.querySelector('widgetbot');
+    var frame = host && host.shadowRoot && host.shadowRoot.querySelector('iframe');
+    if (!frame) return false;
+    frame.addEventListener('load', finish);
+    return true;
+  };
+  if (!attach()) {
+    /* CDN slow/blocked: poll briefly, then rely on the fallback below
+       rather than trapping anyone behind the spinner. */
+    var tries = 0;
+    var poll = setInterval(function () {
+      if (attach() || ++tries > 20) clearInterval(poll);
+    }, 500);
+  }
+  setTimeout(finish, 12000);
+})();
+</script>
 </body>
 </html>
