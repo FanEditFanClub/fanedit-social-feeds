@@ -360,6 +360,15 @@
       flex: none;
       width: 100%;
     }
+    /* FB + Reddit rows stack to one card per line on phones too
+       (flex-basis 0 would otherwise squeeze both cards side by side
+       forever). Desktop keeps the 2-up equal-width layout. */
+    .fb-row .rss-container,
+    .fb-row .widget-container,
+    .reddit-row .rss-container {
+      flex: none;
+      width: 100%;
+    }
   }
 
   /* ===== PayPal support card ===== */
