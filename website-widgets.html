@@ -58,11 +58,30 @@
     max-width: none;
   }
 
-  /* X row: the X card takes its own full-width line, as wide as the
-     Discord block above (1172px of visible cards) */
-  .x-row .rss-container {
-    flex: 1 1 100%;
+  /* X row: the profile card keeps its old width (base 450px cap); the Fan
+     Editors list card takes the rest of the 1172px line (matches the
+     Discord block width above) */
+  .x-row .x-list-card {
     max-width: none;
+  }
+  /* X Group Chat button sits on its own line beneath the two X cards */
+  .x-group-chat-wrap {
+    text-align: center;
+    margin: 4px 0 0;
+  }
+  .x-group-chat-btn {
+    display: inline-block;
+    background: #ffffff;
+    color: #000000;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 12px 32px;
+    border-radius: 9999px;
+    text-decoration: none;
+    transition: background 0.15s ease;
+  }
+  .x-group-chat-btn:hover {
+    background: #d7dbdc;
   }
 
   /* Facebook row: the Page + Group cards share their own line beneath the
@@ -494,7 +513,8 @@
 
 <div class="page-wrap">
 
-  <!-- Widget 1: X Feed on its own full-width line -->
+  <!-- Widgets 1 & 2: X row — profile feed + Fan Editors list feed share the
+       1172px line (matches the Discord block width above) -->
   <div class="widget-row x-row">
     <div class="rss-container">
       <div class="rss-header">
@@ -512,6 +532,29 @@
       </div>
       <a href="https://x.com/FanEditFanClub" target="_blank" class="action-btn">Open X Profile</a>
     </div>
+
+    <div class="rss-container x-list-card">
+      <div class="rss-header">
+        <div class="header-left">
+          <div class="x-profile-pic"></div>
+          <div class="rss-title-group">
+            <h3 class="rss-title">Fan Editors</h3>
+            <span class="rss-sub" style="color:#71767b;">X List by @FanEditFanClub</span>
+          </div>
+        </div>
+        <a href="https://x.com/i/lists/2072540475530084770" target="_blank" class="feed-btn" style="background-color:#ffffff;color:#000000;">Follow</a>
+      </div>
+      <div class="x-list-scroll">
+        <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders transparent" data-height="380" href="https://x.com/FanEditFanClub/lists/2072540475530084770?ref_src=twsrc%5Etfw">Fan Editors &mdash; an X List by FanEditFanClub</a>
+        <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+      </div>
+      <a href="https://x.com/i/lists/2072540475530084770" target="_blank" class="action-btn">Open X List</a>
+    </div>
+  </div>
+
+  <!-- X Group Chat button on its own line beneath the two X widgets -->
+  <div class="x-group-chat-wrap">
+    <a href="https://x.com/i/chat/group_join/g2084666734565285936/d014sDtior" target="_blank" class="x-group-chat-btn">Open X Group Chat</a>
   </div>
 
   <!-- Widgets 2 & 3: Facebook Page + Facebook Group on their own line -->
