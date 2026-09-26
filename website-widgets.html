@@ -58,11 +58,14 @@
     max-width: none;
   }
 
-  /* X row: the profile card keeps its old width (base 450px cap); the Fan
-     Editors list card takes the rest of the 1172px line (matches the
-     Discord block width above) */
+  /* X row: the two cards are exactly equal width — each takes half of the
+     1172px line (minus the 20px gap), matching the Discord block width
+     above. Base .widget-row .rss-container caps at 450px, so reset here. */
+  .x-row .x-profile-card,
   .x-row .x-list-card {
+    flex: 1 1 0;
     max-width: none;
+    min-width: 0;
   }
   /* X Group Chat button sits on its own line beneath the two X cards */
   .x-group-chat-wrap {
