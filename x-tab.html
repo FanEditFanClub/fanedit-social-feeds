@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, body {
+    width: 100%;
+    overflow-x: clip;
+    background-color: transparent;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #e7e9ea;
+  }
+
+  /* Single container that controls ALL vertical spacing between rows/widgets. */
+  .page-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+    gap: 20px;
+    padding: 4px;
+  }
+
+  @media screen and (max-width: 480px) {
+    .page-wrap { gap: 16px; padding: 4px 2px; }
+  }
+
+  /* Multi-column row layout (used for Top Row & Reddit Row) */
+  .widget-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    gap: 16px;
+    width: 100%;
+  }
+
+  .widget-row .widget-container,
+  .widget-row .rss-container {
+    flex: 1 1 400px;
+    max-width: 450px;
+    width: 100%;
+  }
+
+  /* Reddit row: 2 cards share the row equally (base .widget-row .rss-container
+     caps at 450px, so it must be reset here) */
+  .reddit-row .rss-container {
+    flex: 1 1 300px;
+    max-width: none;
+  }
+
+  /* X row: the two cards are exactly equal width — each takes half of the
+     1172px line (minus the 20px gap), matching the Discord block width
+     above. Base .widget-row .rss-container caps at 450px, so reset here. */
+  .x-row .x-profile-card,
+  .x-row .x-list-card {
+    flex: 1 1 0;
+    max-width: none;
+    min-width: 0;
+  }
+  /* X Group Chat button sits on its own line beneath the two X cards */
+  .x-group-chat-wrap {
+    text-align: center;
+    margin: 4px 0 0;
+  }
+  .x-group-chat-btn {
+    display: inline-block;
+    background: #ffffff;
+    color: #000000;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 12px 32px;
+    border-radius: 9999px;
+    text-decoration: none;
+    transition: background 0.15s ease;
+  }
+  .x-group-chat-btn:hover {
+    background: #d7dbdc;
+  }
+
+  /* Facebook row: the Page + Group cards share their own line beneath the
+     X card, at the same total width (reset the 450px caps like reddit-row) */
+  .fb-row .rss-container,
+  .fb-row .widget-container {
+    flex: 1 1 300px;
+    max-width: none;
+    margin: 0;
+  }
+
+  /* ===== X Profile card / Facebook Group card (shared styles) ===== */
+  .widget-container {
+    background-color: #000000;
+    padding: 16px;
+    border: 1px solid #2f3336;
+    border-radius: 16px;
+    width: 100%;
+    max-width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  .profile-pic {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background-image: url('https://i.imgur.com/xGyaOEB.jpeg');
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #2f3336;
+    flex-shrink: 0;
+  }
+  .text-group { flex-shrink: 0; }
+  .fb-group-scroll { max-height: 300px; overflow-y: auto; overflow-x: hidden; margin: 10px 0; border-radius: 8px; }
+  .title { color: #ffffff; margin: 0 0 2px 0; font-size: 17px; font-weight: 800; letter-spacing: -0.3px; }
+  .handle { color: #71767b; font-size: 13px; display: block; }
+  .description {
+    color: #e7e9ea;
+    margin: 0;
+    font-size: 13.5px;
+    line-height: 1.35;
+    text-align: center;
+  }
+  .action-btn {
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 14px;
+    text-decoration: none;
+    flex-shrink: 0;
+    transition: opacity 0.2s ease;
+    margin-top: auto;
+  }
+  .action-btn:hover { opacity: 0.9; }
+
+  /* ===== X feed card extras ===== */
+  .x-profile-pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url('https://i.imgur.com/xGyaOEB.jpeg');
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #2f3336;
+    flex-shrink: 0;
+  }
+  .x-feed-scroll {
+    max-height: 380px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scrollbar-width: thin;
+    scrollbar-color: #2f3336 transparent;
+  }
+  .x-feed-scroll::-webkit-scrollbar { width: 5px; }
+  .x-feed-scroll::-webkit-scrollbar-track { background: transparent; }
+  .x-feed-scroll::-webkit-scrollbar-thumb { background-color: #2f3336; border-radius: 10px; }
+
+  /* ===== X post cards (look like real X posts) ===== */
+  .x-post {
+    border: 1px solid #2f3336;
+    border-radius: 16px;
+    padding: 12px;
+    margin-bottom: 12px;
+    background-color: #000000;
+    text-align: left;
+    min-width: 0;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+  }
+  .x-post:hover { background-color: #0a0b0d; border-color: #3e4247; }
+  .x-post:last-child { margin-bottom: 0; }
+  .x-post-header { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+  .x-post-avatar {
+    width: 40px; height: 40px; border-radius: 50%; flex-shrink: 0;
+    background-image: url('https://i.imgur.com/xGyaOEB.jpeg');
+    background-size: cover; background-position: center;
+  }
+  .x-post-names { display: flex; flex-direction: column; line-height: 1.3; min-width: 0; }
+  .x-post-name { color: #ffffff; font-weight: 700; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .x-post-date { color: #71767b; font-size: 12.5px; text-decoration: none; }
+  .x-post-date:hover { text-decoration: underline; }
+  .x-post-body { color: #e7e9ea; font-size: 14px; line-height: 1.45; overflow-wrap: anywhere; }
+  .x-post-body a { color: #1d9bf0; text-decoration: none; }
+  .x-post-body a:hover { text-decoration: underline; }
+  .x-post-actions { display: flex; align-items: center; justify-content: space-between; max-width: 300px; margin-top: 10px; }
+  .x-post-action { color: #71767b; text-decoration: none; display: flex; padding: 4px; border-radius: 50%; transition: color 0.2s ease, background-color 0.2s ease; }
+  .x-post-action:hover { color: #1d9bf0; background-color: rgba(29,155,240,0.1); }
+  .x-post-action svg { width: 17px; height: 17px; }
+
+  /* ===== Facebook Page native feed card ===== */
+  .fb-logo-graphic {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background-image: url('https://i.imgur.com/xGyaOEB.jpeg');
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #2f3336;
+    margin-right: 12px;
+    flex-shrink: 0;
+  }
+  .fb-page-scroll {
+    max-height: 380px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scrollbar-width: thin;
+    scrollbar-color: #2f3336 transparent;
+  }
+  .fb-page-scroll::-webkit-scrollbar { width: 5px; }
+  .fb-page-scroll::-webkit-scrollbar-track { background: transparent; }
+  .fb-page-scroll::-webkit-scrollbar-thumb { background-color: #2f3336; border-radius: 10px; }
+
+  /* ===== Facebook post cards (mirror the X post look) ===== */
+  .fb-post {
+    border: 1px solid #2f3336;
+    border-radius: 16px;
+    padding: 12px;
+    margin-bottom: 12px;
+    background-color: #000000;
+    text-align: left;
+    min-width: 0;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+  }
+  .fb-post:hover { background-color: #0a0b0d; border-color: #3e4247; }
+  .fb-post:last-child { margin-bottom: 0; }
+  .fb-post-avatar {
+    width: 40px; height: 40px; border-radius: 50%; flex-shrink: 0;
+    object-fit: cover; border: 1px solid #2f3336;
+  }
+  .fb-post-image {
+    width: 100%; border-radius: 12px; margin-top: 10px;
+    border: 1px solid #2f3336; display: block;
+  }
+  .fb-post-stats { display: flex; align-items: center; gap: 18px; margin-top: 10px; }
+  .fb-post-stat { color: #71767b; font-size: 12.5px; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; }
+  a.fb-post-stat:hover { color: #0866ff; }
+  .fb-post-stat svg { width: 15px; height: 15px; }
+
+
+  /* ===== Reddit RSS cards (shared) ===== */
+  .rss-container {
+    background-color: #000000;
+    border: 1px solid #2f3336;
+    border-radius: 16px;
+    padding: 16px;
+    width: 100%;
+    max-width: 450px;
+    min-width: 0;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .rss-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #2f3336;
+    gap: 12px;
+  }
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .reddit-icon {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+    fill: #ff4500;
+  }
+  .rss-title-group {
+    display: flex;
+    flex-direction: column;
+  }
+  .rss-title {
+    font-size: 15px;
+    font-weight: 800;
+    color: #ffffff;
+    letter-spacing: -0.3px;
+    line-height: 1.25;
+    margin: 0;
+  }
+  .rss-sub {
+    font-size: 12px;
+    color: #ff4500;
+    font-weight: 600;
+    display: block;
+    margin-top: 2px;
+  }
+  .feed-btn {
+    background-color: #ff4500;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 6px 14px;
+    border-radius: 20px;
+    white-space: nowrap;
+    transition: opacity 0.2s ease;
+    flex-shrink: 0;
+  }
+  .feed-btn:hover { opacity: 0.9; }
+
+  .rss-feed-list {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .rss-item {
+    padding: 10px 0;
+    border-bottom: 1px solid #16181c;
+  }
+  .rss-item:first-child { padding-top: 0; }
+  .rss-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .rss-item-title {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    display: block;
+    line-height: 1.35;
+  }
+  .rss-item-title:hover { text-decoration: underline; color: #ff4500; }
+  .rss-meta { font-size: 11px; color: #71767b; margin-top: 4px; }
+
+  @media screen and (max-width: 480px) {
+    .widget-row { gap: 16px; padding: 0 4px; }
+    .rss-container { padding: 14px 12px; border-radius: 12px; }
+    .rss-title { font-size: 14px; }
+    .rss-sub { font-size: 11.5px; }
+    .reddit-icon { width: 24px; height: 24px; }
+    .rss-item { padding: 8px 0; }
+    .rss-item-title { font-size: 13px; }
+    .rss-meta { font-size: 10.5px; }
+    .feed-btn { font-size: 11px; padding: 5px 10px; }
+    /* X row stacks to one card per line on phones (flex-basis 0 would
+       otherwise squeeze both cards side by side forever) */
+    .x-row .x-profile-card,
+    .x-row .x-list-card {
+      flex: none;
+      width: 100%;
+    }
+  }
+
+  /* ===== PayPal support card ===== */
+  .paypal-card {
+    background-color: #000000;
+    border: 1px solid #2f3336;
+    border-radius: 16px;
+    padding: 20px;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .paypal-title { color: #ffffff; font-size: 1.1rem; font-weight: 700; line-height: 1.2; margin-bottom: 4px; width: 100%; text-align: center; }
+  .paypal-subtitle { color: #c9d1d9; font-size: 0.8rem; line-height: 1.3; margin-bottom: 16px; width: 100%; text-align: center; }
+  #paypal-container-6N34NNU436TT4 {
+    width: 100%;
+    min-height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  #paypal-container-6N34NNU436TT4 * {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+  }
+  #paypal-container-6N34NNU436TT4 > div { width: 100% !important; }
+
+  /* PayPal renders its amount field ($ / input / USD) as plain DOM inside the
+     container (the actual Pay buttons are isolated iframes, unaffected) — force
+     readable light text on the dark card. */
+  #paypal-container-6N34NNU436TT4 div,
+  #paypal-container-6N34NNU436TT4 span,
+  #paypal-container-6N34NNU436TT4 label,
+  #paypal-container-6N34NNU436TT4 p {
+    color: #e8eaed !important;
+  }
+  #paypal-container-6N34NNU436TT4 input {
+    color: #e8eaed !important;
+    background-color: #2a2f35 !important;
+    border-color: #3d444d !important;
+  }
+
+  /* Merge PayPal's own header into one line: "Fan Edit Fan Club — Donation".
+     The h3 and the form are siblings; inline them so the label flows right
+     after the business name, with the amount field dropping below. */
+  #paypal-container-6N34NNU436TT4 #form-container-6N34NNU436TT4 > h3#desc-label,
+  #paypal-container-6N34NNU436TT4 #form-container-6N34NNU436TT4 > form {
+    display: inline !important;
+  }
+  #paypal-container-6N34NNU436TT4 #desc-label::after {
+    content: "\00a0\2014\00a0";
+  }
+  #paypal-container-6N34NNU436TT4 label.input-label[for="amount"] {
+    display: inline !important;
+    font-size: 1.17em !important;
+    font-weight: 700 !important;
+    margin-bottom: 0 !important;
+  }
+
+  /* Breathing room between the widget's layers: header line -> amount field
+     -> payment buttons. */
+  #paypal-container-6N34NNU436TT4 .amount-container {
+    margin-top: 12px !important;
+  }
+  #paypal-container-6N34NNU436TT4 iframe {
+    margin-top: 10px !important;
+  }
+
+  /* ===== Social icon grid ===== */
+  .social-widget {
+    background: transparent;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .scroll-container {
+    width: 100%;
+    padding: 0 4px 30px 0;
+  }
+  .scroll-container::-webkit-scrollbar { width: 5px; }
+  .scroll-container::-webkit-scrollbar-track { background: transparent; }
+  .scroll-container::-webkit-scrollbar-thumb { background-color: #30363d; border-radius: 10px; }
+  .social-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 10px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 4px 0;
+  }
+  .social-icon-btn {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: none;
+    padding: 0;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+    text-decoration: none;
+    z-index: 1;
+  }
+  .social-icon-btn:hover { transform: translateY(-2px); opacity: 0.9; z-index: 999; }
+  .social-icon { width: 38px; height: 38px; border-radius: 6px; object-fit: contain; }
+  .icon-light-bg { background-color: #ffffff; padding: 2px; border-radius: 6px; }
+  .social-icon-btn::after {
+    content: attr(data-label);
+    position: absolute;
+    bottom: -26px;
+    left: 50%;
+    transform: translateX(-50%) translateY(4px);
+    background-color: #1a1d21;
+    color: #ffffff;
+    font-size: 10px;
+    font-weight: 500;
+    padding: 3px 6px;
+    border-radius: 4px;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+    border: 1px solid #30363d;
+    z-index: 1000;
+  }
+  .social-icon-btn::before {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 4px;
+    border-style: solid;
+    border-color: transparent transparent #1a1d21 transparent;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease;
+    z-index: 1000;
+  }
+  .social-icon-btn:hover::after,
+  .social-icon-btn:hover::before { opacity: 1; visibility: visible; transform: translateX(-50%) translateY(0); }
+
+  @media (min-width: 768px) {
+    .social-grid { gap: 12px 14px; }
+    .social-icon { width: 44px; height: 44px; border-radius: 8px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="page-wrap">
+
+<!-- Widgets 1 & 2: X row — profile feed + Fan Editors list feed share the
+       1172px line (matches the Discord block width above) -->
+  <div class="widget-row x-row">
+    <div class="rss-container x-profile-card">
+      <div class="rss-header">
+        <div class="header-left">
+          <div class="x-profile-pic"></div>
+          <div class="rss-title-group">
+            <h3 class="rss-title">Fan Edit Fan Club</h3>
+            <span class="rss-sub" style="color:#71767b;">@FanEditFanClub on X</span>
+          </div>
+        </div>
+        <a href="https://x.com/FanEditFanClub" target="_blank" class="feed-btn" style="background-color:#ffffff;color:#000000;">Follow</a>
+      </div>
+      <div class="rss-feed-list x-feed-scroll" id="x-feed">
+        <div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">Loading posts...</div>
+      </div>
+      <a href="https://x.com/FanEditFanClub" target="_blank" class="action-btn">Open X Profile</a>
+    </div>
+
+    <div class="rss-container x-list-card">
+      <div class="rss-header">
+        <div class="header-left">
+          <div class="x-profile-pic"></div>
+          <div class="rss-title-group">
+            <h3 class="rss-title">Fan Editors</h3>
+            <span class="rss-sub" style="color:#71767b;">X List by @FanEditFanClub</span>
+          </div>
+        </div>
+        <a href="https://x.com/i/lists/2072540475530084770" target="_blank" class="feed-btn" style="background-color:#ffffff;color:#000000;">Follow</a>
+      </div>
+      <div class="x-list-scroll">
+        <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders transparent" data-height="380" href="https://x.com/FanEditFanClub/lists/2072540475530084770?ref_src=twsrc%5Etfw">Fan Editors &mdash; an X List by FanEditFanClub</a>
+        <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+      </div>
+      <a href="https://x.com/i/lists/2072540475530084770" target="_blank" class="action-btn">Open X List</a>
+    </div>
+  </div>
+
+  <!-- X Group Chat button on its own line beneath the two X widgets -->
+  <div class="x-group-chat-wrap">
+    <a href="https://x.com/i/chat/group_join/g2084666734565285936/d014sDtior" target="_blank" class="x-group-chat-btn">Open X Group Chat</a>
+  </div>
+
+</div>
+
+<script>
+  var FEEDS_BASE = "https://faneditfanclub.github.io/fanedit-social-feeds";
+
+  function escapeHtml(s) {
+    return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+  function linkify(s) {
+    return escapeHtml(s)
+      .replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" style="color:#1d9bf0;text-decoration:none;">$1</a>')
+      .replace(/\n/g, "<br>");
+  }
+  function fmtDate(v) {
+    var d = (typeof v === "number") ? new Date(v * 1000) : new Date(v);
+    return d.toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+  }
+  function feedFail(elId) {
+    document.getElementById(elId).innerHTML = '<div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">Unable to load feed.</div>';
+  }
+  function feedEmpty(elId) {
+    document.getElementById(elId).innerHTML = '<div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">No posts found yet.</div>';
+  }
+
+  /* ---- X feed: latest @FanEditFanClub posts (via Buffer, refreshed every 30 min) ---- */
+  var X_SVGS = {
+    reply: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>',
+    repost: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>',
+    like: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>',
+    views: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>'
+  };
+  fetch(FEEDS_BASE + "/x-posts.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var posts = data && data.posts;
+      var el = document.getElementById('x-feed');
+      if (!el) return;
+      if (posts && posts.length > 0) {
+        el.innerHTML = posts.slice(0, 6).map(function (p) {
+          var actions = ['reply', 'repost', 'like', 'views'].map(function (k) {
+            return '<a class="x-post-action" href="' + p.url + '" target="_blank">' + X_SVGS[k] + '</a>';
+          }).join('');
+          return '<article class="x-post">' +
+            '<div class="x-post-header"><div class="x-post-avatar"></div>' +
+            '<div class="x-post-names"><span class="x-post-name">Fan Edit Fan Club</span>' +
+            '<a class="x-post-date" href="' + p.url + '" target="_blank">@FanEditFanClub &middot; ' + fmtDate(p.sent_at) + '</a></div></div>' +
+            '<div class="x-post-body">' + linkify(p.text) + '</div>' +
+            '<div class="x-post-actions">' + actions + '</div>' +
+          '</article>';
+        }).join('');
+      } else { feedEmpty('x-feed'); }
+    })
+    .catch(function () { feedFail('x-feed'); });
+
+  /* ---- Facebook Page feed: latest page posts (via Graph API, refreshed every 30 min) ---- */
+  var FB_SVGS = {
+    like: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3z"/><path d="M7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"/></svg>',
+    comment: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>',
+    share: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>'
+  };
+  fetch(FEEDS_BASE + "/fb-page.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var posts = data && data.posts;
+      var profile = (data && data.profile) || {};
+      var el = document.getElementById('fb-page-feed');
+      if (!el) return;
+      if (posts && posts.length > 0) {
+        el.innerHTML = posts.slice(0, 6).map(function (p) {
+          var avatar = profile.picture
+            ? '<img class="fb-post-avatar" src="' + profile.picture + '" alt="">'
+            : '<div class="fb-logo-graphic" style="width:40px;height:40px;margin-right:0;"></div>';
+          var stats = [['like', p.likes], ['comment', p.comments], ['share', p.shares]].map(function (s) {
+            return '<a class="fb-post-stat" href="' + p.url + '" target="_blank">' + FB_SVGS[s[0]] + '<span>' + (s[1] || 0) + '</span></a>';
+          }).join('');
+          return '<article class="fb-post">' +
+            '<div class="x-post-header">' + avatar +
+            '<div class="x-post-names"><span class="x-post-name">' + escapeHtml(profile.name || 'Fan Edit Fan Club') + '</span>' +
+            '<a class="x-post-date" href="' + p.url + '" target="_blank">' + fmtDate(p.created_at) + '</a></div></div>' +
+            (p.text ? '<div class="x-post-body">' + linkify(p.text) + '</div>' : '') +
+            (p.image ? '<a href="' + p.url + '" target="_blank"><img class="fb-post-image" src="' + p.image + '" alt="" loading="lazy"></a>' : '') +
+            '<div class="fb-post-stats">' + stats + '</div>' +
+          '</article>';
+        }).join('');
+      } else { feedEmpty('fb-page-feed'); }
+    })
+    .catch(function () { feedFail('fb-page-feed'); });
+
+  /* ---- Reddit community feed: r/FanEditFanClub (via Reddit API, refreshed every 30 min) ---- */
+  fetch(FEEDS_BASE + "/reddit-community.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var posts = data && data.posts;
+      var el = document.getElementById('community-rss-feed');
+      if (!el) return;
+      if (posts && posts.length > 0) {
+        el.innerHTML = posts.map(function (p) {
+          return '<div class="rss-item">' +
+            '<a class="rss-item-title" href="' + p.url + '" target="_blank">' + escapeHtml(p.title) + '</a>' +
+            '<div class="rss-meta">' + fmtDate(p.published) + '</div>' +
+          '</div>';
+        }).join('');
+      } else { feedEmpty('community-rss-feed'); }
+    })
+    .catch(function () { feedFail('community-rss-feed'); });
+
+  /* ---- Reddit multireddit feed (via Reddit API, refreshed every 30 min) ---- */
+  fetch(FEEDS_BASE + "/reddit-multireddit.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var posts = data && data.posts;
+      var el = document.getElementById('custom-rss-feed');
+      if (!el) return;
+      if (posts && posts.length > 0) {
+        el.innerHTML = posts.map(function (p) {
+          return '<div class="rss-item">' +
+            '<a class="rss-item-title" href="' + p.url + '" target="_blank">' + escapeHtml(p.title) + '</a>' +
+            '<div class="rss-meta">Posted on ' + fmtDate(p.published) + '</div>' +
+          '</div>';
+        }).join('');
+      } else { feedEmpty('custom-rss-feed'); }
+    })
+    .catch(function () { feedFail('custom-rss-feed'); });
+</script>
+
+</body>
+</html>
