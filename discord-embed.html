@@ -11,6 +11,7 @@
   }
   html, body {
     width: 100%;
+    height: 100%;
     background-color: transparent;
     overflow-x: clip;
   }
@@ -24,11 +25,13 @@
     border-radius: 12px;
     padding: 12px;
     width: 100%;
+    height: 100%;
     max-width: 1172px;
     margin: 0 auto;
   }
   /* Single container controlling how the two panels relate to each other
-     at every breakpoint. */
+     at every breakpoint. Fills the merge wrapper so desktop panels can
+     stretch to the full iframe height. */
   .discord-combo {
     display: flex;
     flex-wrap: wrap;
@@ -36,11 +39,12 @@
     align-items: flex-start;
     gap: 16px;
     width: 100%;
+    height: 100%;
   }
   .discord-panel {
     width: 100%;
     max-width: 350px;
-    height: 600px;
+    height: 100%;
     flex: 0 1 350px;
     min-width: 0;
   }
@@ -52,7 +56,7 @@
   .widgetbot-container {
     width: 100%;
     max-width: 800px;
-    height: 600px;
+    height: 100%;
     flex: 1 1 500px;
     min-width: 0;
     position: relative;
@@ -111,35 +115,31 @@
       flex-direction: column;
       align-items: center;
       gap: 12px;
+      height: auto;
     }
-    /* The Sites embed block has one fixed iframe height (~624px, set for the
-       600px desktop panels + merge padding). Stacked panels must fit inside
-       it: 8 + 280 + 12 + 300 + 8 = 608px, so both panels show fully and the
-       page scrolls naturally — no scrolling inside the widget. */
+    /* The Sites embed block has one fixed iframe height across viewports
+       (set by dragging — now ~1000px). Stacked panels are sized to nearly
+       fill it: 8 + 340 + 12 + 600 + 8 = 968px. Both panels show generously
+       and you scroll the PAGE between them instead of scrolling inside a
+       tiny widget. The merge wrapper goes height:auto so it hugs the
+       stacked content exactly. */
     .discord-merge {
       padding: 8px;
+      height: auto;
     }
     .discord-panel {
       order: 1;
       flex: none;
       width: 100%;
       max-width: 560px;
-      height: 280px;
+      height: 340px;
     }
     .widgetbot-container {
       order: 2;
       flex: none;
       width: 100%;
       max-width: 560px;
-      height: 300px;
-    }
-  }
-  @media (max-width: 600px) {
-    .discord-panel {
-      height: 280px;
-    }
-    .widgetbot-container {
-      height: 300px;
+      height: 600px;
     }
   }
   /* Mirror the feeds block's phone padding (page-wrap goes to 2px sides
