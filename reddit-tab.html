@@ -54,8 +54,9 @@
   /* Reddit row: 2 cards share the row equally (base .widget-row .rss-container
      caps at 450px, so it must be reset here) */
   .reddit-row .rss-container {
-    flex: 1 1 300px;
+    flex: 1 1 0;
     max-width: none;
+    min-width: 0;
   }
 
   /* X row: the two cards are exactly equal width — each takes half of the
@@ -91,8 +92,9 @@
      X card, at the same total width (reset the 450px caps like reddit-row) */
   .fb-row .rss-container,
   .fb-row .widget-container {
-    flex: 1 1 300px;
+    flex: 1 1 0;
     max-width: none;
+    min-width: 0;
     margin: 0;
   }
 
