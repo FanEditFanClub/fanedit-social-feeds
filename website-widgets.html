@@ -358,6 +358,19 @@
       flex: none;
       width: 100%;
     }
+    /* Phones: remove the nested inner scroll boxes so the page scrolls as one
+       continuous column instead of trapping swipes inside 380/300px regions.
+       Desktop keeps its inner scroll regions untouched. */
+    .x-feed-scroll,
+    .fb-page-scroll,
+    .fb-group-scroll {
+      max-height: none;
+      overflow: visible;
+    }
+    /* The X List timeline wrapper never got a CSS rule; keep it from
+       overflowing narrow phone screens. */
+    .x-list-scroll { min-width: 0; }
+    .x-list-scroll iframe { max-width: 100%; }
   }
 
   /* ===== PayPal support card ===== */
@@ -517,6 +530,13 @@
     .social-grid { gap: 12px 14px; }
     .social-icon { width: 44px; height: 44px; border-radius: 8px; }
   }
+  /* Touch screens have no hover: tooltips would stick on tap and the hover
+     lift would make icons jump. Desktop hover behavior is untouched. */
+  @media (hover: none) {
+    .social-icon-btn::after,
+    .social-icon-btn::before { display: none; }
+    .social-icon-btn:hover { transform: none; }
+  }
 </style>
 </head>
 <body>
@@ -668,7 +688,7 @@
     <div class="scroll-container">
       <div class="social-grid" id="iconGrid">
         <!-- Website & Linktree -->
-        <a href="https://sites.google.com/u/0/d/1cpg60SU-PoXVWUHRqXJPIpag2vu8CmAF/p/1YBCKHYTh-wrjxPQduwGGqspRRnrXptrQ/preview?authuser=02" target="_blank" class="social-icon-btn" data-label="Website"><img class="social-icon" src="https://i.imgur.com/9ONFKFd.png" alt="Website"></a>
+        <a href="https://sites.google.com/view/faneditfanclub/home" target="_blank" class="social-icon-btn" data-label="Website"><img class="social-icon" src="https://i.imgur.com/9ONFKFd.png" alt="Website"></a>
         <a href="https://linktr.ee/faneditfanclub" target="_blank" class="social-icon-btn" data-label="Linktree"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=linktr.ee&sz=128" alt="Linktree"></a>
         <a href="https://gravatar.com/scrumptiously4cebb12f65" target="_blank" class="social-icon-btn" data-label="Gravatar"><img class="social-icon" src="https://www.google.com/s2/favicons?domain=gravatar.com&sz=128" alt="Gravatar"></a>
 
@@ -768,6 +788,9 @@
 
 <script>
   var FEEDS_BASE = "https://faneditfanclub.github.io/fanedit-social-feeds";
+  /* Phones show fewer posts per feed: with the inner scroll boxes removed,
+     fewer posts keeps the page height sane. Desktop still shows 6. */
+  var POST_LIMIT = window.innerWidth <= 480 ? 4 : 6;
 
   function escapeHtml(s) {
     return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -802,7 +825,7 @@
       var el = document.getElementById('x-feed');
       if (!el) return;
       if (posts && posts.length > 0) {
-        el.innerHTML = posts.slice(0, 6).map(function (p) {
+        el.innerHTML = posts.slice(0, POST_LIMIT).map(function (p) {
           var actions = ['reply', 'repost', 'like', 'views'].map(function (k) {
             return '<a class="x-post-action" href="' + p.url + '" target="_blank">' + X_SVGS[k] + '</a>';
           }).join('');
@@ -832,7 +855,7 @@
       var el = document.getElementById('fb-page-feed');
       if (!el) return;
       if (posts && posts.length > 0) {
-        el.innerHTML = posts.slice(0, 6).map(function (p) {
+        el.innerHTML = posts.slice(0, POST_LIMIT).map(function (p) {
           var avatar = profile.picture
             ? '<img class="fb-post-avatar" src="' + profile.picture + '" alt="">'
             : '<div class="fb-logo-graphic" style="width:40px;height:40px;margin-right:0;"></div>';
