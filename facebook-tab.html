@@ -369,6 +369,14 @@
       flex: none;
       width: 100%;
     }
+    /* On phones the feed boxes grow to their full content height so the
+       page scrolls naturally instead of trapping touch scroll inside the
+       widget. (Desktop keeps the capped scroll boxes above.) */
+    .fb-page-scroll,
+    .fb-group-scroll {
+      max-height: none;
+      overflow: visible;
+    }
   }
 
   /* ===== PayPal support card ===== */
