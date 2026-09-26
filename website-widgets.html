@@ -351,6 +351,13 @@
     .rss-item-title { font-size: 13px; }
     .rss-meta { font-size: 10.5px; }
     .feed-btn { font-size: 11px; padding: 5px 10px; }
+    /* X row stacks to one card per line on phones (flex-basis 0 would
+       otherwise squeeze both cards side by side forever) */
+    .x-row .x-profile-card,
+    .x-row .x-list-card {
+      flex: none;
+      width: 100%;
+    }
   }
 
   /* ===== PayPal support card ===== */
