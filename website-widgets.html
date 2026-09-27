@@ -172,6 +172,31 @@
   .x-feed-scroll::-webkit-scrollbar-track { background: transparent; }
   .x-feed-scroll::-webkit-scrollbar-thumb { background-color: #2f3336; border-radius: 10px; }
 
+  /* ===== Fan Editors X list: retry + fallback (X's list-timeline backend
+     often renders the list name with no posts; auto-retry a few times,
+     then show a clean card instead of the empty name-only box) ===== */
+  .x-list-scroll { min-height: 120px; }
+  .x-list-fallback {
+    text-align: center;
+    padding: 56px 20px;
+    color: #71767b;
+    font-size: 14px;
+  }
+  .x-list-fallback p { margin: 0 0 16px; }
+  .x-list-reload {
+    display: block;
+    margin: 8px auto 0;
+    padding: 0;
+    background: none;
+    border: none;
+    color: #71767b;
+    font-size: 12px;
+    font-family: inherit;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  .x-list-reload:hover { color: #ffffff; }
+
   /* ===== X post cards (look like real X posts) ===== */
   .x-post {
     border: 1px solid #2f3336;
@@ -358,19 +383,6 @@
       flex: none;
       width: 100%;
     }
-    /* Phones: remove the nested inner scroll boxes so the page scrolls as one
-       continuous column instead of trapping swipes inside 380/300px regions.
-       Desktop keeps its inner scroll regions untouched. */
-    .x-feed-scroll,
-    .fb-page-scroll,
-    .fb-group-scroll {
-      max-height: none;
-      overflow: visible;
-    }
-    /* The X List timeline wrapper never got a CSS rule; keep it from
-       overflowing narrow phone screens. */
-    .x-list-scroll { min-width: 0; }
-    .x-list-scroll iframe { max-width: 100%; }
   }
 
   /* ===== PayPal support card ===== */
@@ -530,13 +542,6 @@
     .social-grid { gap: 12px 14px; }
     .social-icon { width: 44px; height: 44px; border-radius: 8px; }
   }
-  /* Touch screens have no hover: tooltips would stick on tap and the hover
-     lift would make icons jump. Desktop hover behavior is untouched. */
-  @media (hover: none) {
-    .social-icon-btn::after,
-    .social-icon-btn::before { display: none; }
-    .social-icon-btn:hover { transform: none; }
-  }
 </style>
 </head>
 <body>
@@ -574,11 +579,89 @@
         </div>
         <a href="https://x.com/i/lists/2072540475530084770" target="_blank" class="feed-btn" style="background-color:#ffffff;color:#000000;">Follow</a>
       </div>
-      <div class="x-list-scroll">
-        <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders transparent" data-height="380" href="https://x.com/FanEditFanClub/lists/2072540475530084770?ref_src=twsrc%5Etfw">Fan Editors &mdash; an X List by FanEditFanClub</a>
-        <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+      <div class="x-list-scroll" id="x-list-scroll">
+        <div id="x-list-timeline"></div>
+        <div class="x-list-fallback" id="x-list-fallback" hidden>
+          <p>The X list feed isn't loading right now.</p>
+          <button type="button" class="action-btn" id="x-list-try-again" style="width:auto;padding:10px 28px;">Try again</button>
+        </div>
       </div>
       <a href="https://x.com/i/lists/2072540475530084770" target="_blank" class="action-btn">Open X List</a>
+      <button type="button" class="x-list-reload" id="x-list-reload">Reload feed</button>
+      <script>
+      /* Fan Editors X list loader: X's list-timeline backend is flaky and often
+         renders the list name with no posts. If the embed never turns into a
+         timeline iframe, retry automatically (up to 3 times), then show a clean
+         fallback card. The "Reload feed" / "Try again" buttons re-run the load
+         on demand for the name-only-no-posts case (the iframe is cross-origin
+         so its inner content can't be inspected). */
+      (function () {
+        var holder = document.getElementById('x-list-timeline');
+        var fallback = document.getElementById('x-list-fallback');
+        var reloadBtn = document.getElementById('x-list-reload');
+        var tryAgainBtn = document.getElementById('x-list-try-again');
+        if (!holder || !fallback) return;
+        var LIST_URL = 'https://x.com/FanEditFanClub/lists/2072540475530084770?ref_src=twsrc%5Etfw';
+        var MAX_TRIES = 3, tries = 0, timer = null;
+
+        function build() {
+          holder.innerHTML = '';
+          holder.style.display = '';
+          fallback.hidden = true;
+          var a = document.createElement('a');
+          a.className = 'twitter-timeline';
+          a.setAttribute('data-theme', 'dark');
+          a.setAttribute('data-chrome', 'noheader nofooter noborders transparent');
+          a.setAttribute('data-height', '380');
+          a.href = LIST_URL;
+          a.textContent = 'Fan Editors \u2014 an X List by FanEditFanClub';
+          holder.appendChild(a);
+        }
+        function clearTimer() { if (timer) { clearTimeout(timer); timer = null; } }
+        function showFallback() {
+          clearTimer();
+          holder.style.display = 'none';
+          fallback.hidden = false;
+        }
+        function attempt() {
+          clearTimer();
+          tries++;
+          build();
+          if (window.twttr && twttr.widgets && twttr.widgets.load) twttr.widgets.load(holder);
+          timer = setTimeout(function () {
+            if (!holder.querySelector('iframe')) {
+              if (tries < MAX_TRIES) attempt();
+              else showFallback();
+            }
+          }, 9000);
+        }
+        function start() { tries = 0; attempt(); }
+        function ensureWidgetsThenStart() {
+          if (window.twttr && twttr.widgets) { start(); return; }
+          var s = document.querySelector('script[data-x-list-widgets]');
+          if (!s) {
+            s = document.createElement('script');
+            s.setAttribute('data-x-list-widgets', '1');
+            s.async = true;
+            s.src = 'https://platform.x.com/widgets.js';
+            s.charset = 'utf-8';
+            s.onload = function () { setTimeout(start, 400); };
+            s.onerror = showFallback;
+            document.head.appendChild(s);
+          } else {
+            var waited = 0;
+            var iv = setInterval(function () {
+              waited += 500;
+              if (window.twttr && twttr.widgets) { clearInterval(iv); start(); }
+              else if (waited >= 10000) { clearInterval(iv); showFallback(); }
+            }, 500);
+          }
+        }
+        if (tryAgainBtn) tryAgainBtn.addEventListener('click', start);
+        if (reloadBtn) reloadBtn.addEventListener('click', start);
+        ensureWidgetsThenStart();
+      })();
+      </script>
     </div>
   </div>
 
@@ -788,9 +871,6 @@
 
 <script>
   var FEEDS_BASE = "https://faneditfanclub.github.io/fanedit-social-feeds";
-  /* Phones show fewer posts per feed: with the inner scroll boxes removed,
-     fewer posts keeps the page height sane. Desktop still shows 6. */
-  var POST_LIMIT = window.innerWidth <= 480 ? 4 : 6;
 
   function escapeHtml(s) {
     return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -825,7 +905,7 @@
       var el = document.getElementById('x-feed');
       if (!el) return;
       if (posts && posts.length > 0) {
-        el.innerHTML = posts.slice(0, POST_LIMIT).map(function (p) {
+        el.innerHTML = posts.slice(0, 6).map(function (p) {
           var actions = ['reply', 'repost', 'like', 'views'].map(function (k) {
             return '<a class="x-post-action" href="' + p.url + '" target="_blank">' + X_SVGS[k] + '</a>';
           }).join('');
@@ -855,7 +935,7 @@
       var el = document.getElementById('fb-page-feed');
       if (!el) return;
       if (posts && posts.length > 0) {
-        el.innerHTML = posts.slice(0, POST_LIMIT).map(function (p) {
+        el.innerHTML = posts.slice(0, 6).map(function (p) {
           var avatar = profile.picture
             ? '<img class="fb-post-avatar" src="' + profile.picture + '" alt="">'
             : '<div class="fb-logo-graphic" style="width:40px;height:40px;margin-right:0;"></div>';
