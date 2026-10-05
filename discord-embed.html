@@ -126,6 +126,65 @@
     .discord-merge {
       padding: 8px;
       height: auto;
+      position: relative;
+    }
+    /* Mobile touch guard: the stacked panels are ~850px of cross-origin
+       iframes — about one full phone viewport. Every swipe starting over
+       them scrolls the widget's inner chat instead of the page, so visitors
+       get stuck and can't swipe past the block. The guard covers the merge
+       box so page swipes pass through; one tap drops it for full
+       interaction, and the Done button brings it back. Desktop untouched. */
+    .touch-guard {
+      display: none;
+      position: absolute;
+      inset: 0;
+      z-index: 10;
+      align-items: center;
+      justify-content: center;
+      background: transparent;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    .touch-guard.armed {
+      display: flex;
+    }
+    .touch-guard-pill {
+      pointer-events: none;
+      background: #5865f2;
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 700;
+      padding: 12px 26px;
+      border-radius: 9999px;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.55);
+      white-space: nowrap;
+    }
+    .touch-relock {
+      display: none;
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      z-index: 11;
+      min-width: 64px;
+      height: 36px;
+      padding: 0 14px;
+      border-radius: 9999px;
+      border: 1px solid #4e5058;
+      background: rgba(30, 31, 34, 0.94);
+      color: #dbdee1;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      align-items: center;
+      justify-content: center;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .touch-relock.show {
+      display: flex;
     }
     .discord-panel {
       order: 1;
@@ -195,8 +254,40 @@
       ></widgetbot>
     </div>
   </div>
+  <button type="button" class="touch-guard" id="touch-guard" aria-label="Tap to open the Discord chat">
+    <span class="touch-guard-pill">Tap to open chat</span>
+  </button>
+  <button type="button" class="touch-relock" id="touch-relock" aria-label="Done chatting — lock the widget so the page scrolls">Done</button>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+<script>
+/* Mobile touch guard: arm the overlay on narrow screens so page swipes pass
+   through instead of getting trapped in the widget's iframes. One tap drops
+   it for full chat interaction; the Done button brings it back. No-JS or
+   desktop: guard never arms, widget behaves exactly as before. */
+(function () {
+  var guard = document.getElementById('touch-guard');
+  var relock = document.getElementById('touch-relock');
+  if (!guard || !relock || !window.matchMedia) return;
+  var mq = window.matchMedia('(max-width: 900px)');
+  function apply() {
+    var on = mq.matches;
+    guard.classList.toggle('armed', on);
+    if (!on) relock.classList.remove('show');
+  }
+  guard.addEventListener('click', function () {
+    guard.classList.remove('armed');
+    relock.classList.add('show');
+  });
+  relock.addEventListener('click', function () {
+    guard.classList.add('armed');
+    relock.classList.remove('show');
+  });
+  if (mq.addEventListener) mq.addEventListener('change', apply);
+  else if (mq.addListener) mq.addListener(apply);
+  apply();
+})();
+</script>
 <script>
 (function () {
   var overlay = document.getElementById('wb-loading');
