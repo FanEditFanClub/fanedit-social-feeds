@@ -105,6 +105,14 @@
   @keyframes wb-spin {
     to { transform: rotate(360deg); }
   }
+  /* Touch-guard buttons are mobile-only: keep them out of the layout at
+     desktop widths. (Their visible styles live inside the max-width:900px
+     query below; without this base rule the <button> defaults render a
+     stray "Tap to open chat" pill and "Done" button on wide screens.) */
+  .touch-guard,
+  .touch-relock {
+    display: none;
+  }
   /* Below this width, side-by-side gets too cramped for either panel to
      read well — stack them instead of letting them squeeze/overlap.
      NOTE: the desktop `flex` shorthands set a flex-basis, which would
