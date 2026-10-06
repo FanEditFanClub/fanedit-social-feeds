@@ -3,13 +3,13 @@
 
 - x-posts.json: latest sent X posts, via Buffer's GraphQL API.
 - fb-page.json: latest Fan Edit Fan Club Facebook Page posts, via the Graph API.
-- reddit-community.json: latest r/FanEditFanClub posts, via Reddit's public RSS.
-- reddit-multireddit.json: latest posts from the club's multireddit feed, via RSS.
+- reddit-community.json / reddit-multireddit.json: written by the daily
+  5pm ET browser scan (Muse cron), NOT by this script. Reddit killed public
+  RSS on 2026-11-13, so the scan replaces the old RSS fetch; this script
+  must not touch those files.
 
 Runs on GitHub Actions; served to the site via GitHub Pages. 100% free.
-Reddit's RSS endpoints serve fine without auth as long as the request
-carries a descriptive User-Agent; generic/no UA gets 403'd.
-Required env: BUFFER_TOKEN, FACEBOOK_PAGE_TOKEN (Reddit needs no credentials).
+Required env: BUFFER_TOKEN, FACEBOOK_PAGE_TOKEN.
 The page token is sent via Authorization header, never in the URL, and is
 never printed to logs.
 """
@@ -18,11 +18,9 @@ from __future__ import annotations
 import json
 import os
 import sys
-import time
 import urllib.parse
 import urllib.request
 import urllib.error
-import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
 UA = "fanedit-social-feeds/1.0 (by /u/faneditfanclub)"
@@ -145,31 +143,6 @@ def fetch_fb_page():
     }
 
 
-def fetch_reddit_rss(url, attempts=4):
-    """Fetch a Reddit RSS/Atom feed. Retries with backoff; None if all fail."""
-    ns = {"a": "http://www.w3.org/2005/Atom"}
-    for i in range(attempts):
-        try:
-            req = urllib.request.Request(url, method="GET")
-            req.add_header("User-Agent", UA)
-            with urllib.request.urlopen(req, timeout=30) as resp:
-                root = ET.fromstring(resp.read().decode())
-            posts = []
-            for entry in root.findall("a:entry", ns)[:LIMIT]:
-                link = entry.find("a:link", ns)
-                posts.append({
-                    "title": (entry.find("a:title", ns).text or "").strip(),
-                    "url": link.get("href") if link is not None else "",
-                    "published": entry.find("a:updated", ns).text,
-                    "author": (entry.find("a:author/a:name", ns).text or "").strip(),
-                })
-            return {"updated_at": datetime.now(timezone.utc).isoformat(), "posts": posts}
-        except Exception as e:  # noqa: BLE001 - any failure -> retry/skip
-            print(f"RSS attempt {i + 1}/{attempts} failed for {url}: {e}")
-            time.sleep(2 * (i + 1))
-    return None
-
-
 def write(name, payload):
     if payload is None:
         print(f"{name}: no data, leaving existing file.")
@@ -183,10 +156,8 @@ def main():
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
     write("x-posts.json", fetch_x_posts())
     write("fb-page.json", fetch_fb_page())
-    write("reddit-community.json",
-          fetch_reddit_rss("https://www.reddit.com/r/FanEditFanClub/new/.rss"))
-    write("reddit-multireddit.json",
-          fetch_reddit_rss("https://www.reddit.com/user/faneditfanclub/m/fan_edit_fan_club_reddit_feed/new/.rss"))
+    # reddit-*.json are owned by the daily 5pm ET browser scan; never
+    # write them here (Reddit RSS is dead as of 2026-11-13).
 
 
 if __name__ == "__main__":
