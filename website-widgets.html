@@ -579,89 +579,10 @@
         </div>
         <a href="https://x.com/i/lists/2072540475530084770" target="_blank" class="feed-btn" style="background-color:#ffffff;color:#000000;">Follow</a>
       </div>
-      <div class="x-list-scroll" id="x-list-scroll">
-        <div id="x-list-timeline"></div>
-        <div class="x-list-fallback" id="x-list-fallback" hidden>
-          <p>The X list feed isn't loading right now.</p>
-          <button type="button" class="action-btn" id="x-list-try-again" style="width:auto;padding:10px 28px;">Try again</button>
-        </div>
+      <div class="rss-feed-list x-feed-scroll" id="x-list-feed">
+        <div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">Loading posts...</div>
       </div>
       <a href="https://x.com/i/lists/2072540475530084770" target="_blank" class="action-btn">Open X List</a>
-      <button type="button" class="x-list-reload" id="x-list-reload">Reload feed</button>
-      <script>
-      /* Fan Editors X list loader: X's list-timeline backend is flaky and often
-         renders the list name with no posts. If the embed never turns into a
-         timeline iframe, retry automatically (up to 3 times), then show a clean
-         fallback card. The "Reload feed" / "Try again" buttons re-run the load
-         on demand for the name-only-no-posts case (the iframe is cross-origin
-         so its inner content can't be inspected). */
-      (function () {
-        var holder = document.getElementById('x-list-timeline');
-        var fallback = document.getElementById('x-list-fallback');
-        var reloadBtn = document.getElementById('x-list-reload');
-        var tryAgainBtn = document.getElementById('x-list-try-again');
-        if (!holder || !fallback) return;
-        var LIST_URL = 'https://x.com/FanEditFanClub/lists/2072540475530084770?ref_src=twsrc%5Etfw';
-        var MAX_TRIES = 3, tries = 0, timer = null;
-
-        function build() {
-          holder.innerHTML = '';
-          holder.style.display = '';
-          fallback.hidden = true;
-          var a = document.createElement('a');
-          a.className = 'twitter-timeline';
-          a.setAttribute('data-theme', 'dark');
-          a.setAttribute('data-chrome', 'noheader nofooter noborders transparent');
-          a.setAttribute('data-height', '380');
-          a.href = LIST_URL;
-          a.textContent = 'Fan Editors \u2014 an X List by FanEditFanClub';
-          holder.appendChild(a);
-        }
-        function clearTimer() { if (timer) { clearTimeout(timer); timer = null; } }
-        function showFallback() {
-          clearTimer();
-          holder.style.display = 'none';
-          fallback.hidden = false;
-        }
-        function attempt() {
-          clearTimer();
-          tries++;
-          build();
-          if (window.twttr && twttr.widgets && twttr.widgets.load) twttr.widgets.load(holder);
-          timer = setTimeout(function () {
-            if (!holder.querySelector('iframe')) {
-              if (tries < MAX_TRIES) attempt();
-              else showFallback();
-            }
-          }, 9000);
-        }
-        function start() { tries = 0; attempt(); }
-        function ensureWidgetsThenStart() {
-          if (window.twttr && twttr.widgets) { start(); return; }
-          var s = document.querySelector('script[data-x-list-widgets]');
-          if (!s) {
-            s = document.createElement('script');
-            s.setAttribute('data-x-list-widgets', '1');
-            s.async = true;
-            s.src = 'https://platform.x.com/widgets.js';
-            s.charset = 'utf-8';
-            s.onload = function () { setTimeout(start, 400); };
-            s.onerror = showFallback;
-            document.head.appendChild(s);
-          } else {
-            var waited = 0;
-            var iv = setInterval(function () {
-              waited += 500;
-              if (window.twttr && twttr.widgets) { clearInterval(iv); start(); }
-              else if (waited >= 10000) { clearInterval(iv); showFallback(); }
-            }, 500);
-          }
-        }
-        if (tryAgainBtn) tryAgainBtn.addEventListener('click', start);
-        if (reloadBtn) reloadBtn.addEventListener('click', start);
-        ensureWidgetsThenStart();
-      })();
-      </script>
     </div>
   </div>
 
@@ -892,7 +813,7 @@
     document.getElementById(elId).innerHTML = '<div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">No posts found yet.</div>';
   }
 
-  /* ---- X feed: latest @FanEditFanClub posts (via Buffer, refreshed every 30 min) ---- */
+  /* ---- X feed: @FanEditFanClub posts (syndication, Buffer fills gaps) ---- */
   var X_SVGS = {
     reply: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>',
     repost: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg>',
@@ -921,6 +842,33 @@
       } else { feedEmpty('x-feed'); }
     })
     .catch(function () { feedFail('x-feed'); });
+
+  /* Fan Editors list: posts are refreshed server-side into x-list.json.
+     The old twitter-timeline widget is not loaded (it renders blank when
+     syndication.twitter.com returns 429 to the visitor's IP). */
+  fetch(FEEDS_BASE + "/x-list.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var posts = data && data.posts;
+      var el = document.getElementById('x-list-feed');
+      if (!el) return;
+      if (posts && posts.length > 0) {
+        el.innerHTML = posts.slice(0, 6).map(function (p) {
+          var name = p.author_name || 'Fan Editors';
+          var handle = (p.author_handle || '').replace(/^@/, '');
+          var avatar = p.author_avatar
+            ? '<img class="fb-post-avatar" src="' + escapeHtml(p.author_avatar) + '" alt="">'
+            : '<div class="x-post-avatar"></div>';
+          return '<article class="x-post">' +
+            '<div class="x-post-header">' + avatar +
+            '<div class="x-post-names"><span class="x-post-name">' + escapeHtml(name) + '</span>' +
+            '<a class="x-post-date" href="' + p.url + '" target="_blank">@' + escapeHtml(handle) + ' &middot; ' + fmtDate(p.created_at || p.sent_at) + '</a></div></div>' +
+            '<div class="x-post-body">' + linkify(p.text) + '</div>' +
+          '</article>';
+        }).join('');
+      } else { feedEmpty('x-list-feed'); }
+    })
+    .catch(function () { feedFail('x-list-feed'); });
 
   /* ---- Facebook Page feed: latest page posts (via Graph API, refreshed every 30 min) ---- */
   var FB_SVGS = {

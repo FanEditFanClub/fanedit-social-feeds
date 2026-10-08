@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" data-ratio="5/8">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--
+  Google Sites embed box ratio: width:height = 5:8 (height = 1.6 × width).
+  Replaces the Facebook Page card.
+-->
+<link rel="stylesheet" href="embed.css">
+<title>Fan Edit Fan Club on Facebook</title>
+</head>
+<body>
+<article class="card">
+  <header class="bar">
+    <a class="brand" href="https://www.facebook.com/FanEditFanClub" target="_blank" rel="noopener noreferrer">
+      <img class="avatar" id="fb-avatar" alt="" src="https://i.imgur.com/xGyaOEB.jpeg">
+      <span class="brand-text">
+        <h1 id="fb-name">Fan Edit Fan Club</h1>
+        <p class="sub">Facebook Page</p>
+      </span>
+    </a>
+    <a class="pill blue" href="https://www.facebook.com/FanEditFanClub" target="_blank" rel="noopener noreferrer">Follow</a>
+  </header>
+  <div class="posts" id="posts"><p class="empty">Loading posts…</p></div>
+  <a class="more" href="https://www.facebook.com/FanEditFanClub" target="_blank" rel="noopener noreferrer">View more on Facebook</a>
+</article>
+<script src="embed.js"></script>
+<script>
+FanEmbed.mountPosts({
+  feed: "fb-page.json",
+  count: 4,
+  name: "Fan Edit Fan Club",
+  handle: "FanEditFanClub",
+  onData: function (data) {
+    var profile = data.profile || {};
+    if (profile.name) document.getElementById("fb-name").textContent = profile.name;
+    if (profile.picture) document.getElementById("fb-avatar").src = profile.picture;
+  }
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" data-ratio="5/8">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--
+  Google Sites embed box ratio: width:height = 5:8 (height = 1.6 × width).
+  Replaces the @FanEditFanClub profile card.
+-->
+<link rel="stylesheet" href="embed.css">
+<title>@FanEditFanClub on X</title>
+</head>
+<body>
+<article class="card">
+  <header class="bar">
+    <a class="brand" href="https://x.com/FanEditFanClub" target="_blank" rel="noopener noreferrer">
+      <img class="avatar" id="profile-avatar" alt="" src="https://i.imgur.com/xGyaOEB.jpeg">
+      <span class="brand-text">
+        <h1>Fan Edit Fan Club</h1>
+        <p class="sub">@FanEditFanClub on X</p>
+      </span>
+    </a>
+    <a class="pill" href="https://x.com/FanEditFanClub" target="_blank" rel="noopener noreferrer">Follow</a>
+  </header>
+  <div class="posts" id="posts"><p class="empty">Loading posts…</p></div>
+  <a class="more" href="https://x.com/FanEditFanClub" target="_blank" rel="noopener noreferrer">View more on X</a>
+</article>
+<script src="embed.js"></script>
+<script>
+FanEmbed.mountPosts({
+  feed: "x-posts.json",
+  count: 4,
+  name: "Fan Edit Fan Club",
+  handle: "FanEditFanClub",
+  onData: function (data) {
+    var picture = data.profile && data.profile.picture;
+    if (picture) document.getElementById("profile-avatar").src = picture;
+  }
+});
+</script>
+</body>
+</html>

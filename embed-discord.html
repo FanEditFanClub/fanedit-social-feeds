@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en" data-ratio="2/3">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--
+  Google Sites embed box ratio: width:height = 2:3 (height = 1.5 × width).
+  Replaces discord-embed.html. Live Discord widget + WidgetBot chat at every
+  width. On touch devices a transparent overlay lets the page scroll until
+  the visitor taps "Tap to interact".
+-->
+<title>Fan Edit Fan Club Discord</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; touch-action: pan-y; }
+  html, body {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    overscroll-behavior: none;
+    background: #313338;
+    color: #f2f3f5;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  .stage {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 1.6vw;
+    padding: 1.6vw;
+  }
+  .panel {
+    position: relative;
+    min-height: 0;
+    min-width: 0;
+    overflow: hidden;
+    border-radius: 1.4vw;
+    background: #2b2d31;
+  }
+  .panel.widget { flex: 0.85 1 0; }
+  .panel.chat { flex: 1.15 1 0; }
+  .panel iframe,
+  widgetbot {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  /* Armed only on touch devices (html.touch). The overlay sits above both
+     iframes so a vertical swipe scrolls the Google Sites page. The chat
+     stays visible through it. */
+  .guard {
+    display: none;
+    position: absolute;
+    inset: 0;
+    z-index: 5;
+    background: transparent;
+    touch-action: pan-y;
+  }
+  html.touch .guard { display: block; }
+  html.touch.interacting .guard { display: none; }
+  .tap, .done {
+    position: absolute;
+    z-index: 6;
+    border: 0;
+    border-radius: 999px;
+    font-family: inherit;
+    font-weight: 800;
+    cursor: pointer;
+    touch-action: manipulation;
+    text-wrap: balance;
+  }
+  .tap {
+    left: 50%;
+    bottom: 3.2vw;
+    transform: translateX(-50%);
+    background: #5865f2;
+    color: #ffffff;
+    font-size: 3.2vw;
+    padding: 1.8vw 3.4vw;
+    box-shadow: 0 0.6vw 1.8vw rgba(0, 0, 0, 0.45);
+  }
+  .done {
+    display: none;
+    top: 2.4vw;
+    right: 2.4vw;
+    background: rgba(30, 31, 34, 0.94);
+    color: #dbdee1;
+    border: 1px solid #4e5058;
+    font-size: 2.8vw;
+    padding: 1.2vw 2.4vw;
+  }
+  html.touch.interacting .done { display: inline-flex; }
+  button:focus-visible { outline: 2px solid #ffffff; outline-offset: 2px; }
+</style>
+<script>
+  document.documentElement.classList.toggle(
+    "touch",
+    window.matchMedia("(pointer: coarse)").matches
+  );
+</script>
+</head>
+<body>
+<div class="stage">
+  <div class="panel widget">
+    <iframe
+      src="https://discord.com/widget?id=1529915531736383702&theme=dark"
+      title="Fan Edit Fan Club Discord"
+      allowtransparency="true"
+      sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+    </iframe>
+  </div>
+  <div class="panel chat">
+    <widgetbot
+      server="1529915531736383702"
+      channel="1529915534466875546"
+      width="100%"
+      height="100%"
+      shard="https://e.widgetbot.io">
+    </widgetbot>
+  </div>
+  <div class="guard" id="guard">
+    <button type="button" class="tap" id="tap">Tap to interact</button>
+  </div>
+  <button type="button" class="done" id="done">Done</button>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+<script>
+(function () {
+  var root = document.documentElement;
+  var guard = document.getElementById("guard");
+  var tap = document.getElementById("tap");
+  var done = document.getElementById("done");
+  if (!guard || !tap || !done) return;
+  var moved = false;
+  var startY = 0;
+  guard.addEventListener("touchstart", function (event) {
+    moved = false;
+    startY = event.touches && event.touches[0] ? event.touches[0].clientY : 0;
+  }, { passive: true });
+  guard.addEventListener("touchmove", function (event) {
+    var y = event.touches && event.touches[0] ? event.touches[0].clientY : startY;
+    if (Math.abs(y - startY) > 8) moved = true;
+  }, { passive: true });
+  tap.addEventListener("click", function () {
+    if (moved) return;
+    root.classList.add("interacting");
+  });
+  done.addEventListener("click", function () {
+    root.classList.remove("interacting");
+  });
+})();
+</script>
+</body>
+</html>

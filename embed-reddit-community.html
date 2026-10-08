@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" data-ratio="4/5">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--
+  Google Sites embed box ratio: width:height = 4:5 (height = 1.25 × width).
+  Replaces the r/FanEditFanClub card.
+-->
+<link rel="stylesheet" href="embed.css">
+<title>r/FanEditFanClub</title>
+</head>
+<body>
+<article class="card">
+  <header class="bar">
+    <a class="brand" href="https://www.reddit.com/r/FanEditFanClub" target="_blank" rel="noopener noreferrer">
+      <svg class="icon" viewBox="0 0 20 20" aria-hidden="true">
+        <path d="M16.67 10a1.46 1.46 0 0 0-2.47-1 7.12 7.12 0 0 0-3.85-1.23l.65-3.08 2.13.45a1.08 1.08 0 1 0 1.13-1 1.08 1.08 0 0 0-1.07.82l-2.37-.5a.18.18 0 0 0-.21.14l-.74 3.47a7.14 7.14 0 0 0-3.86 1.23 1.46 1.46 0 1 0-1.61 2.39 2.87 2.87 0 0 0 0 .44c0 2.22 2.58 4 5.77 4s5.77-1.8 5.77-4a2.87 2.87 0 0 0 0-.44 1.46 1.46 0 0 0 .74-1.7zm-9.33 1.2a1 1 0 1 1 1 1 1 1 0 0 1-1-1zm5.2 2.45a3.43 3.43 0 0 1-2.54.77 3.43 3.43 0 0 1-2.54-.77.18.18 0 0 1 .25-.26 3.08 3.08 0 0 0 2.29.65 3.08 3.08 0 0 0 2.29-.65.18.18 0 0 1 .25.26zm-.37-1.45a1 1 0 1 1 1-1 1 1 0 0 1-1 1z"/>
+      </svg>
+      <span class="brand-text">
+        <h1>r/FanEditFanClub</h1>
+        <p class="sub reddit">Latest discussions</p>
+      </span>
+    </a>
+    <a class="pill reddit" href="https://www.reddit.com/r/FanEditFanClub" target="_blank" rel="noopener noreferrer">Open</a>
+  </header>
+  <div class="posts" id="posts"><p class="empty">Loading posts…</p></div>
+  <a class="more" href="https://www.reddit.com/r/FanEditFanClub" target="_blank" rel="noopener noreferrer">View more on Reddit</a>
+</article>
+<script src="embed.js"></script>
+<script>
+FanEmbed.mountReddit({ feed: "reddit-community.json", count: 5 });
+</script>
+</body>
+</html>
