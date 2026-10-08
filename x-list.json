@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T23:06:40+00:00",
+ "updated_at": "2026-10-08T23:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2108335380319907917",
+   "text": "S1 E2 '46 Long' | 522 of 632",
+   "url": "https://x.com/SopranosOrder/status/2108335380319907917",
+   "created_at": "2026-10-08T23:15:00+00:00",
+   "sent_at": "2026-10-08T23:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUGwscXXsAAh9CY.jpg"
+  },
+  {
    "id": "2108333190653915625",
    "text": "\"Confused, Potter? I was a guy the whole time, and whom you fell in love with, was a lie. A fictitious character of my design. Whatever will you do now with your dearly beloved having never existed? Oh don't cry. You didn't think anyone would ever really love you back, did you?\"",
    "url": "https://x.com/TheManlet_King/status/2108333190653915625",
@@ -22,8 +36,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 2,
+   "like_count": 16,
    "image": "https://pbs.twimg.com/media/HUJN3OHXcAA9Luj.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HUGwo6uWYAAXOiy.jpg"
-  },
-  {
-   "id": "2108327830337777993",
-   "text": "S1 E2 '46 Long' | 520 of 632",
-   "url": "https://x.com/SopranosOrder/status/2108327830337777993",
-   "created_at": "2026-10-08T22:45:00+00:00",
-   "sent_at": "2026-10-08T22:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HUBdNUUX0AAjJIs.jpg"
   },
   {
    "id": "2108317753983578336",
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 14,
-   "like_count": 266,
+   "repost_count": 15,
+   "like_count": 315,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HTlF2ocXsAAsB6-.jpg"
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 5,
+   "reply_count": 6,
    "repost_count": 2,
-   "like_count": 46,
+   "like_count": 47,
    "image": "https://pbs.twimg.com/media/HUIO2LwXcAE4ITb.jpg"
   },
   {
