@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T23:36:50+00:00",
+ "updated_at": "2026-10-08T23:52:16+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2108343876981293450",
+   "text": "the bruins actually playing the game of their life when my friends are watching a game with me for the first time. they did this for me",
+   "url": "https://x.com/uhbucky/status/2108343876981293450",
+   "created_at": "2026-10-08T23:48:46+00:00",
+   "sent_at": "2026-10-08T23:48:46+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HUJXk_bWgAEeQR2.jpg"
+  },
+  {
+   "id": "2108342929609654381",
+   "text": "S1 E2 '46 Long' | 524 of 632",
+   "url": "https://x.com/SopranosOrder/status/2108342929609654381",
+   "created_at": "2026-10-08T23:45:00+00:00",
+   "sent_at": "2026-10-08T23:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUGwzIpXYAA9J_M.jpg"
+  },
+  {
    "id": "2108339156414030313",
    "text": "S1 E2 '46 Long' | 523 of 632",
    "url": "https://x.com/SopranosOrder/status/2108339156414030313",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUGwwE-WEAAHcKE.jpg"
-  },
-  {
-   "id": "2108335380319907917",
-   "text": "S1 E2 '46 Long' | 522 of 632",
-   "url": "https://x.com/SopranosOrder/status/2108335380319907917",
-   "created_at": "2026-10-08T23:15:00+00:00",
-   "sent_at": "2026-10-08T23:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUGwscXXsAAh9CY.jpg"
   },
   {
    "id": "2108333190653915625",
@@ -50,8 +64,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 33,
+   "repost_count": 3,
+   "like_count": 41,
    "image": "https://pbs.twimg.com/media/HUJN3OHXcAA9Luj.jpg"
   },
   {
@@ -64,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 16,
-   "like_count": 343,
+   "repost_count": 17,
+   "like_count": 368,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HTlF2ocXsAAsB6-.jpg"
   },
   {
@@ -123,20 +137,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUIIlotXsAI2C0w.jpg"
-  },
-  {
-   "id": "2108186546017063179",
-   "text": "TWIN PEAKS VIBES - DAY 2 - PS5 PRO https://www.twitch.tv/tykjen #silverpines #ps5",
-   "url": "https://x.com/tykjen/status/2108186546017063179",
-   "created_at": "2026-10-08T13:23:35+00:00",
-   "sent_at": "2026-10-08T13:23:35+00:00",
-   "author_name": "Tykjen \ud83c\udde7\ud83c\uddfb",
-   "author_handle": "tykjen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1664069917488865280/ox3PqG_o_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
   }
  ]
 }
