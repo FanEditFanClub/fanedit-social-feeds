@@ -10,6 +10,12 @@
   posts that were not in the syndication window. The previous file is used
   only when Buffer itself is unavailable, so a failed run cannot wipe posts.
 - fb-page.json: latest Fan Edit Fan Club Facebook Page posts, via the Graph API.
+- fb-group.json: recent Facebook Group posts. Facebook removed the Groups
+  API in April 2024 and the Page Plugin does not show groups, so this reads
+  the public JSON behind the club's existing SociableKit "Facebook Group
+  Posts" widget (embed 25717067, the one website-widgets.html used). On the
+  free SociableKit plan that snapshot only changes when someone presses
+  "Request sync" in the SociableKit dashboard; paid plans sync on their own.
 - reddit-community.json / reddit-multireddit.json: written by the daily
   5pm ET browser scan (Muse cron), NOT by this script. Reddit killed public
   RSS on 2026-11-13, so the scan replaces the old RSS fetch; this script
@@ -37,7 +43,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
 UA = "Mozilla/5.0 (compatible; fanedit-social-feeds/1.0; +https://www.faneditfanclub.com)"
@@ -47,6 +53,10 @@ BUFFER_ORG_ID = "6a63a35db088b578e206e7b2"
 FB_PAGE_ID = "1240699955783812"
 FB_PAGE_TOKEN = os.environ.get("FACEBOOK_PAGE_TOKEN", "")
 LIMIT = 10
+
+FB_GROUP_URL = "https://www.facebook.com/groups/faneditfanclub"
+SOCIABLEKIT_GROUP_FEED = "https://data.accentapi.com/feed/25717067.json"
+GROUP_KEEP = 8
 
 LIST_ID = "2072540475530084770"
 SCREEN_NAME = "FanEditFanClub"
@@ -498,6 +508,69 @@ def fetch_fb_page():
     }
 
 
+def group_text(value):
+    """SociableKit gives Facebook's markdown-ish text. Keep plain words."""
+    text = html.unescape(value or "")
+    text = re.sub(r"\[([^\]]*)\]\((https?://[^)]+)\)", r"\1", text)
+    text = re.sub(r"^#+\s*", "", text, flags=re.MULTILINE)
+    text = text.replace("**", "")
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n\s*\n+", "\n", text)
+    return text.strip()
+
+
+SK_TZ = timezone(timedelta(hours=8))
+
+
+def sk_time(value):
+    """SociableKit stamps ('YYYY-MM-DD HH:MM:SS') are in its server time,
+    UTC+8: last_sync_info 2026-09-28 01:37:41 matched the feed's HTTP
+    Last-Modified of Sun, 27 Sep 2026 17:37:41 GMT. Return ISO UTC."""
+    try:
+        stamp = datetime.strptime(str(value), "%Y-%m-%d %H:%M:%S")
+    except (TypeError, ValueError):
+        return ""
+    stamp = stamp.replace(tzinfo=SK_TZ).astimezone(timezone.utc)
+    return stamp.strftime("%Y-%m-%dT%H:%M:%S+00:00")
+
+
+def fetch_fb_group():
+    data = http_json("GET", SOCIABLEKIT_GROUP_FEED, {"Accept": "application/json"})
+    if not isinstance(data, dict) or not isinstance(data.get("posts"), list):
+        print("fb-group: SociableKit feed unavailable")
+        return None
+    posts = []
+    for post in data["posts"]:
+        url = post.get("post_link") or ""
+        if not url.startswith(FB_GROUP_URL):
+            continue
+        text = group_text(post.get("description") or post.get("story"))
+        images = post.get("image_urls") or post.get("images") or []
+        image = images[0] if images and isinstance(images[0], str) else ""
+        if not text and not image:
+            continue
+        posts.append({
+            "id": str(post.get("post_id") or post.get("id") or ""),
+            "text": text,
+            "image": image,
+            "url": url,
+            "created_at": sk_time(post.get("publish_date")),
+            "author_name": post.get("profile_name") or "",
+        })
+    posts.sort(key=lambda item: item["created_at"], reverse=True)
+    synced = sk_time(data.get("last_sync_info"))
+    return {
+        "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00"),
+        "source": "sociablekit embed 25717067 (manual sync on the free plan)",
+        "source_synced_at": synced,
+        "group": {
+            "name": "Fan Edit Fan Club",
+            "url": FB_GROUP_URL,
+        },
+        "posts": posts[:GROUP_KEEP],
+    }
+
+
 def load_json(name):
     try:
         with open(name) as handle:
@@ -593,6 +666,7 @@ def main():
     existing_profile = load_json("x-posts.json")
     refresh_x(existing_profile)
     write("fb-page.json", fetch_fb_page())
+    write("fb-group.json", fetch_fb_group())
     # reddit-*.json are owned by the daily 5pm ET browser scan; never
     # write them here (Reddit RSS is dead as of 2026-11-13).
 

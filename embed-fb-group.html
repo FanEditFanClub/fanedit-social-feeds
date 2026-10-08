@@ -5,47 +5,100 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--
   Google Sites embed box ratio: width:height = 5:4 (height = 0.8 × width).
-  SociableKit's group feed scrolls, so this card is the group name, cover,
-  and a join button. A shorter box scales down; a taller box leaves space.
+  A shorter box scales down; a taller box shows more posts.
+
+  Posts come from fb-group.json, which fetch.py copies from the public feed
+  of the club's SociableKit "Facebook Group Posts" widget (embed 25717067,
+  the widget website-widgets.html used). Facebook has had no Groups API since
+  April 2024 and its Page Plugin cannot show a group, so there is no direct
+  free feed. On SociableKit's free plan the snapshot only changes after a
+  "Request sync" in the SociableKit dashboard, so each post shows its date.
 -->
 <link rel="stylesheet" href="embed.css">
 <title>Fan Edit Fan Club Facebook Group</title>
 <style>
-  .join {
+  .card.group { gap: 1.6rem; }
+  .hero {
+    position: relative;
+    flex: 0 0 auto;
+    height: 19rem;
+    border-radius: 1.6rem;
+    overflow: hidden;
+    background: #16181c url("fb-group-cover.jpg") center / cover no-repeat;
+    border: 1px solid #2f3336;
+    display: flex;
+    align-items: flex-end;
+  }
+  .hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,0) 15%, rgba(0,0,0,0.85) 100%);
+  }
+  .hero .bar {
+    position: relative;
+    width: 100%;
+    padding: 0 1.8rem 1.6rem;
+  }
+  .hero .avatar { width: 8.4rem; height: 8.4rem; border: 2px solid #000000; }
+  .hero .sub { color: #c4c8cc; }
+  .group-post { gap: 0.6rem; padding: 1.4rem 1.9rem 1.5rem; }
+  .group-post .meta { font-size: 2.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .group-post .post-text { -webkit-line-clamp: 2; }
+  .group-post.compact .post-text { -webkit-line-clamp: 1; }
+  .about {
+    flex: 1 1 auto;
+    color: #e7e9ea;
+    font-size: 3.4rem;
+    line-height: 1.35;
+    text-wrap: pretty;
+    display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    gap: 2.2rem;
+    padding: 0 2rem;
   }
-  .join-cover {
-    width: 26rem;
-    height: 26rem;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 1px solid #2f3336;
-    flex: 0 0 auto;
-    background: #16181c;
-  }
-  .join-copy {
-    color: #e7e9ea;
-    font-size: 3.05rem;
-    font-weight: 400;
-    line-height: 1.35;
-    text-wrap: pretty;
-    max-width: 78rem;
-  }
-  .join .more { width: 100%; }
 </style>
 </head>
 <body>
-<article class="card join">
-  <img class="join-cover" src="https://i.imgur.com/xGyaOEB.jpeg" alt="">
-  <div class="brand-text">
-    <h1>Fan Edit Fan Club</h1>
-    <p class="sub">Facebook Group</p>
+<article class="card group">
+  <div class="hero">
+    <header class="bar">
+      <a class="brand" href="https://www.facebook.com/groups/faneditfanclub" target="_blank" rel="noopener noreferrer">
+        <img class="avatar" alt="" src="https://i.imgur.com/xGyaOEB.jpeg">
+        <span class="brand-text">
+          <h1>Fan Edit Fan Club</h1>
+          <p class="sub">Facebook Group</p>
+        </span>
+      </a>
+      <a class="pill blue" href="https://www.facebook.com/groups/faneditfanclub" target="_blank" rel="noopener noreferrer">Join</a>
+    </header>
   </div>
-  <p class="join-copy">We're a Community for Fans &amp; Editors Dedicated to The Art of The Fan Edit.</p>
-  <a class="more pill blue" href="https://www.facebook.com/groups/faneditfanclub" target="_blank">Join the Facebook Group</a>
+  <div class="posts" id="posts">
+    <p class="about">A community for creators, editors &amp; fans dedicated to the art of the fan edit.</p>
+  </div>
+  <a class="more pill blue" href="https://www.facebook.com/groups/faneditfanclub" target="_blank" rel="noopener noreferrer">View posts in the group</a>
 </article>
+<script src="embed.js"></script>
+<script>
+(function () {
+  var E = window.FanEmbed;
+  var el = document.getElementById("posts");
+  E.load("fb-group.json").then(function (data) {
+    var posts = (data && data.posts) || [];
+    if (!posts.length) return; /* keep the group description */
+    el.innerHTML = posts.slice(0, 8).map(function (post) {
+      var when = E.fmt(post.created_at);
+      var who = post.author_name || "Fan Edit Fan Club";
+      var meta = when ? who + " · " + when : who;
+      return '<a class="post group-post" href="' + E.esc(post.url) + '" target="_blank" rel="noopener noreferrer">' +
+        '<span class="meta">' + E.esc(meta) + "</span>" +
+        '<span class="post-text">' + E.esc(E.tidy(post.text)).replace(/\n/g, "<br>") + "</span>" +
+      "</a>";
+    }).join("");
+    E.keepFitted(el);
+  }).catch(function () { /* keep the group description */ });
+})();
+</script>
 </body>
 </html>
