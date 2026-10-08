@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en" data-ratio="4/5" style="--ratio: 1.25">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--
+  Google Sites embed box ratio: width:height = 4:5 (height = 1.25 × width).
+  The hosted button keeps the browser's normal font size (its form uses rem).
+  Our heading uses --u = min(1vw, 1vh / 1.25). A shorter box zooms the button
+  down so the card does not scroll. A taller box leaves space. Popups are fine.
+-->
+<title>Support Fan Edit Fan Club</title>
+<style>
+  * { box-sizing: border-box; touch-action: pan-y; }
+  html {
+    --ratio: 1.25;
+    --u: min(1vw, calc(1vh / var(--ratio)));
+  }
+  html, body {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    overscroll-behavior: none;
+    background: #000000;
+    color: #e7e9ea;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  .card {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: calc(1.6 * var(--u));
+    padding: calc(3.2 * var(--u)) calc(4 * var(--u));
+    background: #000000;
+    border: 1px solid #2f3336;
+    border-radius: calc(2.2 * var(--u));
+    text-align: center;
+  }
+  h1 {
+    margin: 0;
+    color: #ffffff;
+    font-size: calc(4.6 * var(--u));
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.15;
+    text-wrap: balance;
+  }
+  .sub {
+    margin: 0 0 calc(1.2 * var(--u));
+    color: #c9d1d9;
+    font-size: calc(3 * var(--u));
+    font-weight: 600;
+    line-height: 1.3;
+    text-wrap: pretty;
+  }
+  #paypal-container-6N34NNU436TT4 {
+    width: 100%;
+    max-width: calc(92 * var(--u));
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #paypal-container-6N34NNU436TT4 * {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+  }
+  #paypal-container-6N34NNU436TT4 > div { width: 100% !important; }
+  #paypal-container-6N34NNU436TT4 div,
+  #paypal-container-6N34NNU436TT4 span,
+  #paypal-container-6N34NNU436TT4 label,
+  #paypal-container-6N34NNU436TT4 p {
+    color: #e8eaed !important;
+  }
+  #paypal-container-6N34NNU436TT4 input {
+    color: #e8eaed !important;
+    background-color: #2a2f35 !important;
+    border-color: #3d444d !important;
+  }
+  #paypal-container-6N34NNU436TT4 #form-container-6N34NNU436TT4 > h3#desc-label,
+  #paypal-container-6N34NNU436TT4 #form-container-6N34NNU436TT4 > form {
+    display: inline !important;
+  }
+  #paypal-container-6N34NNU436TT4 #desc-label::after {
+    content: "\00a0\2014\00a0";
+  }
+  #paypal-container-6N34NNU436TT4 label.input-label[for="amount"] {
+    display: inline !important;
+    font-size: 1.17em !important;
+    font-weight: 700 !important;
+    margin-bottom: 0 !important;
+  }
+  #paypal-container-6N34NNU436TT4 .amount-container {
+    margin-top: 12px !important;
+  }
+  #paypal-container-6N34NNU436TT4 iframe {
+    margin-top: 10px !important;
+  }
+  button:focus-visible, a:focus-visible {
+    outline: 2px solid #1d9bf0;
+    outline-offset: 2px;
+  }
+</style>
+</head>
+<body>
+<article class="card">
+  <h1>Support Fan Edit Fan Club</h1>
+  <p class="sub">Safe &amp; Secure Payment via PayPal or Venmo</p>
+  <div id="paypal-container-6N34NNU436TT4"></div>
+</article>
+<script src="https://www.paypal.com/sdk/js?client-id=BAAOf94djAa5CPNEqov7_VKaz7cLdghzLv-FPW4D7z_hdQO3rHzp9pDbwfzzdkO3T7b4Pk1lNIITEstuss&components=hosted-buttons&enable-funding=venmo&currency=USD"></script>
+<script>
+  paypal.HostedButtons({
+    hostedButtonId: "6N34NNU436TT4",
+    style: {
+      layout: "vertical",
+      color: "gold",
+      shape: "rect",
+      label: "paypal",
+      tagline: false
+    }
+  }).render("#paypal-container-6N34NNU436TT4");
+
+  (function () {
+    var card = document.querySelector(".card");
+    var box = document.getElementById("paypal-container-6N34NNU436TT4");
+    var timer = 0;
+    function overflow() {
+      var cardRect = card.getBoundingClientRect();
+      var top = Infinity;
+      var bottom = -Infinity;
+      for (var i = 0; i < card.children.length; i++) {
+        var r = card.children[i].getBoundingClientRect();
+        if (r.height < 1) continue;
+        top = Math.min(top, r.top);
+        bottom = Math.max(bottom, r.bottom);
+      }
+      return Math.max(bottom - (cardRect.bottom - 1), (cardRect.top + 1) - top, 0);
+    }
+    function fit() {
+      box.style.zoom = "1";
+      var extra = overflow();
+      if (extra > 1) {
+        var h = box.getBoundingClientRect().height || 1;
+        var scale = Math.max(0.45, (h - extra) / h);
+        box.style.zoom = String(scale);
+        extra = overflow();
+        if (extra > 1) {
+          var h2 = box.getBoundingClientRect().height || 1;
+          box.style.zoom = String(Math.max(0.45, scale * (h2 - extra) / h2));
+        }
+      }
+    }
+    function schedule() {
+      window.clearTimeout(timer);
+      timer = window.setTimeout(fit, 60);
+    }
+    window.addEventListener("resize", schedule);
+    new MutationObserver(schedule).observe(box, { childList: true, subtree: true });
+    schedule();
+  })();
+</script>
+</body>
+</html>

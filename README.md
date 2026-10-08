@@ -13,37 +13,48 @@ X's syndication host allows about 30 requests per 15 minutes **per IP**. GitHub-
 
 ## Google Sites embeds
 
-Google Sites sizes each Embed box as width × a fixed ratio, and that box gets shorter when the screen gets narrower. These pages are built to that box: the document is exactly the iframe, type and spacing scale with the width, overflow is hidden, and nothing inside the card scrolls. Set each box to the ratio below (drag the embed until the shape matches). A page that is a little shorter than the box just shows black; it will not grow a scrollbar.
+Google Sites sizes each Embed box as width × a ratio, and that box gets shorter when the screen gets narrower. The ratio is set by dragging, so it will only be close (a 5:8 box might land around 5:7.6 or 5:8.4). These pages fit that: the document is the iframe, overflow is hidden, nothing inside scrolls, and `touch-action: pan-y` lets a vertical swipe move the page.
+
+Type and spacing use one unit, `--u = min(1vw, 1vh / ratio)`. At the documented ratio, and when the box is a bit taller, that unit is the width, so the layout stays the designed size and the extra height is empty space. When the box is a bit shorter, the unit shrinks until the same layout fits the height. Aim for the ratio below. About 10% either way still fits.
 
 Base URL: `https://faneditfanclub.github.io/fanedit-social-feeds/`
 
-Embed code (swap the file name). The box ratio is set in the Sites editor, not by the iframe height:
+Embed code (swap the file name and title). The box ratio is set in the Sites editor, not by the iframe height:
 
 ```html
 <iframe src="https://faneditfanclub.github.io/fanedit-social-feeds/embed-x-list.html" title="Fan Editors on X" style="width:100%;height:100%;border:0;"></iframe>
 ```
 
-| New page | Box ratio (W:H) | Height ÷ width | Replaces |
+| Page | Box ratio (W:H) | Height ÷ width | Replaces |
 | --- | --- | --- | --- |
-| `embed-x-list.html` | **5:8** | 1.60 | Fan Editors list card in `website-widgets.html` and the list half of `x-tab.html` (the old `widgets.js` timeline) |
-| `embed-x-profile.html` | **5:8** | 1.60 | @FanEditFanClub card in `website-widgets.html` and the profile half of `x-tab.html` |
-| `embed-facebook.html` | **5:8** | 1.60 | Facebook Page card in `website-widgets.html` / `facebook-tab.html` |
-| `embed-reddit-community.html` | **4:5** | 1.25 | r/FanEditFanClub card in `website-widgets.html` / `reddit-tab.html` |
-| `embed-reddit-feed.html` | **4:5** | 1.25 | Multireddit card in `website-widgets.html` / `reddit-tab.html` |
-| `embed-discord.html` | **2:3** | 1.50 | `discord-embed.html` on the homepage |
+| `embed-x-list.html` | **5:8** | 1.60 | Fan Editors list card (the old `widgets.js` timeline) |
+| `embed-x-profile.html` | **5:8** | 1.60 | @FanEditFanClub card |
+| `embed-facebook.html` | **5:8** | 1.60 | Facebook Page card |
+| `embed-reddit-community.html` | **4:5** | 1.25 | r/FanEditFanClub card |
+| `embed-reddit-feed.html` | **4:5** | 1.25 | Multireddit card |
+| `embed-discord.html` | **2:3** | 1.50 | `discord-embed.html` |
+| `embed-fb-group.html` | **5:4** | 0.80 | Facebook Group block. SociableKit scrolls, so this is the group name, cover, and **Join the Facebook Group** (`https://www.facebook.com/groups/faneditfanclub`) |
+| `embed-paypal.html` | **4:5** | 1.25 | PayPal / Venmo card (hosted button `6N34NNU436TT4`). The amount field and buttons stay inside the box; the PayPal window may open as a popup |
+| `embed-icons.html` | **11:6** | 0.545 | Social icon grid, 11 columns × 6 rows. The Website icon opens `https://www.faneditfanclub.com` |
 
 Do not drop a 5:8 card into a full-width desktop section. At 1366px that box is 2186px tall. Use columns; Google Sites stacks a multi-column section into full width on phones.
 
-| Row | Cards | Columns | Box at ~400px | Box at 390px phone |
+Homepage, top to bottom:
+
+| Row | Cards | How to place it | At ~400px wide | At 390px phone |
 | --- | --- | --- | --- | --- |
-| 1 | X list, X profile, Facebook | 3, about 400px each | 400×640 (5:8) | 390×624 (5:8) |
-| 2 | r/FanEditFanClub, Reddit multireddit | 2 | half the section, still 4:5 | 390×488 (4:5) |
-| 3 | Discord | its own row | about 800×1200 (2:3) keeps the chat usable | 390×585 (2:3) |
+| 1 | X list, X profile, Facebook Page | 3 columns, about 400px each | 400×640 (5:8) | 390×624, stacked |
+| 2 | r/FanEditFanClub, Reddit multireddit | 2 columns | half the section, still 4:5 | 390×488, stacked |
+| 3 | Discord | its own row, about 800px wide so the chat stays usable | 800×1200 (2:3) | 390×585 |
+| 4 | Facebook Group, PayPal | 2 columns, about 400–480px. PayPal is 4:5 and the group card is 5:4, so the PayPal box is taller | group 480×384, PayPal 480×600 | group 390×312, PayPal 390×488, stacked |
+| 5 | Icon grid | full width. 11:6 is short enough to span the section | 1366×745, 1200×655, 768×419 | 390×213 |
 
-Type is sized in `vw` of the embed, so a 400px column and a 390px phone look the same. Timestamps are ISO-8601 UTC with a numeric offset (`2026-10-08T13:00:00+00:00`, which is 9:00 AM US Eastern). The card formats them with `Intl` in the viewer's local time zone.
+Discord is the exception to the leftover-space rule: its two panels fill the box, so a taller box gives the chat more room and a shorter box still does not scroll the page. The tap button shrinks with the short box.
 
-Each card shows 4 posts (5 on the Reddit cards). Tap a post to open it on X, Facebook, or Reddit. Follow / View more links are on the card.
+Feed cards show 4 posts (5 on the Reddit cards). Tap a post to open it on X, Facebook, or Reddit. Follow / View more links are on the card. Timestamps are ISO-8601 UTC with a numeric offset (`2026-10-08T13:00:00+00:00`, which is 9:00 AM US Eastern). The card formats them with `Intl` in the viewer's local time zone.
 
 `embed-discord.html` keeps the live Discord widget (server `1529915531736383702`) and the WidgetBot chat (channel `1529915534466875546`) at every width, including phones. On a touch screen a transparent layer lets the page scroll; **Tap to interact** hands touches to the chat, and **Done** gives scrolling back. Desktop has no overlay.
 
-The old URLs stay in place until the Site is switched: `website-widgets.html`, `discord-embed.html`, `facebook-tab.html`, `reddit-tab.html`, `support-tab.html`. `x-tab.html` still loads, but it now reads `x-list.json` / `x-posts.json` and no longer requests Facebook, Reddit, PayPal, or `widgets.js`. PayPal, the social icon grid, and the Facebook Group widget remain on `website-widgets.html` / `support-tab.html` — give them their own sections on the Site when you retire that page. The Facebook Group block is a third-party scroller; it is the one homepage piece these new cards do not replace.
+`embed-icons.html` does not reflow. All 66 icons stay on 6 rows, and the icon size follows `--u`, so 390px and 1200px are the same grid at different scales.
+
+Once these nine boxes are on the homepage, `website-widgets.html` is unused. The old URLs stay up until the Site is switched: `website-widgets.html`, `discord-embed.html`, `facebook-tab.html`, `reddit-tab.html`, `support-tab.html`. `x-tab.html` still loads, but it reads `x-list.json` / `x-posts.json` and no longer requests Facebook, Reddit, PayPal, or `widgets.js`.
