@@ -1,13 +1,26 @@
 /* Scroll-safe Google Sites cards.
-   The embed box is width × a fixed ratio. Everything here is sized in vw
-   (the iframe width) or as a fraction of the iframe, so the same layout
-   fits that ratio at every screen width. Nothing in the card scrolls. */
+   The Sites editor sets the box by dragging, so the real ratio only
+   approximates the documented one. Sizes use --u, which is the smaller of
+   the width and the height divided by the documented ratio:
+
+     --u: min(1vw, 1vh / ratio)
+
+   At the documented ratio (and when the box is taller) 1rem = 1% of the
+   width, so the layout matches the width-based design and extra height is
+   leftover space. When the box is shorter, 1rem shrinks until the same
+   layout fits the height. Nothing in the card scrolls. */
 
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   touch-action: pan-y;
+}
+
+html {
+  --ratio: 1.6;
+  --u: min(1vw, calc(1vh / var(--ratio)));
+  font-size: var(--u);
 }
 
 html, body {
@@ -28,25 +41,25 @@ html, body {
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  gap: 1.6vw;
-  padding: 2.4vw 2.6vw 2.2vw;
+  gap: 1.6rem;
+  padding: 2.4rem 2.6rem 2.2rem;
   background: #000000;
   border: 1px solid #2f3336;
-  border-radius: 2.2vw;
+  border-radius: 2.2rem;
 }
 
 .bar {
   flex: 0 0 auto;
   display: flex;
   align-items: center;
-  gap: 1.8vw;
+  gap: 1.8rem;
   min-width: 0;
 }
 
 .brand {
   display: flex;
   align-items: center;
-  gap: 1.8vw;
+  gap: 1.8rem;
   min-width: 0;
   flex: 1 1 auto;
   color: inherit;
@@ -54,8 +67,8 @@ html, body {
 }
 
 .avatar {
-  width: 8.2vw;
-  height: 8.2vw;
+  width: 8.2rem;
+  height: 8.2rem;
   border-radius: 50%;
   object-fit: cover;
   background: #16181c center / cover no-repeat;
@@ -72,12 +85,12 @@ html, body {
   display: flex;
   flex-direction: column;
   min-width: 0;
-  gap: 0.3vw;
+  gap: 0.3rem;
 }
 
 h1, .name {
   color: #ffffff;
-  font-size: 3.35vw;
+  font-size: 3.35rem;
   font-weight: 800;
   letter-spacing: -0.03em;
   line-height: 1.15;
@@ -86,7 +99,7 @@ h1, .name {
 
 .sub, .meta {
   color: #71767b;
-  font-size: 2.45vw;
+  font-size: 2.45rem;
   font-weight: 600;
   line-height: 1.25;
   text-wrap: pretty;
@@ -109,8 +122,8 @@ h1, .name {
 }
 
 .pill {
-  font-size: 2.5vw;
-  padding: 1.15vw 2.3vw;
+  font-size: 2.5rem;
+  padding: 1.15rem 2.3rem;
   white-space: nowrap;
 }
 
@@ -123,7 +136,7 @@ h1, .name {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 1.5vw;
+  gap: 1.5rem;
   overflow: hidden;
 }
 
@@ -136,10 +149,10 @@ h1, .name {
   flex-direction: column;
   justify-content: flex-start;
   align-items: stretch;
-  gap: 0.8vw;
-  padding: 1.5vw 1.7vw 1.3vw;
+  gap: 0.8rem;
+  padding: 1.5rem 1.7rem 1.3rem;
   border: 1px solid #2f3336;
-  border-radius: 1.8vw;
+  border-radius: 1.8rem;
   background: #000000;
   color: inherit;
   text-decoration: none;
@@ -150,18 +163,18 @@ h1, .name {
 .post-head {
   display: flex;
   align-items: center;
-  gap: 1.5vw;
+  gap: 1.5rem;
   min-width: 0;
   flex: 0 0 auto;
 }
 
 .post-head .avatar {
-  width: 6.4vw;
-  height: 6.4vw;
+  width: 6.4rem;
+  height: 6.4rem;
 }
 
 .post-head .name {
-  font-size: 2.7vw;
+  font-size: 2.7rem;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -170,7 +183,7 @@ h1, .name {
 .post-text {
   flex: 0 0 auto;
   color: #e7e9ea;
-  font-size: 2.75vw;
+  font-size: 2.75rem;
   font-weight: 400;
   line-height: 1.35;
   text-wrap: pretty;
@@ -183,14 +196,15 @@ h1, .name {
 
 .has-media .post-text { -webkit-line-clamp: 2; }
 
-/* 20:3 crop. Height is a fixed fraction of the embed width, so four
-   thumbnails still fit the 5:8 box and a photo's own size cannot stretch it. */
+/* 20:3 crop at the documented ratio (height = 13.8% of the width).
+   Height is in rem, so a short box shrinks the strip instead of keeping
+   a width-based aspect-ratio that would overflow. */
 .media-frame {
   flex: 0 0 auto;
   width: 100%;
-  aspect-ratio: 20 / 3;
-  margin-top: 0.4vw;
-  border-radius: 1.2vw;
+  height: 13.8rem;
+  margin-top: 0.4rem;
+  border-radius: 1.2rem;
   overflow: hidden;
   background: #16181c;
   position: relative;
@@ -207,19 +221,19 @@ h1, .name {
 
 .reddit-post {
   justify-content: flex-start;
-  gap: 0.55vw;
+  gap: 0.55rem;
 }
 
 .reddit-post .post-text {
-  font-size: 2.9vw;
+  font-size: 2.9rem;
   font-weight: 700;
   -webkit-line-clamp: 2;
   color: #ffffff;
 }
 
 .icon {
-  width: 6.4vw;
-  height: 6.4vw;
+  width: 6.4rem;
+  height: 6.4rem;
   flex: 0 0 auto;
   fill: #ff4500;
 }
@@ -230,15 +244,15 @@ h1, .name {
   align-items: center;
   justify-content: center;
   color: #71767b;
-  font-size: 2.8vw;
+  font-size: 2.8rem;
   text-align: center;
   text-wrap: balance;
-  padding: 2vw;
+  padding: 2rem;
 }
 
 .more {
-  font-size: 2.9vw;
-  padding: 1.7vw 2vw;
+  font-size: 2.9rem;
+  padding: 1.7rem 2rem;
 }
 
 a:focus-visible, button:focus-visible {

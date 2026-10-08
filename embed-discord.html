@@ -1,10 +1,13 @@
 <!DOCTYPE html>
-<html lang="en" data-ratio="2/3">
+<html lang="en" data-ratio="2/3" style="--ratio: 1.5">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--
   Google Sites embed box ratio: width:height = 2:3 (height = 1.5 × width).
+  The two panels fill the box, so a dragged box that is a little shorter or
+  taller still has no page scroll. Chrome (padding, the tap button) uses
+  --u = min(1vw, 1vh / 1.5) so it shrinks when the box is short.
   Replaces discord-embed.html. Live Discord widget + WidgetBot chat at every
   width. On touch devices a transparent overlay lets the page scroll until
   the visitor taps "Tap to interact".
@@ -12,6 +15,11 @@
 <title>Fan Edit Fan Club Discord</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; touch-action: pan-y; }
+  html {
+    --ratio: 1.5;
+    --u: min(1vw, calc(1vh / var(--ratio)));
+    font-size: var(--u);
+  }
   html, body {
     position: fixed;
     inset: 0;
@@ -30,15 +38,15 @@
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    gap: 1.6vw;
-    padding: 1.6vw;
+    gap: 1.6rem;
+    padding: 1.6rem;
   }
   .panel {
     position: relative;
     min-height: 0;
     min-width: 0;
     overflow: hidden;
-    border-radius: 1.4vw;
+    border-radius: 1.4rem;
     background: #2b2d31;
   }
   .panel.widget { flex: 0.85 1 0; }
@@ -76,23 +84,23 @@
   }
   .tap {
     left: 50%;
-    bottom: 3.2vw;
+    bottom: 3.2rem;
     transform: translateX(-50%);
     background: #5865f2;
     color: #ffffff;
-    font-size: 3.2vw;
-    padding: 1.8vw 3.4vw;
-    box-shadow: 0 0.6vw 1.8vw rgba(0, 0, 0, 0.45);
+    font-size: 3.2rem;
+    padding: 1.8rem 3.4rem;
+    box-shadow: 0 0.6rem 1.8rem rgba(0, 0, 0, 0.45);
   }
   .done {
     display: none;
-    top: 2.4vw;
-    right: 2.4vw;
+    top: 2.4rem;
+    right: 2.4rem;
     background: rgba(30, 31, 34, 0.94);
     color: #dbdee1;
     border: 1px solid #4e5058;
-    font-size: 2.8vw;
-    padding: 1.2vw 2.4vw;
+    font-size: 2.8rem;
+    padding: 1.2rem 2.4rem;
   }
   html.touch.interacting .done { display: inline-flex; }
   button:focus-visible { outline: 2px solid #ffffff; outline-offset: 2px; }
