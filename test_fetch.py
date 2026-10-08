@@ -98,6 +98,20 @@ class FilterTests(unittest.TestCase):
         self.assertEqual(merged[0]["source"], "syndication")
         self.assertEqual(merged[1]["source"], "buffer")
 
+    def test_to_iso_uses_numeric_utc_offset(self):
+        self.assertEqual(
+            fetch.to_iso("Thu Oct 08 13:00:00 +0000 2026"),
+            "2026-10-08T13:00:00+00:00",
+        )
+        self.assertEqual(
+            fetch.to_iso("2026-10-08T01:40:36+0000"),
+            "2026-10-08T01:40:36+00:00",
+        )
+        self.assertEqual(
+            fetch.to_iso("2026-10-08T08:01:14.830Z"),
+            "2026-10-08T08:01:14+00:00",
+        )
+
     def test_parse_next_data_roundtrip(self):
         payload = {
             "props": {"pageProps": {

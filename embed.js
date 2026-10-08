@@ -8,11 +8,20 @@
       .replace(/"/g, "&quot;");
   }
 
+  function parseTime(value) {
+    if (value == null || value === "") return null;
+    if (typeof value === "number") return new Date(value * 1000);
+    var text = String(value).trim().replace(/Z$/, "+00:00");
+    text = text.replace(/([+-]\d{2})(\d{2})$/, "$1:$2");
+    var date = new Date(text);
+    return isNaN(date.getTime()) ? null : date;
+  }
+
   function fmt(value) {
-    if (!value) return "";
-    var date = new Date(value);
-    if (isNaN(date.getTime())) return "";
+    var date = parseTime(value);
+    if (!date) return "";
     try {
+      /* No timeZone option: Intl uses the viewer's local zone. */
       return new Intl.DateTimeFormat(undefined, {
         month: "short",
         day: "numeric",
@@ -61,12 +70,17 @@
         var when = fmt(post.created_at || post.sent_at || post.published);
         var meta = (handle ? "@" + handle : "");
         if (when) meta = meta ? meta + " · " + when : when;
-        return '<a class="post" href="' + esc(post.url) + '" target="_blank" rel="noopener noreferrer">' +
+        var image = post.image || "";
+        var media = image
+          ? '<span class="media-frame"><img alt="" src="' + esc(image) + '" onerror="this.parentNode.remove()"></span>'
+          : "";
+        return '<a class="post' + (image ? " has-media" : "") + '" href="' + esc(post.url) + '" target="_blank" rel="noopener noreferrer">' +
           '<span class="post-head">' +
             avatarHtml(post.author_avatar || fallbackAvatar) +
             '<span class="who"><span class="name">' + esc(name) + "</span>" +
             '<span class="meta">' + esc(meta) + "</span></span></span>" +
           '<span class="post-text">' + esc(post.text || "").replace(/\n/g, "<br>") + "</span>" +
+          media +
         "</a>";
       }).join("");
     }).catch(function () {

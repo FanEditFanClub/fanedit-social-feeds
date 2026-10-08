@@ -151,17 +151,23 @@ def fetch_syndication(url, label):
 
 
 def to_iso(value):
-    """Normalize Twitter, ISO, and Buffer timestamps to UTC `...Z`."""
+    """Normalize Twitter, ISO, and Buffer timestamps to UTC with a numeric offset.
+
+    Browsers parse `2026-10-08T13:00:00+00:00` as UTC and `Intl` then renders
+    it in the viewer's local zone. A bare `Z` is equivalent, but the offset
+    form is unambiguous, including for Facebook's `+0000` (no colon).
+    """
     if not value:
         return ""
     if isinstance(value, datetime):
         dt = value
     else:
-        text = str(value).strip()
+        text = str(value).strip().replace("Z", "+00:00")
+        text = re.sub(r"([+-]\d{2})(\d{2})$", r"\1:\2", text)
         dt = None
         if "T" in text:
             try:
-                dt = datetime.fromisoformat(text.replace("Z", "+00:00"))
+                dt = datetime.fromisoformat(text)
             except ValueError:
                 dt = None
         if dt is None:
@@ -171,7 +177,7 @@ def to_iso(value):
                 return text
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=timezone.utc)
-    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
 
 
 def parse_syndication(html_text):
@@ -314,7 +320,7 @@ def cap_authors(posts, per_author=AUTHOR_CAP, limit=LIST_KEEP):
 
 def build_list_payload(header, posts):
     owner = (header or {}).get("owner") or {}
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
     return {
         "updated_at": now,
         "source": "syndication.twitter.com/srv/timeline-list",
@@ -469,7 +475,7 @@ def fetch_fb_page():
             "text": text,
             "image": image,
             "url": post.get("permalink_url") or "",
-            "created_at": post.get("created_time"),
+            "created_at": to_iso(post.get("created_time")),
             "likes": ((post.get("reactions") or {}).get("summary") or {}).get("total_count", 0),
             "comments": ((post.get("comments") or {}).get("summary") or {}).get("total_count", 0),
             "shares": (post.get("shares") or {}).get("count", 0),
@@ -482,7 +488,7 @@ def fetch_fb_page():
     except (TypeError, KeyError):
         pass
     return {
-        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00"),
         "profile": {
             "name": (page or {}).get("name", "Fan Edit Fan Club"),
             "handle": "FanEditFanClub",
@@ -571,7 +577,7 @@ def refresh_x(existing_profile):
     if not avatar:
         avatar = ((existing_profile or {}).get("profile") or {}).get("picture") or ""
     write("x-posts.json", {
-        "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00"),
         "source": "syndication, buffer fallback",
         "profile": {
             "name": "Fan Edit Fan Club",

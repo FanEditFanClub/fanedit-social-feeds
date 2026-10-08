@@ -32,15 +32,15 @@ Embed code (swap the file name). The box ratio is set in the Sites editor, not b
 | `embed-reddit-feed.html` | **4:5** | 1.25 | Multireddit card in `website-widgets.html` / `reddit-tab.html` |
 | `embed-discord.html` | **2:3** | 1.50 | `discord-embed.html` on the homepage |
 
-Example box sizes when the embed spans the content width:
+Do not drop a 5:8 card into a full-width desktop section. At 1366px that box is 2186px tall. Use columns; Google Sites stacks a multi-column section into full width on phones.
 
-| Ratio | 390px wide | 768px wide | 1366px wide |
-| --- | --- | --- | --- |
-| 5:8 | 390×624 | 768×1229 | 1366×2186 |
-| 4:5 | 390×488 | 768×960 | 1366×1708 |
-| 2:3 | 390×585 | 768×1152 | 1366×2049 |
+| Row | Cards | Columns | Box at ~400px | Box at 390px phone |
+| --- | --- | --- | --- | --- |
+| 1 | X list, X profile, Facebook | 3, about 400px each | 400×640 (5:8) | 390×624 (5:8) |
+| 2 | r/FanEditFanClub, Reddit multireddit | 2 | half the section, still 4:5 | 390×488 (4:5) |
+| 3 | Discord | its own row | about 800×1200 (2:3) keeps the chat usable | 390×585 (2:3) |
 
-On a phone, give each card its own embed. Do not put these pages back inside one tall iframe. A narrower column on desktop (around 420–560px) keeps the type at a normal size; the ratio still fits.
+Type is sized in `vw` of the embed, so a 400px column and a 390px phone look the same. Timestamps are ISO-8601 UTC with a numeric offset (`2026-10-08T13:00:00+00:00`, which is 9:00 AM US Eastern). The card formats them with `Intl` in the viewer's local time zone.
 
 Each card shows 4 posts (5 on the Reddit cards). Tap a post to open it on X, Facebook, or Reddit. Follow / View more links are on the card.
 

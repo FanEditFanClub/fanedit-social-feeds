@@ -122,20 +122,22 @@ h1, .name {
   min-height: 0;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   gap: 1.5vw;
   overflow: hidden;
 }
 
 .post {
-  flex: 1 1 0;
+  flex: 0 0 auto;
   min-height: 0;
   min-width: 0;
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  gap: 0.7vw;
-  padding: 1.5vw 1.7vw;
+  justify-content: flex-start;
+  align-items: stretch;
+  gap: 0.8vw;
+  padding: 1.5vw 1.7vw 1.3vw;
   border: 1px solid #2f3336;
   border-radius: 1.8vw;
   background: #000000;
@@ -166,6 +168,7 @@ h1, .name {
 }
 
 .post-text {
+  flex: 0 0 auto;
   color: #e7e9ea;
   font-size: 2.75vw;
   font-weight: 400;
@@ -178,8 +181,32 @@ h1, .name {
   -webkit-line-clamp: 3;
 }
 
+.has-media .post-text { -webkit-line-clamp: 2; }
+
+/* 20:3 crop. Height is a fixed fraction of the embed width, so four
+   thumbnails still fit the 5:8 box and a photo's own size cannot stretch it. */
+.media-frame {
+  flex: 0 0 auto;
+  width: 100%;
+  aspect-ratio: 20 / 3;
+  margin-top: 0.4vw;
+  border-radius: 1.2vw;
+  overflow: hidden;
+  background: #16181c;
+  position: relative;
+}
+
+.media-frame img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
 .reddit-post {
-  justify-content: center;
+  justify-content: flex-start;
   gap: 0.55vw;
 }
 
