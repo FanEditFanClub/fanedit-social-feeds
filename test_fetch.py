@@ -133,5 +133,40 @@ class FilterTests(unittest.TestCase):
         self.assertEqual(shown[0]["text"], "Listed")
 
 
+class GroupTests(unittest.TestCase):
+    def test_group_text_strips_markdown(self):
+        text = fetch.group_text("# Rules** Group:**\n\n1. **No Spam.**\n[Site](https://example.com)")
+        self.assertEqual(text, "Rules Group:\n1. No Spam.\nSite")
+
+    def test_sociablekit_time_is_utc_plus_8(self):
+        self.assertEqual(fetch.sk_time("2026-09-28 01:37:41"), "2026-09-27T17:37:41+00:00")
+        self.assertEqual(fetch.sk_time("0000-00-00 00:00:00"), "")
+
+    def test_fetch_fb_group_keeps_group_posts_only(self):
+        sample = {"last_sync_info": "2026-09-28 01:37:41", "posts": [
+            {"post_id": "1", "post_link": "https://www.facebook.com/groups/faneditfanclub/posts/1/",
+             "description": "Older", "publish_date": "2026-09-25 16:10:00", "profile_name": "A"},
+            {"post_id": "2", "post_link": "https://www.facebook.com/groups/faneditfanclub/posts/2/",
+             "description": "Newer", "publish_date": "2026-09-27 12:57:53", "profile_name": "B"},
+            {"post_id": "3", "post_link": "https://example.com/elsewhere", "description": "Skip"},
+        ]}
+        original = fetch.http_json
+        fetch.http_json = lambda *args, **kwargs: sample
+        try:
+            payload = fetch.fetch_fb_group()
+        finally:
+            fetch.http_json = original
+        self.assertEqual([p["text"] for p in payload["posts"]], ["Newer", "Older"])
+        self.assertEqual(payload["source_synced_at"], "2026-09-27T17:37:41+00:00")
+
+    def test_fetch_fb_group_failure_keeps_file(self):
+        original = fetch.http_json
+        fetch.http_json = lambda *args, **kwargs: None
+        try:
+            self.assertIsNone(fetch.fetch_fb_group())
+        finally:
+            fetch.http_json = original
+
+
 if __name__ == "__main__":
     unittest.main()

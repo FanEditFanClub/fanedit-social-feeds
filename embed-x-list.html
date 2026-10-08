@@ -30,7 +30,6 @@
 <script>
 FanEmbed.mountPosts({
   feed: "x-list.json",
-  count: 4,
   onData: function (data) {
     var list = data.list || {};
     if (list.name) document.getElementById("list-name").textContent = list.name;

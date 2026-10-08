@@ -41,8 +41,8 @@ html, body {
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  gap: 1.6rem;
-  padding: 2.4rem 2.6rem 2.2rem;
+  gap: 1.8rem;
+  padding: 2.4rem 2.4rem 2.2rem;
   background: #000000;
   border: 1px solid #2f3336;
   border-radius: 2.2rem;
@@ -90,7 +90,7 @@ html, body {
 
 h1, .name {
   color: #ffffff;
-  font-size: 3.35rem;
+  font-size: 3.9rem;
   font-weight: 800;
   letter-spacing: -0.03em;
   line-height: 1.15;
@@ -99,7 +99,7 @@ h1, .name {
 
 .sub, .meta {
   color: #71767b;
-  font-size: 2.45rem;
+  font-size: 2.9rem;
   font-weight: 600;
   line-height: 1.25;
   text-wrap: pretty;
@@ -122,21 +122,24 @@ h1, .name {
 }
 
 .pill {
-  font-size: 2.5rem;
-  padding: 1.15rem 2.3rem;
+  font-size: 3.1rem;
+  padding: 1.3rem 2.6rem;
   white-space: nowrap;
 }
 
 .pill.blue { background: #0866ff; color: #ffffff; }
 .pill.reddit { background: #ff4500; color: #ffffff; }
 
+/* Posts stack from the top with one fixed gap. embed.js renders every post
+   in the feed, then removes the ones that do not fit, so a taller box shows
+   more posts and any spare space sits under the last post, never between. */
 .posts {
   flex: 1 1 auto;
   min-height: 0;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  gap: 1.5rem;
+  justify-content: flex-start;
+  gap: 1.4rem;
   overflow: hidden;
 }
 
@@ -149,14 +152,16 @@ h1, .name {
   flex-direction: column;
   justify-content: flex-start;
   align-items: stretch;
-  gap: 0.8rem;
-  padding: 1.5rem 1.7rem 1.3rem;
+  gap: 0.9rem;
+  padding: 1.6rem 1.9rem 1.7rem;
   border: 1px solid #2f3336;
   border-radius: 1.8rem;
   background: #000000;
   color: inherit;
   text-decoration: none;
 }
+
+.post[hidden] { display: none; }
 
 .post:hover, .brand:hover .name, .more:hover, .pill:hover { opacity: 0.92; }
 
@@ -169,12 +174,19 @@ h1, .name {
 }
 
 .post-head .avatar {
-  width: 6.4rem;
-  height: 6.4rem;
+  width: 7.4rem;
+  height: 7.4rem;
 }
 
 .post-head .name {
-  font-size: 2.7rem;
+  font-size: 3.3rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.post-head .meta {
+  font-size: 2.8rem;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -183,7 +195,7 @@ h1, .name {
 .post-text {
   flex: 0 0 auto;
   color: #e7e9ea;
-  font-size: 2.75rem;
+  font-size: 3.4rem;
   font-weight: 400;
   line-height: 1.35;
   text-wrap: pretty;
@@ -195,6 +207,10 @@ h1, .name {
 }
 
 .has-media .post-text { -webkit-line-clamp: 2; }
+
+/* Set by embed.js on a last post that only fits without its image. */
+.post.compact .post-text { -webkit-line-clamp: 2; }
+.post.compact .media-frame { display: none; }
 
 /* 20:3 crop at the documented ratio (height = 13.8% of the width).
    Height is in rem, so a short box shrinks the strip instead of keeping
@@ -225,7 +241,7 @@ h1, .name {
 }
 
 .reddit-post .post-text {
-  font-size: 2.9rem;
+  font-size: 3.5rem;
   font-weight: 700;
   -webkit-line-clamp: 2;
   color: #ffffff;
@@ -251,8 +267,8 @@ h1, .name {
 }
 
 .more {
-  font-size: 2.9rem;
-  padding: 1.7rem 2rem;
+  font-size: 3.4rem;
+  padding: 1.9rem 2rem;
 }
 
 a:focus-visible, button:focus-visible {
