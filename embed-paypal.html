@@ -1,21 +1,20 @@
 <!DOCTYPE html>
-<html lang="en" data-ratio="5/6" style="--ratio: 1.2">
+<html lang="en" data-ratio="4/5" style="--ratio: 1.25">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--
-  Google Sites embed box ratio: width:height = 5:6 (height = 1.2 × width).
-  PayPal's hosted button is a fixed-size widget. Our type uses --u, and if
-  the dragged box is shorter than the button the button is zoomed down so
-  the card still does not scroll. A taller box leaves space. Popups are fine.
+  Google Sites embed box ratio: width:height = 4:5 (height = 1.25 × width).
+  The hosted button keeps the browser's normal font size (its form uses rem).
+  Our heading uses --u = min(1vw, 1vh / 1.25). A shorter box zooms the button
+  down so the card does not scroll. A taller box leaves space. Popups are fine.
 -->
 <title>Support Fan Edit Fan Club</title>
 <style>
   * { box-sizing: border-box; touch-action: pan-y; }
   html {
-    --ratio: 1.2;
+    --ratio: 1.25;
     --u: min(1vw, calc(1vh / var(--ratio)));
-    font-size: var(--u);
   }
   html, body {
     position: fixed;
@@ -36,34 +35,34 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    gap: 1.6rem;
-    padding: 3.2rem 4rem;
+    justify-content: flex-start;
+    gap: calc(1.6 * var(--u));
+    padding: calc(3.2 * var(--u)) calc(4 * var(--u));
     background: #000000;
     border: 1px solid #2f3336;
-    border-radius: 2.2rem;
+    border-radius: calc(2.2 * var(--u));
     text-align: center;
   }
   h1 {
     margin: 0;
     color: #ffffff;
-    font-size: 4.6rem;
+    font-size: calc(4.6 * var(--u));
     font-weight: 800;
     letter-spacing: -0.03em;
     line-height: 1.15;
     text-wrap: balance;
   }
   .sub {
-    margin: 0 0 1.2rem;
+    margin: 0 0 calc(1.2 * var(--u));
     color: #c9d1d9;
-    font-size: 3rem;
+    font-size: calc(3 * var(--u));
     font-weight: 600;
     line-height: 1.3;
     text-wrap: pretty;
   }
   #paypal-container-6N34NNU436TT4 {
     width: 100%;
-    max-width: 92rem;
+    max-width: calc(92 * var(--u));
     flex: 0 0 auto;
     display: flex;
     flex-direction: column;
@@ -100,10 +99,10 @@
     margin-bottom: 0 !important;
   }
   #paypal-container-6N34NNU436TT4 .amount-container {
-    margin-top: 2.4rem !important;
+    margin-top: 12px !important;
   }
   #paypal-container-6N34NNU436TT4 iframe {
-    margin-top: 2rem !important;
+    margin-top: 10px !important;
   }
   button:focus-visible, a:focus-visible {
     outline: 2px solid #1d9bf0;
@@ -133,31 +132,40 @@
   (function () {
     var card = document.querySelector(".card");
     var box = document.getElementById("paypal-container-6N34NNU436TT4");
+    var timer = 0;
     function overflow() {
-      var limit = card.getBoundingClientRect().bottom - 1;
-      var max = 0;
+      var cardRect = card.getBoundingClientRect();
+      var top = Infinity;
+      var bottom = -Infinity;
       for (var i = 0; i < card.children.length; i++) {
-        max = Math.max(max, card.children[i].getBoundingClientRect().bottom);
+        var r = card.children[i].getBoundingClientRect();
+        if (r.height < 1) continue;
+        top = Math.min(top, r.top);
+        bottom = Math.max(bottom, r.bottom);
       }
-      return max - limit;
+      return Math.max(bottom - (cardRect.bottom - 1), (cardRect.top + 1) - top, 0);
     }
     function fit() {
       box.style.zoom = "1";
       var extra = overflow();
       if (extra > 1) {
-        var h = box.getBoundingClientRect().height;
+        var h = box.getBoundingClientRect().height || 1;
         var scale = Math.max(0.45, (h - extra) / h);
         box.style.zoom = String(scale);
         extra = overflow();
         if (extra > 1) {
-          var h2 = box.getBoundingClientRect().height;
+          var h2 = box.getBoundingClientRect().height || 1;
           box.style.zoom = String(Math.max(0.45, scale * (h2 - extra) / h2));
         }
       }
     }
-    window.addEventListener("resize", fit);
-    new MutationObserver(fit).observe(box, { childList: true, subtree: true, attributes: true });
-    fit();
+    function schedule() {
+      window.clearTimeout(timer);
+      timer = window.setTimeout(fit, 60);
+    }
+    window.addEventListener("resize", schedule);
+    new MutationObserver(schedule).observe(box, { childList: true, subtree: true });
+    schedule();
   })();
 </script>
 </body>

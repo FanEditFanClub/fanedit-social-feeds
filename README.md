@@ -34,7 +34,7 @@ Embed code (swap the file name and title). The box ratio is set in the Sites edi
 | `embed-reddit-feed.html` | **4:5** | 1.25 | Multireddit card |
 | `embed-discord.html` | **2:3** | 1.50 | `discord-embed.html` |
 | `embed-fb-group.html` | **5:4** | 0.80 | Facebook Group block. SociableKit scrolls, so this is the group name, cover, and **Join the Facebook Group** (`https://www.facebook.com/groups/faneditfanclub`) |
-| `embed-paypal.html` | **5:6** | 1.20 | PayPal / Venmo card (hosted button `6N34NNU436TT4`). The amount field and buttons stay inside the box; the PayPal window may open as a popup |
+| `embed-paypal.html` | **4:5** | 1.25 | PayPal / Venmo card (hosted button `6N34NNU436TT4`). The amount field and buttons stay inside the box; the PayPal window may open as a popup |
 | `embed-icons.html` | **11:6** | 0.545 | Social icon grid, 11 columns × 6 rows. The Website icon opens `https://www.faneditfanclub.com` |
 
 Do not drop a 5:8 card into a full-width desktop section. At 1366px that box is 2186px tall. Use columns; Google Sites stacks a multi-column section into full width on phones.
@@ -46,7 +46,7 @@ Homepage, top to bottom:
 | 1 | X list, X profile, Facebook Page | 3 columns, about 400px each | 400×640 (5:8) | 390×624, stacked |
 | 2 | r/FanEditFanClub, Reddit multireddit | 2 columns | half the section, still 4:5 | 390×488, stacked |
 | 3 | Discord | its own row, about 800px wide so the chat stays usable | 800×1200 (2:3) | 390×585 |
-| 4 | Facebook Group, PayPal | 2 columns, about 400–480px. The PayPal box is taller (5:6 vs 5:4); that is fine | group 480×384, PayPal 480×576 | 390×312 and 390×468, stacked |
+| 4 | Facebook Group, PayPal | 2 columns, about 400–480px. PayPal is 4:5 and the group card is 5:4, so the PayPal box is taller | group 480×384, PayPal 480×600 | group 390×312, PayPal 390×488, stacked |
 | 5 | Icon grid | full width. 11:6 is short enough to span the section | 1366×745, 1200×655, 768×419 | 390×213 |
 
 Discord is the exception to the leftover-space rule: its two panels fill the box, so a taller box gives the chat more room and a shorter box still does not scroll the page. The tap button shrinks with the short box.
