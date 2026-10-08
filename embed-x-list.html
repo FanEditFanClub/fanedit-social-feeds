@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" data-ratio="5/8">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--
+  Google Sites embed box ratio: width:height = 5:8 (height = 1.6 × width).
+  Replaces the Fan Editors list card (twitter-timeline / widgets.js).
+-->
+<link rel="stylesheet" href="embed.css">
+<title>Fan Editors on X</title>
+</head>
+<body>
+<article class="card">
+  <header class="bar">
+    <a class="brand" href="https://x.com/i/lists/2072540475530084770" target="_blank" rel="noopener noreferrer">
+      <img class="avatar" id="list-avatar" alt="" src="https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg">
+      <span class="brand-text">
+        <h1 id="list-name">Fan Editors</h1>
+        <p class="sub">X list by @FanEditFanClub</p>
+      </span>
+    </a>
+    <a class="pill" href="https://x.com/i/lists/2072540475530084770" target="_blank" rel="noopener noreferrer">Follow</a>
+  </header>
+  <div class="posts" id="posts"><p class="empty">Loading posts…</p></div>
+  <a class="more" href="https://x.com/i/lists/2072540475530084770" target="_blank" rel="noopener noreferrer">View more on X</a>
+</article>
+<script src="embed.js"></script>
+<script>
+FanEmbed.mountPosts({
+  feed: "x-list.json",
+  count: 4,
+  onData: function (data) {
+    var list = data.list || {};
+    if (list.name) document.getElementById("list-name").textContent = list.name;
+    if (list.owner_avatar) document.getElementById("list-avatar").src = list.owner_avatar;
+  }
+});
+</script>
+</body>
+</html>

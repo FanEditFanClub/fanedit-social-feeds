@@ -2,6 +2,12 @@ name: social-feeds
 
 # Refreshes the public JSON feeds behind the club website widgets.
 # Served via GitHub Pages; widgets fetch the JSON directly (no CORS issues).
+#
+# x-list.json and x-posts.json come from X's public syndication pages.
+# That host allows about 30 requests / 15 minutes per IP. GitHub-hosted
+# runners share IPs, so a run can get HTTP 429. fetch.py backs off once
+# (and waits if the limit resets within a minute). On failure it leaves
+# the last good JSON in place rather than blanking the feed.
 
 on:
   schedule:
