@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T11:36:40+00:00",
+ "updated_at": "2026-10-09T11:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2108524124461257114",
+   "text": "S1 E2 '46 Long' | 572 of 632",
+   "url": "https://x.com/SopranosOrder/status/2108524124461257114",
+   "created_at": "2026-10-09T11:45:00+00:00",
+   "sent_at": "2026-10-09T11:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HUGzWyXXQAATEwk.jpg"
+  },
+  {
    "id": "2108520353526063379",
    "text": "S1 E2 '46 Long' | 571 of 632",
    "url": "https://x.com/SopranosOrder/status/2108520353526063379",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HUGzTsMXcAAM9G1.jpg"
-  },
-  {
-   "id": "2108516574609244366",
-   "text": "S1 E2 '46 Long' | 570 of 632",
-   "url": "https://x.com/SopranosOrder/status/2108516574609244366",
-   "created_at": "2026-10-09T11:15:00+00:00",
-   "sent_at": "2026-10-09T11:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HUGzQwZXMAAyfrR.jpg"
   },
   {
    "id": "2108469401964220763",
@@ -106,8 +106,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
-   "repost_count": 8,
-   "like_count": 176,
+   "repost_count": 9,
+   "like_count": 182,
    "image": "https://pbs.twimg.com/media/HUJN3OHXcAA9Luj.jpg"
   }
  ]
