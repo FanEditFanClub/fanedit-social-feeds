@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T12:06:40+00:00",
+ "updated_at": "2026-10-09T12:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2108531673541509533",
+   "text": "S1 E2 '46 Long' | 574 of 632",
+   "url": "https://x.com/SopranosOrder/status/2108531673541509533",
+   "created_at": "2026-10-09T12:15:00+00:00",
+   "sent_at": "2026-10-09T12:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUGzdoHXoAAXpYt.jpg"
+  },
+  {
    "id": "2108527902388375863",
    "text": "S1 E2 '46 Long' | 573 of 632",
    "url": "https://x.com/SopranosOrder/status/2108527902388375863",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUGzbHjWMAECOS2.jpg"
-  },
-  {
-   "id": "2108524124461257114",
-   "text": "S1 E2 '46 Long' | 572 of 632",
-   "url": "https://x.com/SopranosOrder/status/2108524124461257114",
-   "created_at": "2026-10-09T11:45:00+00:00",
-   "sent_at": "2026-10-09T11:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HUGzWyXXQAATEwk.jpg"
   },
   {
    "id": "2108469401964220763",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 51,
+   "like_count": 52,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUJXk_bWgAEeQR2.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 9,
-   "like_count": 186,
+   "like_count": 189,
    "image": "https://pbs.twimg.com/media/HUJN3OHXcAA9Luj.jpg"
   }
  ]
