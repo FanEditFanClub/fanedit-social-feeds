@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T22:36:39+00:00",
+ "updated_at": "2026-10-09T22:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2108689966452613591",
+   "text": "S1 E2 '46 Long' | 616 of 632",
+   "url": "https://x.com/SopranosOrder/status/2108689966452613591",
+   "created_at": "2026-10-09T22:44:00+00:00",
+   "sent_at": "2026-10-09T22:44:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUG10EFXAAAJP5p.jpg"
+  },
+  {
    "id": "2108686445237965118",
    "text": "S1 E2 '46 Long' | 615 of 632",
    "url": "https://x.com/SopranosOrder/status/2108686445237965118",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUG1vPIWYAAMG6L.jpg"
-  },
-  {
-   "id": "2108682668867195246",
-   "text": "S1 E2 '46 Long' | 614 of 632",
-   "url": "https://x.com/SopranosOrder/status/2108682668867195246",
-   "created_at": "2026-10-09T22:15:00+00:00",
-   "sent_at": "2026-10-09T22:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HUG1r7VXsAA1Eo_.jpg"
   },
   {
    "id": "2108673813605126241",
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 9,
-   "repost_count": 21,
-   "like_count": 439,
+   "repost_count": 22,
+   "like_count": 452,
    "image": "https://pbs.twimg.com/media/HUNjifOXYAAo9Fm.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 9,
    "repost_count": 10,
-   "like_count": 213,
+   "like_count": 217,
    "image": "https://pbs.twimg.com/media/HUM24MxXQAE06I-.jpg"
   },
   {
@@ -165,20 +165,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HUMyuRhWMAAPAr8.jpg"
-  },
-  {
-   "id": "2108542634260078841",
-   "text": "List of Hollywood actors who you very likely had an argument with in an online multi-player shooter.\n>Karl Urban\n>Freddie Prinze Jr\n>Henry Cavill\n\nAnd now, Ben Affleck",
-   "url": "https://x.com/TheManlet_King/status/2108542634260078841",
-   "created_at": "2026-10-09T12:58:33+00:00",
-   "sent_at": "2026-10-09T12:58:33+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 23,
-   "like_count": 373,
-   "image": ""
   }
  ]
 }
