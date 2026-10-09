@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T14:36:39+00:00",
+ "updated_at": "2026-10-09T14:51:49+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2108569422118240280",
+   "text": "S1 E2 '46 Long' | 584 of 632",
+   "url": "https://x.com/SopranosOrder/status/2108569422118240280",
+   "created_at": "2026-10-09T14:45:00+00:00",
+   "sent_at": "2026-10-09T14:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HUG0BOsW0AAfBKQ.jpg"
+  },
   {
    "id": "2108566672474796514",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - LOOKING FOR: \"The Amazing Spider-Man 2 Extended Edition (all deleted scenes + unused footage)\" by Smilinggx u/Inevitable-Ad-1471.\n\nhttps://www.reddit.com/r/fanedits/comments/1x0n3rm/looking_for_the_amazing_spiderman_2_extended/",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HUGz9juXcAAB8Vj.jpg"
-  },
-  {
-   "id": "2108561873721270730",
-   "text": "S1 E2 '46 Long' | 582 of 632",
-   "url": "https://x.com/SopranosOrder/status/2108561873721270730",
-   "created_at": "2026-10-09T14:15:00+00:00",
-   "sent_at": "2026-10-09T14:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HUGz6EvWQAAqlLK.jpg"
   },
   {
    "id": "2108542678996840562",
@@ -91,9 +91,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 3,
-   "like_count": 64,
+   "like_count": 75,
    "image": ""
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 10,
-   "like_count": 312,
+   "repost_count": 11,
+   "like_count": 343,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUMGvfAXgAAaQsI.jpg"
   },
   {
@@ -137,20 +137,6 @@
    "repost_count": 0,
    "like_count": 52,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUJXk_bWgAEeQR2.jpg"
-  },
-  {
-   "id": "2108333190653915625",
-   "text": "\"Confused, Potter? I was a guy the whole time, and whom you fell in love with, was a lie. A fictitious character of my design. Whatever will you do now with your dearly beloved having never existed? Oh don't cry. You didn't think anyone would ever really love you back, did you?\"",
-   "url": "https://x.com/TheManlet_King/status/2108333190653915625",
-   "created_at": "2026-10-08T23:06:18+00:00",
-   "sent_at": "2026-10-08T23:06:18+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 11,
-   "like_count": 257,
-   "image": "https://pbs.twimg.com/media/HUJN3OHXcAA9Luj.jpg"
   }
  ]
 }
