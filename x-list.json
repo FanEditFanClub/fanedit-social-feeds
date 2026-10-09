@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T07:36:41+00:00",
+ "updated_at": "2026-10-09T07:51:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2108463725485396316",
+   "text": "S1 E2 '46 Long' | 556 of 632",
+   "url": "https://x.com/SopranosOrder/status/2108463725485396316",
+   "created_at": "2026-10-09T07:45:00+00:00",
+   "sent_at": "2026-10-09T07:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUGyg3ZXoAAKC0i.jpg"
+  },
+  {
    "id": "2108459953342292205",
    "text": "S1 E2 '46 Long' | 555 of 632",
    "url": "https://x.com/SopranosOrder/status/2108459953342292205",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUGydn1WkAA7B9t.jpg"
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2108456176056713225",
-   "text": "S1 E2 '46 Long' | 554 of 632",
-   "url": "https://x.com/SopranosOrder/status/2108456176056713225",
-   "created_at": "2026-10-09T07:15:00+00:00",
-   "sent_at": "2026-10-09T07:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 8,
-   "image": "https://pbs.twimg.com/media/HUGyYZdWEAE-_N7.jpg"
-  },
-  {
    "id": "2108343876981293450",
    "text": "the bruins actually playing the game of their life when my friends are watching a game with me for the first time. they did this for me",
    "url": "https://x.com/uhbucky/status/2108343876981293450",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 5,
-   "like_count": 115,
+   "like_count": 117,
    "image": "https://pbs.twimg.com/media/HUJN3OHXcAA9Luj.jpg"
   }
  ]
