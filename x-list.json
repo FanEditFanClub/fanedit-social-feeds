@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T08:06:39+00:00",
+ "updated_at": "2026-10-09T08:23:26+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2108471275303694504",
+   "text": "S1 E2 '46 Long' | 558 of 632",
+   "url": "https://x.com/SopranosOrder/status/2108471275303694504",
+   "created_at": "2026-10-09T08:15:00+00:00",
+   "sent_at": "2026-10-09T08:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUGynsFXAAACxC2.jpg"
+  },
+  {
+   "id": "2108469401964220763",
+   "text": "Exorcist 2 Heretic (35mm 6K Scan) Flat - Mono - Test",
+   "url": "https://x.com/NCseventeen/status/2108469401964220763",
+   "created_at": "2026-10-09T08:07:33+00:00",
+   "sent_at": "2026-10-09T08:07:33+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2108469155787665409/img/McAzciENQjJgfXRC.jpg"
+  },
+  {
    "id": "2108467514841661563",
    "text": "S1 E2 '46 Long' | 557 of 632",
    "url": "https://x.com/SopranosOrder/status/2108467514841661563",
@@ -22,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HUGykkiXEAAA_hE.jpg"
-  },
-  {
-   "id": "2108463725485396316",
-   "text": "S1 E2 '46 Long' | 556 of 632",
-   "url": "https://x.com/SopranosOrder/status/2108463725485396316",
-   "created_at": "2026-10-09T07:45:00+00:00",
-   "sent_at": "2026-10-09T07:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HUGyg3ZXoAAKC0i.jpg"
   },
   {
    "id": "2108458853582971274",
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 5,
-   "like_count": 117,
+   "like_count": 120,
    "image": "https://pbs.twimg.com/media/HUJN3OHXcAA9Luj.jpg"
   }
  ]
