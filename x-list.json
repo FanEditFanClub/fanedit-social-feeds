@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T18:21:39+00:00",
+ "updated_at": "2026-10-10T18:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2108988436912750997",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 63 of 616",
+   "url": "https://x.com/SopranosOrder/status/2108988436912750997",
+   "created_at": "2026-10-10T18:30:01+00:00",
+   "sent_at": "2026-10-10T18:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HUL7GO8WUAABDni.jpg"
+  },
+  {
    "id": "2108984658163806229",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 62 of 616",
    "url": "https://x.com/SopranosOrder/status/2108984658163806229",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HUL7CdLXYAASX6S.jpg"
   },
   {
@@ -39,20 +53,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2108980885731361194",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 61 of 616",
-   "url": "https://x.com/SopranosOrder/status/2108980885731361194",
-   "created_at": "2026-10-10T18:00:00+00:00",
-   "sent_at": "2026-10-10T18:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HUL69sOWoAAsCOh.jpg"
   },
   {
    "id": "2108955850303819821",
@@ -106,7 +106,7 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
+   "repost_count": 0,
    "like_count": 27,
    "image": "https://pbs.twimg.com/media/HUQc5ejWIAAx7jp.jpg"
   }
