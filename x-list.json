@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T09:30:23+00:00",
+ "updated_at": "2026-10-10T09:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2108852789497434404",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 27 of 616",
+   "url": "https://x.com/SopranosOrder/status/2108852789497434404",
+   "created_at": "2026-10-10T09:31:00+00:00",
+   "sent_at": "2026-10-10T09:31:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUL4e-sW8AA8ASx.jpg"
+  },
   {
    "id": "2108848764395901058",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 26 of 616",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HUL4bq0XIAAF2L6.jpg"
   },
   {
-   "id": "2108845001484464598",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 25 of 616",
-   "url": "https://x.com/SopranosOrder/status/2108845001484464598",
-   "created_at": "2026-10-10T09:00:03+00:00",
-   "sent_at": "2026-10-10T09:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUL4Yd0W0AAuRfp.jpg"
-  },
-  {
    "id": "2108843389424665012",
    "text": "Since October first I've screened in 35mm film One Dark Night, Amityville 2 The Possession, Cobra, Halloween 2, Snow White (1997), Jaws, Halloween 4 & American Werewolf in London. Tomorrow Revenge of the Living Dead, City of the Living Dead & Dawn of the Dead (EU Theatrical 16mm)",
    "url": "https://x.com/NCseventeen/status/2108843389424665012",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 11,
+   "like_count": 12,
    "image": "https://pbs.twimg.com/media/HUQc5ejWIAAx7jp.jpg"
   },
   {
