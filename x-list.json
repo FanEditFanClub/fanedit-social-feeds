@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T20:21:39+00:00",
+ "updated_at": "2026-10-10T20:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2109018883684471156",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 71 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109018883684471156",
+   "created_at": "2026-10-10T20:31:00+00:00",
+   "sent_at": "2026-10-10T20:31:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUL7hxrWsAA5VqT.jpg"
+  },
   {
    "id": "2109015145523351842",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - V/H/S 99 - The Taped Over Cut.\n\nhttps://www.reddit.com/r/fanedits/comments/1x1rpbx/vhs_99_the_taped_over_cut/",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HUL7eoLWMAA-8j_.jpg"
   },
   {
@@ -67,20 +81,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HUS4mFSWwAAyIx6.jpg"
-  },
-  {
-   "id": "2109011084937965587",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 69 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109011084937965587",
-   "created_at": "2026-10-10T20:00:00+00:00",
-   "sent_at": "2026-10-10T20:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HUL7ba-XIAAmyNY.jpg"
   },
   {
    "id": "2109003943736947085",
@@ -119,8 +119,8 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
+   "reply_count": 1,
+   "repost_count": 0,
    "like_count": 28,
    "image": "https://pbs.twimg.com/media/HUQc5ejWIAAx7jp.jpg"
   }
