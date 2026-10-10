@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T13:21:39+00:00",
+ "updated_at": "2026-10-10T13:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2108912938920935489",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 43 of 616",
+   "url": "https://x.com/SopranosOrder/status/2108912938920935489",
+   "created_at": "2026-10-10T13:30:01+00:00",
+   "sent_at": "2026-10-10T13:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUL5vaMWsAAYE-p.jpg"
+  },
+  {
+   "id": "2108911471526830094",
+   "text": "I love how I had 2 accounts (probably same person) reply to me and basically prove my point\n\nOne of which blocked me before I could reply \ud83e\udd23",
+   "url": "https://x.com/StebobM/status/2108911471526830094",
+   "created_at": "2026-10-10T13:24:11+00:00",
+   "sent_at": "2026-10-10T13:24:11+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HURbzgfXYAA_mUj.jpg"
+  },
+  {
    "id": "2108909161031577991",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 42 of 616",
    "url": "https://x.com/SopranosOrder/status/2108909161031577991",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUL5sLeW4AAepjz.jpg"
-  },
-  {
-   "id": "2108905395318104185",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 41 of 616",
-   "url": "https://x.com/SopranosOrder/status/2108905395318104185",
-   "created_at": "2026-10-10T13:00:02+00:00",
-   "sent_at": "2026-10-10T13:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HUL5pXmWMAAFJ4d.jpg"
+   "image": "https://pbs.twimg.com/media/HUL5sLeW4AAepjz.jpg"
   },
   {
    "id": "2108863686349844726",
@@ -67,20 +81,6 @@
    "repost_count": 0,
    "like_count": 21,
    "image": "https://pbs.twimg.com/media/HUQc5ejWIAAx7jp.jpg"
-  },
-  {
-   "id": "2108800846104535474",
-   "text": "\ud83e\udd14 sure does look interesting",
-   "url": "https://x.com/StebobM/status/2108800846104535474",
-   "created_at": "2026-10-10T06:04:35+00:00",
-   "sent_at": "2026-10-10T06:04:35+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": ""
   },
   {
    "id": "2108789670972707019",
@@ -136,20 +136,6 @@
    "reply_count": 4,
    "repost_count": 2,
    "like_count": 37,
-   "image": ""
-  },
-  {
-   "id": "2108705890333589959",
-   "text": "<3",
-   "url": "https://x.com/NCseventeen/status/2108705890333589959",
-   "created_at": "2026-10-09T23:47:16+00:00",
-   "sent_at": "2026-10-09T23:47:16+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
    "image": ""
   }
  ]
