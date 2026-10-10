@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T22:51:39+00:00",
+ "updated_at": "2026-10-10T23:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109056388974387421",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 81 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109056388974387421",
+   "created_at": "2026-10-10T23:00:02+00:00",
+   "sent_at": "2026-10-10T23:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 6,
+   "image": "https://pbs.twimg.com/media/HURQ0MoWoAAZ11j.jpg"
+  },
+  {
    "id": "2109052606026801598",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 80 of 616",
    "url": "https://x.com/SopranosOrder/status/2109052606026801598",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 5,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/media/HUL8CJ_XYAASTJl.jpg"
-  },
-  {
-   "id": "2109048830972899384",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 79 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109048830972899384",
-   "created_at": "2026-10-10T22:30:00+00:00",
-   "sent_at": "2026-10-10T22:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HUL7-gXXYAAn6WQ.jpg"
   },
   {
    "id": "2109037675097305391",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 2,
    "repost_count": 1,
-   "like_count": 4,
+   "like_count": 8,
    "image": ""
   },
   {
