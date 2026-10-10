@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T12:36:39+00:00",
+ "updated_at": "2026-10-10T12:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2108901611045331282",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 40 of 616",
+   "url": "https://x.com/SopranosOrder/status/2108901611045331282",
+   "created_at": "2026-10-10T12:45:00+00:00",
+   "sent_at": "2026-10-10T12:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUL5lSnXoAAPXCN.jpg"
+  },
+  {
    "id": "2108897841468903693",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 39 of 616",
    "url": "https://x.com/SopranosOrder/status/2108897841468903693",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUL5ia_WoAA4Pgl.jpg"
-  },
-  {
-   "id": "2108894061461639174",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 38 of 616",
-   "url": "https://x.com/SopranosOrder/status/2108894061461639174",
-   "created_at": "2026-10-10T12:15:00+00:00",
-   "sent_at": "2026-10-10T12:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HUL5fgzXYAAvFi8.jpg"
   },
   {
    "id": "2108863686349844726",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 5,
-   "like_count": 112,
+   "like_count": 114,
    "image": "https://pbs.twimg.com/media/HUOw_PwW8AAr75O.jpg"
   },
   {
