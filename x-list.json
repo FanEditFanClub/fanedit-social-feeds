@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T21:06:39+00:00",
+ "updated_at": "2026-10-10T21:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109029956646768689",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 74 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109029956646768689",
+   "created_at": "2026-10-10T21:15:00+00:00",
+   "sent_at": "2026-10-10T21:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HUL7rwsWEAABswU.jpg"
+  },
+  {
    "id": "2109026185896497533",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 73 of 616",
    "url": "https://x.com/SopranosOrder/status/2109026185896497533",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HUL7ozHWcAA22sA.jpg"
   },
   {
@@ -35,7 +49,7 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
    "like_count": 0,
    "image": ""
@@ -53,20 +67,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUTBjhcW8AAHjbA.jpg"
-  },
-  {
-   "id": "2109022406949884160",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 72 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109022406949884160",
-   "created_at": "2026-10-10T20:45:00+00:00",
-   "sent_at": "2026-10-10T20:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUL7lGhXEAAsf3k.jpg"
   },
   {
    "id": "2109015145523351842",
