@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T09:51:39+00:00",
+ "updated_at": "2026-10-10T10:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2108860095605989762",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 29 of 616",
+   "url": "https://x.com/SopranosOrder/status/2108860095605989762",
+   "created_at": "2026-10-10T10:00:02+00:00",
+   "sent_at": "2026-10-10T10:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUL4me5XgAEVKrR.jpg"
+  },
+  {
    "id": "2108856312771559530",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 28 of 616",
    "url": "https://x.com/SopranosOrder/status/2108856312771559530",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HUL4hyOWYAA2Zpr.jpg"
-  },
-  {
-   "id": "2108852789497434404",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 27 of 616",
-   "url": "https://x.com/SopranosOrder/status/2108852789497434404",
-   "created_at": "2026-10-10T09:31:00+00:00",
-   "sent_at": "2026-10-10T09:31:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUL4e-sW8AA8ASx.jpg"
   },
   {
    "id": "2108843389424665012",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 14,
+   "like_count": 15,
    "image": "https://pbs.twimg.com/media/HUQc5ejWIAAx7jp.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 5,
-   "like_count": 108,
+   "like_count": 109,
    "image": "https://pbs.twimg.com/media/HUOw_PwW8AAr75O.jpg"
   },
   {
@@ -133,20 +133,6 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": ""
-  },
-  {
-   "id": "2108673813605126241",
-   "text": "On episode 5 she is awful. Guess we gotta praise Flanagan and the actress cause they really did a great job of making her so detestable",
-   "url": "https://x.com/StebobM/status/2108673813605126241",
-   "created_at": "2026-10-09T21:39:49+00:00",
-   "sent_at": "2026-10-09T21:39:49+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 3,
