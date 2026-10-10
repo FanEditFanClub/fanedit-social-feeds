@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T21:36:38+00:00",
+ "updated_at": "2026-10-10T21:51:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2109037757926371624",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 76 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109037757926371624",
+   "created_at": "2026-10-10T21:46:00+00:00",
+   "sent_at": "2026-10-10T21:46:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUL7zRpWwAA-YLT.jpg"
+  },
+  {
+   "id": "2109037675097305391",
+   "text": "If that\u2019s the case, lower budgeted movie or not that is terrible.\n\nDCU has major issue and anyone who can\u2019t see it is burying their head in the sand",
+   "url": "https://x.com/StebobM/status/2109037675097305391",
+   "created_at": "2026-10-10T21:45:40+00:00",
+   "sent_at": "2026-10-10T21:45:40+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2109033732120170925",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 75 of 616",
    "url": "https://x.com/SopranosOrder/status/2109033732120170925",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUL7vYAWgAAnH-3.jpg"
   },
   {
@@ -39,34 +67,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2109032544985321909",
-   "text": "Said for ages this should be a priority if they\u2019re intent on doing HBO DC shows",
-   "url": "https://x.com/StebobM/status/2109032544985321909",
-   "created_at": "2026-10-10T21:25:17+00:00",
-   "sent_at": "2026-10-10T21:25:17+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2109029956646768689",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 74 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109029956646768689",
-   "created_at": "2026-10-10T21:15:00+00:00",
-   "sent_at": "2026-10-10T21:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HUL7rwsWEAABswU.jpg"
   },
   {
    "id": "2109015145523351842",
@@ -109,20 +109,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": ""
-  },
-  {
-   "id": "2108843389424665012",
-   "text": "Since October first I've screened in 35mm film One Dark Night, Amityville 2 The Possession, Cobra, Halloween 2, Snow White (1997), Jaws, Halloween 4 & American Werewolf in London. Tomorrow Revenge of the Living Dead, City of the Living Dead & Dawn of the Dead (EU Theatrical 16mm)",
-   "url": "https://x.com/NCseventeen/status/2108843389424665012",
-   "created_at": "2026-10-10T08:53:39+00:00",
-   "sent_at": "2026-10-10T08:53:39+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 28,
-   "image": "https://pbs.twimg.com/media/HUQc5ejWIAAx7jp.jpg"
   }
  ]
 }
