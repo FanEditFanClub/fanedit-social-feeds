@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T03:06:42+00:00",
+ "updated_at": "2026-10-10T03:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2108758166112788956",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 2 of 616",
+   "url": "https://x.com/SopranosOrder/status/2108758166112788956",
+   "created_at": "2026-10-10T03:15:00+00:00",
+   "sent_at": "2026-10-10T03:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUL24TEWAAAxjKd.jpg"
+  },
   {
    "id": "2108754390853054550",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 1 of 616",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HUL22BLWYAABzXv.jpg"
   },
   {
-   "id": "2108750616101093515",
-   "text": "S1 E2 '46 Long' | 632 of 632",
-   "url": "https://x.com/SopranosOrder/status/2108750616101093515",
-   "created_at": "2026-10-10T02:45:00+00:00",
-   "sent_at": "2026-10-10T02:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HUL2dzbXQAAFpYp.jpg"
-  },
-  {
    "id": "2108723659288244660",
    "text": "\"Okay it's agreed. We're doing a The Boys theme for Halloween.\"\n\n\"Oo! Dibs Homelander!\"\n\n\"No Mac. I'm Homelander. You can be Frenchie or The Deep.\"\n\n\"I'll be Frenchie\"\n\n\"Okay, Charlie's Frenchie.\"\n\nWoah hey hold on, why can't I be Homelander? Or A Train?\"\n\n\"A train? Mac",
    "url": "https://x.com/TheManlet_King/status/2108723659288244660",
@@ -50,8 +50,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
-   "repost_count": 4,
-   "like_count": 83,
+   "repost_count": 5,
+   "like_count": 85,
    "image": "https://pbs.twimg.com/media/HUOw_PwW8AAr75O.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 9,
    "repost_count": 35,
-   "like_count": 591,
+   "like_count": 593,
    "image": "https://pbs.twimg.com/media/HUNjifOXYAAo9Fm.jpg"
   },
   {
