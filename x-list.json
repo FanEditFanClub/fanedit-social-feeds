@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T19:50:04+00:00",
+ "updated_at": "2026-10-10T19:51:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -120,7 +120,7 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
+   "repost_count": 0,
    "like_count": 27,
    "image": "https://pbs.twimg.com/media/HUQc5ejWIAAx7jp.jpg"
   }
