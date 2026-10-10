@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T06:51:39+00:00",
+ "updated_at": "2026-10-10T07:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2108814792433819964",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 17 of 616",
+   "url": "https://x.com/SopranosOrder/status/2108814792433819964",
+   "created_at": "2026-10-10T07:00:01+00:00",
+   "sent_at": "2026-10-10T07:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUL39FLWsAA3FN7.jpg"
+  },
+  {
    "id": "2108811014493884843",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 16 of 616",
    "url": "https://x.com/SopranosOrder/status/2108811014493884843",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUL34vvWsAAOkCg.jpg"
-  },
-  {
-   "id": "2108807240995971561",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 15 of 616",
-   "url": "https://x.com/SopranosOrder/status/2108807240995971561",
-   "created_at": "2026-10-10T06:30:00+00:00",
-   "sent_at": "2026-10-10T06:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HUL30vDWYAAMsJl.jpg"
   },
   {
    "id": "2108800846104535474",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 5,
-   "like_count": 103,
+   "like_count": 104,
    "image": "https://pbs.twimg.com/media/HUOw_PwW8AAr75O.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
    "repost_count": 2,
-   "like_count": 33,
+   "like_count": 34,
    "image": ""
   },
   {
