@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T00:21:38+00:00",
+ "updated_at": "2026-10-10T00:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2108716644965216631",
+   "text": "S1 E2 '46 Long' | 623 of 632",
+   "url": "https://x.com/SopranosOrder/status/2108716644965216631",
+   "created_at": "2026-10-10T00:30:00+00:00",
+   "sent_at": "2026-10-10T00:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUL18YcW8AAvofJ.jpg"
+  },
+  {
    "id": "2108712867381784676",
    "text": "S1 E2 '46 Long' | 622 of 632",
    "url": "https://x.com/SopranosOrder/status/2108712867381784676",
@@ -22,23 +36,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HUL15kNX0AArlb2.jpg"
-  },
-  {
-   "id": "2108709098858446954",
-   "text": "S1 E2 '46 Long' | 621 of 632",
-   "url": "https://x.com/SopranosOrder/status/2108709098858446954",
-   "created_at": "2026-10-10T00:00:01+00:00",
-   "sent_at": "2026-10-10T00:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
    "repost_count": 1,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HUL12upXQAE-mL2.jpg"
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HUL15kNX0AArlb2.jpg"
   },
   {
    "id": "2108707861320679723",
@@ -77,9 +77,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 0,
-   "like_count": 7,
+   "like_count": 8,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 9,
    "repost_count": 26,
-   "like_count": 497,
+   "like_count": 505,
    "image": "https://pbs.twimg.com/media/HUNjifOXYAAo9Fm.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 66,
+   "like_count": 69,
    "image": ""
   },
   {
@@ -162,23 +162,9 @@
    "author_handle": "soulfulbodyedit",
    "author_avatar": "https://pbs.twimg.com/profile_images/2004577238646145024/FurkFK_C_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
+   "repost_count": 1,
    "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUNIl8TXkAEMr50.jpg"
-  },
-  {
-   "id": "2108589407624450444",
-   "text": "Just got this rare mint condition print of Cobra with perfect color. Looks like it came from IB Tech Rome. Audio is English Stereo.",
-   "url": "https://x.com/NCseventeen/status/2108589407624450444",
-   "created_at": "2026-10-09T16:04:25+00:00",
-   "sent_at": "2026-10-09T16:04:25+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 9,
-   "repost_count": 10,
-   "like_count": 234,
-   "image": "https://pbs.twimg.com/media/HUM24MxXQAE06I-.jpg"
   }
  ]
 }
