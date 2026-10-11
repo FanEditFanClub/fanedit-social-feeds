@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T10:06:40+00:00",
+ "updated_at": "2026-10-11T10:21:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2109226250132996202",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 126 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109226250132996202",
+   "created_at": "2026-10-11T10:15:00+00:00",
+   "sent_at": "2026-10-11T10:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HURT00FXoAApQGg.jpg"
+  },
+  {
+   "id": "2109226062148452436",
+   "text": "Testing out all my new tracks forthcoming on Metalheadz & Dispatch",
+   "url": "https://x.com/NCseventeen/status/2109226062148452436",
+   "created_at": "2026-10-11T10:14:15+00:00",
+   "sent_at": "2026-10-11T10:14:15+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2109225555966951424/img/lsGLQYWeIQPawFc4.jpg"
+  },
+  {
    "id": "2109222482909536440",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 125 of 616",
    "url": "https://x.com/SopranosOrder/status/2109222482909536440",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HURTxO4W8AAzdyV.jpg"
-  },
-  {
-   "id": "2109218700641648819",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 124 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109218700641648819",
-   "created_at": "2026-10-11T09:45:00+00:00",
-   "sent_at": "2026-10-11T09:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HURTtB9W4AA1HtN.jpg"
   },
   {
    "id": "2109184165644271785",
