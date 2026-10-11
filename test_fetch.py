@@ -168,5 +168,77 @@ class GroupTests(unittest.TestCase):
             fetch.http_json = original
 
 
+class SitePageTests(unittest.TestCase):
+    def test_spans_join_without_extra_spaces(self):
+        fragment = (
+            "<span>D</span><span>edicated</span> to "
+            "<span>T</span><span>he Art</span>"
+        )
+        self.assertEqual(fetch.inline_html(fragment, set()), "Dedicated to The Art")
+
+    def test_inline_link_unwraps_google_redirect(self):
+        fragment = (
+            '<a href="https://www.google.com/url?q=https%3A%2F%2Fdiscord.gg%2Fd8A9xHTey7&amp;sa=D">'
+            "Discord Server</a>"
+        )
+        rendered = fetch.inline_html(fragment, set())
+        self.assertIn('href="https://discord.gg/d8A9xHTey7"', rendered)
+        self.assertIn(">Discord Server</a>", rendered)
+        self.assertIn('target="_blank"', rendered)
+
+    def test_site_path_becomes_app_hash(self):
+        rendered = fetch.inline_html('<a href="/master-links">Master Links</a>', {"master-links"})
+        self.assertIn('href="#master-links"', rendered)
+        self.assertNotIn("target=", rendered)
+
+    def test_repairs_truncated_channel_link(self):
+        catalog = [{"label": "Rockstar Games", "href": "https://socialclub.rockstargames.com/member/FanEditFanClub", "icon": ""}]
+        repairs = []
+        fixed = fetch.repair_links(
+            [{"label": "Rockstar", "href": "https://www.paypal.biz/faneditfanclub701"}],
+            catalog,
+            repairs,
+            "All Channels",
+        )
+        self.assertEqual(fixed[0]["href"], catalog[0]["href"])
+        self.assertTrue(repairs)
+
+    def test_section_keeps_embed_and_drops_sites_chrome(self):
+        raw = """
+        <section>
+          <h2><span>About Us</span></h2>
+          <p><span>We</span><span>'re a Community</span></p>
+          <div data-code="&lt;iframe src=&quot;https://faneditfanclub.github.io/fanedit-social-feeds/embed-discord.html&quot; title=&quot;Discord&quot;&gt;&lt;/iframe&gt;"></div>
+          <p>Report abuse</p>
+        </section>
+        """
+        blocks = fetch.parse_sections(raw, set(), [], [], "Home")
+        self.assertEqual(blocks[0]["html"], "About Us")
+        self.assertEqual(fetch.plain_text(blocks[1]["html"]), "We're a Community")
+        self.assertEqual(blocks[2]["kind"], "discord")
+        self.assertEqual(len(blocks), 3)
+
+    def test_doc_keeps_links(self):
+        raw = (
+            "<body><ul><li><span><a href=\"https://www.google.com/url?q="
+            "https%3A%2F%2Ffanedit.org&amp;sa=D\">FANEDIT.ORG</a></span></li></ul></body>"
+        )
+        blocks = fetch.doc_blocks(raw, set())
+        self.assertEqual(len(blocks), 1)
+        self.assertIn('href="https://fanedit.org"', blocks[0]["html"])
+        self.assertIn("FANEDIT.ORG", blocks[0]["html"])
+
+    def test_nav_stops_when_the_bar_repeats(self):
+        raw = """
+        <a data-level="1" href="/home">Home</a>
+        <a data-level="1" href="/x">X</a>
+        <a data-level="2" href="https://www.google.com/url?q=https%3A%2F%2Fx.com%2FFanEditFanClub">X Profile</a>
+        <a data-level="1" href="/home">Home</a>
+        """
+        nav = fetch.parse_nav(raw)
+        self.assertEqual([item["id"] for item in nav], ["home", "x"])
+        self.assertEqual(nav[1]["children"][0]["href"], "https://x.com/FanEditFanClub")
+
+
 if __name__ == "__main__":
     unittest.main()

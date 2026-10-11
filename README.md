@@ -2,6 +2,10 @@
 
 Public JSON feeds and scroll-safe embed pages for the [Fan Edit Fan Club](https://www.faneditfanclub.com) Google Site. Feeds refresh every 30 minutes from GitHub Actions and are served by GitHub Pages.
 
+## App
+
+The installable app is [https://faneditfanclub.github.io/fanedit-social-feeds/app/](https://faneditfanclub.github.io/fanedit-social-feeds/app/). It uses the same JSON as the embed cards. `fetch.py` also writes `site-pages.json` from the published Google Site (the site cannot be iframed), so the nav, About Us, The Setup, and Master Links stay in step with the site on each feeds run. iPhone: Share, then Add to Home Screen. Android and desktop Chrome: Install app.
+
 ## Feeds
 
 - `x-list.json` — Fan Editors X list (`2072540475530084770`). Built from X's public syndication timeline. Replies and reposts are removed. No author appears more than twice, so SopranosOrder cannot fill the card. On HTTP 429 or any other failure the previous file is kept.

@@ -1,7 +1,9 @@
 name: social-feeds
 
 # Refreshes the public JSON feeds behind the club website widgets.
+# Also refreshes site-pages.json for the installable app (fetch.py).
 # Served via GitHub Pages; widgets fetch the JSON directly (no CORS issues).
+# Keep this file name. A Google Apps Script dispatches it.
 #
 # x-list.json and x-posts.json come from X's public syndication pages.
 # That host allows about 30 requests / 15 minutes per IP. GitHub-hosted

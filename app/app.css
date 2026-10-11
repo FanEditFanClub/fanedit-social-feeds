@@ -1,0 +1,457 @@
+/* Fan Edit Fan Club app. One document scroller. Cards do not scroll inside. */
+
+:root {
+  color-scheme: dark;
+  --bg: #000000;
+  --text: #f9f9f9;
+  --body: #e7e9ea;
+  --muted: #71767b;
+  --line: #2f3336;
+  --tabs-h: 96px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+}
+
+body {
+  min-height: 100%;
+  overflow-x: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+img, iframe, svg { max-width: 100%; }
+
+a:focus-visible, button:focus-visible {
+  outline: 2px solid #1d9bf0;
+  outline-offset: 2px;
+}
+
+.top {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: calc(10px + env(safe-area-inset-top)) 14px 10px;
+  background: rgba(0, 0, 0, 0.94);
+  border-bottom: 1px solid var(--line);
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  flex: 1 1 auto;
+  color: inherit;
+  text-decoration: none;
+}
+
+.brand img {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  flex: 0 0 auto;
+}
+
+.brand-name {
+  font-family: Audiowide, "Trebuchet MS", sans-serif;
+  font-size: 1rem;
+  line-height: 1.25;
+  text-wrap: balance;
+}
+
+[hidden] { display: none !important; }
+
+.install-slot { position: relative; flex: 0 0 auto; }
+
+#install-btn, .hint button {
+  background: #ffffff;
+  color: #000000;
+  border: 0;
+  border-radius: 999px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+#install-btn { padding: 8px 12px; font-size: 0.85rem; }
+
+.install-tip {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 8px);
+  width: min(16rem, 70vw);
+  margin: 0;
+  padding: 10px 12px;
+  background: #16181c;
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  font-size: 0.92rem;
+  line-height: 1.4;
+  text-wrap: pretty;
+  z-index: 6;
+}
+
+.hint {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 0;
+  padding: 8px 14px;
+  background: #16181c;
+  color: var(--body);
+  font-size: 0.92rem;
+  line-height: 1.35;
+  text-wrap: pretty;
+  text-align: center;
+}
+
+.hint button { padding: 6px 10px; font-size: 0.8rem; flex: 0 0 auto; }
+
+main {
+  padding-bottom: calc(var(--tabs-h) + 16px);
+}
+
+.page {
+  width: min(1080px, 100%);
+  margin: 0 auto;
+  padding: 16px 14px 8px;
+  display: grid;
+  gap: 14px;
+  grid-template-columns: 1fr;
+}
+
+.wide { min-width: 0; }
+
+.prose {
+  margin: 0 auto;
+  max-width: 42rem;
+  text-wrap: pretty;
+  overflow-wrap: break-word;
+}
+
+.prose.display {
+  font-family: Audiowide, "Trebuchet MS", sans-serif;
+  text-align: center;
+  line-height: 1.65;
+  font-size: 1.02rem;
+}
+
+h1.prose, h2.prose, h3.prose {
+  font-size: 1.28rem;
+  line-height: 1.3;
+  text-wrap: balance;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.prose.body, .prose.left {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  text-align: left;
+  max-width: 46rem;
+  line-height: 1.5;
+  font-size: 1rem;
+}
+
+.prose a { color: #ffffff; }
+
+.doc {
+  margin: 0;
+  padding-left: 1.15rem;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.doc li {
+  text-wrap: pretty;
+  line-height: 1.45;
+  overflow-wrap: break-word;
+}
+
+.link-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+}
+
+.pill, .more {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  color: #000000;
+  font-weight: 800;
+  text-decoration: none;
+  border-radius: 999px;
+  text-align: center;
+  text-wrap: balance;
+  line-height: 1.2;
+}
+
+.pill { padding: 8px 14px; }
+.pill.blue { background: #0866ff; color: #ffffff; }
+.pill.reddit { background: #ff4500; color: #ffffff; }
+.more {
+  margin-top: 4px;
+  padding: 12px 14px;
+  width: 100%;
+}
+
+.channels {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(148px, 1fr));
+  gap: 8px;
+}
+
+.channel {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(22, 27, 34, 0.85);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.channel img {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+  border-radius: 6px;
+  flex: 0 0 auto;
+  background: #111;
+}
+
+.link-label {
+  font-size: 0.78rem;
+  font-weight: 650;
+  line-height: 1.25;
+  text-wrap: balance;
+  min-width: 0;
+}
+
+.card {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 14px;
+  background: #000000;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+}
+
+.bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+}
+
+.card .brand { flex: 1 1 auto; }
+
+.avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #16181c center / cover no-repeat;
+  border: 1px solid var(--line);
+  flex: 0 0 auto;
+}
+
+.avatar.fallback {
+  display: inline-block;
+  background-image: url("https://i.imgur.com/xGyaOEB.jpeg");
+}
+
+.brand-text, .who { min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+
+.card h1, .name {
+  margin: 0;
+  color: #ffffff;
+  font-size: 1.05rem;
+  line-height: 1.2;
+  text-wrap: balance;
+}
+
+.sub, .meta {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+  font-weight: 650;
+  line-height: 1.3;
+  text-wrap: pretty;
+}
+
+.sub.reddit, .meta.reddit { color: #ff4500; }
+
+.icon {
+  width: 42px;
+  height: 42px;
+  flex: 0 0 auto;
+  fill: #ff4500;
+}
+
+.hero {
+  position: relative;
+  min-height: 108px;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #16181c url("../fb-group-cover.jpg") center / cover no-repeat;
+  display: flex;
+  align-items: flex-end;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 10%, rgba(0, 0, 0, 0.86) 100%);
+}
+
+.hero .bar { position: relative; width: 100%; padding: 10px; }
+
+.posts {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.post {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.post-head { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.post-head .avatar { width: 36px; height: 36px; }
+.post-head .name, .post-head .meta {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.post-text {
+  color: var(--body);
+  font-size: 0.98rem;
+  line-height: 1.45;
+  text-wrap: pretty;
+  overflow-wrap: anywhere;
+}
+
+.reddit-post .post-text {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.media-frame {
+  display: block;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #16181c;
+}
+
+.media-frame img {
+  display: block;
+  width: 100%;
+  max-height: 280px;
+  object-fit: cover;
+}
+
+.empty {
+  margin: 0;
+  color: var(--muted);
+  text-align: center;
+  text-wrap: balance;
+  padding: 12px;
+}
+
+.frame-wrap {
+  height: 640px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  overflow: hidden;
+  background: #000000;
+}
+
+.paypal-card h1, .paypal-card .sub { text-align: center; text-wrap: balance; }
+.paypal-card h1 { font-size: 1.2rem; }
+#paypal-box { width: min(100%, 420px); margin: 0 auto; }
+
+.frame-wrap iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.chat-actions { display: flex; justify-content: center; }
+
+.tabs {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 10px calc(10px + env(safe-area-inset-bottom));
+  background: rgba(0, 0, 0, 0.96);
+  border-top: 1px solid var(--line);
+}
+
+.tabs a {
+  color: var(--text);
+  text-decoration: none;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 8px 12px;
+  font-size: 0.82rem;
+  font-weight: 800;
+  text-align: center;
+  text-wrap: balance;
+  line-height: 1.2;
+}
+
+.tabs a[aria-current="page"] {
+  background: #ffffff;
+  color: #000000;
+  border-color: #ffffff;
+}
+
+@media (min-width: 840px) {
+  .page {
+    grid-template-columns: 1fr 1fr;
+    padding: 20px 20px 8px;
+    gap: 16px;
+  }
+  .wide { grid-column: 1 / -1; }
+  .brand-name { font-size: 1.15rem; }
+}
+
+@media (max-width: 380px) {
+  .brand-name { font-size: 0.92rem; }
+  .channels { grid-template-columns: 1fr 1fr; }
+}
