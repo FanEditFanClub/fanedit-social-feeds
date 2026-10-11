@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T16:51:42+00:00",
+ "updated_at": "2026-10-11T17:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109328173683130616",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 153 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109328173683130616",
+   "created_at": "2026-10-11T17:00:00+00:00",
+   "sent_at": "2026-10-11T17:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HURVSuUWQAEb87j.jpg"
+  },
+  {
    "id": "2109324396967899156",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 152 of 616",
    "url": "https://x.com/SopranosOrder/status/2109324396967899156",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HURVORvXMAA3DGs.jpg"
   },
   {
@@ -69,20 +83,6 @@
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUXQp5-WgAAYpVe.jpg"
   },
   {
-   "id": "2109320624325972040",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 151 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109320624325972040",
-   "created_at": "2026-10-11T16:30:00+00:00",
-   "sent_at": "2026-10-11T16:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HURVK5UXwAARDBI.jpg"
-  },
-  {
    "id": "2109294605459959992",
    "text": "Before and after losing his archnemesis. Without Wesker, Chris is just a sad, outrageously buff, old man.",
    "url": "https://x.com/TheManlet_King/status/2109294605459959992",
@@ -92,8 +92,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
-   "repost_count": 3,
-   "like_count": 60,
+   "repost_count": 4,
+   "like_count": 71,
    "image": ""
   },
   {
