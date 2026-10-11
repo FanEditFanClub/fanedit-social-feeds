@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T02:07:05+00:00",
+ "updated_at": "2026-10-11T02:22:04+00:00",
  "source": "https://www.faneditfanclub.com",
  "nav": [
   {
@@ -117,6 +117,15 @@
      "html": "found in other Communities. If you want a Fan Edit, just ask and you shall receive.",
      "align": "center",
      "font": "display"
+    },
+    {
+     "type": "links",
+     "items": [
+      {
+       "label": "Get the App",
+       "href": "https://faneditfanclub.github.io/fanedit-social-feeds/app/"
+      }
+     ]
     },
     {
      "type": "card",

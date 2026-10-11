@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T02:06:40+00:00",
+ "updated_at": "2026-10-11T02:21:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2109105454357819852",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 94 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109105454357819852",
+   "created_at": "2026-10-11T02:15:00+00:00",
+   "sent_at": "2026-10-11T02:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HURRjciWMAApe6m.jpg"
+  },
+  {
+   "id": "2109103465511223470",
+   "text": "Idfk, but I think an dialog audio problem that's been with Iron Lung since it's digital release back in May has finally been fixed, specifically Simon's lines before the SM-13s lights cut out right as he gets back on the towship",
+   "url": "https://x.com/jrsilentboba/status/2109103465511223470",
+   "created_at": "2026-10-11T02:07:06+00:00",
+   "sent_at": "2026-10-11T02:07:06+00:00",
+   "author_name": "jrsilentboba",
+   "author_handle": "jrsilentboba",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2012170182035116032/_wPREpOl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2109103451682611201/img/3jWaOpzFyigU2g-9.jpg"
+  },
+  {
    "id": "2109101681334223025",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 93 of 616",
    "url": "https://x.com/SopranosOrder/status/2109101681334223025",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HURRgSPXcAAEo5V.jpg"
-  },
-  {
-   "id": "2109097904270979410",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 92 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109097904270979410",
-   "created_at": "2026-10-11T01:45:00+00:00",
-   "sent_at": "2026-10-11T01:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HURRcSDWgAEPNFM.jpg"
+   "image": "https://pbs.twimg.com/media/HURRgSPXcAAEo5V.jpg"
   },
   {
    "id": "2109096810430038430",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HUUEXv4XYAATFfv.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 14,
    "repost_count": 9,
-   "like_count": 65,
+   "like_count": 66,
    "image": ""
   },
   {
