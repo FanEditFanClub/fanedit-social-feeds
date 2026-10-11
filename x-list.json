@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T03:36:39+00:00",
+ "updated_at": "2026-10-11T03:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109128103343591499",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 100 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109128103343591499",
+   "created_at": "2026-10-11T03:45:00+00:00",
+   "sent_at": "2026-10-11T03:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HURR6p2XMAAaOx6.jpg"
+  },
+  {
    "id": "2109124330382565631",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 99 of 616",
    "url": "https://x.com/SopranosOrder/status/2109124330382565631",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HURRzP5XgAAv7O0.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": ""
   },
   {
-   "id": "2109120805388816608",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 98 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109120805388816608",
-   "created_at": "2026-10-11T03:16:00+00:00",
-   "sent_at": "2026-10-11T03:16:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HURRvzbX0AADG80.jpg"
-  },
-  {
    "id": "2109111878886502769",
    "text": "\"Cortana, look!\"",
    "url": "https://x.com/TheManlet_King/status/2109111878886502769",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 35,
+   "like_count": 37,
    "image": "https://pbs.twimg.com/media/HUUSE4XW0AEXQYe.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 12,
+   "like_count": 13,
    "image": "https://pbs.twimg.com/media/HUUEXv4XYAATFfv.jpg"
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 16,
-   "repost_count": 10,
-   "like_count": 73,
+   "repost_count": 11,
+   "like_count": 76,
    "image": ""
   },
   {
