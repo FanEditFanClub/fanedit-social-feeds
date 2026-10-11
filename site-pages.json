@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T01:36:43+00:00",
+ "updated_at": "2026-10-11T01:52:03+00:00",
  "source": "https://www.faneditfanclub.com",
  "nav": [
   {
@@ -144,6 +144,12 @@
     },
     {
      "type": "card",
+     "kind": "fb-group",
+     "title": "Fan Edit Fan Club Facebook Group",
+     "src": "embed-fb-group.html"
+    },
+    {
+     "type": "card",
      "kind": "reddit-community",
      "title": "r/FanEditFanClub",
      "src": "embed-reddit-community.html"
@@ -153,12 +159,6 @@
      "kind": "reddit-feed",
      "title": "Fan Edit Fan Club Reddit Feed",
      "src": "embed-reddit-feed.html"
-    },
-    {
-     "type": "card",
-     "kind": "fb-group",
-     "title": "Fan Edit Fan Club Facebook Group",
-     "src": "embed-fb-group.html"
     },
     {
      "type": "card",
