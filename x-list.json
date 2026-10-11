@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T07:21:39+00:00",
+ "updated_at": "2026-10-11T07:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2109184978449768745",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 115 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109184978449768745",
+   "created_at": "2026-10-11T07:31:00+00:00",
+   "sent_at": "2026-10-11T07:31:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HURS75nXcAATtei.jpg"
+  },
+  {
+   "id": "2109184165644271785",
+   "text": "I've experienced Digger. I appreciate the intent. Tom brings it. I'm sure some comedy went over my head, but I laughed here & there. I was most engaged w/a daughter subplot that wasn't much focus at all. \ud83d\ude05Good music, creative direction, unique story-telling, uneventful, talky.",
+   "url": "https://x.com/JoshNitsche/status/2109184165644271785",
+   "created_at": "2026-10-11T07:27:46+00:00",
+   "sent_at": "2026-10-11T07:27:46+00:00",
+   "author_name": "OhIDied",
+   "author_handle": "JoshNitsche",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1676755347401474049/RnG5u6Wv_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HUVT0WdaMAEzv8W.jpg"
+  },
+  {
    "id": "2109180951700135995",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 114 of 616",
    "url": "https://x.com/SopranosOrder/status/2109180951700135995",
@@ -25,20 +53,6 @@
    "repost_count": 1,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HURS5JPWkAA_OSd.jpg"
-  },
-  {
-   "id": "2109177182442619214",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 113 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109177182442619214",
-   "created_at": "2026-10-11T07:00:01+00:00",
-   "sent_at": "2026-10-11T07:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HURS2UCWUAAqMOe.jpg"
   },
   {
    "id": "2109149650196300159",
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 89,
+   "like_count": 90,
    "image": "https://pbs.twimg.com/media/HUUSE4XW0AEXQYe.jpg"
   },
   {
@@ -133,9 +147,9 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 20,
+   "reply_count": 21,
    "repost_count": 13,
-   "like_count": 96,
+   "like_count": 98,
    "image": ""
   },
   {
