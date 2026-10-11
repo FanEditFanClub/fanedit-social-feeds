@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T23:51:41+00:00",
+ "updated_at": "2026-10-11T00:06:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2109071480126689304",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 85 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109071480126689304",
+   "created_at": "2026-10-11T00:00:00+00:00",
+   "sent_at": "2026-10-11T00:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HURREOrWEAA78sk.jpg"
+  },
   {
    "id": "2109067869975699847",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Changing Halloween H20 time period.\n\nhttps://www.reddit.com/r/fanedits/comments/1x1wgno/changing_halloween_h20_time_period/",
@@ -50,23 +64,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HURRAxHXQAAC5on.jpg"
-  },
-  {
-   "id": "2109063932623388927",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 83 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109063932623388927",
-   "created_at": "2026-10-10T23:30:00+00:00",
-   "sent_at": "2026-10-10T23:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HURQ9guXwAAa10l.jpg"
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HURRAxHXQAAC5on.jpg"
   },
   {
    "id": "2109037675097305391",
@@ -78,8 +78,8 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 9,
-   "repost_count": 4,
-   "like_count": 22,
+   "repost_count": 5,
+   "like_count": 28,
    "image": ""
   },
   {
