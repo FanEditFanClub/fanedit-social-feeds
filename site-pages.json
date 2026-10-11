@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T20:52:04+00:00",
+ "updated_at": "2026-10-11T21:07:04+00:00",
  "source": "https://www.faneditfanclub.com",
  "nav": [
   {
@@ -144,6 +144,19 @@
      "kind": "x-list",
      "title": "Fan Editors on X",
      "src": "embed-x-list.html"
+    },
+    {
+     "type": "links",
+     "items": [
+      {
+       "label": "X Group Chat",
+       "href": "https://x.com/i/chat/group_join/g2084666734565285936/d014sDtior"
+      },
+      {
+       "label": "Try the Fan Edit Grok Bot",
+       "href": "https://x.ai/bot/DR18SV4AEeeNRcKT1U-0P"
+      }
+     ]
     },
     {
      "type": "card",
@@ -2207,7 +2220,7 @@
      "type": "links",
      "items": [
       {
-       "label": "Profile",
+       "label": "X Profile",
        "href": "https://x.com/FanEditFanClub"
       },
       {
@@ -2219,7 +2232,7 @@
        "href": "https://x.com/i/chat/group_join/g2084666734565285936/d014sDtior"
       },
       {
-       "label": "Grok Bot",
+       "label": "Try the Fan Edit Grok Bot",
        "href": "https://x.ai/bot/DR18SV4AEeeNRcKT1U-0P"
       }
      ]
@@ -2706,7 +2719,6 @@
   "The Facebook Group card still follows the free SociableKit snapshot, which updates when someone presses Request sync."
  ],
  "repairs": [
-  "X: restored X Group Chat from the site menu",
   "All Channels: repaired Linktree from the homepage icon grid",
   "All Channels: repaired Venmo from the homepage icon grid",
   "All Channels: repaired Patreon from the homepage icon grid",
