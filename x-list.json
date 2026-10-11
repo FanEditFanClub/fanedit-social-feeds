@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T04:06:42+00:00",
+ "updated_at": "2026-10-11T04:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109135653263052890",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 102 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109135653263052890",
+   "created_at": "2026-10-11T04:15:00+00:00",
+   "sent_at": "2026-10-11T04:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HURSCVEXUAAbH_J.jpg"
+  },
+  {
    "id": "2109131878292754853",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 101 of 616",
    "url": "https://x.com/SopranosOrder/status/2109131878292754853",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HURR-_UWYAACDWf.jpg"
-  },
-  {
-   "id": "2109128103343591499",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 100 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109128103343591499",
-   "created_at": "2026-10-11T03:45:00+00:00",
-   "sent_at": "2026-10-11T03:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HURR6p2XMAAaOx6.jpg"
   },
   {
    "id": "2109122313706770842",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 44,
+   "like_count": 48,
    "image": "https://pbs.twimg.com/media/HUUSE4XW0AEXQYe.jpg"
   },
   {
@@ -95,20 +95,6 @@
    "repost_count": 0,
    "like_count": 13,
    "image": "https://pbs.twimg.com/media/HUUEXv4XYAATFfv.jpg"
-  },
-  {
-   "id": "2109094199639580987",
-   "text": "Zach Cregger made the best Resident Evil movie. Austin is charismatic, there's effective scares, great cinematography, a relatable coming of age story. But, it also has some cringey dialog, bizarre character choices, unclear rules, too much comedy, & Umbrella is incompetent.",
-   "url": "https://x.com/JoshNitsche/status/2109094199639580987",
-   "created_at": "2026-10-11T01:30:16+00:00",
-   "sent_at": "2026-10-11T01:30:16+00:00",
-   "author_name": "OhIDied",
-   "author_handle": "JoshNitsche",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1676755347401474049/RnG5u6Wv_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HUUB_ZCa4AAVevx.jpg"
   },
   {
    "id": "2109067869975699847",
@@ -147,9 +133,9 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 16,
+   "reply_count": 17,
    "repost_count": 11,
-   "like_count": 78,
+   "like_count": 79,
    "image": ""
   },
   {
