@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T02:21:38+00:00",
+ "updated_at": "2026-10-11T02:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109109231010119896",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 95 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109109231010119896",
+   "created_at": "2026-10-11T02:30:00+00:00",
+   "sent_at": "2026-10-11T02:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HURRmnXXIAAYotw.jpg"
+  },
+  {
    "id": "2109105454357819852",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 94 of 616",
    "url": "https://x.com/SopranosOrder/status/2109105454357819852",
@@ -22,8 +36,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
+   "repost_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HURRjciWMAApe6m.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109103451682611201/img/3jWaOpzFyigU2g-9.jpg"
   },
   {
-   "id": "2109101681334223025",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 93 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109101681334223025",
-   "created_at": "2026-10-11T02:00:00+00:00",
-   "sent_at": "2026-10-11T02:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HURRgSPXcAAEo5V.jpg"
-  },
-  {
    "id": "2109096810430038430",
    "text": "None of the interactions are funny here, however:\n\nThe voices and facial expressions are getting better AND the movement is less uncanny.\n\nBut the main takeaway is THEY REMEMBERED DUDIKOFF!!! WOOOOOO!!",
    "url": "https://x.com/TheManlet_King/status/2109096810430038430",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 6,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HUUEXv4XYAATFfv.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 14,
    "repost_count": 9,
-   "like_count": 66,
+   "like_count": 67,
    "image": ""
   },
   {
