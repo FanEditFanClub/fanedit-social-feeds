@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T21:06:38+00:00",
+ "updated_at": "2026-10-11T21:21:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109392344801779910",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 170 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109392344801779910",
+   "created_at": "2026-10-11T21:15:00+00:00",
+   "sent_at": "2026-10-11T21:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HURWRhcW4AAdWIx.jpg"
+  },
+  {
    "id": "2109388570410541061",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 169 of 616",
    "url": "https://x.com/SopranosOrder/status/2109388570410541061",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HURWOPgXMAAl2eM.jpg"
-  },
-  {
-   "id": "2109384794639638691",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 168 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109384794639638691",
-   "created_at": "2026-10-11T20:45:00+00:00",
-   "sent_at": "2026-10-11T20:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HURWJi6XMAAQSI0.jpg"
   },
   {
    "id": "2109384590519337226",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 8,
+   "like_count": 20,
    "image": ""
   },
   {
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 15,
-   "like_count": 182,
+   "repost_count": 26,
+   "like_count": 296,
    "image": "https://pbs.twimg.com/media/HUYJKL9WQAAgo8v.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 32,
+   "like_count": 34,
    "image": ""
   },
   {
@@ -137,20 +137,6 @@
    "repost_count": 1,
    "like_count": 14,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109225555966951424/img/lsGLQYWeIQPawFc4.jpg"
-  },
-  {
-   "id": "2109184165644271785",
-   "text": "I've experienced Digger. I appreciate the intent. Tom brings it. I'm sure some comedy went over my head, but I laughed here & there. I was most engaged w/a daughter subplot that wasn't much focus at all. \ud83d\ude05Good music, creative direction, unique story-telling, uneventful, talky.",
-   "url": "https://x.com/JoshNitsche/status/2109184165644271785",
-   "created_at": "2026-10-11T07:27:46+00:00",
-   "sent_at": "2026-10-11T07:27:46+00:00",
-   "author_name": "OhIDied",
-   "author_handle": "JoshNitsche",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1676755347401474049/RnG5u6Wv_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HUVT0WdaMAEzv8W.jpg"
   }
  ]
 }
