@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T17:51:40+00:00",
+ "updated_at": "2026-10-11T18:06:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2109343273105977800",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 157 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109343273105977800",
+   "created_at": "2026-10-11T18:00:00+00:00",
+   "sent_at": "2026-10-11T18:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HURVimDXIAASSkl.jpg"
+  },
+  {
+   "id": "2109342635085423054",
+   "text": "they\u2019re so in love and tender with each other it makes my stomach hurt",
+   "url": "https://x.com/uhbucky/status/2109342635085423054",
+   "created_at": "2026-10-11T17:57:28+00:00",
+   "sent_at": "2026-10-11T17:57:28+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 5,
+   "like_count": 42,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2074541853668528128/img/J1qzF_uQHfM1_R3S.jpg"
+  },
+  {
    "id": "2109339496533610715",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 156 of 616",
    "url": "https://x.com/SopranosOrder/status/2109339496533610715",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HURVeMeXIAAOf5K.jpg"
-  },
-  {
-   "id": "2109335722914144473",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 155 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109335722914144473",
-   "created_at": "2026-10-11T17:30:00+00:00",
-   "sent_at": "2026-10-11T17:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HURVaGoWUAEan-9.jpg"
   },
   {
    "id": "2109324204885623267",
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUXQp5-WgAAYpVe.jpg"
   },
   {
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 5,
-   "like_count": 103,
+   "like_count": 107,
    "image": ""
   },
   {
