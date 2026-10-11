@@ -7,7 +7,7 @@
   --body: #e7e9ea;
   --muted: #71767b;
   --line: #2f3336;
-  --tabs-h: 96px;
+  --tabs-h: calc(60px + env(safe-area-inset-bottom));
 }
 
 * { box-sizing: border-box; }
@@ -407,38 +407,113 @@ h1.prose, h2.prose, h3.prose {
 
 .chat-actions { display: flex; justify-content: center; }
 
+.card-pair {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+  min-width: 0;
+}
+
 .tabs {
   position: fixed;
   left: 0;
   right: 0;
   bottom: 0;
-  z-index: 5;
+  z-index: 40;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 8px;
-  padding: 10px 10px calc(10px + env(safe-area-inset-bottom));
+  flex-wrap: nowrap;
+  align-items: stretch;
+  height: var(--tabs-h);
+  padding: 0 2px env(safe-area-inset-bottom);
   background: rgba(0, 0, 0, 0.96);
   border-top: 1px solid var(--line);
 }
 
-.tabs a {
-  color: var(--text);
+.tabs a, .tabs button.tab {
+  flex: 1 1 0;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  margin: 0;
+  padding: 6px 1px 4px;
+  background: transparent;
+  color: #8b949e;
+  border: 0;
   text-decoration: none;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  padding: 8px 12px;
-  font-size: 0.82rem;
-  font-weight: 800;
-  text-align: center;
-  text-wrap: balance;
-  line-height: 1.2;
+  font: inherit;
+  font-size: 0.62rem;
+  font-weight: 750;
+  line-height: 1.1;
+  cursor: pointer;
 }
 
-.tabs a[aria-current="page"] {
+.tabs .tab-icon {
+  display: flex;
+  width: 22px;
+  height: 22px;
+}
+
+.tabs svg {
+  width: 22px;
+  height: 22px;
+  fill: currentColor;
+}
+
+.tabs span {
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.tabs a[aria-current="page"], .tabs button[aria-current="page"] {
+  color: #ffffff;
+}
+
+.more-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 30;
+  background: rgba(0, 0, 0, 0.55);
+}
+
+.more-sheet {
+  position: fixed;
+  left: 10px;
+  right: 10px;
+  bottom: calc(var(--tabs-h) + 8px);
+  z-index: 35;
+  display: grid;
+  gap: 4px;
+  padding: 8px;
+  background: #16181c;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+}
+
+.more-sheet a {
+  display: flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 750;
+  text-wrap: balance;
+}
+
+.more-sheet a[aria-current="page"] {
   background: #ffffff;
   color: #000000;
-  border-color: #ffffff;
+}
+
+@media (min-width: 700px) {
+  .card-pair { grid-template-columns: 1fr 1fr; gap: 16px; }
+  .tabs a, .tabs button.tab { font-size: 0.72rem; }
 }
 
 @media (min-width: 840px) {
