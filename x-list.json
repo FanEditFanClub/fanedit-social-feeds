@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T09:36:39+00:00",
+ "updated_at": "2026-10-11T09:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109218700641648819",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 124 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109218700641648819",
+   "created_at": "2026-10-11T09:45:00+00:00",
+   "sent_at": "2026-10-11T09:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HURTtB9W4AA1HtN.jpg"
+  },
+  {
    "id": "2109214926430404678",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 123 of 616",
    "url": "https://x.com/SopranosOrder/status/2109214926430404678",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HURTpwjWAAANnY-.jpg"
-  },
-  {
-   "id": "2109211150726439388",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 122 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109211150726439388",
-   "created_at": "2026-10-11T09:15:00+00:00",
-   "sent_at": "2026-10-11T09:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HURTmOJWoAAU1f3.jpg"
   },
   {
    "id": "2109184165644271785",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 113,
+   "like_count": 116,
    "image": "https://pbs.twimg.com/media/HUUSE4XW0AEXQYe.jpg"
   },
   {
@@ -137,20 +137,6 @@
    "repost_count": 0,
    "like_count": 17,
    "image": "https://pbs.twimg.com/media/HUUEXv4XYAATFfv.jpg"
-  },
-  {
-   "id": "2109037675097305391",
-   "text": "If that\u2019s the case, lower budgeted movie or not that is terrible.\n\nDCU has major issue and anyone who can\u2019t see it is burying their head in the sand",
-   "url": "https://x.com/StebobM/status/2109037675097305391",
-   "created_at": "2026-10-10T21:45:40+00:00",
-   "sent_at": "2026-10-10T21:45:40+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 23,
-   "repost_count": 14,
-   "like_count": 112,
-   "image": ""
   }
  ]
 }
