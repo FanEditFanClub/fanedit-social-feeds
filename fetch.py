@@ -20,6 +20,9 @@
   5pm ET browser scan (Muse cron), NOT by this script. Reddit killed public
   RSS on 2026-11-13, so the scan replaces the old RSS fetch; this script
   must not touch those files.
+- site-pages.json: text, buttons, and embed list for the installable app.
+  Google Sites cannot be iframed, so each run downloads the published pages
+  and keeps a sanitized copy. A failed download leaves the previous file.
 
 X syndication (syndication.twitter.com) allows about 30 requests per 15
 minutes per IP address. GitHub-hosted runners share IPs with other
@@ -45,6 +48,7 @@ import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
 
 UA = "Mozilla/5.0 (compatible; fanedit-social-feeds/1.0; +https://www.faneditfanclub.com)"
 BUFFER_TOKEN = os.environ.get("BUFFER_TOKEN", "")
@@ -661,6 +665,793 @@ def refresh_x(existing_profile):
     })
 
 
+# --- Google Sites pages for the installable app ----------------------------
+# The published site cannot be iframed. Each feeds run downloads the nav
+# pages, drops scripts and Google chrome, and writes site-pages.json. The
+# app renders that file, plus the same JSON the embed cards already use.
+
+SITE_ORIGIN = "https://www.faneditfanclub.com"
+SITE_PAGES_FILE = "site-pages.json"
+ICON_CATALOG_FILE = "embed-icons.html"
+
+EMBED_KINDS = {
+    "embed-discord.html": "discord",
+    "embed-x-profile.html": "x-profile",
+    "embed-x-list.html": "x-list",
+    "embed-facebook.html": "facebook",
+    "embed-reddit-community.html": "reddit-community",
+    "embed-reddit-feed.html": "reddit-feed",
+    "embed-fb-group.html": "fb-group",
+    "embed-paypal.html": "paypal",
+    "embed-icons.html": "icons",
+}
+
+BOILERPLATE = {
+    "google sites",
+    "report abuse",
+    "page details",
+    "page updated",
+    "skip to main content",
+    "skip to navigation",
+    "search this site",
+    "embedded files",
+}
+
+
+def attr(attrs, name):
+    match = re.search(
+        r'\b' + re.escape(name) + r'\s*=\s*(?:"([^"]*)"|\'([^\']*)\')',
+        attrs or "",
+        re.I,
+    )
+    if not match:
+        return ""
+    return html.unescape(match.group(1) if match.group(1) is not None else match.group(2))
+
+
+def unwrap_google_url(url):
+    """Google Sites wraps outbound links. Keep the real target."""
+    if not url:
+        return ""
+    text = html.unescape(url).strip()
+    parsed = urllib.parse.urlparse(text)
+    host = parsed.netloc.lower()
+    if host.endswith("google.com") and parsed.path.rstrip("/").endswith("/url"):
+        target = urllib.parse.parse_qs(parsed.query).get("q", [""])[0]
+        if target:
+            return html.unescape(target).strip()
+    return text
+
+
+def href_is_usable(url):
+    """Drop truncated Google Sites embed hrefs such as `url?id=9`."""
+    if not url:
+        return False
+    if url.startswith("mailto:"):
+        return "@" in url and " " not in url
+    if url.startswith("#") and not url.startswith("#h."):
+        return True
+    if not (url.startswith("https://") or url.startswith("http://")):
+        return False
+    if re.search(r"paypal\.biz/faneditfanclub\d+\b", url):
+        return False
+    return True
+
+
+def esc_text(value):
+    return html.escape(value or "", quote=True)
+
+
+def tidy_inline(value):
+    text = (value or "").replace("\u00a0", " ")
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+class InlineHTML(HTMLParser):
+    """Keep text and real links. Drop scripts, styles, and heading-link icons."""
+
+    def __init__(self, page_ids):
+        super().__init__(convert_charrefs=True)
+        self.page_ids = page_ids
+        self.skip = 0
+        self.anchor = None
+        self.anchor_parts = []
+        self.tokens = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag in ("script", "style", "svg"):
+            self.skip += 1
+            return
+        if self.skip:
+            return
+        data = dict(attrs)
+        if tag == "br":
+            self._text(" ")
+        elif tag == "a":
+            self.anchor = data.get("href") or ""
+            self.anchor_parts = []
+
+    def handle_endtag(self, tag):
+        if tag in ("script", "style", "svg") and self.skip:
+            self.skip -= 1
+            return
+        if self.skip:
+            return
+        if tag == "a" and self.anchor is not None:
+            label = tidy_inline("".join(self.anchor_parts))
+            href = self._app_href(self.anchor)
+            if label and href and href_is_usable(href) and not href.startswith("#h."):
+                external = href.startswith("http://") or href.startswith("https://") or href.startswith("mailto:")
+                extra = ' target="_blank" rel="noopener noreferrer"' if external else ""
+                self.tokens.append(
+                    '<a href="%s"%s>%s</a>' % (esc_text(href), extra, esc_text(label))
+                )
+            elif label:
+                self._text(label)
+            self.anchor = None
+            self.anchor_parts = []
+
+    def handle_data(self, data):
+        if self.skip or not data:
+            return
+        if self.anchor is not None:
+            self.anchor_parts.append(data)
+        else:
+            self._text(data)
+
+    def _text(self, data):
+        self.tokens.append(esc_text(data))
+
+    def _app_href(self, href):
+        target = unwrap_google_url(href)
+        if target.startswith("/") and not target.startswith("//"):
+            slug = target.strip("/").split("/")[0]
+            if slug in self.page_ids:
+                return "#" + slug
+        return target
+
+    def html(self):
+        joined = "".join(self.tokens)
+        joined = re.sub(r"\s+", " ", joined).strip()
+        return joined
+
+
+def inline_html(fragment, page_ids):
+    parser = InlineHTML(page_ids)
+    try:
+        parser.feed(fragment or "")
+        parser.close()
+    except Exception:
+        return ""
+    return parser.html()
+
+
+def plain_text(fragment):
+    text = re.sub(r"<[^>]+>", " ", fragment or "")
+    return tidy_inline(html.unescape(text))
+
+
+def is_boilerplate(text):
+    lowered = tidy_inline(text).lower()
+    if not lowered:
+        return True
+    if lowered in BOILERPLATE:
+        return True
+    return False
+
+
+class SectionParser(HTMLParser):
+    """Walk one Google Sites section in document order."""
+
+    def __init__(self, page_ids, catalog, repairs, where):
+        super().__init__(convert_charrefs=True)
+        self.page_ids = page_ids
+        self.catalog = catalog
+        self.repairs = repairs
+        self.where = where
+        self.skip = 0
+        self.blocks = []
+        self.capture = None
+        self.buf = []
+        self.in_button = 0
+
+    def handle_starttag(self, tag, attrs):
+        data = dict(attrs)
+        if tag in ("script", "style", "svg"):
+            self.skip += 1
+            return
+        if self.skip:
+            return
+        classes = data.get("class") or ""
+        label = (data.get("aria-label") or "").strip().lower()
+        is_button = tag == "a" and ("FKF6mc" in classes or "QmpIrf" in classes)
+        if is_button and self.capture not in ("h1", "h2", "h3") and label != "copy heading link":
+            self.in_button += 1
+            self.capture = "button"
+            self.buf = []
+            self._button = data
+        elif self.capture is None and tag in ("h1", "h2", "h3"):
+            self.capture = tag
+            self.buf = []
+        elif self.capture is None and tag in ("p", "small") and not self.in_button:
+            self.capture = tag
+            self.buf = []
+        elif self.capture in ("p", "small") and tag == "a":
+            href = html.escape(data.get("href") or "", quote=True)
+            self.buf.append('<a href="%s">' % href)
+        elif self.capture in ("p", "small") and tag == "br":
+            self.buf.append("<br>")
+        if data.get("data-code"):
+            self.blocks.extend(classify_embed(
+                data["data-code"], self.page_ids, self.catalog, self.repairs, self.where
+            ))
+
+    def handle_endtag(self, tag):
+        if tag in ("script", "style", "svg") and self.skip:
+            self.skip -= 1
+            return
+        if self.skip:
+            return
+        if self.capture in ("p", "small") and tag == "a":
+            self.buf.append("</a>")
+            return
+        if self.capture == "button" and tag == "a":
+            self._finish_button()
+            self.in_button = max(0, self.in_button - 1)
+            return
+        if self.capture in ("h1", "h2", "h3") and tag == self.capture:
+            text = plain_text("".join(self.buf))
+            if text and not is_boilerplate(text) and text.lower() != "copy heading link":
+                self.blocks.append({
+                    "type": "text",
+                    "tag": self.capture,
+                    "html": esc_text(text),
+                    "align": "center",
+                    "font": "display",
+                })
+            self.capture = None
+            self.buf = []
+            return
+        if self.capture in ("p", "small") and tag == self.capture:
+            rendered = inline_html("".join(self.buf), self.page_ids)
+            visible = plain_text(rendered)
+            if visible and not is_boilerplate(visible):
+                self.blocks.append({
+                    "type": "text",
+                    "tag": "p",
+                    "html": rendered,
+                    "align": "center",
+                    "font": "display",
+                })
+            self.capture = None
+            self.buf = []
+
+    def handle_data(self, data):
+        if self.skip or self.capture is None:
+            return
+        self.buf.append(data)
+
+    def _finish_button(self):
+        data = getattr(self, "_button", {})
+        label = (data.get("aria-label") or plain_text("".join(self.buf))).strip()
+        label = re.sub(r"\s+", " ", label)
+        href = unwrap_google_url(data.get("href") or "")
+        self.capture = None
+        self.buf = []
+        if not label or label.lower() == "copy heading link":
+            return
+        if href.startswith("#"):
+            return
+        if href.startswith("/") and not href.startswith("//"):
+            slug = href.strip("/").split("/")[0]
+            if slug in self.page_ids:
+                href = "#" + slug
+        if not href_is_usable(href):
+            return
+        self.blocks.append({
+            "type": "links",
+            "items": [{"label": label, "href": href}],
+        })
+
+
+def parse_icon_catalog(html_text):
+    items = []
+    for match in re.finditer(r"<a\b([^>]*)>(.*?)</a>", html_text or "", re.S | re.I):
+        attrs, inner = match.group(1), match.group(2)
+        href = unwrap_google_url(attr(attrs, "href"))
+        label = attr(attrs, "data-label") or attr(attrs, "title")
+        icon = ""
+        image = re.search(r"<img\b([^>]*)>", inner, re.I)
+        if image:
+            icon = attr(image.group(1), "src")
+            if not label:
+                label = attr(image.group(1), "alt")
+        label = tidy_inline(label)
+        if label and href_is_usable(href):
+            items.append({"label": label, "href": href, "icon": icon})
+    return items
+
+
+def label_key(value):
+    return re.sub(r"[^a-z0-9]+", " ", (value or "").lower()).strip()
+
+
+def catalog_match(label, catalog):
+    key = label_key(label)
+    exact = [item for item in catalog if label_key(item["label"]) == key]
+    if exact:
+        return exact[0]
+    # "Rockstar" in the Sites embed is "Rockstar Games" on the homepage grid.
+    if len(key) < 6:
+        return None
+    hits = [
+        item for item in catalog
+        if label_key(item["label"]).startswith(key) or key.startswith(label_key(item["label"]))
+    ]
+    if len(hits) == 1:
+        return hits[0]
+    return None
+
+
+def repair_links(items, catalog, repairs, where):
+    fixed = []
+    for item in items:
+        href = item.get("href") or ""
+        icon = item.get("icon") or ""
+        label = tidy_inline(item.get("label") or "")
+        if not label:
+            continue
+        if not href_is_usable(href):
+            replacement = catalog_match(label, catalog)
+            if not replacement:
+                repairs.append("%s: dropped broken link %s" % (where, label))
+                continue
+            href = replacement["href"]
+            if not icon:
+                icon = replacement.get("icon") or ""
+            repairs.append("%s: repaired %s from the homepage icon grid" % (where, label))
+        entry = {"label": label, "href": href}
+        if icon:
+            entry["icon"] = icon
+        fixed.append(entry)
+    return fixed
+
+
+def social_cards(body, page_ids, catalog, repairs, where):
+    items = []
+    for match in re.finditer(r"<a\b([^>]*)>(.*?)</a>", body or "", re.S | re.I):
+        attrs, inner = match.group(1), match.group(2)
+        if "social-card" not in (attr(attrs, "class") or ""):
+            continue
+        href = unwrap_google_url(attr(attrs, "href"))
+        label = ""
+        label_match = re.search(r'class="social-label"[^>]*>([^<]*)', inner)
+        if label_match:
+            label = tidy_inline(html.unescape(label_match.group(1)))
+        icon = ""
+        image = re.search(r"<img\b([^>]*)>", inner, re.I)
+        if image:
+            icon = attr(image.group(1), "src")
+            if not label:
+                label = tidy_inline(attr(image.group(1), "alt"))
+        if label:
+            items.append({"label": label, "href": href, "icon": icon})
+    if not items:
+        return []
+    return [{
+        "type": "links",
+        "style": "channels",
+        "items": repair_links(items, catalog, repairs, where),
+    }]
+
+
+def classify_embed(code, page_ids, catalog=None, repairs=None, where="page"):
+    catalog = catalog or []
+    repairs = repairs if repairs is not None else []
+    blocks = []
+    for match in re.finditer(r"<iframe\b([^>]*)>", code or "", re.I):
+        attrs = match.group(1)
+        src = unwrap_google_url(attr(attrs, "src") or attr(attrs, "data-src"))
+        name = src.split("?")[0].rstrip("/").split("/")[-1]
+        if name in EMBED_KINDS:
+            block = {
+                "type": "card",
+                "kind": EMBED_KINDS[name],
+                "title": attr(attrs, "title") or "",
+                "src": name,
+            }
+            if block["kind"] == "icons" and catalog:
+                block["items"] = list(catalog)
+            blocks.append(block)
+    if blocks:
+        return blocks
+
+    body_match = re.search(r"<body\b[^>]*>([\s\S]*)</body>", code or "", re.I)
+    body = body_match.group(1) if body_match else (code or "")
+    static = re.sub(r"<script\b[\s\S]*?</script>", "", body, flags=re.I)
+    markers = []
+
+    def add(token, block):
+        index = static.find(token)
+        if index >= 0:
+            markers.append((index, block))
+
+    add('id="fb-page-feed"', {
+        "type": "card",
+        "kind": "facebook",
+        "title": "Fan Edit Fan Club on Facebook",
+        "src": "embed-facebook.html",
+    })
+    group_at = static.find("25717067")
+    if group_at < 0:
+        group_at = static.find("facebook-group-posts")
+    if group_at >= 0:
+        markers.append((group_at, {
+            "type": "card",
+            "kind": "fb-group",
+            "title": "Fan Edit Fan Club Facebook Group",
+            "src": "embed-fb-group.html",
+        }))
+    add('id="community-rss-feed"', {
+        "type": "card",
+        "kind": "reddit-community",
+        "title": "r/FanEditFanClub",
+        "src": "embed-reddit-community.html",
+    })
+    add('id="custom-rss-feed"', {
+        "type": "card",
+        "kind": "reddit-feed",
+        "title": "Fan Edit Fan Club Reddit Feed",
+        "src": "embed-reddit-feed.html",
+    })
+    if "paypal-container-6N34NNU436TT4" in static:
+        at = static.find("paypal-container")
+        markers.append((at if at >= 0 else 0, {
+            "type": "card",
+            "kind": "paypal",
+            "title": "Support Fan Edit Fan Club",
+            "src": "embed-paypal.html",
+        }))
+    markers.sort(key=lambda item: item[0])
+    blocks.extend(block for _, block in markers)
+    blocks.extend(social_cards(static, page_ids, catalog, repairs, where))
+    return blocks
+
+
+def parse_sections(raw, page_ids, catalog, repairs, where):
+    blocks = []
+    for match in re.finditer(r"<section\b[^>]*>([\s\S]*?)</section>", raw or "", re.I):
+        parser = SectionParser(page_ids, catalog, repairs, where)
+        try:
+            parser.feed(match.group(1))
+            parser.close()
+        except Exception as exc:
+            print(f"site-pages: section parse skipped ({exc})")
+            continue
+        blocks.extend(parser.blocks)
+    return merge_link_runs(blocks)
+
+
+def merge_link_runs(blocks):
+    merged = []
+    for block in blocks:
+        if (
+            block.get("type") == "links"
+            and not block.get("style")
+            and merged
+            and merged[-1].get("type") == "links"
+            and not merged[-1].get("style")
+        ):
+            merged[-1]["items"].extend(block.get("items") or [])
+            continue
+        merged.append(block)
+    return merged
+
+
+def doc_blocks(doc_html, page_ids):
+    cleaned = re.sub(r"<style\b[\s\S]*?</style>", "", doc_html or "", flags=re.I)
+    cleaned = re.sub(r"<script\b[\s\S]*?</script>", "", cleaned, flags=re.I)
+    body_match = re.search(r"<body\b[^>]*>([\s\S]*)</body>", cleaned, re.I)
+    body = body_match.group(1) if body_match else cleaned
+
+    class DocParser(HTMLParser):
+        def __init__(self):
+            super().__init__(convert_charrefs=True)
+            self.blocks = []
+            self.capture = None
+            self.buf = []
+            self.skip = 0
+
+        def handle_starttag(self, tag, attrs):
+            if tag in ("script", "style"):
+                self.skip += 1
+                return
+            if self.skip:
+                return
+            data = dict(attrs)
+            if tag in ("h1", "h2", "h3", "p", "li") and self.capture is None:
+                self.capture = tag
+                self.buf = []
+            elif self.capture and tag == "a":
+                href = html.escape(data.get("href") or "", quote=True)
+                self.buf.append('<a href="%s">' % href)
+            elif self.capture and tag == "br":
+                self.buf.append("<br>")
+
+        def handle_endtag(self, tag):
+            if tag in ("script", "style") and self.skip:
+                self.skip -= 1
+                return
+            if self.capture and tag == "a":
+                self.buf.append("</a>")
+                return
+            if self.capture == tag:
+                rendered = inline_html("".join(self.buf), page_ids)
+                visible = plain_text(rendered)
+                if visible:
+                    font = "display" if tag in ("h1", "h2", "h3") else "body"
+                    align = "center" if tag in ("h1", "h2") else "left"
+                    self.blocks.append({
+                        "type": "text",
+                        "tag": "h2" if tag == "h1" else tag,
+                        "html": rendered,
+                        "align": align,
+                        "font": font,
+                    })
+                self.capture = None
+                self.buf = []
+
+        def handle_data(self, data):
+            if self.capture is not None and not self.skip:
+                self.buf.append(data)
+
+    parser = DocParser()
+    parser.feed(body)
+    parser.close()
+    return parser.blocks[:400]
+
+
+def find_doc_url(raw):
+    """Document id from an embed iframe only. The Sites shell mentions docs.google.com."""
+    for match in re.finditer(r"<iframe\b([^>]*)>", raw or "", re.I):
+        src = attr(match.group(1), "src") or attr(match.group(1), "data-src")
+        found = re.search(r"docs\.google\.com/document/d/([a-zA-Z0-9_-]+)", src or "")
+        if found:
+            return "https://docs.google.com/document/d/%s/export?format=html" % found.group(1)
+    return ""
+
+
+def parse_nav(raw):
+    items = []
+    seen = set()
+    pattern = re.compile(
+        r"<a\b([^>]*\bdata-level=\"(\d)\"[^>]*)>([\s\S]*?)</a>",
+        re.I,
+    )
+    for match in pattern.finditer(raw or ""):
+        attrs, level, inner = match.group(1), match.group(2), match.group(3)
+        href = unwrap_google_url(attr(attrs, "href"))
+        label = tidy_inline(re.sub(r"<[^>]+>", " ", inner))
+        if not label or not href:
+            continue
+        if level == "1":
+            key = href.split("?")[0]
+            if key in seen:
+                break
+            seen.add(key)
+            external = href.startswith("http://") or href.startswith("https://")
+            slug = ""
+            if href.startswith("/") and not href.startswith("//"):
+                slug = href.strip("/").split("/")[0] or "home"
+            elif external and "discord.gg" in href:
+                slug = "discord"
+            elif external:
+                slug = re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-") or "link"
+            items.append({
+                "id": slug or "home",
+                "title": label,
+                "href": href,
+                "path": href if href.startswith("/") else "",
+                "external": external and slug != "discord",
+                "children": [],
+            })
+        elif level == "2" and items:
+            items[-1]["children"].append({"label": label, "href": href})
+    return items
+
+
+def dedupe_links(items):
+    kept = []
+    seen = set()
+    for item in items:
+        href = item.get("href") or ""
+        label = item.get("label") or ""
+        key = (label_key(label), href)
+        if not label or not href or key in seen:
+            continue
+        seen.add(key)
+        kept.append(item)
+    return kept
+
+
+def parse_page(raw, item, page_ids, catalog, repairs):
+    blocks = parse_sections(raw, page_ids, catalog, repairs, item["title"])
+    # The Master Links page is a Google Doc embed, which Sites will not let
+    # the app iframe. Export the doc and keep its text and links instead.
+    doc_url = find_doc_url(raw)
+    if doc_url:
+        status, _, body = http_get(doc_url)
+        if status == 200 and body:
+            doc = doc_blocks(body, page_ids)
+            if doc:
+                kept = [block for block in blocks if block.get("type") == "links"]
+                blocks = kept + doc
+                print(f"site-pages: {item['id']} synced {len(doc)} blocks from the Google Doc")
+            else:
+                repairs.append("%s: Google Doc exported empty" % item["title"])
+        else:
+            repairs.append("%s: Google Doc export failed (HTTP %s)" % (item["title"], status))
+            blocks.append({
+                "type": "links",
+                "items": [{
+                    "label": "Open Master Links",
+                    "href": doc_url.replace("/export?format=html", "/preview"),
+                }],
+            })
+    child_items = []
+    for child in item.get("children") or []:
+        href = unwrap_google_url(child.get("href") or "")
+        if href.startswith("/") and not href.startswith("//"):
+            slug = href.strip("/").split("/")[0]
+            if slug in page_ids:
+                href = "#" + slug
+        if href_is_usable(href):
+            child_items.append({"label": child["label"], "href": href})
+    # A Sites button can store a cut-off copy of a menu URL. Prefer the menu copy.
+    donors = {label_key(link["label"]): link["href"] for link in child_items}
+    for block in blocks:
+        if block.get("type") != "links" or block.get("style") == "channels":
+            continue
+        for link in block.get("items") or []:
+            longer = donors.get(label_key(link.get("label")))
+            href = link.get("href") or ""
+            if longer and longer.startswith(href) and len(longer) > len(href) + 2:
+                repairs.append("%s: restored %s from the site menu" % (item["title"], link["label"]))
+                link["href"] = longer
+    if child_items:
+        existing_hrefs = set()
+        existing_labels = set()
+        for block in blocks:
+            for link in block.get("items") or []:
+                existing_hrefs.add(link.get("href"))
+                existing_labels.add(label_key(link.get("label")))
+        extra = [
+            link for link in child_items
+            if link["href"] not in existing_hrefs and label_key(link["label"]) not in existing_labels
+        ]
+        if extra:
+            blocks.insert(0, {"type": "links", "items": dedupe_links(extra)})
+    # Collapse duplicate link rows created above.
+    blocks = merge_link_runs(blocks)
+    for block in blocks:
+        if block.get("type") == "links":
+            block["items"] = dedupe_links(block.get("items") or [])
+    blocks = [block for block in blocks if block.get("type") != "links" or block.get("items")]
+    return {
+        "id": item["id"],
+        "title": item["title"],
+        "url": SITE_ORIGIN + item["path"] if item.get("path") else item.get("href") or "",
+        "blocks": blocks,
+    }
+
+
+def discord_page(item):
+    return {
+        "id": "discord",
+        "title": item.get("title") or "Discord Server",
+        "url": item.get("href") or "https://discord.gg/d8A9xHTey7",
+        "blocks": [
+            {
+                "type": "text",
+                "tag": "p",
+                "html": "The club's Discord server. Open the chat when you want it. Until then, this page keeps scrolling.",
+                "align": "center",
+                "font": "display",
+            },
+            {
+                "type": "card",
+                "kind": "discord",
+                "title": "Fan Edit Fan Club Discord",
+                "src": "embed-discord.html",
+            },
+            {
+                "type": "links",
+                "items": [{
+                    "label": "Open Discord",
+                    "href": item.get("href") or "https://discord.gg/d8A9xHTey7",
+                }],
+            },
+        ],
+    }
+
+
+def external_page(item):
+    return {
+        "id": item["id"],
+        "title": item["title"],
+        "url": item.get("href") or "",
+        "blocks": [{
+            "type": "links",
+            "items": [{"label": item["title"], "href": item.get("href") or ""}],
+        }],
+    }
+
+
+def previous_site_page(page_id):
+    existing = load_json(SITE_PAGES_FILE) or {}
+    for page in existing.get("pages") or []:
+        if page.get("id") == page_id:
+            return page
+    return None
+
+
+def refresh_site_pages():
+    status, _, body = http_get(SITE_ORIGIN + "/home")
+    if status != 200 or not body:
+        print(f"site-pages: home HTTP {status}; keeping the last file")
+        return
+    nav = parse_nav(body)
+    if len(nav) < 4:
+        print("site-pages: navigation was too short; keeping the last file")
+        return
+    try:
+        with open(ICON_CATALOG_FILE, encoding="utf-8") as handle:
+            catalog = parse_icon_catalog(handle.read())
+    except OSError:
+        catalog = []
+    page_ids = {item["id"] for item in nav}
+    repairs = []
+    pages = []
+    for item in nav:
+        if item["id"] == "discord":
+            pages.append(discord_page(item))
+            continue
+        if item.get("external"):
+            pages.append(external_page(item))
+            continue
+        page_status, _, page_body = http_get(SITE_ORIGIN + item["path"])
+        if page_status != 200 or not page_body:
+            print(f"site-pages: {item['path']} HTTP {page_status}; keeping the previous copy")
+            previous = previous_site_page(item["id"])
+            if previous:
+                pages.append(previous)
+            continue
+        pages.append(parse_page(page_body, item, page_ids, catalog, repairs))
+        print(f"site-pages: {item['id']} -> {len(pages[-1]['blocks'])} blocks")
+    if len(pages) < 4:
+        print("site-pages: not enough pages; keeping the last file")
+        return
+    payload = {
+        "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00"),
+        "source": SITE_ORIGIN,
+        "nav": [{"id": item["id"], "title": item["title"]} for item in nav],
+        "pages": pages,
+        "limitations": [
+            "Google Sites cannot be embedded, so page text is copied into this file on each feeds run.",
+            "Per-letter coloring on the home page is flattened. The words, links, and headings are kept.",
+            "Some All Channels hrefs are truncated inside the Google Sites HTML embed. Those labels are filled from embed-icons.html, the grid the homepage actually shows.",
+            "Discord chat and the PayPal button stay live. They need a connection and are not copied into this file.",
+            "The Facebook Group card still follows the free SociableKit snapshot, which updates when someone presses Request sync.",
+        ],
+        "repairs": repairs,
+    }
+    with open(SITE_PAGES_FILE, "w", encoding="utf-8") as handle:
+        json.dump(payload, handle, indent=1)
+        handle.write("\n")
+    print(f"site-pages.json: wrote {len(pages)} pages, {len(repairs)} link repairs.")
+
+
 def main():
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
     existing_profile = load_json("x-posts.json")
@@ -669,6 +1460,10 @@ def main():
     write("fb-group.json", fetch_fb_group())
     # reddit-*.json are owned by the daily 5pm ET browser scan; never
     # write them here (Reddit RSS is dead as of 2026-11-13).
+    try:
+        refresh_site_pages()
+    except Exception as exc:
+        print(f"site-pages: {exc}; keeping the last file")
 
 
 if __name__ == "__main__":

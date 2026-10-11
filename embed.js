@@ -42,8 +42,8 @@
     });
   }
 
-  function setMessage(message) {
-    var el = document.getElementById("posts");
+  function setMessage(message, el) {
+    el = el || document.getElementById("posts");
     if (el) el.innerHTML = '<p class="empty">' + esc(message) + "</p>";
   }
 
@@ -99,13 +99,13 @@
   }
 
   function mountPosts(options) {
+    var el = options.root || document.getElementById("posts");
     load(options.feed).then(function (data) {
       if (typeof options.onData === "function") options.onData(data || {});
       var posts = (data && data.posts) || [];
-      var el = document.getElementById("posts");
       if (!el) return;
       if (!posts.length) {
-        setMessage("No posts yet.");
+        setMessage("No posts yet.", el);
         return;
       }
       var profile = (data && data.profile) || {};
@@ -131,19 +131,20 @@
           media +
         "</a>";
       }).join("");
-      keepFitted(el);
+      if (options.fit !== false) keepFitted(el);
+      if (typeof options.onRender === "function") options.onRender(el);
     }).catch(function () {
-      setMessage("Unable to load posts.");
+      setMessage("Unable to load posts.", el);
     });
   }
 
   function mountReddit(options) {
+    var el = options.root || document.getElementById("posts");
     load(options.feed).then(function (data) {
       var posts = (data && data.posts) || [];
-      var el = document.getElementById("posts");
       if (!el) return;
       if (!posts.length) {
-        setMessage("No posts yet.");
+        setMessage("No posts yet.", el);
         return;
       }
       el.innerHTML = posts.slice(0, options.max || 10).map(function (post) {
@@ -155,9 +156,10 @@
           '<span class="meta reddit">' + esc(meta) + "</span>" +
         "</a>";
       }).join("");
-      keepFitted(el);
+      if (options.fit !== false) keepFitted(el);
+      if (typeof options.onRender === "function") options.onRender(el);
     }).catch(function () {
-      setMessage("Unable to load posts.");
+      setMessage("Unable to load posts.", el);
     });
   }
 
