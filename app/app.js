@@ -70,8 +70,35 @@
     }
   };
 
+  var PHONE_TABS = ["home", "discord", "x", "reddit"];
+  var MORE_TABS = ["support-us", "master-links", "facebook", "all-channels"];
+  var TAB_LABEL = {
+    home: "Home",
+    "support-us": "Support",
+    "master-links": "Links",
+    discord: "Discord",
+    x: "X",
+    facebook: "Facebook",
+    reddit: "Reddit",
+    "all-channels": "Channels"
+  };
+  var TAB_ICON = {
+    home: '<path d="M4 10.6 12 4l8 6.6V20a1 1 0 0 1-1 1h-5.2v-6.2H10.2V21H5a1 1 0 0 1-1-1z"/>',
+    discord: '<path d="M4.5 6.2A2.2 2.2 0 0 1 6.7 4h10.6a2.2 2.2 0 0 1 2.2 2.2v7.1a2.2 2.2 0 0 1-2.2 2.2H9.4L4.5 20v-4.5a2.2 2.2 0 0 1-2-2.2V6.2z"/>',
+    x: '<path d="M5 4.5h3.2l3.1 4.3 3.5-4.3H19l-5.2 6.6 5.6 8.4h-3.2l-3.5-4.8-4.1 4.8H5.2l5.6-6.6z"/>',
+    reddit: '<path d="M14.7 4.4a1.25 1.25 0 0 1 .15 1.55l-1.45.7a6.1 6.1 0 0 1 3.15 1.45 1.65 1.65 0 1 1 1.55 2.75c.08.38.1.76.1 1.15 0 3.15-2.95 5.45-6.2 5.45s-6.2-2.3-6.2-5.45c0-.39.02-.77.1-1.15a1.65 1.65 0 1 1 1.65-2.65 6.1 6.1 0 0 1 3.05-1.45l1.05-2.35a1.15 1.15 0 0 1 1.45-.55l.55.2zM9.15 11.3a1.15 1.15 0 1 0 .02 2.3 1.15 1.15 0 0 0-.02-2.3zm5.7 0a1.15 1.15 0 1 0 .02 2.3 1.15 1.15 0 0 0-.02-2.3zM8.7 15.05c.85.7 2.05.95 3.3.95s2.45-.25 3.3-.95"/>',
+    more: '<circle cx="6" cy="12" r="1.7"/><circle cx="12" cy="12" r="1.7"/><circle cx="18" cy="12" r="1.7"/>',
+    "support-us": '<path d="M12 19.3S5.6 15.2 5.6 10.4A3.6 3.6 0 0 1 12 8.3a3.6 3.6 0 0 1 6.4 2.1c0 4.8-6.4 8.9-6.4 8.9z"/>',
+    "master-links": '<path d="M9.2 8H7.4a3.5 3.5 0 0 0 0 7h1.8M14.8 8h1.8a3.5 3.5 0 0 1 0 7h-1.8M8.6 11.5h6.8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>',
+    facebook: '<path d="M13.8 8.2H16.5V5h-2.7A3.5 3.5 0 0 0 10.3 8.5V10H8v3.1h2.3V20h3.2v-6.9h2.6l.5-3.1h-3.1V8.7c0-.3.2-.5.6-.5z"/>',
+    "all-channels": '<path d="M4.8 4.8h5.6v5.6H4.8zM13.6 4.8h5.6v5.6h-5.6zM4.8 13.6h5.6v5.6H4.8zM13.6 13.6h5.6v5.6h-5.6z"/>'
+  };
+
   var main = document.getElementById("main");
   var tabs = document.getElementById("tabs");
+  var moreSheet = document.getElementById("more-sheet");
+  var moreBackdrop = document.getElementById("more-backdrop");
+  var phoneTabs = window.matchMedia("(max-width: 719px)");
   var installBtn = document.getElementById("install-btn");
   var installTip = document.getElementById("install-tip");
   var iosHint = document.getElementById("ios-hint");
@@ -412,7 +439,12 @@
       if (list && list.childElementCount) page.appendChild(list);
       list = null;
     }
-    (blocks || []).forEach(function (block) {
+    var skipPair = false;
+    (blocks || []).forEach(function (block, index) {
+      if (skipPair) {
+        skipPair = false;
+        return;
+      }
       if (block.type === "text" && block.tag === "li") {
         if (!list) {
           list = document.createElement("ul");
@@ -436,6 +468,16 @@
           page.appendChild(linkRow(block.items));
         }
       } else if (block.type === "card") {
+        var next = (blocks || [])[index + 1];
+        if (block.kind === "facebook" && next && next.type === "card" && next.kind === "fb-group") {
+          var pair = document.createElement("div");
+          pair.className = "card-pair wide";
+          pair.appendChild(renderCard(block));
+          pair.appendChild(renderCard(next));
+          page.appendChild(pair);
+          skipPair = true;
+          return;
+        }
         var card = renderCard(block);
         if (block.kind === "discord" || block.kind === "paypal" || block.kind === "icons") {
           card.classList.add("wide");
@@ -458,15 +500,84 @@
     return pages[0] || null;
   }
 
+  function closeMore() {
+    moreSheet.hidden = true;
+    moreBackdrop.hidden = true;
+    var btn = document.getElementById("more-tab");
+    if (btn) btn.setAttribute("aria-expanded", "false");
+  }
+
+  function tabGlyph(name) {
+    var wrap = document.createElement("span");
+    wrap.className = "tab-icon";
+    wrap.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true">' + (TAB_ICON[name] || TAB_ICON.more) + "</svg>";
+    return wrap;
+  }
+
+  function makeTab(item, current) {
+    var link = document.createElement("a");
+    link.href = "#" + item.id;
+    link.appendChild(tabGlyph(item.id));
+    var label = document.createElement("span");
+    label.textContent = TAB_LABEL[item.id] || item.title;
+    link.appendChild(label);
+    if (item.id === current) link.setAttribute("aria-current", "page");
+    return link;
+  }
+
   function renderTabs(current) {
     var nav = (bundle && bundle.nav) || [];
+    var byId = {};
+    nav.forEach(function (item) { byId[item.id] = item; });
+    closeMore();
     tabs.innerHTML = "";
+    moreSheet.innerHTML = "";
+    if (!phoneTabs.matches) {
+      nav.forEach(function (item) { tabs.appendChild(makeTab(item, current)); });
+      fitTabs();
+      return;
+    }
+    PHONE_TABS.forEach(function (id) {
+      if (byId[id]) tabs.appendChild(makeTab(byId[id], current));
+    });
+    var extras = [];
+    MORE_TABS.forEach(function (id) {
+      if (byId[id]) extras.push(byId[id]);
+    });
     nav.forEach(function (item) {
+      if (PHONE_TABS.indexOf(item.id) === -1 && MORE_TABS.indexOf(item.id) === -1) extras.push(item);
+    });
+    if (!extras.length) {
+      fitTabs();
+      return;
+    }
+    var more = document.createElement("button");
+    more.type = "button";
+    more.id = "more-tab";
+    more.className = "tab";
+    more.setAttribute("aria-expanded", "false");
+    more.setAttribute("aria-controls", "more-sheet");
+    more.appendChild(tabGlyph("more"));
+    var moreLabel = document.createElement("span");
+    moreLabel.textContent = "More";
+    more.appendChild(moreLabel);
+    if (extras.some(function (item) { return item.id === current; })) {
+      more.setAttribute("aria-current", "page");
+    }
+    more.addEventListener("click", function () {
+      var open = moreSheet.hidden;
+      moreSheet.hidden = !open;
+      moreBackdrop.hidden = !open;
+      more.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    tabs.appendChild(more);
+    extras.forEach(function (item) {
       var link = document.createElement("a");
       link.href = "#" + item.id;
       link.textContent = item.title;
       if (item.id === current) link.setAttribute("aria-current", "page");
-      tabs.appendChild(link);
+      link.addEventListener("click", closeMore);
+      moreSheet.appendChild(link);
     });
     fitTabs();
   }
@@ -545,6 +656,14 @@
     installTip.hidden = true;
     iosHint.hidden = true;
   });
+
+  moreBackdrop.addEventListener("click", closeMore);
+  document.addEventListener("keydown", function (event) {
+    if (event.key === "Escape") closeMore();
+  });
+  if (phoneTabs.addEventListener) {
+    phoneTabs.addEventListener("change", function () { renderTabs(pageId()); });
+  }
 
   window.addEventListener("hashchange", render);
   window.addEventListener("resize", fitTabs);

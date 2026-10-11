@@ -1,7 +1,7 @@
 /* App shell for the Fan Edit Fan Club installable app.
    Network first, so feeds and site text stay current. The cache is the
    offline fallback after one successful visit. */
-var CACHE = "fefc-app-v1";
+var CACHE = "fefc-app-v2";
 var SHELL = [
   "./index.html",
   "./app.css",
