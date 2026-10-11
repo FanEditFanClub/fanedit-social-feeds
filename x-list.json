@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T09:21:39+00:00",
+ "updated_at": "2026-10-11T09:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109214926430404678",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 123 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109214926430404678",
+   "created_at": "2026-10-11T09:30:00+00:00",
+   "sent_at": "2026-10-11T09:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HURTpwjWAAANnY-.jpg"
+  },
+  {
    "id": "2109211150726439388",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 122 of 616",
    "url": "https://x.com/SopranosOrder/status/2109211150726439388",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/media/HURTmOJWoAAU1f3.jpg"
-  },
-  {
-   "id": "2109207377534668851",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 121 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109207377534668851",
-   "created_at": "2026-10-11T09:00:00+00:00",
-   "sent_at": "2026-10-11T09:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HURTjDKWoAI8jsH.jpg"
   },
   {
    "id": "2109184165644271785",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 112,
+   "like_count": 113,
    "image": "https://pbs.twimg.com/media/HUUSE4XW0AEXQYe.jpg"
   },
   {
@@ -149,21 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 23,
    "repost_count": 14,
-   "like_count": 111,
-   "image": ""
-  },
-  {
-   "id": "2109033562272067731",
-   "text": "Parody account folks look at the name before you fall for it",
-   "url": "https://x.com/StebobM/status/2109033562272067731",
-   "created_at": "2026-10-10T21:29:19+00:00",
-   "sent_at": "2026-10-10T21:29:19+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "like_count": 112,
    "image": ""
   }
  ]
