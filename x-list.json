@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T17:06:39+00:00",
+ "updated_at": "2026-10-11T17:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2109331946673217696",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 154 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109331946673217696",
+   "created_at": "2026-10-11T17:15:00+00:00",
+   "sent_at": "2026-10-11T17:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HURVV4TXgAArwYq.jpg"
+  },
+  {
+   "id": "2109331791488090242",
+   "text": "Ill be your number null with a bulle\nA God(zilla) complex, cock it and pull it",
+   "url": "https://x.com/TheManlet_King/status/2109331791488090242",
+   "created_at": "2026-10-11T17:14:23+00:00",
+   "sent_at": "2026-10-11T17:14:23+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2109328173683130616",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 153 of 616",
    "url": "https://x.com/SopranosOrder/status/2109328173683130616",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HURVSuUWQAEb87j.jpg"
-  },
-  {
-   "id": "2109324396967899156",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 152 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109324396967899156",
-   "created_at": "2026-10-11T16:45:00+00:00",
-   "sent_at": "2026-10-11T16:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HURVORvXMAA3DGs.jpg"
   },
   {
    "id": "2109324204885623267",
@@ -93,21 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 4,
-   "like_count": 71,
-   "image": ""
-  },
-  {
-   "id": "2109281303937884531",
-   "text": "I don't need this level of temptation right now \ud83d\ude29",
-   "url": "https://x.com/TheManlet_King/status/2109281303937884531",
-   "created_at": "2026-10-11T13:53:46+00:00",
-   "sent_at": "2026-10-11T13:53:46+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
+   "like_count": 86,
    "image": ""
   },
   {
@@ -137,20 +137,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUVT0WdaMAEzv8W.jpg"
-  },
-  {
-   "id": "2109122313706770842",
-   "text": "https://www.twitch.tv/ncseventeenscannersinc",
-   "url": "https://x.com/NCseventeen/status/2109122313706770842",
-   "created_at": "2026-10-11T03:21:59+00:00",
-   "sent_at": "2026-10-11T03:21:59+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
   }
  ]
 }
