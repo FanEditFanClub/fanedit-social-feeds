@@ -62,6 +62,6 @@ Feed cards stack posts from the top with one fixed gap. `embed.js` renders the w
 
 Email icon: Google Sites puts every embed in an iframe sandboxed with `allow-popups allow-popups-to-escape-sandbox` but no top navigation, and some phone browsers drop a `mailto:` that tries to navigate that iframe. The link uses `target="_blank"`, so the tap opens an unsandboxed window that hands `mailto:` to the phone's mail app. On a mouse/trackpad device (`(hover: hover) and (pointer: fine)`), where `mailto:` often has no mail app behind it, the link opens Gmail compose (`https://mail.google.com/mail/?view=cm&fs=1&to=FanEditFanClub@gmail.com`) in a new tab.
 
-`embed-icons.html` does not reflow. All 66 icons stay on 6 rows, and the icon size follows `--u`, so 390px and 1200px are the same grid at different scales.
+`embed-icons.html` does not reflow. All 66 icons stay on 6 rows. On a phone the icon size follows `--u`, so the grid fills the 11:6 box. From about 600px wide the icons stop growing around 40px, and the name of the icon under the pointer is written in a line inside the card.
 
 Once these nine boxes are on the homepage, `website-widgets.html` is unused. The old URLs stay up until the Site is switched: `website-widgets.html`, `discord-embed.html`, `facebook-tab.html`, `reddit-tab.html`, `support-tab.html`. `x-tab.html` still loads, but it reads `x-list.json` / `x-posts.json` and no longer requests Facebook, Reddit, PayPal, or `widgets.js`.
