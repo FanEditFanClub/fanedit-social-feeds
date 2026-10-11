@@ -5,9 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--
   Google Sites embed box ratio: width:height = 11:6 (height = 6/11 × width).
-  66 icons, 11 columns by 6 rows. Icon size is in rem (--u), so the grid
-  keeps this shape at every width. A shorter box scales the icons down; a
-  taller box leaves space. The Website icon opens https://www.faneditfanclub.com.
+  66 icons, 11 columns by 6 rows. On a phone the icon size follows --u, so
+  the grid fills the box and stays tappable. From tablet width up, icons
+  stop growing around 40px and the name shows in a label inside the card.
+  A shorter box still scales the icons down. Nothing scrolls.
+  The Website icon opens https://www.faneditfanclub.com.
 -->
 <link rel="stylesheet" href="embed.css">
 <title>Fan Edit Fan Club links</title>
@@ -15,14 +17,19 @@
   .icon-grid {
     width: 100%;
     height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.45rem;
+    padding: 1.15rem;
+    overflow: hidden;
+  }
+  .icon-cells {
     display: grid;
     grid-template-columns: repeat(11, 8rem);
     grid-template-rows: repeat(6, 8rem);
     gap: 0.55rem;
-    padding: 1.15rem;
-    justify-content: center;
-    align-content: center;
-    overflow: hidden;
   }
   .icon-btn {
     position: relative;
@@ -35,6 +42,10 @@
     text-decoration: none;
   }
   .icon-btn:hover, .icon-btn:focus-visible { background: #16181c; }
+  .icon-btn:focus-visible {
+    outline: 2px solid #1d9bf0;
+    outline-offset: -3px;
+  }
   .glyph {
     width: 100%;
     height: 100%;
@@ -45,29 +56,47 @@
     background: #ffffff;
     padding: 0.45rem;
   }
-  .icon-btn:hover::after,
-  .icon-btn:focus-visible::after {
-    content: attr(data-label);
-    position: absolute;
-    left: 50%;
-    bottom: calc(100% + 0.35rem);
-    transform: translateX(-50%);
-    background: #16181c;
-    color: #ffffff;
-    border: 1px solid #2f3336;
-    border-radius: 0.8rem;
-    padding: 0.45rem 0.9rem;
-    font-size: 2.2rem;
+  .icon-label {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 100%;
+    min-height: 1.35em;
+    margin: 0;
+    padding: 0 0.4rem;
+    color: #f9f9f9;
     font-weight: 700;
-    line-height: 1.2;
-    white-space: nowrap;
-    pointer-events: none;
-    z-index: 2;
+    line-height: 1.3;
+    text-align: center;
+    text-wrap: balance;
+    flex: 0 0 auto;
+  }
+  /* Wider than a phone: keep icons from filling the box, and name them
+     in a line inside the card instead of a tooltip that leaves the frame. */
+  @media (min-width: 600px) {
+    .icon-grid { padding: 10px 12px 8px; gap: 8px; }
+    .icon-cells {
+      grid-template-columns: repeat(11, min(8rem, 40px));
+      grid-template-rows: repeat(6, min(8rem, 40px));
+      gap: min(0.55rem, 8px);
+    }
+    .icon-btn {
+      width: min(8rem, 40px);
+      height: min(8rem, 40px);
+      border-radius: 10px;
+    }
+    .glyph { border-radius: 8px; }
+    .icon-label {
+      display: flex;
+      font-size: min(2rem, 15px);
+    }
   }
 </style>
 </head>
 <body>
 <nav class="icon-grid" aria-label="Fan Edit Fan Club links">
+<div class="icon-cells">
 <!-- Website & Linktree -->
         <a href="https://www.faneditfanclub.com" target="_blank" class="icon-btn" title="Website" data-label="Website"><img class="glyph" src="https://i.imgur.com/9ONFKFd.png" alt="Website"></a>
         <a href="https://linktr.ee/faneditfanclub" target="_blank" class="icon-btn" title="Linktree" data-label="Linktree"><img class="glyph" src="https://www.google.com/s2/favicons?domain=linktr.ee&sz=128" alt="Linktree"></a>
@@ -161,6 +190,8 @@
 
         <!-- Email Contact -->
         <a href="mailto:FanEditFanClub@gmail.com" target="_blank" rel="noopener" id="email-link" class="icon-btn" title="Email FanEditFanClub@gmail.com" data-label="Email"><img class="glyph" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0' stop-color='%235ac8fa'/%3E%3Cstop offset='1' stop-color='%23007aff'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='128' height='128' rx='28' fill='url(%23g)'/%3E%3Crect x='26' y='38' width='76' height='52' rx='6' fill='none' stroke='%23fff' stroke-width='7'/%3E%3Cpath d='M30 44 L64 70 L98 44' fill='none' stroke='%23fff' stroke-width='7' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E" alt="Email"></a>
+</div>
+<p class="icon-label" id="icon-label" aria-live="polite"></p>
 </nav>
 <script>
 /* Email icon. Google Sites puts this page in a sandboxed iframe
@@ -172,11 +203,37 @@
    Gmail compose window in a new tab instead. */
 (function () {
   var link = document.getElementById("email-link");
-  if (!link || !window.matchMedia) return;
-  if (window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
+  if (link && window.matchMedia && window.matchMedia("(hover: hover) and (pointer: fine)").matches) {
     link.href = "https://mail.google.com/mail/?view=cm&fs=1&to=FanEditFanClub@gmail.com";
     link.rel = "noopener noreferrer";
   }
+  if (window.matchMedia("(min-width: 600px)").matches) {
+    document.querySelectorAll(".icon-btn").forEach(function (btn) {
+      var name = btn.getAttribute("data-label") || "";
+      if (name) btn.setAttribute("aria-label", name);
+      btn.removeAttribute("title");
+    });
+  }
+  var label = document.getElementById("icon-label");
+  if (!cells || !label) return;
+  function nameOf(node) {
+    var btn = node && node.closest ? node.closest(".icon-btn") : null;
+    return btn ? (btn.getAttribute("data-label") || "") : "";
+  }
+  cells.addEventListener("pointerover", function (event) {
+    var text = nameOf(event.target);
+    if (text) label.textContent = text;
+  });
+  cells.addEventListener("pointerout", function (event) {
+    if (!cells.contains(event.relatedTarget)) label.textContent = "";
+  });
+  cells.addEventListener("focusin", function (event) {
+    var text = nameOf(event.target);
+    if (text) label.textContent = text;
+  });
+  cells.addEventListener("focusout", function (event) {
+    if (!cells.contains(event.relatedTarget)) label.textContent = "";
+  });
 })();
 </script>
 </body>
