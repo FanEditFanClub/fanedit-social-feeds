@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T16:21:39+00:00",
+ "updated_at": "2026-10-11T16:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2109321425655930981",
+   "text": "Hey Im in town for X Takeover and sticking around for @Tesla @tesla_na Roadster Reveal. Figured I'd take my shot if anyone has an extra Roadster Ticket?\n\nI've been doing #TeslaVanLife for almost 10 Years, Heloed Lead 2 different Tesla Clubs organizing over 150+ EVents, and former",
+   "url": "https://x.com/CarsonGallo/status/2109321425655930981",
+   "created_at": "2026-10-11T16:33:11+00:00",
+   "sent_at": "2026-10-11T16:33:11+00:00",
+   "author_name": "Carson J Gallo",
+   "author_handle": "CarsonGallo",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HUXQp5-WgAAYpVe.jpg"
+  },
+  {
+   "id": "2109320624325972040",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 151 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109320624325972040",
+   "created_at": "2026-10-11T16:30:00+00:00",
+   "sent_at": "2026-10-11T16:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HURVK5UXwAARDBI.jpg"
+  },
+  {
    "id": "2109317098895716456",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 150 of 616",
    "url": "https://x.com/SopranosOrder/status/2109317098895716456",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HURVHr1WwAAA790.jpg"
-  },
-  {
-   "id": "2109313072171303071",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 149 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109313072171303071",
-   "created_at": "2026-10-11T16:00:00+00:00",
-   "sent_at": "2026-10-11T16:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HURVEQpXEAA4hLH.jpg"
   },
   {
    "id": "2109294605459959992",
@@ -49,9 +63,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 2,
-   "like_count": 40,
+   "like_count": 52,
    "image": ""
   },
   {
