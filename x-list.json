@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T06:06:39+00:00",
+ "updated_at": "2026-10-12T06:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2109528239903285541",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 206 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109528239903285541",
+   "created_at": "2026-10-12T06:15:00+00:00",
+   "sent_at": "2026-10-12T06:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HUW9WchX0AAzHGn.jpg"
+  },
   {
    "id": "2109525176576508294",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Request: Flight 180 (final destination as x files episode), reasonable file size or non-mega host.\n\nhttps://www.reddit.com/r/fanedits/comments/1x2tzm7/request_flight_180_final_destination_as_x_files/",
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 21,
    "image": "https://pbs.twimg.com/media/HUW9TmNXEAATHIM.jpg"
-  },
-  {
-   "id": "2109520690265428378",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 204 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109520690265428378",
-   "created_at": "2026-10-12T05:45:00+00:00",
-   "sent_at": "2026-10-12T05:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUW9OjcWQAA1VkQ.jpg"
   },
   {
    "id": "2109511920373924137",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 39,
+   "like_count": 44,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109511746922725376/img/84FhNMF_3poZiJ16.jpg"
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 9,
-   "repost_count": 362,
-   "like_count": 3759,
+   "reply_count": 10,
+   "repost_count": 372,
+   "like_count": 3831,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1958438357307994112/pu/img/3LxSMmf5P_BihnOW.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 2,
-   "repost_count": 56,
-   "like_count": 1114,
+   "repost_count": 57,
+   "like_count": 1151,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2095321754868527105/img/PcOnNiwcc8VZQWBg.jpg"
   },
   {
