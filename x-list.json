@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T15:36:40+00:00",
+ "updated_at": "2026-10-12T15:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2109671685519540411",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 244 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109671685519540411",
+   "created_at": "2026-10-12T15:45:00+00:00",
+   "sent_at": "2026-10-12T15:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUW_Yi0WsAAiDJz.jpg"
+  },
   {
    "id": "2109668499698160054",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Daredevil: DAMNED | A Fan Action Short by Aleks Le.\n\nhttps://www.reddit.com/r/fanedits/comments/1x33bif/daredevil_damned_a_fan_action_short_by_aleks_le/",
@@ -55,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HUW_VjzXkAA30HX.jpg"
   },
   {
-   "id": "2109664135424426086",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 242 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109664135424426086",
-   "created_at": "2026-10-12T15:15:00+00:00",
-   "sent_at": "2026-10-12T15:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HUW_SYIWEAAL110.jpg"
-  },
-  {
    "id": "2109612586526289994",
    "text": "Always has been",
    "url": "https://x.com/TheManlet_King/status/2109612586526289994",
@@ -78,8 +78,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
-   "repost_count": 5,
-   "like_count": 159,
+   "repost_count": 6,
+   "like_count": 179,
    "image": "https://pbs.twimg.com/media/HUbZdyiWcAAGHjT.jpg"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 3,
-   "repost_count": 17,
-   "like_count": 178,
+   "repost_count": 21,
+   "like_count": 185,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109511746922725376/img/84FhNMF_3poZiJ16.jpg"
   }
  ]
