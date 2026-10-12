@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T17:51:39+00:00",
+ "updated_at": "2026-10-12T18:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2109705667196149931",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 253 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109705667196149931",
+   "created_at": "2026-10-12T18:00:02+00:00",
+   "sent_at": "2026-10-12T18:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUW_2xkXQAATyF3.jpg"
+  },
   {
    "id": "2109701884709642470",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 252 of 616",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HUW_yDCXsAA-Nj7.jpg"
   },
   {
-   "id": "2109698111455293667",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 251 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109698111455293667",
-   "created_at": "2026-10-12T17:30:00+00:00",
-   "sent_at": "2026-10-12T17:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HUW_uflXsAAyh6w.jpg"
-  },
-  {
    "id": "2109687634247204980",
    "text": "If John Barry had done the score for GoldenEye:",
    "url": "https://x.com/tomsmason91/status/2109687634247204980",
@@ -49,9 +49,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 9,
-   "repost_count": 3,
-   "like_count": 65,
+   "reply_count": 10,
+   "repost_count": 5,
+   "like_count": 86,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109686993185574912/img/xnmFhrozQ7LMb8h_.jpg"
   },
   {
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
-   "repost_count": 75,
-   "like_count": 691,
+   "repost_count": 83,
+   "like_count": 761,
    "image": ""
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
-   "repost_count": 20,
-   "like_count": 369,
+   "repost_count": 22,
+   "like_count": 403,
    "image": "https://pbs.twimg.com/media/HUbZdyiWcAAGHjT.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 4,
    "repost_count": 21,
-   "like_count": 209,
+   "like_count": 211,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109511746922725376/img/84FhNMF_3poZiJ16.jpg"
   }
  ]
