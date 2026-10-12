@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T15:51:41+00:00",
+ "updated_at": "2026-10-12T16:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2109676337229422755",
+   "text": "every time queer women are acknowledged as being a big part of the fanbase for heated rivalry an angel gains its wings",
+   "url": "https://x.com/uhbucky/status/2109676337229422755",
+   "created_at": "2026-10-12T16:03:29+00:00",
+   "sent_at": "2026-10-12T16:03:29+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 11,
+   "image": ""
+  },
+  {
+   "id": "2109675468395798830",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 245 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109675468395798830",
+   "created_at": "2026-10-12T16:00:02+00:00",
+   "sent_at": "2026-10-12T16:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUW_cIhXkAA2RJ0.jpg"
+  },
+  {
    "id": "2109671685519540411",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 244 of 616",
    "url": "https://x.com/SopranosOrder/status/2109671685519540411",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HUW_Yi0WsAAiDJz.jpg"
   },
   {
@@ -55,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2109667914026749959",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 243 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109667914026749959",
-   "created_at": "2026-10-12T15:30:01+00:00",
-   "sent_at": "2026-10-12T15:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HUW_VjzXkAA30HX.jpg"
-  },
-  {
    "id": "2109612586526289994",
    "text": "Always has been",
    "url": "https://x.com/TheManlet_King/status/2109612586526289994",
@@ -78,8 +92,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
-   "repost_count": 6,
-   "like_count": 179,
+   "repost_count": 11,
+   "like_count": 197,
    "image": "https://pbs.twimg.com/media/HUbZdyiWcAAGHjT.jpg"
   },
   {
@@ -135,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 3,
    "repost_count": 21,
-   "like_count": 185,
+   "like_count": 188,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109511746922725376/img/84FhNMF_3poZiJ16.jpg"
   }
  ]
