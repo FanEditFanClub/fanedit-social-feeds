@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T02:21:40+00:00",
+ "updated_at": "2026-10-12T02:36:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2109471616820199717",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 191 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109471616820199717",
+   "created_at": "2026-10-12T02:30:00+00:00",
+   "sent_at": "2026-10-12T02:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUW8exhXoAA6e-t.jpg"
+  },
   {
    "id": "2109469265623392489",
    "text": "A New Row has been added to The Fan Edit Central Database - A Fan Edit of Nosferatu (2024) called Nosferatu (2024) The Ellen Edit by StefanBoGeffin.\n\nhttps://faneditcentral.wixsite.com/home",
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 5,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/media/HUW8a2BXMAA2-h4.jpg"
-  },
-  {
-   "id": "2109464068256055750",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 189 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109464068256055750",
-   "created_at": "2026-10-12T02:00:00+00:00",
-   "sent_at": "2026-10-12T02:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUW8XujXMAE33Km.jpg"
   },
   {
    "id": "2109441388299616595",
@@ -63,9 +63,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 188,
-   "like_count": 1742,
+   "reply_count": 5,
+   "repost_count": 210,
+   "like_count": 1956,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1958438357307994112/pu/img/3LxSMmf5P_BihnOW.jpg"
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 27,
-   "like_count": 616,
+   "repost_count": 31,
+   "like_count": 676,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2095321754868527105/img/PcOnNiwcc8VZQWBg.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 1,
    "repost_count": 4,
-   "like_count": 90,
+   "like_count": 94,
    "image": "https://pbs.twimg.com/media/HUYo-lQWUAATfJg.jpg"
   },
   {
@@ -161,7 +161,7 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 0,
    "repost_count": 0,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HUYVYy-XEAANGg4.jpg"
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 12,
    "repost_count": 6,
-   "like_count": 160,
+   "like_count": 161,
    "image": ""
   }
  ]
