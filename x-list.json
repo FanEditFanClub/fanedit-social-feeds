@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T06:21:40+00:00",
+ "updated_at": "2026-10-12T06:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109531250998333706",
+   "text": "What do you want the players do do not celebrate? \ud83e\udd23",
+   "url": "https://x.com/StebobM/status/2109531250998333706",
+   "created_at": "2026-10-12T06:26:58+00:00",
+   "sent_at": "2026-10-12T06:26:58+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2109528239903285541",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 206 of 616",
    "url": "https://x.com/SopranosOrder/status/2109528239903285541",
@@ -22,8 +36,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 4,
+   "repost_count": 2,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HUW9WchX0AAzHGn.jpg"
   },
   {
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 21,
+   "like_count": 22,
    "image": "https://pbs.twimg.com/media/HUW9TmNXEAATHIM.jpg"
   },
   {
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 44,
+   "like_count": 49,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109511746922725376/img/84FhNMF_3poZiJ16.jpg"
   },
   {
@@ -106,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 10,
-   "repost_count": 372,
-   "like_count": 3831,
+   "repost_count": 380,
+   "like_count": 3910,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1958438357307994112/pu/img/3LxSMmf5P_BihnOW.jpg"
   },
   {
@@ -120,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 2,
-   "repost_count": 57,
-   "like_count": 1151,
+   "repost_count": 58,
+   "like_count": 1171,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2095321754868527105/img/PcOnNiwcc8VZQWBg.jpg"
   },
   {
@@ -165,20 +179,6 @@
    "repost_count": 0,
    "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUYVwHyXoAAgL0W.jpg"
-  },
-  {
-   "id": "2109396999481250227",
-   "text": "Finished #Carrie on Prime.\n\nIt\u2019s more of a reinterpretation than another adaptation and I appreciated that. I really enjoyed the series overall but felt the finale was a mixed bag, really could have done without that weird dance scene\n\nBut still looking forward to season 2",
-   "url": "https://x.com/StebobM/status/2109396999481250227",
-   "created_at": "2026-10-11T21:33:30+00:00",
-   "sent_at": "2026-10-11T21:33:30+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUYVYy-XEAANGg4.jpg"
   }
  ]
 }
