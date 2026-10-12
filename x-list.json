@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T17:06:58+00:00",
+ "updated_at": "2026-10-12T17:21:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109694334769496224",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 250 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109694334769496224",
+   "created_at": "2026-10-12T17:15:00+00:00",
+   "sent_at": "2026-10-12T17:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUW_rTYX0AAa4x_.jpg"
+  },
+  {
    "id": "2109690566929776645",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 249 of 616",
    "url": "https://x.com/SopranosOrder/status/2109690566929776645",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HUW_oDSWgAAPvwn.jpg"
   },
   {
@@ -35,24 +49,10 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 15,
+   "reply_count": 3,
+   "repost_count": 2,
+   "like_count": 30,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109686993185574912/img/xnmFhrozQ7LMb8h_.jpg"
-  },
-  {
-   "id": "2109686785278099794",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 248 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109686785278099794",
-   "created_at": "2026-10-12T16:45:00+00:00",
-   "sent_at": "2026-10-12T16:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 8,
-   "image": "https://pbs.twimg.com/media/HUW_kUvWQAAvw1n.jpg"
   },
   {
    "id": "2109676337229422755",
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
-   "repost_count": 44,
-   "like_count": 460,
+   "repost_count": 57,
+   "like_count": 556,
    "image": ""
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
-   "repost_count": 13,
-   "like_count": 299,
+   "repost_count": 16,
+   "like_count": 319,
    "image": "https://pbs.twimg.com/media/HUbZdyiWcAAGHjT.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 4,
    "repost_count": 21,
-   "like_count": 198,
+   "like_count": 201,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109511746922725376/img/84FhNMF_3poZiJ16.jpg"
   }
  ]
