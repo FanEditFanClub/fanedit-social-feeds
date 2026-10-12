@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T05:06:38+00:00",
+ "updated_at": "2026-10-12T05:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2109513140589531301",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 202 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109513140589531301",
+   "created_at": "2026-10-12T05:15:00+00:00",
+   "sent_at": "2026-10-12T05:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUW9HEIXsAA3ZaP.jpg"
+  },
+  {
+   "id": "2109511920373924137",
+   "text": "Zombi (16mm)",
+   "url": "https://x.com/NCseventeen/status/2109511920373924137",
+   "created_at": "2026-10-12T05:10:09+00:00",
+   "sent_at": "2026-10-12T05:10:09+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 7,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2109511746922725376/img/84FhNMF_3poZiJ16.jpg"
+  },
+  {
    "id": "2109509365510148461",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 201 of 616",
    "url": "https://x.com/SopranosOrder/status/2109509365510148461",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUW9EPjWkAAyIms.jpg"
-  },
-  {
-   "id": "2109505591047754239",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 200 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109505591047754239",
-   "created_at": "2026-10-12T04:45:00+00:00",
-   "sent_at": "2026-10-12T04:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HUW9AZMXYAAYUEC.jpg"
   },
   {
    "id": "2109482108183883781",
@@ -52,20 +66,6 @@
    "reply_count": 1,
    "repost_count": 1,
    "like_count": 9,
-   "image": ""
-  },
-  {
-   "id": "2109479365876531671",
-   "text": "\ud83d\ude00",
-   "url": "https://x.com/NCseventeen/status/2109479365876531671",
-   "created_at": "2026-10-12T03:00:47+00:00",
-   "sent_at": "2026-10-12T03:00:47+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
    "image": ""
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 9,
-   "repost_count": 332,
-   "like_count": 3372,
+   "repost_count": 343,
+   "like_count": 3476,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1958438357307994112/pu/img/3LxSMmf5P_BihnOW.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 2,
    "repost_count": 53,
-   "like_count": 991,
+   "like_count": 1022,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2095321754868527105/img/PcOnNiwcc8VZQWBg.jpg"
   },
   {
@@ -161,7 +161,7 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
    "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUYVwHyXoAAgL0W.jpg"
