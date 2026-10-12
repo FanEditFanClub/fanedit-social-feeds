@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T11:06:39+00:00",
+ "updated_at": "2026-10-12T11:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2109603737589215601",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 226 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109603737589215601",
+   "created_at": "2026-10-12T11:15:00+00:00",
+   "sent_at": "2026-10-12T11:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUW-aCNWoAAbJWn.jpg"
+  },
+  {
+   "id": "2109602970073550972",
+   "text": "Only watchable Hellraiser film",
+   "url": "https://x.com/StebobM/status/2109602970073550972",
+   "created_at": "2026-10-12T11:11:57+00:00",
+   "sent_at": "2026-10-12T11:11:57+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HUbQt7SW4AAj2nX.jpg"
+  },
+  {
    "id": "2109599970370162758",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 225 of 616",
    "url": "https://x.com/SopranosOrder/status/2109599970370162758",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HUW-XBuWEAA1-Of.jpg"
-  },
-  {
-   "id": "2109596439441756220",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 224 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109596439441756220",
-   "created_at": "2026-10-12T10:46:00+00:00",
-   "sent_at": "2026-10-12T10:46:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUW-S9cXoAEhNUq.jpg"
   },
   {
    "id": "2109566191698100498",
@@ -60,20 +74,6 @@
    "url": "https://x.com/StebobM/status/2109549308521455630",
    "created_at": "2026-10-12T07:38:43+00:00",
    "sent_at": "2026-10-12T07:38:43+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
-  },
-  {
-   "id": "2109531250998333706",
-   "text": "What do you want the players do do not celebrate? \ud83e\udd23",
-   "url": "https://x.com/StebobM/status/2109531250998333706",
-   "created_at": "2026-10-12T06:26:58+00:00",
-   "sent_at": "2026-10-12T06:26:58+00:00",
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 10,
-   "like_count": 117,
+   "like_count": 118,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109511746922725376/img/84FhNMF_3poZiJ16.jpg"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 10,
-   "repost_count": 468,
-   "like_count": 4756,
+   "repost_count": 474,
+   "like_count": 4803,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1958438357307994112/pu/img/3LxSMmf5P_BihnOW.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 3,
    "repost_count": 70,
-   "like_count": 1528,
+   "like_count": 1538,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2095321754868527105/img/PcOnNiwcc8VZQWBg.jpg"
   },
   {
