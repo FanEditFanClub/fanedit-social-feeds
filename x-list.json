@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T16:06:39+00:00",
+ "updated_at": "2026-10-12T16:21:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109679235480596636",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 246 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109679235480596636",
+   "created_at": "2026-10-12T16:15:00+00:00",
+   "sent_at": "2026-10-12T16:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUW_e4XXQAAs7Y1.jpg"
+  },
+  {
    "id": "2109676337229422755",
    "text": "every time queer women are acknowledged as being a big part of the fanbase for heated rivalry an angel gains its wings",
    "url": "https://x.com/uhbucky/status/2109676337229422755",
@@ -21,9 +35,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 11,
+   "reply_count": 2,
+   "repost_count": 7,
+   "like_count": 120,
    "image": ""
   },
   {
@@ -36,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HUW_cIhXkAA2RJ0.jpg"
-  },
-  {
-   "id": "2109671685519540411",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 244 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109671685519540411",
-   "created_at": "2026-10-12T15:45:00+00:00",
-   "sent_at": "2026-10-12T15:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HUW_Yi0WsAAiDJz.jpg"
   },
   {
    "id": "2109668499698160054",
@@ -92,8 +92,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
-   "repost_count": 11,
-   "like_count": 197,
+   "repost_count": 12,
+   "like_count": 220,
    "image": "https://pbs.twimg.com/media/HUbZdyiWcAAGHjT.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 3,
    "repost_count": 21,
-   "like_count": 188,
+   "like_count": 191,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109511746922725376/img/84FhNMF_3poZiJ16.jpg"
   }
  ]
