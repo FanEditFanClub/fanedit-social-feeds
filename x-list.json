@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T03:21:42+00:00",
+ "updated_at": "2026-10-13T03:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2109849106214449360",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 291 of 616",
+   "url": "https://x.com/SopranosOrder/status/2109849106214449360",
+   "created_at": "2026-10-13T03:30:00+00:00",
+   "sent_at": "2026-10-13T03:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUbMwrNWgAAyjE8.jpg"
+  },
+  {
    "id": "2109845331471155416",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 290 of 616",
    "url": "https://x.com/SopranosOrder/status/2109845331471155416",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUbMteQXYAAWuu7.jpg"
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2109841572942520510",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 289 of 616",
-   "url": "https://x.com/SopranosOrder/status/2109841572942520510",
-   "created_at": "2026-10-13T03:00:04+00:00",
-   "sent_at": "2026-10-13T03:00:04+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HUbMquqWkAAdxUA.jpg"
-  },
-  {
    "id": "2109795427860021451",
    "text": "I'm playing the Halo Reclaimer mod and had my first 128 player capture the flag.\n\nAmazing, sensational. Having 8 Spartans air drop out of a Pelican amongst 3 dog fights and 20 person firefight just in 1 area. Like the best match in Battlefield but in Halo 3!",
    "url": "https://x.com/TheManlet_King/status/2109795427860021451",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
    "repost_count": 11,
-   "like_count": 283,
+   "like_count": 309,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUd_wCNXAAAGv9Y.jpg"
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 11,
-   "repost_count": 45,
-   "like_count": 1076,
+   "repost_count": 47,
+   "like_count": 1126,
    "image": "https://pbs.twimg.com/tweet_video_thumb/G_KdRnoWMAAw8Rk.jpg"
   },
   {
@@ -109,20 +109,6 @@
    "repost_count": 1,
    "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2109721821415182691",
-   "text": "Just spoke to The Supercharger Team working on The 16 V4 Supercharger s here at South Padre Welcome Center and said they could potentially turn on in 2 Weeks!\n\nMuch needed as the Closest Chargers to Starbase are the 2 Urban Superchargers across the street from here, in which one",
-   "url": "https://x.com/CarsonGallo/status/2109721821415182691",
-   "created_at": "2026-10-12T19:04:13+00:00",
-   "sent_at": "2026-10-12T19:04:13+00:00",
-   "author_name": "Carson J Gallo",
-   "author_handle": "CarsonGallo",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 2,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HUc80DDXoAAOZhP.jpg"
   }
  ]
 }
