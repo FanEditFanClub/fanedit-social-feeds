@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T22:06:42+00:00",
+ "updated_at": "2026-10-13T22:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110133049862009211",
+   "text": "Yeah, discovered you lacking",
+   "url": "https://x.com/TheManlet_King/status/2110133049862009211",
+   "created_at": "2026-10-13T22:18:18+00:00",
+   "sent_at": "2026-10-13T22:18:18+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 5,
+   "image": ""
+  },
+  {
+   "id": "2110132220195213376",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 366 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110132220195213376",
+   "created_at": "2026-10-13T22:15:00+00:00",
+   "sent_at": "2026-10-13T22:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HUbRMzXXsAAQGmw.jpg"
+  },
+  {
    "id": "2110128452351455566",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 365 of 616",
    "url": "https://x.com/SopranosOrder/status/2110128452351455566",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HUbRJYWWoAAw4OL.jpg"
   },
   {
@@ -36,23 +64,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 5,
-   "like_count": 52,
+   "repost_count": 8,
+   "like_count": 119,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2032832314775056392/img/uEpek9_SJdsNRQZv.jpg"
-  },
-  {
-   "id": "2110124670100074781",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 364 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110124670100074781",
-   "created_at": "2026-10-13T21:45:00+00:00",
-   "sent_at": "2026-10-13T21:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HUbRElrWUAAPCo1.jpg"
   },
   {
    "id": "2110120752943083742",
@@ -151,20 +165,6 @@
    "repost_count": 1,
    "like_count": 21,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUhpWWpWYAA6INA.jpg"
-  },
-  {
-   "id": "2110038297175040438",
-   "text": "NOOOOOOO IT SHOULD BE ME!",
-   "url": "https://x.com/TheManlet_King/status/2110038297175040438",
-   "created_at": "2026-10-13T16:01:47+00:00",
-   "sent_at": "2026-10-13T16:01:47+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 49,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HUhcoyyXgAEl825.jpg"
   },
   {
    "id": "2110013478379438126",
