@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T14:21:43+00:00",
+ "updated_at": "2026-10-13T14:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110015199340011828",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 335 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110015199340011828",
+   "created_at": "2026-10-13T14:30:00+00:00",
+   "sent_at": "2026-10-13T14:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUbPcIDWoAAgIrN.jpg"
+  },
+  {
+   "id": "2110013478379438126",
+   "text": "but bucky will live right? user uhbucky is confident bucky will live!",
+   "url": "https://x.com/uhbucky/status/2110013478379438126",
+   "created_at": "2026-10-13T14:23:10+00:00",
+   "sent_at": "2026-10-13T14:23:10+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 2,
+   "repost_count": 0,
+   "like_count": 7,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HUhGEkcWkAAQ9HR.jpg"
+  },
+  {
    "id": "2110011423845953774",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 334 of 616",
    "url": "https://x.com/SopranosOrder/status/2110011423845953774",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUbPY-zXgAAP4AU.jpg"
-  },
-  {
-   "id": "2110007649286631797",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 333 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110007649286631797",
-   "created_at": "2026-10-13T14:00:00+00:00",
-   "sent_at": "2026-10-13T14:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 11,
-   "image": "https://pbs.twimg.com/media/HUbPWEqX0AAib4g.jpg"
   },
   {
    "id": "2109976407988211936",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 6,
    "repost_count": 6,
-   "like_count": 231,
+   "like_count": 263,
    "image": "https://pbs.twimg.com/media/HUgkXJIW0AAzNjx.jpg"
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 2,
-   "like_count": 149,
+   "like_count": 160,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUge9XcWgAA4H8T.jpg"
   },
   {
