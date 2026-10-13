@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T18:21:40+00:00",
+ "updated_at": "2026-10-13T18:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110075345001144745",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 351 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110075345001144745",
+   "created_at": "2026-10-13T18:29:00+00:00",
+   "sent_at": "2026-10-13T18:29:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUbQUp9XsAAFKEm.jpg"
+  },
+  {
+   "id": "2110073594554274086",
+   "text": "EVER DEEPER - PS5 PRO https://www.twitch.tv/tykjen #endofabyss #ps5",
+   "url": "https://x.com/tykjen/status/2110073594554274086",
+   "created_at": "2026-10-13T18:22:02+00:00",
+   "sent_at": "2026-10-13T18:22:02+00:00",
+   "author_name": "Tykjen \ud83c\udde7\ud83c\uddfb",
+   "author_handle": "tykjen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1664069917488865280/ox3PqG_o_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2110071821810758009",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 350 of 616",
    "url": "https://x.com/SopranosOrder/status/2110071821810758009",
@@ -22,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HUbQRioWAAAKuRA.jpg"
-  },
-  {
-   "id": "2110068047599845570",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 349 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110068047599845570",
-   "created_at": "2026-10-13T18:00:00+00:00",
-   "sent_at": "2026-10-13T18:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HUbQOZiWYAA0mvo.jpg"
   },
   {
    "id": "2110065366932070576",
@@ -135,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 10,
    "repost_count": 0,
-   "like_count": 64,
+   "like_count": 65,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUhGEkcWkAAQ9HR.jpg"
   },
   {
@@ -148,8 +162,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 6,
-   "repost_count": 10,
-   "like_count": 570,
+   "repost_count": 13,
+   "like_count": 585,
    "image": "https://pbs.twimg.com/media/HUgkXJIW0AAzNjx.jpg"
   },
   {
@@ -162,23 +176,9 @@
    "author_handle": "CarsonGallo",
    "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
    "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 10,
+   "repost_count": 2,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109876572022882304/img/f8TZHjEraqFPib7z.jpg"
-  },
-  {
-   "id": "2109860603401744739",
-   "text": "=)",
-   "url": "https://x.com/NCseventeen/status/2109860603401744739",
-   "created_at": "2026-10-13T04:15:41+00:00",
-   "sent_at": "2026-10-13T04:15:41+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
   }
  ]
 }
