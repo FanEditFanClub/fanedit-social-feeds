@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T16:06:41+00:00",
+ "updated_at": "2026-10-13T16:21:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110041874463342792",
+   "text": "I shot him in the heart",
+   "url": "https://x.com/tomsmason91/status/2110041874463342792",
+   "created_at": "2026-10-13T16:16:00+00:00",
+   "sent_at": "2026-10-13T16:16:00+00:00",
+   "author_name": "Tom Mason",
+   "author_handle": "tomsmason91",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2110004025076613120/img/HHlzoH2l1-EcD8vg.jpg"
+  },
+  {
+   "id": "2110041622851543076",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 342 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110041622851543076",
+   "created_at": "2026-10-13T16:15:00+00:00",
+   "sent_at": "2026-10-13T16:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUbPzjpXsAAXAx7.jpg"
+  },
+  {
    "id": "2110038297175040438",
    "text": "NOOOOOOO IT SHOULD BE ME!",
    "url": "https://x.com/TheManlet_King/status/2110038297175040438",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUhcoyyXgAEl825.jpg"
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HUbPwQlWcAAhoyH.jpg"
-  },
-  {
-   "id": "2110034073062355010",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 340 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110034073062355010",
-   "created_at": "2026-10-13T15:45:00+00:00",
-   "sent_at": "2026-10-13T15:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUbPsSLWIAAReYZ.jpg"
   },
   {
    "id": "2110031585563296174",
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 9,
    "repost_count": 0,
-   "like_count": 49,
+   "like_count": 52,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUhGEkcWkAAQ9HR.jpg"
   },
   {
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 6,
    "repost_count": 6,
-   "like_count": 416,
+   "like_count": 433,
    "image": "https://pbs.twimg.com/media/HUgkXJIW0AAzNjx.jpg"
   },
   {
@@ -105,7 +119,7 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 0,
    "repost_count": 0,
    "like_count": 1,
    "image": ""
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 192,
+   "like_count": 196,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUge9XcWgAA4H8T.jpg"
   },
   {
@@ -165,20 +179,6 @@
    "repost_count": 1,
    "like_count": 10,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2109876572022882304/img/f8TZHjEraqFPib7z.jpg"
-  },
-  {
-   "id": "2109860603401744739",
-   "text": "=)",
-   "url": "https://x.com/NCseventeen/status/2109860603401744739",
-   "created_at": "2026-10-13T04:15:41+00:00",
-   "sent_at": "2026-10-13T04:15:41+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
   }
  ]
 }
