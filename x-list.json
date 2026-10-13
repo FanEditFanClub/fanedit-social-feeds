@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T21:21:40+00:00",
+ "updated_at": "2026-10-13T21:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2110120895817617774",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 363 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110120895817617774",
+   "created_at": "2026-10-13T21:30:00+00:00",
+   "sent_at": "2026-10-13T21:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUbRAbqW4AAWSxz.jpg"
+  },
+  {
+   "id": "2110120752943083742",
+   "text": "The music is absolutely bang on! #CrystalLake",
+   "url": "https://x.com/StebobM/status/2110120752943083742",
+   "created_at": "2026-10-13T21:29:26+00:00",
+   "sent_at": "2026-10-13T21:29:26+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2110119716102574216",
+   "text": "This looks absolutely horrendous wtf is this!?",
+   "url": "https://x.com/StebobM/status/2110119716102574216",
+   "created_at": "2026-10-13T21:25:19+00:00",
+   "sent_at": "2026-10-13T21:25:19+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2110117120184918402",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 362 of 616",
    "url": "https://x.com/SopranosOrder/status/2110117120184918402",
@@ -23,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HUbQ9arXUAA9oiv.jpg"
-  },
-  {
-   "id": "2110113352685150286",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 361 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110113352685150286",
-   "created_at": "2026-10-13T21:00:01+00:00",
-   "sent_at": "2026-10-13T21:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HUbQ6WMXQAA0dmC.jpg"
   },
   {
    "id": "2110081065608265971",
@@ -107,22 +135,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 20,
+   "like_count": 21,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUhpWWpWYAA6INA.jpg"
-  },
-  {
-   "id": "2110046396141404327",
-   "text": "Time to mute some words gotta avoid spoilers",
-   "url": "https://x.com/StebobM/status/2110046396141404327",
-   "created_at": "2026-10-13T16:33:58+00:00",
-   "sent_at": "2026-10-13T16:33:58+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HUhkAx6XEAAVawe.jpg"
   },
   {
    "id": "2110038297175040438",
@@ -139,20 +153,6 @@
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUhcoyyXgAEl825.jpg"
   },
   {
-   "id": "2110031585563296174",
-   "text": "Me when Amell said \u201cthis City\u201d",
-   "url": "https://x.com/StebobM/status/2110031585563296174",
-   "created_at": "2026-10-13T15:35:07+00:00",
-   "sent_at": "2026-10-13T15:35:07+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HUhWimyX0AAjLUm.jpg"
-  },
-  {
    "id": "2110013478379438126",
    "text": "but bucky will live right? user uhbucky is confident bucky will live!",
    "url": "https://x.com/uhbucky/status/2110013478379438126",
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 11,
    "repost_count": 0,
-   "like_count": 74,
+   "like_count": 75,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUhGEkcWkAAQ9HR.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 6,
    "repost_count": 16,
-   "like_count": 703,
+   "like_count": 707,
    "image": "https://pbs.twimg.com/media/HUgkXJIW0AAzNjx.jpg"
   }
  ]
