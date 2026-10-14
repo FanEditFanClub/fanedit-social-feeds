@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T12:40:59+00:00",
+ "updated_at": "2026-10-14T12:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110350910841102626",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 424 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110350910841102626",
+   "created_at": "2026-10-14T12:44:00+00:00",
+   "sent_at": "2026-10-14T12:44:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUf4garWYAAafXM.jpg"
+  },
+  {
+   "id": "2110350499341852725",
+   "text": "Movies that NEED a game sequel/prequel.\n\n>The One (2001)\n>Dredd (2012)\n>They Live\n>Timecop\n>The Blob (you play as the Blob)\n>Equilibrium\n>Underworld\n>Pandorum\n>Big Trouble in Little China",
+   "url": "https://x.com/TheManlet_King/status/2110350499341852725",
+   "created_at": "2026-10-14T12:42:22+00:00",
+   "sent_at": "2026-10-14T12:42:22+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 9,
+   "image": ""
+  },
+  {
    "id": "2110348133435589119",
    "text": "Why yes I stayed up past 11pm while in my 30s, how could you tell?",
    "url": "https://x.com/TheManlet_King/status/2110348133435589119",
@@ -22,8 +50,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 10,
+   "repost_count": 2,
+   "like_count": 50,
    "image": "https://pbs.twimg.com/media/HUl2caJXAAA7UoL.jpg"
   },
   {
@@ -53,20 +81,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUlyokAXYAAeUoA.jpg"
-  },
-  {
-   "id": "2110343613247090966",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 422 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110343613247090966",
-   "created_at": "2026-10-14T12:15:00+00:00",
-   "sent_at": "2026-10-14T12:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HUf4aDPW4AARTJP.jpg"
   },
   {
    "id": "2110330261154189783",
@@ -108,20 +122,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2110217515498455289",
-   "text": "I can't keep doing this. I'm not getting any sleep...",
-   "url": "https://x.com/TheManlet_King/status/2110217515498455289",
-   "created_at": "2026-10-14T03:53:56+00:00",
-   "sent_at": "2026-10-14T03:53:56+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 64,
    "image": ""
   }
  ]
