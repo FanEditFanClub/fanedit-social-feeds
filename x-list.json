@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T06:36:41+00:00",
+ "updated_at": "2026-10-14T06:51:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2110260565352316948",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 400 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110260565352316948",
+   "created_at": "2026-10-14T06:45:00+00:00",
+   "sent_at": "2026-10-14T06:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUf24KHXAAAVqGE.jpg"
+  },
+  {
+   "id": "2110259962781790541",
+   "text": "Don\u2019t care then and I don\u2019t care now what the critics think good or bad. Some people celebrate RT scores on this app like their sports team just won a championship. Watch the things that interest you & make your own mind up.",
+   "url": "https://x.com/StebobM/status/2110259962781790541",
+   "created_at": "2026-10-14T06:42:36+00:00",
+   "sent_at": "2026-10-14T06:42:36+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
   {
    "id": "2110258334271963549",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Request: Goldeneye - The Poor Andin Cut.\n\nhttps://www.reddit.com/r/fanedits/comments/1x4newf/request_goldeneye_the_poor_andin_cut/",
@@ -51,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 6,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/media/HUf20ZnXAAAdfEv.jpg"
-  },
-  {
-   "id": "2110253015873540467",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 398 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110253015873540467",
-   "created_at": "2026-10-14T06:15:00+00:00",
-   "sent_at": "2026-10-14T06:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HUf2w1nW8AEPcWl.jpg"
   },
   {
    "id": "2110217515498455289",
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
    "repost_count": 12,
-   "like_count": 450,
+   "like_count": 456,
    "image": ""
   },
   {
@@ -106,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 3,
-   "repost_count": 23,
-   "like_count": 309,
+   "repost_count": 24,
+   "like_count": 312,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110167168155291649/img/Z4Eup9sHN1OEaQ7u.jpg"
   }
  ]
