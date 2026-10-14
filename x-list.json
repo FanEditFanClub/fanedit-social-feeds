@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T23:36:39+00:00",
+ "updated_at": "2026-10-14T23:51:51+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110517256774164816",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 468 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110517256774164816",
+   "created_at": "2026-10-14T23:45:00+00:00",
+   "sent_at": "2026-10-14T23:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUlPPtwWYAAlBO3.jpg"
+  },
+  {
+   "id": "2110516302410297612",
+   "text": "Freddy\u2019s Dead is probably one of my favorite horror films of the 90s @HacktheMovies @GoodBadFlicks",
+   "url": "https://x.com/NCseventeen/status/2110516302410297612",
+   "created_at": "2026-10-14T23:41:12+00:00",
+   "sent_at": "2026-10-14T23:41:12+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": ""
+  },
+  {
    "id": "2110513484668477691",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 467 of 616",
    "url": "https://x.com/SopranosOrder/status/2110513484668477691",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HUlPLgnWkAEd1cN.jpg"
-  },
-  {
-   "id": "2110509958752071824",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 466 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110509958752071824",
-   "created_at": "2026-10-14T23:16:00+00:00",
-   "sent_at": "2026-10-14T23:16:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUlPH7TXkAABHnm.jpg"
   },
   {
    "id": "2110498850591187453",
@@ -64,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 33,
-   "like_count": 490,
+   "repost_count": 38,
+   "like_count": 523,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110484010765897728/img/zwAEOil3dX27xApn.jpg"
   },
   {
@@ -78,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 5,
-   "repost_count": 53,
-   "like_count": 1028,
+   "repost_count": 56,
+   "like_count": 1076,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110176735719268352/img/mLIOyBDC6ZBS7fIO.jpg"
   },
   {
@@ -147,7 +161,7 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
    "like_count": 4,
    "image": ""
@@ -165,20 +179,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2110416780719976701",
-   "text": "Happy birthday to @calvindyson!\n\nNo Time to Dyson:",
-   "url": "https://x.com/tomsmason91/status/2110416780719976701",
-   "created_at": "2026-10-14T17:05:44+00:00",
-   "sent_at": "2026-10-14T17:05:44+00:00",
-   "author_name": "Tom Mason",
-   "author_handle": "tomsmason91",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 3,
-   "like_count": 106,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2110416598620160000/img/Q7IVm0l7xMs5WLkI.jpg"
   }
  ]
 }
