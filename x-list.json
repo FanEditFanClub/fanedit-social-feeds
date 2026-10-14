@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T04:51:40+00:00",
+ "updated_at": "2026-10-14T05:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2110234141229027791",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 393 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110234141229027791",
+   "created_at": "2026-10-14T05:00:00+00:00",
+   "sent_at": "2026-10-14T05:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUf2gAGWYAAx_7n.jpg"
+  },
+  {
    "id": "2110230366363713822",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 392 of 616",
    "url": "https://x.com/SopranosOrder/status/2110230366363713822",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HUf2cKEXkAASxwa.jpg"
-  },
-  {
-   "id": "2110226593604108738",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 391 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110226593604108738",
-   "created_at": "2026-10-14T04:30:00+00:00",
-   "sent_at": "2026-10-14T04:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 18,
-   "image": "https://pbs.twimg.com/media/HUf2Y_aXkAA5SIY.jpg"
   },
   {
    "id": "2110217515498455289",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 25,
+   "like_count": 29,
    "image": ""
   },
   {
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 9,
-   "like_count": 269,
+   "repost_count": 10,
+   "like_count": 293,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 3,
    "repost_count": 22,
-   "like_count": 282,
+   "like_count": 289,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110167168155291649/img/Z4Eup9sHN1OEaQ7u.jpg"
   },
   {
@@ -121,35 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 115,
-   "image": ""
-  },
-  {
-   "id": "2110120752943083742",
-   "text": "The music is absolutely bang on! #CrystalLake",
-   "url": "https://x.com/StebobM/status/2110120752943083742",
-   "created_at": "2026-10-13T21:29:26+00:00",
-   "sent_at": "2026-10-13T21:29:26+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": ""
-  },
-  {
-   "id": "2110119716102574216",
-   "text": "This looks absolutely horrendous wtf is this!?",
-   "url": "https://x.com/StebobM/status/2110119716102574216",
-   "created_at": "2026-10-13T21:25:19+00:00",
-   "sent_at": "2026-10-13T21:25:19+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 0,
-   "like_count": 4,
+   "like_count": 116,
    "image": ""
   }
  ]
