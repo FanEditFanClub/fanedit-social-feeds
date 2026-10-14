@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T15:51:41+00:00",
+ "updated_at": "2026-10-14T16:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2110400244961648998",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 437 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110400244961648998",
+   "created_at": "2026-10-14T16:00:02+00:00",
+   "sent_at": "2026-10-14T16:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUf5NA3XYAAJ0nI.jpg"
+  },
+  {
    "id": "2110396460923793690",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 436 of 616",
    "url": "https://x.com/SopranosOrder/status/2110396460923793690",
@@ -22,23 +36,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
+   "repost_count": 2,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HUf5JS1WsAABeEd.jpg"
-  },
-  {
-   "id": "2110392687325294816",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 435 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110392687325294816",
-   "created_at": "2026-10-14T15:30:00+00:00",
-   "sent_at": "2026-10-14T15:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HUf5GBeXQAA3bs5.jpg"
   },
   {
    "id": "2110391329108721861",
@@ -63,9 +63,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 11,
+   "reply_count": 12,
    "repost_count": 0,
-   "like_count": 50,
+   "like_count": 52,
    "image": ""
   },
   {
@@ -77,9 +77,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 8,
-   "like_count": 313,
+   "reply_count": 4,
+   "repost_count": 9,
+   "like_count": 332,
    "image": "https://pbs.twimg.com/media/HUl2caJXAAA7UoL.jpg"
   },
   {
