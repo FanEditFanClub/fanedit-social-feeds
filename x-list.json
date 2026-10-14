@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T19:36:40+00:00",
+ "updated_at": "2026-10-14T19:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110457561795514597",
+   "text": "Openly admitting to being a racist and into the genocide of Palestinians...",
+   "url": "https://x.com/jrsilentboba/status/2110457561795514597",
+   "created_at": "2026-10-14T19:47:47+00:00",
+   "sent_at": "2026-10-14T19:47:47+00:00",
+   "author_name": "jrsilentboba",
+   "author_handle": "jrsilentboba",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2012170182035116032/_wPREpOl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2110457545076752386/img/dPd8WWJlRvuAdrPZ.jpg"
+  },
+  {
+   "id": "2110456858968203542",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 452 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110456858968203542",
+   "created_at": "2026-10-14T19:45:00+00:00",
+   "sent_at": "2026-10-14T19:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUf6B0kXMAEfkKf.jpg"
+  },
+  {
    "id": "2110453789203591455",
    "text": "The name of the building hosting The Tesla Superchargers closest to The Waco Facility for Roadster reveal, is named ROADSTER!\n\nAre you the kind of person who sees signs? \ud83d\ude1c",
    "url": "https://x.com/CarsonGallo/status/2110453789203591455",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HUnWiAiWYAEoAch.jpg"
   },
   {
@@ -39,20 +67,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HUf5-MqW0AAqLfi.jpg"
-  },
-  {
-   "id": "2110449309464305945",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 450 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110449309464305945",
-   "created_at": "2026-10-14T19:15:00+00:00",
-   "sent_at": "2026-10-14T19:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUf564nXQAAKPjn.jpg"
   },
   {
    "id": "2110432631749816658",
@@ -120,8 +134,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 39,
+   "repost_count": 2,
+   "like_count": 49,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110416598620160000/img/Q7IVm0l7xMs5WLkI.jpg"
   },
   {
@@ -149,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 14,
-   "like_count": 481,
+   "like_count": 487,
    "image": "https://pbs.twimg.com/media/HUl2caJXAAA7UoL.jpg"
   }
  ]
