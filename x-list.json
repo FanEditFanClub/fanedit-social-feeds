@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T21:20:24+00:00",
+ "updated_at": "2026-10-14T21:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -22,8 +22,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 10,
+   "repost_count": 3,
+   "like_count": 26,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110176735719268352/img/mLIOyBDC6ZBS7fIO.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 86,
+   "like_count": 89,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110416598620160000/img/Q7IVm0l7xMs5WLkI.jpg"
   },
   {
@@ -162,8 +162,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 16,
-   "repost_count": 1,
-   "like_count": 71,
+   "repost_count": 0,
+   "like_count": 72,
    "image": ""
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 14,
-   "like_count": 504,
+   "like_count": 505,
    "image": "https://pbs.twimg.com/media/HUl2caJXAAA7UoL.jpg"
   }
  ]
