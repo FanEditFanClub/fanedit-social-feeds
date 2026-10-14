@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T22:36:39+00:00",
+ "updated_at": "2026-10-14T22:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2110502157577253298",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 464 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110502157577253298",
+   "created_at": "2026-10-14T22:45:00+00:00",
+   "sent_at": "2026-10-14T22:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HUf6t0jXkAAwn7X.jpg"
+  },
   {
    "id": "2110498850591187453",
    "text": "EVER DEEPER - PS5 PRO https://www.twitch.tv/tykjen",
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HUf6qynWMAAQiOb.jpg"
-  },
-  {
-   "id": "2110494607750443195",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 462 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110494607750443195",
-   "created_at": "2026-10-14T22:15:00+00:00",
-   "sent_at": "2026-10-14T22:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUf6nYMWUAA2K6m.jpg"
   },
   {
    "id": "2110484022128148931",
@@ -63,9 +63,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 18,
-   "like_count": 262,
+   "reply_count": 1,
+   "repost_count": 21,
+   "like_count": 298,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110484010765897728/img/zwAEOil3dX27xApn.jpg"
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
-   "repost_count": 32,
-   "like_count": 659,
+   "repost_count": 38,
+   "like_count": 778,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110176735719268352/img/mLIOyBDC6ZBS7fIO.jpg"
   },
   {
@@ -175,9 +175,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 4,
+   "reply_count": 5,
    "repost_count": 3,
-   "like_count": 94,
+   "like_count": 101,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110416598620160000/img/Q7IVm0l7xMs5WLkI.jpg"
   }
  ]
