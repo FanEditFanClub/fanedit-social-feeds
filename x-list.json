@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T17:52:36+00:00",
+ "updated_at": "2026-10-14T18:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110431354349375880",
+   "text": "It\u2019s just a shame about that 3rd act for me but still a good movie",
+   "url": "https://x.com/StebobM/status/2110431354349375880",
+   "created_at": "2026-10-14T18:03:39+00:00",
+   "sent_at": "2026-10-14T18:03:39+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2110430441878728882",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 445 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110430441878728882",
+   "created_at": "2026-10-14T18:00:01+00:00",
+   "sent_at": "2026-10-14T18:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUf5o_4WMAAVTDo.jpg"
+  },
+  {
    "id": "2110426872517644746",
    "text": "Now rewatching #FridayThe13thTheFinalChapter, a little prep for tomorrows release of #CrystalLake \ud83d\ude01",
    "url": "https://x.com/StebobM/status/2110426872517644746",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUm-DT7XAAAHDYw.jpg"
   },
   {
@@ -37,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HUf5lAKW8AA4hZa.jpg"
   },
   {
@@ -69,20 +97,6 @@
    "image": ""
   },
   {
-   "id": "2110422887262027837",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 443 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110422887262027837",
-   "created_at": "2026-10-14T17:30:00+00:00",
-   "sent_at": "2026-10-14T17:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HUf5h2TWEAA0sLK.jpg"
-  },
-  {
    "id": "2110416780719976701",
    "text": "Happy birthday to @calvindyson!\n\nNo Time to Dyson:",
    "url": "https://x.com/tomsmason91/status/2110416780719976701",
@@ -91,24 +105,10 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 1,
-   "like_count": 20,
+   "like_count": 25,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110416598620160000/img/Q7IVm0l7xMs5WLkI.jpg"
-  },
-  {
-   "id": "2110407682876408114",
-   "text": "Comedy is supposed to cross the lines. Some people just can\u2019t take a joke at all these days. Sad pathetic times we live in.",
-   "url": "https://x.com/StebobM/status/2110407682876408114",
-   "created_at": "2026-10-14T16:29:35+00:00",
-   "sent_at": "2026-10-14T16:29:35+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
   },
   {
    "id": "2110350499341852725",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 16,
    "repost_count": 1,
-   "like_count": 59,
+   "like_count": 61,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 14,
-   "like_count": 437,
+   "like_count": 447,
    "image": "https://pbs.twimg.com/media/HUl2caJXAAA7UoL.jpg"
   }
  ]
