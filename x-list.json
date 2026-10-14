@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T01:21:38+00:00",
+ "updated_at": "2026-10-14T01:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110181544937791991",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 379 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110181544937791991",
+   "created_at": "2026-10-14T01:31:00+00:00",
+   "sent_at": "2026-10-14T01:31:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HUf1qk4WMAATcrl.jpg"
+  },
+  {
+   "id": "2110179186958577964",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Video Content Organization?.\n\nhttps://www.reddit.com/r/fanedits/comments/1x4il2o/video_content_organization/",
+   "url": "https://x.com/FanEditFanClub/status/2110179186958577964",
+   "created_at": "2026-10-14T01:21:38+00:00",
+   "sent_at": "2026-10-14T01:21:38+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2110177519101939730",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 378 of 616",
    "url": "https://x.com/SopranosOrder/status/2110177519101939730",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HUf1nD3WQAACXNu.jpg"
-  },
-  {
-   "id": "2110173747470827676",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 377 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110173747470827676",
-   "created_at": "2026-10-14T01:00:01+00:00",
-   "sent_at": "2026-10-14T01:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HUf1kLLXEAA7pj-.jpg"
   },
   {
    "id": "2110170149978308797",
@@ -50,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 2,
-   "repost_count": 11,
-   "like_count": 80,
+   "repost_count": 14,
+   "like_count": 135,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110167168155291649/img/Z4Eup9sHN1OEaQ7u.jpg"
   },
   {
@@ -64,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 11,
-   "like_count": 208,
+   "repost_count": 15,
+   "like_count": 309,
    "image": ""
   },
   {
@@ -74,20 +88,6 @@
    "url": "https://x.com/FanEditFanClub/status/2110136025028690258",
    "created_at": "2026-10-13T22:30:07+00:00",
    "sent_at": "2026-10-13T22:30:07+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2110136000512933905",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Coraline: The Pink Palace Extended Edition (Out now!).\n\nhttps://www.reddit.com/r/fanedits/comments/1x4cmdj/coraline_the_pink_palace_extended_edition_out_now/",
-   "url": "https://x.com/FanEditFanClub/status/2110136000512933905",
-   "created_at": "2026-10-13T22:30:01+00:00",
-   "sent_at": "2026-10-13T22:30:01+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 98,
+   "like_count": 101,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 7,
    "repost_count": 12,
-   "like_count": 242,
+   "like_count": 246,
    "image": ""
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 6,
-   "like_count": 61,
+   "like_count": 66,
    "image": "https://pbs.twimg.com/media/HUiC_wZXYAA6Kui.jpg"
   },
   {
