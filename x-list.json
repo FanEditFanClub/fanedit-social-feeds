@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T11:06:40+00:00",
+ "updated_at": "2026-10-14T11:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2110328513253486708",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 418 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110328513253486708",
+   "created_at": "2026-10-14T11:15:00+00:00",
+   "sent_at": "2026-10-14T11:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUf4L7iXMAAZJmT.jpg"
+  },
+  {
    "id": "2110324749691678869",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 417 of 616",
    "url": "https://x.com/SopranosOrder/status/2110324749691678869",
@@ -22,23 +36,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HUf4JCrXkAAsoNR.jpg"
-  },
-  {
-   "id": "2110320963426603396",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 416 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110320963426603396",
-   "created_at": "2026-10-14T10:45:00+00:00",
-   "sent_at": "2026-10-14T10:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUf4E-nXcAA4WfO.jpg"
   },
   {
    "id": "2110307621865463930",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 52,
+   "like_count": 53,
    "image": ""
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 17,
-   "like_count": 684,
+   "repost_count": 18,
+   "like_count": 715,
    "image": ""
   }
  ]
