@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T15:36:40+00:00",
+ "updated_at": "2026-10-15T15:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110758849183395976",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 532 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110758849183395976",
+   "created_at": "2026-10-15T15:45:00+00:00",
+   "sent_at": "2026-10-15T15:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlS2HoXEAA_kJp.jpg"
+  },
+  {
+   "id": "2110757626611110069",
+   "text": "I\u2019ve watched 4 episodes of #CrystalLake so far. I have to admit some stuff was a little jarring at first but I\u2019m absolutely loving it now. Can\u2019t wait to see where it goes",
+   "url": "https://x.com/StebobM/status/2110757626611110069",
+   "created_at": "2026-10-15T15:40:08+00:00",
+   "sent_at": "2026-10-15T15:40:08+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUrq352XwAAoo4N.jpg"
+  },
+  {
    "id": "2110755076721828258",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 531 of 616",
    "url": "https://x.com/SopranosOrder/status/2110755076721828258",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HUlSzAeX0AAq3gd.jpg"
-  },
-  {
-   "id": "2110751299402899465",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 530 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110751299402899465",
-   "created_at": "2026-10-15T15:15:00+00:00",
-   "sent_at": "2026-10-15T15:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
    "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HUlSvxWWEAAwoqw.jpg"
+   "image": "https://pbs.twimg.com/media/HUlSzAeX0AAq3gd.jpg"
   },
   {
    "id": "2110748699509031411",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 29,
+   "like_count": 32,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrdnNsXAAA673a.jpg"
   },
   {
@@ -78,8 +92,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 35,
+   "repost_count": 2,
+   "like_count": 45,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrc9xEXkAAUHjs.jpg"
   },
   {
@@ -125,20 +139,6 @@
    "image": "https://pbs.twimg.com/media/HUqyXobWcAAm-3Y.jpg"
   },
   {
-   "id": "2110682605389549944",
-   "text": "Don\u2019t care what anybody says this movie is f\u2019n awesome! #HalloweenKills \ud83c\udf83",
-   "url": "https://x.com/StebobM/status/2110682605389549944",
-   "created_at": "2026-10-15T10:42:02+00:00",
-   "sent_at": "2026-10-15T10:42:02+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": ""
-  },
-  {
    "id": "2110659731987530145",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Anyone have The Shining: Bad Moon Rising Cut?.\n\nhttps://www.reddit.com/r/fanedits/comments/1x5ino7/anyone_have_the_shining_bad_moon_rising_cut/",
    "url": "https://x.com/FanEditFanClub/status/2110659731987530145",
@@ -151,34 +151,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2110572263418278390",
-   "text": "pulling out all the awkward shanebug stances",
-   "url": "https://x.com/uhbucky/status/2110572263418278390",
-   "created_at": "2026-10-15T03:23:34+00:00",
-   "sent_at": "2026-10-15T03:23:34+00:00",
-   "author_name": "spooky mellie \ud83c\udf83",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 63,
-   "like_count": 762,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2110571835242721280/img/_LavBkooV-SCgg8F.jpg"
-  },
-  {
-   "id": "2110570721273606312",
-   "text": "\u201cI need to burp, I burp\u201d is so incredibly ilya of him okay",
-   "url": "https://x.com/uhbucky/status/2110570721273606312",
-   "created_at": "2026-10-15T03:17:27+00:00",
-   "sent_at": "2026-10-15T03:17:27+00:00",
-   "author_name": "spooky mellie \ud83c\udf83",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 346,
-   "like_count": 3938,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2110570562267336704/img/qGPSBmRaU4I13Wj_.jpg"
   }
  ]
 }
