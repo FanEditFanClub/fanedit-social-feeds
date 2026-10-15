@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T09:06:40+00:00",
+ "updated_at": "2026-10-15T09:21:45+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2110660702843355143",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 506 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110660702843355143",
+   "created_at": "2026-10-15T09:15:00+00:00",
+   "sent_at": "2026-10-15T09:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlRZ9AWYAAFW7w.jpg"
+  },
+  {
+   "id": "2110659731987530145",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Anyone have The Shining: Bad Moon Rising Cut?.\n\nhttps://www.reddit.com/r/fanedits/comments/1x5ino7/anyone_have_the_shining_bad_moon_rising_cut/",
+   "url": "https://x.com/FanEditFanClub/status/2110659731987530145",
+   "created_at": "2026-10-15T09:11:08+00:00",
+   "sent_at": "2026-10-15T09:11:08+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2110659701570445404",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - The Oldest View: The Feature Length Edition.\n\nhttps://www.reddit.com/r/fanedits/comments/1x5j4z8/the_oldest_view_the_feature_length_edition/",
+   "url": "https://x.com/FanEditFanClub/status/2110659701570445404",
+   "created_at": "2026-10-15T09:11:01+00:00",
+   "sent_at": "2026-10-15T09:11:01+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2110658064412237859",
    "text": "Wtf is going on? Why is there a delay?",
    "url": "https://x.com/StebobM/status/2110658064412237859",
@@ -23,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -37,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HUlRV42WYAA1BSo.jpg"
-  },
-  {
-   "id": "2110653152584253894",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 504 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110653152584253894",
-   "created_at": "2026-10-15T08:45:00+00:00",
-   "sent_at": "2026-10-15T08:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUlRN-sXIAA_E1G.jpg"
   },
   {
    "id": "2110607354018345140",
@@ -65,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUpiMv8WcAAopru.jpg"
   },
   {
@@ -79,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
    "repost_count": 53,
-   "like_count": 593,
+   "like_count": 602,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110571835242721280/img/_LavBkooV-SCgg8F.jpg"
   },
   {
@@ -91,9 +119,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 246,
-   "like_count": 2448,
+   "reply_count": 3,
+   "repost_count": 249,
+   "like_count": 2527,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110570562267336704/img/qGPSBmRaU4I13Wj_.jpg"
   },
   {
@@ -109,20 +137,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUof5gCWEAArHjV.jpg"
-  },
-  {
-   "id": "2110519174199918983",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Iron Man and Iron Man 3 Extended Cuts?.\n\nhttps://www.reddit.com/r/fanedits/comments/1x58usj/iron_man_and_iron_man_3_extended_cuts/",
-   "url": "https://x.com/FanEditFanClub/status/2110519174199918983",
-   "created_at": "2026-10-14T23:52:37+00:00",
-   "sent_at": "2026-10-14T23:52:37+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
   },
   {
    "id": "2110516302410297612",
