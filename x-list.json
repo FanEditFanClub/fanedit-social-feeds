@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T10:21:40+00:00",
+ "updated_at": "2026-10-15T10:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2110679580294132199",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 511 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110679580294132199",
+   "created_at": "2026-10-15T10:30:01+00:00",
+   "sent_at": "2026-10-15T10:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlRqAaXYAAfK32.jpg"
+  },
+  {
+   "id": "2110678164418551841",
+   "text": "No watching #CrystalLake\n\nKi Ki Ki Ma Ma Ma",
+   "url": "https://x.com/StebobM/status/2110678164418551841",
+   "created_at": "2026-10-15T10:24:23+00:00",
+   "sent_at": "2026-10-15T10:24:23+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUqimmlXoAAWrlu.jpg"
+  },
   {
    "id": "2110675801771491350",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 510 of 616",
@@ -27,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HUlRnQnWYAA2LOf.jpg"
   },
   {
-   "id": "2110672039631593824",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 509 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110672039631593824",
-   "created_at": "2026-10-15T10:00:03+00:00",
-   "sent_at": "2026-10-15T10:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HUlRkTAWYAAuMMz.jpg"
-  },
-  {
    "id": "2110664948385034497",
    "text": "#CrystalLake is premiering in less than 30 mins on HBO max in Europe",
    "url": "https://x.com/StebobM/status/2110664948385034497",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HUqWlPcXAAA-9TN.jpg"
   },
   {
@@ -83,20 +97,6 @@
    "image": ""
   },
   {
-   "id": "2110658064412237859",
-   "text": "Wtf is going on? Why is there a delay?",
-   "url": "https://x.com/StebobM/status/2110658064412237859",
-   "created_at": "2026-10-15T09:04:31+00:00",
-   "sent_at": "2026-10-15T09:04:31+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
-  },
-  {
    "id": "2110572263418278390",
    "text": "pulling out all the awkward shanebug stances",
    "url": "https://x.com/uhbucky/status/2110572263418278390",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
    "repost_count": 54,
-   "like_count": 632,
+   "like_count": 639,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110571835242721280/img/_LavBkooV-SCgg8F.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 3,
-   "repost_count": 269,
-   "like_count": 2839,
+   "repost_count": 273,
+   "like_count": 2898,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110570562267336704/img/qGPSBmRaU4I13Wj_.jpg"
   },
   {
