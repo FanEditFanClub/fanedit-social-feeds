@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T02:06:39+00:00",
+ "updated_at": "2026-10-15T02:21:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110555005799256139",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 478 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110555005799256139",
+   "created_at": "2026-10-15T02:15:00+00:00",
+   "sent_at": "2026-10-15T02:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUlP2CDXsAAxlfM.jpg"
+  },
+  {
+   "id": "2110553951850598540",
+   "text": "the face grab I\u2019m losing my mind",
+   "url": "https://x.com/uhbucky/status/2110553951850598540",
+   "created_at": "2026-10-15T02:10:48+00:00",
+   "sent_at": "2026-10-15T02:10:48+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 4,
+   "like_count": 149,
+   "image": "https://pbs.twimg.com/media/HUoxoiHW0AAVDXP.jpg"
+  },
+  {
    "id": "2110551235493605855",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 477 of 616",
    "url": "https://x.com/SopranosOrder/status/2110551235493605855",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUlPzMaWgAAH-ed.jpg"
   },
   {
@@ -36,23 +64,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 2,
-   "repost_count": 2,
-   "like_count": 132,
+   "repost_count": 5,
+   "like_count": 237,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110176735719268352/img/mLIOyBDC6ZBS7fIO.jpg"
-  },
-  {
-   "id": "2110547455968162246",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 476 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110547455968162246",
-   "created_at": "2026-10-15T01:45:00+00:00",
-   "sent_at": "2026-10-15T01:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUlPu5MXsAAuxBd.jpg"
   },
   {
    "id": "2110534793188544647",
@@ -109,20 +123,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2110484022128148931",
-   "text": "my head is fine and I\u2019m a fully grown adult \ud83d\ude12\ud83d\ude12\ud83d\ude12\ud83d\ude12\ud83d\ude12\ud83d\ude12\ud83d\ude12",
-   "url": "https://x.com/uhbucky/status/2110484022128148931",
-   "created_at": "2026-10-14T21:32:56+00:00",
-   "sent_at": "2026-10-14T21:32:56+00:00",
-   "author_name": "spooky mellie \ud83c\udf83",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 67,
-   "like_count": 942,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2110484010765897728/img/zwAEOil3dX27xApn.jpg"
   },
   {
    "id": "2110475506491470046",
