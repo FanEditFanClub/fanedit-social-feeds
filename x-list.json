@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T08:51:39+00:00",
+ "updated_at": "2026-10-15T09:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110658064412237859",
+   "text": "Wtf is going on? Why is there a delay?",
+   "url": "https://x.com/StebobM/status/2110658064412237859",
+   "created_at": "2026-10-15T09:04:31+00:00",
+   "sent_at": "2026-10-15T09:04:31+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2110656944172081355",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 505 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110656944172081355",
+   "created_at": "2026-10-15T09:00:04+00:00",
+   "sent_at": "2026-10-15T09:00:04+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUlRV42WYAA1BSo.jpg"
+  },
+  {
    "id": "2110653152584253894",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 504 of 616",
    "url": "https://x.com/SopranosOrder/status/2110653152584253894",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUlRN-sXIAA_E1G.jpg"
-  },
-  {
-   "id": "2110649378499067996",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 503 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110649378499067996",
-   "created_at": "2026-10-15T08:30:00+00:00",
-   "sent_at": "2026-10-15T08:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HUlRJ2zWAAAjdAt.jpg"
   },
   {
    "id": "2110607354018345140",
@@ -55,20 +69,6 @@
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUpiMv8WcAAopru.jpg"
   },
   {
-   "id": "2110606228384878662",
-   "text": "\ud83e\udd14",
-   "url": "https://x.com/StebobM/status/2110606228384878662",
-   "created_at": "2026-10-15T05:38:32+00:00",
-   "sent_at": "2026-10-15T05:38:32+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
    "id": "2110572263418278390",
    "text": "pulling out all the awkward shanebug stances",
    "url": "https://x.com/uhbucky/status/2110572263418278390",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
    "repost_count": 53,
-   "like_count": 581,
+   "like_count": 593,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110571835242721280/img/_LavBkooV-SCgg8F.jpg"
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 2,
-   "repost_count": 242,
-   "like_count": 2375,
+   "repost_count": 246,
+   "like_count": 2448,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110570562267336704/img/qGPSBmRaU4I13Wj_.jpg"
   },
   {
@@ -136,20 +136,6 @@
    "reply_count": 0,
    "repost_count": 1,
    "like_count": 10,
-   "image": ""
-  },
-  {
-   "id": "2110498850591187453",
-   "text": "EVER DEEPER - PS5 PRO https://www.twitch.tv/tykjen",
-   "url": "https://x.com/tykjen/status/2110498850591187453",
-   "created_at": "2026-10-14T22:31:51+00:00",
-   "sent_at": "2026-10-14T22:31:51+00:00",
-   "author_name": "Tykjen \ud83c\udde7\ud83c\uddfb",
-   "author_handle": "tykjen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1664069917488865280/ox3PqG_o_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
    "image": ""
   }
  ]
