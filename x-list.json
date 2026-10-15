@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T19:21:41+00:00",
+ "updated_at": "2026-10-15T19:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110815471838572980",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 547 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110815471838572980",
+   "created_at": "2026-10-15T19:30:00+00:00",
+   "sent_at": "2026-10-15T19:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlTprhXUAEIBac.jpg"
+  },
+  {
+   "id": "2110815331530711479",
+   "text": "She\u2019s literally in the next Superman movie that\u2019s coming next year",
+   "url": "https://x.com/StebobM/status/2110815331530711479",
+   "created_at": "2026-10-15T19:29:26+00:00",
+   "sent_at": "2026-10-15T19:29:26+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2110811697153790079",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 546 of 616",
    "url": "https://x.com/SopranosOrder/status/2110811697153790079",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUlTmupXwAATAGj.jpg"
-  },
-  {
-   "id": "2110807924155056345",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 545 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110807924155056345",
-   "created_at": "2026-10-15T19:00:00+00:00",
-   "sent_at": "2026-10-15T19:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HUlTj8NWwAEd3Pj.jpg"
   },
   {
    "id": "2110803407498064176",
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 10,
+   "like_count": 11,
    "image": ""
   },
   {
@@ -95,20 +109,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUsQ5f6WgAElpA3.jpg"
-  },
-  {
-   "id": "2110798409305329691",
-   "text": "This is the problem with modern gaming you don\u2019t buy a finished product and then they charge you for extra stuff on top.",
-   "url": "https://x.com/StebobM/status/2110798409305329691",
-   "created_at": "2026-10-15T18:22:12+00:00",
-   "sent_at": "2026-10-15T18:22:12+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
   },
   {
    "id": "2110798348458307729",
@@ -148,8 +148,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 4,
-   "repost_count": 8,
-   "like_count": 59,
+   "repost_count": 10,
+   "like_count": 70,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110774683570216960/img/pZeQlYUv9L-I1SHe.jpg"
   },
   {
@@ -161,9 +161,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 1,
-   "like_count": 255,
+   "like_count": 281,
    "image": "https://pbs.twimg.com/media/HUr3lIMXoAADVhT.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1676755347401474049/RnG5u6Wv_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrhP_ZbIAA_8tc.jpg"
   }
  ]
