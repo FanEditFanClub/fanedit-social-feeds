@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T20:53:09+00:00",
+ "updated_at": "2026-10-15T21:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110838640460873831",
+   "text": "Back to the Future\nHalloween\nJaws",
+   "url": "https://x.com/StebobM/status/2110838640460873831",
+   "created_at": "2026-10-15T21:02:04+00:00",
+   "sent_at": "2026-10-15T21:02:04+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2110838122946716059",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 553 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110838122946716059",
+   "created_at": "2026-10-15T21:00:00+00:00",
+   "sent_at": "2026-10-15T21:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlT-DNW0AAaGtx.jpg"
+  },
+  {
    "id": "2110834346558923009",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 552 of 616",
    "url": "https://x.com/SopranosOrder/status/2110834346558923009",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUlT5mYW0AAsRlc.jpg"
-  },
-  {
-   "id": "2110830573937705341",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 551 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110830573937705341",
-   "created_at": "2026-10-15T20:30:00+00:00",
-   "sent_at": "2026-10-15T20:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HUlT2YXWsAANA54.jpg"
   },
   {
    "id": "2110815331530711479",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -69,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2110802774652793087",
-   "text": "Can\u2019t wait for this",
-   "url": "https://x.com/StebobM/status/2110802774652793087",
-   "created_at": "2026-10-15T18:39:32+00:00",
-   "sent_at": "2026-10-15T18:39:32+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
    "id": "2110799749477720217",
    "text": "If there was an AMV of Malfoid it would be It Ends Tonight by All American Rejects.",
    "url": "https://x.com/TheManlet_King/status/2110799749477720217",
@@ -91,9 +91,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 0,
-   "like_count": 14,
+   "like_count": 15,
    "image": ""
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 4,
-   "repost_count": 13,
-   "like_count": 111,
+   "repost_count": 15,
+   "like_count": 122,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110774683570216960/img/pZeQlYUv9L-I1SHe.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 392,
+   "like_count": 411,
    "image": "https://pbs.twimg.com/media/HUr3lIMXoAADVhT.jpg"
   },
   {
