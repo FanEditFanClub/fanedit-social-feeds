@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T11:21:40+00:00",
+ "updated_at": "2026-10-15T11:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110695499733127628",
+   "text": "#CrystalLake just me or anybody else? \ud83d\ude02",
+   "url": "https://x.com/StebobM/status/2110695499733127628",
+   "created_at": "2026-10-15T11:33:16+00:00",
+   "sent_at": "2026-10-15T11:33:16+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUqyXobWcAAm-3Y.jpg"
+  },
+  {
+   "id": "2110694678437978278",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 515 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110694678437978278",
+   "created_at": "2026-10-15T11:30:00+00:00",
+   "sent_at": "2026-10-15T11:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUlR4EUXwAAKB1b.jpg"
+  },
+  {
    "id": "2110690901269881031",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 514 of 616",
    "url": "https://x.com/SopranosOrder/status/2110690901269881031",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUlR0LmXEAEj7Y7.jpg"
-  },
-  {
-   "id": "2110687138731937878",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 513 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110687138731937878",
-   "created_at": "2026-10-15T11:00:03+00:00",
-   "sent_at": "2026-10-15T11:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUlRv4pWIAAKFzq.jpg"
   },
   {
    "id": "2110682605389549944",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2110678164418551841",
-   "text": "No watching #CrystalLake\n\nKi Ki Ki Ma Ma Ma",
-   "url": "https://x.com/StebobM/status/2110678164418551841",
-   "created_at": "2026-10-15T10:24:23+00:00",
-   "sent_at": "2026-10-15T10:24:23+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUqimmlXoAAWrlu.jpg"
   },
   {
    "id": "2110659731987530145",
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 56,
-   "like_count": 663,
+   "repost_count": 58,
+   "like_count": 676,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110571835242721280/img/_LavBkooV-SCgg8F.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
-   "repost_count": 285,
-   "like_count": 3077,
+   "repost_count": 294,
+   "like_count": 3145,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110570562267336704/img/qGPSBmRaU4I13Wj_.jpg"
   },
   {
