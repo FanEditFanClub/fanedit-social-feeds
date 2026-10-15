@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T18:07:01+00:00",
+ "updated_at": "2026-10-15T18:22:00+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -7,6 +7,51 @@
   "picture": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2110798348458307729",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Loki as a movie.\n\nhttps://www.reddit.com/r/fanedits/comments/1x5sy47/loki_as_a_movie/",
+   "url": "https://twitter.com/FanEditFanClub/status/2110798348458307729",
+   "sent_at": "2026-10-15T18:21:57+00:00",
+   "created_at": "2026-10-15T18:21:57+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "buffer"
+  },
+  {
+   "id": "2110798317730832736",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - SONIC THE HEDGEHOG Movie Lovingly Rescored With Music From The Games - Full FAN EDIT REVIEW of Mafia834.\n\nhttps://www.reddit.com/r/fanedits/comments/1x5vtst/sonic_the_hedgehog_movie_lovingly_rescored_with/",
+   "url": "https://x.com/2072539271450312704/status/2110798317730832736",
+   "sent_at": "2026-10-15T18:21:50+00:00",
+   "created_at": "2026-10-15T18:21:50+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "buffer"
+  },
+  {
+   "id": "2110798284386136182",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - LANTERNS: PART II.\n\nhttps://www.reddit.com/r/fanedits/comments/1x5yj0a/lanterns_part_ii/",
+   "url": "https://x.com/2072539271450312704/status/2110798284386136182",
+   "sent_at": "2026-10-15T18:21:42+00:00",
+   "created_at": "2026-10-15T18:21:42+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "buffer"
+  },
   {
    "id": "2110735496431223158",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Frank Zappa's Halloween 1977 Fanedit: (Baby Snakes: The Concert Cut).\n\nhttps://www.reddit.com/r/fanedits/comments/1x5q1zd/frank_zappas_halloween_1977_fanedit_baby_snakes/",
@@ -111,51 +156,6 @@
    "like_count": 0,
    "image": "",
    "source": "syndication"
-  },
-  {
-   "id": "2110519174199918983",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Iron Man and Iron Man 3 Extended Cuts?.\n\nhttps://www.reddit.com/r/fanedits/comments/1x58usj/iron_man_and_iron_man_3_extended_cuts/",
-   "url": "https://x.com/2072539271450312704/status/2110519174199918983",
-   "sent_at": "2026-10-14T23:52:37+00:00",
-   "created_at": "2026-10-14T23:52:37+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2110475506491470046",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Would anyone be interested in a 'Dexter' (2006-2013) Octalogy?.\n\nhttps://www.reddit.com/r/fanedits/comments/1x57hj0/would_anyone_be_interested_in_a_dexter_20062013/",
-   "url": "https://x.com/2072539271450312704/status/2110475506491470046",
-   "sent_at": "2026-10-14T20:59:06+00:00",
-   "created_at": "2026-10-14T20:59:06+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2110475475877323014",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - X-Files (1993-2018).\n\nhttps://www.reddit.com/r/fanedits/comments/1x57uqs/xfiles_19932018/",
-   "url": "https://x.com/2072539271450312704/status/2110475475877323014",
-   "sent_at": "2026-10-14T20:58:59+00:00",
-   "created_at": "2026-10-14T20:58:59+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
   }
  ]
 }
