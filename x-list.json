@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T05:51:39+00:00",
+ "updated_at": "2026-10-15T06:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2110611634502914172",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 493 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110611634502914172",
+   "created_at": "2026-10-15T06:00:01+00:00",
+   "sent_at": "2026-10-15T06:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUlQnumXsAAfSA0.jpg"
+  },
   {
    "id": "2110607854180700530",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 492 of 616",
@@ -37,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUpiMv8WcAAopru.jpg"
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2110604078841553142",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 491 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110604078841553142",
-   "created_at": "2026-10-15T05:30:00+00:00",
-   "sent_at": "2026-10-15T05:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUlQg7kXwAABKbi.jpg"
-  },
-  {
    "id": "2110572263418278390",
    "text": "pulling out all the awkward shanebug stances",
    "url": "https://x.com/uhbucky/status/2110572263418278390",
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 44,
-   "like_count": 492,
+   "repost_count": 45,
+   "like_count": 501,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110571835242721280/img/_LavBkooV-SCgg8F.jpg"
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 2,
-   "repost_count": 185,
-   "like_count": 1780,
+   "repost_count": 189,
+   "like_count": 1825,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110570562267336704/img/qGPSBmRaU4I13Wj_.jpg"
   },
   {
@@ -147,20 +147,6 @@
    "author_name": "Tykjen \ud83c\udde7\ud83c\uddfb",
    "author_handle": "tykjen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1664069917488865280/ox3PqG_o_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2110475506491470046",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Would anyone be interested in a 'Dexter' (2006-2013) Octalogy?.\n\nhttps://www.reddit.com/r/fanedits/comments/1x57hj0/would_anyone_be_interested_in_a_dexter_20062013/",
-   "url": "https://x.com/FanEditFanClub/status/2110475506491470046",
-   "created_at": "2026-10-14T20:59:06+00:00",
-   "sent_at": "2026-10-14T20:59:06+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
