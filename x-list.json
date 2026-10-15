@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T15:21:40+00:00",
+ "updated_at": "2026-10-15T15:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2110755076721828258",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 531 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110755076721828258",
+   "created_at": "2026-10-15T15:30:00+00:00",
+   "sent_at": "2026-10-15T15:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HUlSzAeX0AAq3gd.jpg"
+  },
+  {
    "id": "2110751299402899465",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 530 of 616",
    "url": "https://x.com/SopranosOrder/status/2110751299402899465",
@@ -21,9 +35,9 @@
    "author_name": "Every Moment of The Sopranos in Order",
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HUlSvxWWEAAwoqw.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrhP_ZbIAA_8tc.jpg"
   },
   {
-   "id": "2110747537909207452",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 529 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110747537909207452",
-   "created_at": "2026-10-15T15:00:03+00:00",
-   "sent_at": "2026-10-15T15:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUlSr8qXYAAWTYY.jpg"
-  },
-  {
    "id": "2110743050120999288",
    "text": "Thanks to X the er'thang site, I can now watch anime how it was always intended.\n\nIn small, out of order clips, on silent, with Spanish subtitles.",
    "url": "https://x.com/TheManlet_King/status/2110743050120999288",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 22,
+   "like_count": 29,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrdnNsXAAA673a.jpg"
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 24,
+   "repost_count": 1,
+   "like_count": 35,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrc9xEXkAAUHjs.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
    "repost_count": 63,
-   "like_count": 755,
+   "like_count": 762,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110571835242721280/img/_LavBkooV-SCgg8F.jpg"
   },
   {
@@ -176,8 +176,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 5,
-   "repost_count": 345,
-   "like_count": 3900,
+   "repost_count": 346,
+   "like_count": 3938,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110570562267336704/img/qGPSBmRaU4I13Wj_.jpg"
   }
  ]
