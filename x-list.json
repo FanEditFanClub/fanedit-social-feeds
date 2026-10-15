@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T23:51:51+00:00",
+ "updated_at": "2026-10-15T00:00:25+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110521035691081897",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 469 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110521035691081897",
+   "created_at": "2026-10-15T00:00:01+00:00",
+   "sent_at": "2026-10-15T00:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlPUSAWIAAq8ml.jpg"
+  },
+  {
+   "id": "2110519174199918983",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Iron Man and Iron Man 3 Extended Cuts?.\n\nhttps://www.reddit.com/r/fanedits/comments/1x58usj/iron_man_and_iron_man_3_extended_cuts/",
+   "url": "https://x.com/FanEditFanClub/status/2110519174199918983",
+   "created_at": "2026-10-14T23:52:37+00:00",
+   "sent_at": "2026-10-14T23:52:37+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2110517256774164816",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 468 of 616",
    "url": "https://x.com/SopranosOrder/status/2110517256774164816",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HUlPPtwWYAAlBO3.jpg"
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
-  },
-  {
-   "id": "2110513484668477691",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 467 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110513484668477691",
-   "created_at": "2026-10-14T23:30:00+00:00",
-   "sent_at": "2026-10-14T23:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HUlPLgnWkAEd1cN.jpg"
   },
   {
    "id": "2110498850591187453",
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
    "repost_count": 38,
-   "like_count": 523,
+   "like_count": 538,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110484010765897728/img/zwAEOil3dX27xApn.jpg"
   },
   {
@@ -92,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 5,
-   "repost_count": 56,
-   "like_count": 1076,
+   "repost_count": 57,
+   "like_count": 1109,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110176735719268352/img/mLIOyBDC6ZBS7fIO.jpg"
   },
   {
@@ -102,20 +116,6 @@
    "url": "https://x.com/FanEditFanClub/status/2110475506491470046",
    "created_at": "2026-10-14T20:59:06+00:00",
    "sent_at": "2026-10-14T20:59:06+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2110475475877323014",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - X-Files (1993-2018).\n\nhttps://www.reddit.com/r/fanedits/comments/1x57uqs/xfiles_19932018/",
-   "url": "https://x.com/FanEditFanClub/status/2110475475877323014",
-   "created_at": "2026-10-14T20:58:58+00:00",
-   "sent_at": "2026-10-14T20:58:58+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
