@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T00:51:39+00:00",
+ "updated_at": "2026-10-15T01:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110536136586084377",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 473 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110536136586084377",
+   "created_at": "2026-10-15T01:00:01+00:00",
+   "sent_at": "2026-10-15T01:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlPlExW0AA0Tzz.jpg"
+  },
+  {
+   "id": "2110534793188544647",
+   "text": "This is cursed",
+   "url": "https://x.com/Onyx_Tw/status/2110534793188544647",
+   "created_at": "2026-10-15T00:54:41+00:00",
+   "sent_at": "2026-10-15T00:54:41+00:00",
+   "author_name": "onyx",
+   "author_handle": "Onyx_Tw",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2050445504882884608/rdoqP-2h_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUof5gCWEAArHjV.jpg"
+  },
+  {
    "id": "2110532356339540407",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 472 of 616",
    "url": "https://x.com/SopranosOrder/status/2110532356339540407",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUlPgnoWUAATDGn.jpg"
-  },
-  {
-   "id": "2110528833455546826",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 471 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110528833455546826",
-   "created_at": "2026-10-15T00:31:00+00:00",
-   "sent_at": "2026-10-15T00:31:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HUlPdWwXIAAa5bx.jpg"
   },
   {
    "id": "2110519174199918983",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 4,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -92,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 50,
-   "like_count": 677,
+   "repost_count": 54,
+   "like_count": 739,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110484010765897728/img/zwAEOil3dX27xApn.jpg"
   },
   {
@@ -106,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 6,
-   "repost_count": 70,
-   "like_count": 1343,
+   "repost_count": 76,
+   "like_count": 1406,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110176735719268352/img/mLIOyBDC6ZBS7fIO.jpg"
   },
   {
@@ -164,20 +178,6 @@
    "reply_count": 2,
    "repost_count": 0,
    "like_count": 5,
-   "image": ""
-  },
-  {
-   "id": "2110431354349375880",
-   "text": "It\u2019s just a shame about that 3rd act for me but still a good movie",
-   "url": "https://x.com/StebobM/status/2110431354349375880",
-   "created_at": "2026-10-14T18:03:39+00:00",
-   "sent_at": "2026-10-14T18:03:39+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
    "image": ""
   }
  ]
