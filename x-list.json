@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T17:51:42+00:00",
+ "updated_at": "2026-10-15T18:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2110792825096872042",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 541 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110792825096872042",
+   "created_at": "2026-10-15T18:00:00+00:00",
+   "sent_at": "2026-10-15T18:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlTWX7W0AA7OdB.jpg"
+  },
   {
    "id": "2110789048012804533",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 540 of 616",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HUlTSPOWsAAu04O.jpg"
   },
   {
-   "id": "2110785274229989630",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 539 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110785274229989630",
-   "created_at": "2026-10-15T17:30:00+00:00",
-   "sent_at": "2026-10-15T17:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HUlTOz1XkAAtuBH.jpg"
-  },
-  {
    "id": "2110775032448507984",
    "text": "The Man with the Golden Gun but Bond has a fried mushroom intolerance",
    "url": "https://x.com/tomsmason91/status/2110775032448507984",
@@ -50,8 +50,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 1,
-   "repost_count": 2,
-   "like_count": 12,
+   "repost_count": 3,
+   "like_count": 16,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110774683570216960/img/pZeQlYUv9L-I1SHe.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 123,
+   "like_count": 138,
    "image": "https://pbs.twimg.com/media/HUr3lIMXoAADVhT.jpg"
   },
   {
@@ -77,9 +77,9 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 0,
-   "like_count": 33,
+   "reply_count": 4,
+   "repost_count": 3,
+   "like_count": 46,
    "image": "https://pbs.twimg.com/media/HUrq352XwAAoo4N.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 61,
+   "like_count": 66,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrdnNsXAAA673a.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 96,
+   "like_count": 100,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrc9xEXkAAUHjs.jpg"
   },
   {
