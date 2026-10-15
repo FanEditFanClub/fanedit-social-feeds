@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T14:51:41+00:00",
+ "updated_at": "2026-10-15T15:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2110748699509031411",
+   "text": "It feels like Christmas morning.",
+   "url": "https://x.com/JoshNitsche/status/2110748699509031411",
+   "created_at": "2026-10-15T15:04:40+00:00",
+   "sent_at": "2026-10-15T15:04:40+00:00",
+   "author_name": "OhIDied",
+   "author_handle": "JoshNitsche",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1676755347401474049/RnG5u6Wv_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HUrhP_ZbIAA_8tc.jpg"
+  },
+  {
+   "id": "2110747537909207452",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 529 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110747537909207452",
+   "created_at": "2026-10-15T15:00:03+00:00",
+   "sent_at": "2026-10-15T15:00:03+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlSr8qXYAAWTYY.jpg"
+  },
   {
    "id": "2110743749328527436",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 528 of 616",
@@ -36,8 +64,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
+   "repost_count": 1,
+   "like_count": 14,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrdnNsXAAA673a.jpg"
   },
   {
@@ -51,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 16,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrc9xEXkAAUHjs.jpg"
-  },
-  {
-   "id": "2110739977592037513",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 527 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110739977592037513",
-   "created_at": "2026-10-15T14:30:00+00:00",
-   "sent_at": "2026-10-15T14:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HUlSj-GWgAA5HpU.jpg"
   },
   {
    "id": "2110736404145918274",
@@ -149,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
    "repost_count": 63,
-   "like_count": 744,
+   "like_count": 750,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110571835242721280/img/_LavBkooV-SCgg8F.jpg"
   },
   {
@@ -161,9 +175,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 337,
-   "like_count": 3795,
+   "reply_count": 5,
+   "repost_count": 340,
+   "like_count": 3853,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110570562267336704/img/qGPSBmRaU4I13Wj_.jpg"
   }
  ]
