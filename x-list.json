@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T00:06:40+00:00",
+ "updated_at": "2026-10-15T00:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2110524806559076427",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 470 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110524806559076427",
+   "created_at": "2026-10-15T00:15:00+00:00",
+   "sent_at": "2026-10-15T00:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUlPaPkW8AARjtV.jpg"
+  },
+  {
    "id": "2110521035691081897",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 469 of 616",
    "url": "https://x.com/SopranosOrder/status/2110521035691081897",
@@ -22,8 +36,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
+   "repost_count": 1,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HUlPUSAWIAAq8ml.jpg"
   },
   {
@@ -39,20 +53,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2110517256774164816",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 468 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110517256774164816",
-   "created_at": "2026-10-14T23:45:00+00:00",
-   "sent_at": "2026-10-14T23:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HUlPPtwWYAAlBO3.jpg"
   },
   {
    "id": "2110516302410297612",
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 39,
-   "like_count": 554,
+   "repost_count": 43,
+   "like_count": 602,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110484010765897728/img/zwAEOil3dX27xApn.jpg"
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 58,
-   "like_count": 1133,
+   "reply_count": 6,
+   "repost_count": 60,
+   "like_count": 1180,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110176735719268352/img/mLIOyBDC6ZBS7fIO.jpg"
   },
   {
