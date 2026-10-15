@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T16:51:40+00:00",
+ "updated_at": "2026-10-15T17:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2110777731139158173",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 537 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110777731139158173",
+   "created_at": "2026-10-15T17:00:02+00:00",
+   "sent_at": "2026-10-15T17:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlTISnXkAAPoFy.jpg"
+  },
+  {
    "id": "2110775032448507984",
    "text": "The Man with the Golden Gun but Bond has a fried mushroom intolerance",
    "url": "https://x.com/tomsmason91/status/2110775032448507984",
@@ -21,9 +35,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110774683570216960/img/pZeQlYUv9L-I1SHe.jpg"
   },
   {
@@ -37,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUlTEJQXkAAIROM.jpg"
   },
   {
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 34,
+   "like_count": 60,
    "image": "https://pbs.twimg.com/media/HUr3lIMXoAADVhT.jpg"
-  },
-  {
-   "id": "2110770175666737447",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 535 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110770175666737447",
-   "created_at": "2026-10-15T16:30:00+00:00",
-   "sent_at": "2026-10-15T16:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUlTApNWQAAb2HY.jpg"
   },
   {
    "id": "2110757626611110069",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HUrq352XwAAoo4N.jpg"
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 42,
+   "repost_count": 2,
+   "like_count": 47,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrdnNsXAAA673a.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 68,
+   "like_count": 74,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrc9xEXkAAUHjs.jpg"
   },
   {
