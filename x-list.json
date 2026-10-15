@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T16:36:43+00:00",
+ "updated_at": "2026-10-15T16:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110775032448507984",
+   "text": "The Man with the Golden Gun but Bond has a fried mushroom intolerance",
+   "url": "https://x.com/tomsmason91/status/2110775032448507984",
+   "created_at": "2026-10-15T16:49:18+00:00",
+   "sent_at": "2026-10-15T16:49:18+00:00",
+   "author_name": "Tom Mason",
+   "author_handle": "tomsmason91",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2110774683570216960/img/pZeQlYUv9L-I1SHe.jpg"
+  },
+  {
+   "id": "2110773948535492822",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 536 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110773948535492822",
+   "created_at": "2026-10-15T16:45:00+00:00",
+   "sent_at": "2026-10-15T16:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlTEJQXkAAIROM.jpg"
+  },
+  {
    "id": "2110771597623619857",
    "text": "how I feel every time this edit makes the rounds again",
    "url": "https://x.com/uhbucky/status/2110771597623619857",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 34,
    "image": "https://pbs.twimg.com/media/HUr3lIMXoAADVhT.jpg"
   },
   {
@@ -41,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HUlTApNWQAAb2HY.jpg"
   },
   {
-   "id": "2110766650207473858",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 534 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110766650207473858",
-   "created_at": "2026-10-15T16:16:00+00:00",
-   "sent_at": "2026-10-15T16:16:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUlS9h_W0AAF2iN.jpg"
-  },
-  {
    "id": "2110757626611110069",
    "text": "I\u2019ve watched 4 episodes of #CrystalLake so far. I have to admit some stuff was a little jarring at first but I\u2019m absolutely loving it now. Can\u2019t wait to see where it goes",
    "url": "https://x.com/StebobM/status/2110757626611110069",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HUrq352XwAAoo4N.jpg"
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1676755347401474049/RnG5u6Wv_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrhP_ZbIAA_8tc.jpg"
   },
   {
@@ -91,9 +105,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 1,
-   "like_count": 39,
+   "like_count": 42,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrdnNsXAAA673a.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 65,
+   "like_count": 68,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HUrc9xEXkAAUHjs.jpg"
   },
   {
