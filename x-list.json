@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T03:36:40+00:00",
+ "updated_at": "2026-10-15T03:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2110577655007580307",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 484 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110577655007580307",
+   "created_at": "2026-10-15T03:45:00+00:00",
+   "sent_at": "2026-10-15T03:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUlQJGqXsAAP8Ip.jpg"
+  },
+  {
    "id": "2110573628198969648",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 483 of 616",
    "url": "https://x.com/SopranosOrder/status/2110573628198969648",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HUlQF74WUAAMGMB.jpg"
   },
   {
@@ -36,8 +50,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 27,
-   "like_count": 195,
+   "repost_count": 38,
+   "like_count": 294,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110571835242721280/img/_LavBkooV-SCgg8F.jpg"
   },
   {
@@ -50,23 +64,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 71,
-   "like_count": 561,
+   "repost_count": 103,
+   "like_count": 883,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110570562267336704/img/qGPSBmRaU4I13Wj_.jpg"
-  },
-  {
-   "id": "2110570105172275646",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 482 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110570105172275646",
-   "created_at": "2026-10-15T03:15:00+00:00",
-   "sent_at": "2026-10-15T03:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HUlQC6CXgAAOOE5.jpg"
   },
   {
    "id": "2110534793188544647",
@@ -137,34 +137,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2110457561795514597",
-   "text": "Openly admitting to being a racist and into the genocide of Palestinians...",
-   "url": "https://x.com/jrsilentboba/status/2110457561795514597",
-   "created_at": "2026-10-14T19:47:47+00:00",
-   "sent_at": "2026-10-14T19:47:47+00:00",
-   "author_name": "jrsilentboba",
-   "author_handle": "jrsilentboba",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2012170182035116032/_wPREpOl_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2110457545076752386/img/dPd8WWJlRvuAdrPZ.jpg"
-  },
-  {
-   "id": "2110453789203591455",
-   "text": "The name of the building hosting The Tesla Superchargers closest to The Waco Facility for Roadster reveal, is named ROADSTER!\n\nAre you the kind of person who sees signs? \ud83d\ude1c",
-   "url": "https://x.com/CarsonGallo/status/2110453789203591455",
-   "created_at": "2026-10-14T19:32:48+00:00",
-   "sent_at": "2026-10-14T19:32:48+00:00",
-   "author_name": "Carson J Gallo",
-   "author_handle": "CarsonGallo",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 0,
-   "like_count": 11,
-   "image": "https://pbs.twimg.com/media/HUnWiAiWYAEoAch.jpg"
   }
  ]
 }
