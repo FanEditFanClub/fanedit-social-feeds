@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T00:21:39+00:00",
+ "updated_at": "2026-10-16T00:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2110890972057845929",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 567 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110890972057845929",
+   "created_at": "2026-10-16T00:30:00+00:00",
+   "sent_at": "2026-10-16T00:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HUr7e2LWMAAI7uy.jpg"
+  },
+  {
+   "id": "2110889287763853649",
+   "text": "MY FAMILY \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+   "url": "https://x.com/uhbucky/status/2110889287763853649",
+   "created_at": "2026-10-16T00:23:19+00:00",
+   "sent_at": "2026-10-16T00:23:19+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 3,
+   "repost_count": 103,
+   "like_count": 317,
+   "image": "https://pbs.twimg.com/media/HUtinuyWMAAM9rP.jpg"
+  },
+  {
    "id": "2110887669580574800",
    "text": "the rush I felt simply seeing this background fist bump I\u2019m so cooked man",
    "url": "https://x.com/uhbucky/status/2110887669580574800",
@@ -21,9 +49,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 17,
-   "like_count": 67,
+   "reply_count": 3,
+   "repost_count": 64,
+   "like_count": 283,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110887435177709568/img/GWWhyTGXhdIyKak1.jpg"
   },
   {
@@ -39,20 +67,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUr7bRkXsAAJIWX.jpg"
-  },
-  {
-   "id": "2110883424315818001",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 565 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110883424315818001",
-   "created_at": "2026-10-16T00:00:01+00:00",
-   "sent_at": "2026-10-16T00:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HUr7IWYXEAAGn5u.jpg"
   },
   {
    "id": "2110881822284386535",
@@ -78,8 +92,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
-   "repost_count": 2,
-   "like_count": 119,
+   "repost_count": 3,
+   "like_count": 125,
    "image": ""
   },
   {
@@ -163,22 +177,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
    "repost_count": 2,
-   "like_count": 31,
+   "like_count": 32,
    "image": ""
-  },
-  {
-   "id": "2110799436347576739",
-   "text": "It is on!",
-   "url": "https://x.com/CarsonGallo/status/2110799436347576739",
-   "created_at": "2026-10-15T18:26:17+00:00",
-   "sent_at": "2026-10-15T18:26:17+00:00",
-   "author_name": "Carson J Gallo",
-   "author_handle": "CarsonGallo",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HUsQ5f6WgAElpA3.jpg"
   }
  ]
 }
