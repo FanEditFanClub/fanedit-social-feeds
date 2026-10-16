@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T17:21:40+00:00",
+ "updated_at": "2026-10-16T17:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2111147662355714262",
+   "text": "S1 E4 'Meadowlands' | 19 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111147662355714262",
+   "created_at": "2026-10-16T17:30:00+00:00",
+   "sent_at": "2026-10-16T17:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUr_trKXUAAYfYj.jpg"
+  },
+  {
+   "id": "2111147391902466554",
+   "text": "This sites not fun anymore. The slop engagement accounts are back in full force. The \"you must hate pancakes!\" people are the only ones that see my posts anymore and everything just feels fake and pointless.\n\nI be back... eventually.",
+   "url": "https://x.com/TheManlet_King/status/2111147391902466554",
+   "created_at": "2026-10-16T17:28:56+00:00",
+   "sent_at": "2026-10-16T17:28:56+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 3,
+   "repost_count": 0,
+   "like_count": 15,
+   "image": "https://pbs.twimg.com/media/HUxNXN1XQAA55Lc.jpg"
+  },
+  {
    "id": "2111143886043128129",
    "text": "S1 E4 'Meadowlands' | 18 of 744",
    "url": "https://x.com/SopranosOrder/status/2111143886043128129",
@@ -22,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
+   "repost_count": 1,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HUr_pqnXMAAq4k7.jpg"
-  },
-  {
-   "id": "2111140118316876181",
-   "text": "S1 E4 'Meadowlands' | 17 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111140118316876181",
-   "created_at": "2026-10-16T17:00:01+00:00",
-   "sent_at": "2026-10-16T17:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HUr_mkTXkAAKTcF.jpg"
   },
   {
    "id": "2111094679257112957",
@@ -92,7 +106,7 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
+   "repost_count": 1,
    "like_count": 3,
    "image": ""
   },
