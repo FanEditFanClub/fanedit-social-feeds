@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T17:36:42+00:00",
+ "updated_at": "2026-10-16T17:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2111151618096021736",
+   "text": "This poster is absolute \ud83d\udd25 #CrystalLake",
+   "url": "https://x.com/StebobM/status/2111151618096021736",
+   "created_at": "2026-10-16T17:45:43+00:00",
+   "sent_at": "2026-10-16T17:45:43+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2111151435765239897",
+   "text": "S1 E4 'Meadowlands' | 20 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111151435765239897",
+   "created_at": "2026-10-16T17:45:00+00:00",
+   "sent_at": "2026-10-16T17:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUr_xNRWcAAk3Vy.jpg"
+  },
   {
    "id": "2111147662355714262",
    "text": "S1 E4 'Meadowlands' | 19 of 744",
@@ -35,24 +63,10 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 5,
    "repost_count": 0,
-   "like_count": 15,
+   "like_count": 43,
    "image": "https://pbs.twimg.com/media/HUxNXN1XQAA55Lc.jpg"
-  },
-  {
-   "id": "2111143886043128129",
-   "text": "S1 E4 'Meadowlands' | 18 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111143886043128129",
-   "created_at": "2026-10-16T17:15:00+00:00",
-   "sent_at": "2026-10-16T17:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 8,
-   "image": "https://pbs.twimg.com/media/HUr_pqnXMAAq4k7.jpg"
   },
   {
    "id": "2111094679257112957",
@@ -97,20 +111,6 @@
    "image": ""
   },
   {
-   "id": "2111038930074161272",
-   "text": "Totally agree with this both these shows delivered for me and I want more",
-   "url": "https://x.com/StebobM/status/2111038930074161272",
-   "created_at": "2026-10-16T10:17:56+00:00",
-   "sent_at": "2026-10-16T10:17:56+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": ""
-  },
-  {
    "id": "2110944298082382034",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - COMING SOON! PARADISE: The Origin of a Species - Parts I and II.\n\nhttps://www.reddit.com/r/fanedits/comments/1x6agrd/coming_soon_paradise_the_origin_of_a_species/",
    "url": "https://x.com/FanEditFanClub/status/2110944298082382034",
@@ -122,20 +122,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2110916106605273554",
-   "text": "\u201cSir you can\u2019t park on the Building itself!\u201d\n\n\u201cI don\u2019t see any signs saying I can\u2019t!\u201d (Lock Chirp Plays & Walks Away) \ud83d\ude32",
-   "url": "https://x.com/CarsonGallo/status/2110916106605273554",
-   "created_at": "2026-10-16T02:09:53+00:00",
-   "sent_at": "2026-10-16T02:09:53+00:00",
-   "author_name": "Carson J Gallo",
-   "author_handle": "CarsonGallo",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 11,
    "image": ""
   }
  ]
