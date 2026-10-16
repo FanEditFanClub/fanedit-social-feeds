@@ -3,7 +3,7 @@ name: social-feeds
 # Refreshes the public JSON feeds behind the club website widgets.
 # Also refreshes site-pages.json for the installable app (fetch.py).
 # Served via GitHub Pages; widgets fetch the JSON directly (no CORS issues).
-# Keep this file name. A Google Apps Script dispatches it.
+# Keep this file name. A Google Apps Script dispatches it every 15 minutes.
 #
 # x-list.json and x-posts.json come from X's public syndication pages.
 # That host allows about 30 requests / 15 minutes per IP. GitHub-hosted
@@ -12,9 +12,13 @@ name: social-feeds
 # the last good JSON in place rather than blanking the feed.
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
   workflow_dispatch: {}
+
+# The Apps Script is the only scheduler. Queue a second dispatch until the
+# first finishes so two runs do not push main at the same time.
+concurrency:
+  group: social-feeds
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -37,5 +41,21 @@ jobs:
           git config user.name "feeds-bot"
           git config user.email "feeds-bot@users.noreply.github.com"
           git add -A
-          git diff --cached --quiet || git commit -m "refresh feeds"
-          git push
+          if git diff --cached --quiet; then
+            echo "No feed changes to commit."
+            exit 0
+          fi
+          git commit -m "refresh feeds"
+          for attempt in 1 2 3; do
+            if git pull --rebase -X theirs origin main && git push; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            if [ "$attempt" -lt 3 ]; then
+              delay=$((attempt * 5))
+              echo "Push rejected (attempt ${attempt}/3); retrying in ${delay}s"
+              sleep "$delay"
+            fi
+          done
+          echo "Push failed after 3 attempts"
+          exit 1
