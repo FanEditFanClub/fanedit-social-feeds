@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T04:21:39+00:00",
+ "updated_at": "2026-10-16T04:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2110951367262998989",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 583 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110951367262998989",
+   "created_at": "2026-10-16T04:30:00+00:00",
+   "sent_at": "2026-10-16T04:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUr8feoXEAAG1fI.jpg"
+  },
+  {
    "id": "2110947592636973075",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 582 of 616",
    "url": "https://x.com/SopranosOrder/status/2110947592636973075",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUr8bp6XYAATaPY.jpg"
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2110943823467889121",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 581 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110943823467889121",
-   "created_at": "2026-10-16T04:00:01+00:00",
-   "sent_at": "2026-10-16T04:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HUr8XPnXsAAdKwN.jpg"
-  },
-  {
    "id": "2110916106605273554",
    "text": "\u201cSir you can\u2019t park on the Building itself!\u201d\n\n\u201cI don\u2019t see any signs saying I can\u2019t!\u201d (Lock Chirp Plays & Walks Away) \ud83d\ude32",
    "url": "https://x.com/CarsonGallo/status/2110916106605273554",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 25,
    "repost_count": 8,
-   "like_count": 494,
+   "like_count": 511,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
    "repost_count": 144,
-   "like_count": 836,
+   "like_count": 851,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2094879854256672768/img/bvaw1UnsVIuPtLKR.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 179,
+   "like_count": 180,
    "image": ""
   },
   {
