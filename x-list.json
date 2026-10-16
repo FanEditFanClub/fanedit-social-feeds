@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T04:06:40+00:00",
+ "updated_at": "2026-10-16T04:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2110947592636973075",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 582 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110947592636973075",
+   "created_at": "2026-10-16T04:15:00+00:00",
+   "sent_at": "2026-10-16T04:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUr8bp6XYAATaPY.jpg"
+  },
   {
    "id": "2110944298082382034",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - COMING SOON! PARADISE: The Origin of a Species - Parts I and II.\n\nhttps://www.reddit.com/r/fanedits/comments/1x6agrd/coming_soon_paradise_the_origin_of_a_species/",
@@ -55,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HUr8XPnXsAAdKwN.jpg"
   },
   {
-   "id": "2110940042785116668",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 580 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110940042785116668",
-   "created_at": "2026-10-16T03:45:00+00:00",
-   "sent_at": "2026-10-16T03:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUr8TF7XAAAxuY0.jpg"
-  },
-  {
    "id": "2110916106605273554",
    "text": "\u201cSir you can\u2019t park on the Building itself!\u201d\n\n\u201cI don\u2019t see any signs saying I can\u2019t!\u201d (Lock Chirp Plays & Walks Away) \ud83d\ude32",
    "url": "https://x.com/CarsonGallo/status/2110916106605273554",
@@ -91,9 +91,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 24,
+   "reply_count": 25,
    "repost_count": 8,
-   "like_count": 464,
+   "like_count": 494,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
    "repost_count": 144,
-   "like_count": 828,
+   "like_count": 836,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2094879854256672768/img/bvaw1UnsVIuPtLKR.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 175,
+   "like_count": 179,
    "image": ""
   },
   {
