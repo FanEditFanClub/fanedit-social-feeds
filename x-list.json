@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T07:21:40+00:00",
+ "updated_at": "2026-10-16T07:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2110996667134517340",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 595 of 616",
+   "url": "https://x.com/SopranosOrder/status/2110996667134517340",
+   "created_at": "2026-10-16T07:30:00+00:00",
+   "sent_at": "2026-10-16T07:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUr9NiXX0AA7u6Y.jpg"
+  },
   {
    "id": "2110992890889404537",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 594 of 616",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HUr9KAqXIAABXme.jpg"
   },
   {
-   "id": "2110988864307527881",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 593 of 616",
-   "url": "https://x.com/SopranosOrder/status/2110988864307527881",
-   "created_at": "2026-10-16T06:59:00+00:00",
-   "sent_at": "2026-10-16T06:59:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HUr9DqeXMAAbhlg.jpg"
-  },
-  {
    "id": "2110983254023315480",
    "text": "While I agree you can\u2019t blame people for going there. We had a lot of the same sort of comments etc when Whedon took over",
    "url": "https://x.com/StebobM/status/2110983254023315480",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": ""
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 26,
+   "reply_count": 27,
    "repost_count": 11,
-   "like_count": 686,
+   "like_count": 693,
    "image": ""
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 3,
-   "repost_count": 157,
-   "like_count": 988,
+   "repost_count": 158,
+   "like_count": 998,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2094879854256672768/img/bvaw1UnsVIuPtLKR.jpg"
   },
   {
@@ -149,21 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 6,
-   "like_count": 219,
-   "image": ""
-  },
-  {
-   "id": "2110853869031014668",
-   "text": "Me when my producer tells me we're gonna be the #1 show on TV but I get possessed by the spirit of an evil orangutan:",
-   "url": "https://x.com/jrsilentboba/status/2110853869031014668",
-   "created_at": "2026-10-15T22:02:34+00:00",
-   "sent_at": "2026-10-15T22:02:34+00:00",
-   "author_name": "jrsilentboba",
-   "author_handle": "jrsilentboba",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2012170182035116032/_wPREpOl_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "like_count": 223,
    "image": ""
   }
  ]
