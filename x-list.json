@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T10:06:42+00:00",
+ "updated_at": "2026-10-16T10:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2111038930074161272",
+   "text": "Totally agree with this both these shows delivered for me and I want more",
+   "url": "https://x.com/StebobM/status/2111038930074161272",
+   "created_at": "2026-10-16T10:17:56+00:00",
+   "sent_at": "2026-10-16T10:17:56+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2111038189880373645",
+   "text": "S1 E3 'Denial, Anger, Acceptance' | 606 of 616",
+   "url": "https://x.com/SopranosOrder/status/2111038189880373645",
+   "created_at": "2026-10-16T10:15:00+00:00",
+   "sent_at": "2026-10-16T10:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUr91IPWwAEt36J.jpg"
+  },
+  {
    "id": "2111034428147609722",
    "text": "S1 E3 'Denial, Anger, Acceptance' | 605 of 616",
    "url": "https://x.com/SopranosOrder/status/2111034428147609722",
@@ -22,8 +50,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
+   "repost_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HUr9yN5WoAABQ5c.jpg"
   },
   {
@@ -39,34 +67,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2111032282467418601",
-   "text": "I finished #CrystalLake wow it went in a direction I was not expecting. But honestly I really enjoyed it.\n\nAll the crazy stuff that\u2019s happened in the franchise the twists here did not bother me one bit & I was expecting it.\n\nThere better be a season 2",
-   "url": "https://x.com/StebobM/status/2111032282467418601",
-   "created_at": "2026-10-16T09:51:31+00:00",
-   "sent_at": "2026-10-16T09:51:31+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUvkq80WUAAuV95.jpg"
-  },
-  {
-   "id": "2111030640061890607",
-   "text": "S1 E3 'Denial, Anger, Acceptance' | 604 of 616",
-   "url": "https://x.com/SopranosOrder/status/2111030640061890607",
-   "created_at": "2026-10-16T09:45:00+00:00",
-   "sent_at": "2026-10-16T09:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HUr9tnJWUAAMyKG.jpg"
   },
   {
    "id": "2110944298082382034",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 29,
    "repost_count": 11,
-   "like_count": 780,
+   "like_count": 789,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 3,
    "repost_count": 163,
-   "like_count": 1065,
+   "like_count": 1071,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2094879854256672768/img/bvaw1UnsVIuPtLKR.jpg"
   }
  ]
