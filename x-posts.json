@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T14:07:19+00:00",
+ "updated_at": "2026-10-17T14:22:20+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -7,6 +7,36 @@
   "picture": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2111459081340784841",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - What started as a background project has stolen my focus!.\n\nhttps://www.reddit.com/r/fanedits/comments/1x7dmsc/what_started_as_a_background_project_has_stolen/",
+   "url": "https://x.com/FanEditFanClub/status/2111459081340784841",
+   "sent_at": "2026-10-17T14:07:28+00:00",
+   "created_at": "2026-10-17T14:07:28+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "syndication"
+  },
+  {
+   "id": "2111459058297315489",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Ghost of Mars Chronological by Shion.\n\nhttps://www.reddit.com/r/fanedits/comments/1x7fpy6/ghost_of_mars_chronological_by_shion/",
+   "url": "https://x.com/FanEditFanClub/status/2111459058297315489",
+   "sent_at": "2026-10-17T14:07:23+00:00",
+   "created_at": "2026-10-17T14:07:23+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "syndication"
+  },
   {
    "id": "2111409042081882417",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - FRISKY DINGO: THE MOVIE (Season One).\n\nhttps://www.reddit.com/r/fanedits/comments/1x79yin/frisky_dingo_the_movie_season_one/",
@@ -118,36 +148,6 @@
    "url": "https://x.com/2072539271450312704/status/2111154778172489808",
    "sent_at": "2026-10-16T17:58:17+00:00",
    "created_at": "2026-10-16T17:58:17+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2111154753379971423",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - The Batman: A Crime Saga (2026).\n\nhttps://www.reddit.com/r/fanedits/comments/1x6rznw/the_batman_a_crime_saga_2026/",
-   "url": "https://x.com/2072539271450312704/status/2111154753379971423",
-   "sent_at": "2026-10-16T17:58:11+00:00",
-   "created_at": "2026-10-16T17:58:11+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2111094645815914523",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Solving Fanedit.org's \"Engagement Mystery\" and History Lesson..\n\nhttps://www.reddit.com/r/moviesremastered/comments/1x6l5ku/solving_faneditorgs_engagement_mystery_and/",
-   "url": "https://x.com/2072539271450312704/status/2111094645815914523",
-   "sent_at": "2026-10-16T13:59:20+00:00",
-   "created_at": "2026-10-16T13:59:20+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "",
