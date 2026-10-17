@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T21:51:41+00:00",
+ "updated_at": "2026-10-17T22:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,62 @@
  },
  "posts": [
   {
+   "id": "2111579246816526637",
+   "text": "\ud83d\ude4f",
+   "url": "https://x.com/NCseventeen/status/2111579246816526637",
+   "created_at": "2026-10-17T22:04:58+00:00",
+   "sent_at": "2026-10-17T22:04:58+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2111579145050419316",
+   "text": ":)",
+   "url": "https://x.com/NCseventeen/status/2111579145050419316",
+   "created_at": "2026-10-17T22:04:34+00:00",
+   "sent_at": "2026-10-17T22:04:34+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2111578206755229996",
+   "text": "So what the hell is the point?\n\nThis quote is just becoming more and more a load of crap\n\n\u201c\u2026 the Biggest Story Ever Told across multiple films, television shows, & animated projects\u201d",
+   "url": "https://x.com/StebobM/status/2111578206755229996",
+   "created_at": "2026-10-17T22:00:50+00:00",
+   "sent_at": "2026-10-17T22:00:50+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2111578001460658192",
+   "text": "S1 E4 'Meadowlands' | 133 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111578001460658192",
+   "created_at": "2026-10-17T22:00:01+00:00",
+   "sent_at": "2026-10-17T22:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUvBH3FXkAAksur.jpg"
+  },
+  {
    "id": "2111574221415649671",
    "text": "S1 E4 'Meadowlands' | 132 of 744",
    "url": "https://x.com/SopranosOrder/status/2111574221415649671",
@@ -23,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 6,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/media/HUvBEOrWoAAklM1.jpg"
   },
   {
@@ -41,20 +97,6 @@
    "image": ""
   },
   {
-   "id": "2111570448576032810",
-   "text": "S1 E4 'Meadowlands' | 131 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111570448576032810",
-   "created_at": "2026-10-17T21:30:00+00:00",
-   "sent_at": "2026-10-17T21:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUvBAqOWMAA93So.jpg"
-  },
-  {
    "id": "2111563401570763207",
    "text": "eddie finding out that buck hooked up with tommy in his house while he was in texas",
    "url": "https://x.com/uhbucky/status/2111563401570763207",
@@ -65,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
    "repost_count": 0,
-   "like_count": 57,
+   "like_count": 69,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HU3HtRZWoAA3_cM.jpg"
   },
   {
@@ -79,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 11,
+   "like_count": 12,
    "image": "https://pbs.twimg.com/media/HU22GZ6XAAADVsn.jpg"
   },
   {
@@ -123,20 +165,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HU1kWVlWQAEQgzq.jpg"
-  },
-  {
-   "id": "2111350961201418593",
-   "text": "A season finale can make or break any TV show. Many of us were disappointed with Lanterns it\u2019s not always review bombing just you liked it",
-   "url": "https://x.com/StebobM/status/2111350961201418593",
-   "created_at": "2026-10-17T06:57:50+00:00",
-   "sent_at": "2026-10-17T06:57:50+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 1,
-   "like_count": 7,
-   "image": ""
   }
  ]
 }
