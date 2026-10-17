@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T13:36:41+00:00",
+ "updated_at": "2026-10-17T13:51:54+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2111454141008544163",
+   "text": "My Tesla Home just got the latest update! \ud83d\ude97\ud83c\udfe0\u26a1\n\nLike I've been saying since before this stats screen became available \u2014 it\u2019s been driving ME 96% of the time. 12,369.5 out of 12,866 miles on FSD Supervised!\n\nHopefully this update gets me to 98-99%! \ud83e\udd1e\n\n#TeslaVanLife",
+   "url": "https://x.com/CarsonGallo/status/2111454141008544163",
+   "created_at": "2026-10-17T13:47:50+00:00",
+   "sent_at": "2026-10-17T13:47:50+00:00",
+   "author_name": "Carson J Gallo",
+   "author_handle": "CarsonGallo",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HU1kWVlWQAEQgzq.jpg"
+  },
+  {
+   "id": "2111453425779007802",
+   "text": "S1 E4 'Meadowlands' | 100 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111453425779007802",
+   "created_at": "2026-10-17T13:45:00+00:00",
+   "sent_at": "2026-10-17T13:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HUu_OTtXwAAPTlv.jpg"
+  },
+  {
    "id": "2111449650641379826",
    "text": "S1 E4 'Meadowlands' | 99 of 744",
    "url": "https://x.com/SopranosOrder/status/2111449650641379826",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HUu_K2hXYAAl-S8.jpg"
-  },
-  {
-   "id": "2111445876002463904",
-   "text": "S1 E4 'Meadowlands' | 98 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111445876002463904",
-   "created_at": "2026-10-17T13:15:00+00:00",
-   "sent_at": "2026-10-17T13:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUu_HT_WwAAZEZl.jpg"
   },
   {
    "id": "2111409042081882417",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 5,
    "repost_count": 8,
-   "like_count": 102,
+   "like_count": 105,
    "image": ""
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 4,
    "repost_count": 1,
-   "like_count": 6,
+   "like_count": 7,
    "image": ""
   },
   {
@@ -106,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
-   "repost_count": 44,
-   "like_count": 891,
+   "repost_count": 45,
+   "like_count": 899,
    "image": ""
   }
  ]
