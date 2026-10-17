@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T07:06:40+00:00",
+ "updated_at": "2026-10-17T07:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2111355278998536324",
+   "text": "S1 E4 'Meadowlands' | 74 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111355278998536324",
+   "created_at": "2026-10-17T07:15:00+00:00",
+   "sent_at": "2026-10-17T07:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUu9gqKXsAAsuTC.jpg"
+  },
+  {
    "id": "2111351507530531236",
    "text": "S1 E4 'Meadowlands' | 73 of 744",
    "url": "https://x.com/SopranosOrder/status/2111351507530531236",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUu9dxtWkAAEx3b.jpg"
   },
   {
@@ -39,20 +53,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2111347729112666210",
-   "text": "S1 E4 'Meadowlands' | 72 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111347729112666210",
-   "created_at": "2026-10-17T06:45:00+00:00",
-   "sent_at": "2026-10-17T06:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUu9Xw_WAAALCa1.jpg"
   },
   {
    "id": "2111342967286096073",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
    "repost_count": 42,
-   "like_count": 749,
+   "like_count": 752,
    "image": ""
   },
   {
