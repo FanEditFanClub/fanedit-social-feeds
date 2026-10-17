@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T21:21:40+00:00",
+ "updated_at": "2026-10-17T21:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2111570448576032810",
+   "text": "S1 E4 'Meadowlands' | 131 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111570448576032810",
+   "created_at": "2026-10-17T21:30:00+00:00",
+   "sent_at": "2026-10-17T21:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUvBAqOWMAA93So.jpg"
+  },
+  {
    "id": "2111566671949222012",
    "text": "S1 E4 'Meadowlands' | 130 of 744",
    "url": "https://x.com/SopranosOrder/status/2111566671949222012",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 1,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HUvA9wiXwAASGBn.jpg"
   },
   {
@@ -35,24 +49,10 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 4,
    "repost_count": 0,
-   "like_count": 38,
+   "like_count": 47,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HU3HtRZWoAA3_cM.jpg"
-  },
-  {
-   "id": "2111562903480361027",
-   "text": "S1 E4 'Meadowlands' | 129 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111562903480361027",
-   "created_at": "2026-10-17T21:00:01+00:00",
-   "sent_at": "2026-10-17T21:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HUvA6hZXcAAyyaX.jpg"
   },
   {
    "id": "2111544026361118926",
