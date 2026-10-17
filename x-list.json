@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T12:21:40+00:00",
+ "updated_at": "2026-10-17T12:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2111434553688785174",
+   "text": "S1 E4 'Meadowlands' | 95 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111434553688785174",
+   "created_at": "2026-10-17T12:30:00+00:00",
+   "sent_at": "2026-10-17T12:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HU1Ru_aWwAEuMkt.jpg"
+  },
+  {
    "id": "2111430776973619662",
    "text": "S1 E4 'Meadowlands' | 94 of 745",
    "url": "https://x.com/SopranosOrder/status/2111430776973619662",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUu-zqhXkAADIsI.jpg"
-  },
-  {
-   "id": "2111427018378117344",
-   "text": "S1 E4 'Meadowlands' | 93 of 745",
-   "url": "https://x.com/SopranosOrder/status/2111427018378117344",
-   "created_at": "2026-10-17T12:00:04+00:00",
-   "sent_at": "2026-10-17T12:00:04+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUu-wVuWgAAbmMT.jpg"
   },
   {
    "id": "2111409042081882417",
@@ -63,9 +63,9 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 3,
-   "like_count": 60,
+   "like_count": 69,
    "image": ""
   },
   {
@@ -77,7 +77,7 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 1,
    "like_count": 4,
    "image": ""
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
    "repost_count": 44,
-   "like_count": 864,
+   "like_count": 866,
    "image": ""
   },
   {
