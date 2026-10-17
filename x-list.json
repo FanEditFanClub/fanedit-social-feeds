@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T11:06:41+00:00",
+ "updated_at": "2026-10-17T11:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2111415677080764775",
+   "text": "S1 E4 'Meadowlands' | 90 of 745",
+   "url": "https://x.com/SopranosOrder/status/2111415677080764775",
+   "created_at": "2026-10-17T11:15:00+00:00",
+   "sent_at": "2026-10-17T11:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUu-kcmWUAEWtii.jpg"
+  },
+  {
    "id": "2111411913720553859",
    "text": "S1 E4 'Meadowlands' | 89 of 745",
    "url": "https://x.com/SopranosOrder/status/2111411913720553859",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HUu-hbvXcAEjWoI.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": ""
   },
   {
-   "id": "2111408126981210158",
-   "text": "S1 E4 'Meadowlands' | 88 of 745",
-   "url": "https://x.com/SopranosOrder/status/2111408126981210158",
-   "created_at": "2026-10-17T10:45:00+00:00",
-   "sent_at": "2026-10-17T10:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HUu-dHmXcAAFprk.jpg"
-  },
-  {
    "id": "2111401020416762138",
    "text": "I\u2019m a hardcore Friday the 13th fan and loved it.\n\nI have other friends the same who did too.\n\nJust because it didn\u2019t work for you doesn\u2019t mean it\u2019s for fair weather fans only",
    "url": "https://x.com/StebobM/status/2111401020416762138",
@@ -64,8 +64,8 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
+   "repost_count": 2,
+   "like_count": 15,
    "image": ""
   },
   {
@@ -77,7 +77,7 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 1,
    "like_count": 4,
    "image": ""
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
    "repost_count": 43,
-   "like_count": 850,
+   "like_count": 852,
    "image": ""
   },
   {
