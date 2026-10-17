@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T08:51:38+00:00",
+ "updated_at": "2026-10-17T09:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2111381703231259055",
+   "text": "S1 E4 'Meadowlands' | 81 of 745",
+   "url": "https://x.com/SopranosOrder/status/2111381703231259055",
+   "created_at": "2026-10-17T09:00:00+00:00",
+   "sent_at": "2026-10-17T09:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HUu-DVmWkAANI5o.jpg"
+  },
+  {
    "id": "2111377928017605100",
    "text": "S1 E4 'Meadowlands' | 80 of 745",
    "url": "https://x.com/SopranosOrder/status/2111377928017605100",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HUu93o7XIAAYwyx.jpg"
-  },
-  {
-   "id": "2111373901473423839",
-   "text": "S1 E4 'Meadowlands' | 79 of 745",
-   "url": "https://x.com/SopranosOrder/status/2111373901473423839",
-   "created_at": "2026-10-17T08:29:00+00:00",
-   "sent_at": "2026-10-17T08:29:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HUu-A6SXkAERWgO.jpg"
   },
   {
    "id": "2111350961201418593",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
    "repost_count": 42,
-   "like_count": 807,
+   "like_count": 811,
    "image": ""
   },
   {
