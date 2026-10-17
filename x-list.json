@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T21:36:41+00:00",
+ "updated_at": "2026-10-17T21:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2111574221415649671",
+   "text": "S1 E4 'Meadowlands' | 132 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111574221415649671",
+   "created_at": "2026-10-17T21:45:00+00:00",
+   "sent_at": "2026-10-17T21:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 6,
+   "image": "https://pbs.twimg.com/media/HUvBEOrWoAAklM1.jpg"
+  },
+  {
+   "id": "2111573243312087187",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Phantasm 1 & 2 - Extended Cuts.\n\nhttps://www.reddit.com/r/fanedits/comments/1x7pzr7/phantasm_1_2_extended_cuts/",
+   "url": "https://x.com/FanEditFanClub/status/2111573243312087187",
+   "created_at": "2026-10-17T21:41:06+00:00",
+   "sent_at": "2026-10-17T21:41:06+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2111570448576032810",
    "text": "S1 E4 'Meadowlands' | 131 of 744",
    "url": "https://x.com/SopranosOrder/status/2111570448576032810",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HUvBAqOWMAA93So.jpg"
-  },
-  {
-   "id": "2111566671949222012",
-   "text": "S1 E4 'Meadowlands' | 130 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111566671949222012",
-   "created_at": "2026-10-17T21:15:00+00:00",
-   "sent_at": "2026-10-17T21:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HUvA9wiXwAASGBn.jpg"
   },
   {
    "id": "2111563401570763207",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
    "repost_count": 0,
-   "like_count": 47,
+   "like_count": 57,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HU3HtRZWoAA3_cM.jpg"
   },
   {
@@ -80,20 +94,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2111505990789017957",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Chronological Project Hail Mary IMAX.\n\nhttps://www.reddit.com/r/fanedits/comments/1x7k3jw/chronological_project_hail_mary_imax/",
-   "url": "https://x.com/FanEditFanClub/status/2111505990789017957",
-   "created_at": "2026-10-17T17:13:52+00:00",
-   "sent_at": "2026-10-17T17:13:52+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
    "image": ""
   },
   {
