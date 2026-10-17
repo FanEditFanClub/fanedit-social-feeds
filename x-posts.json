@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T23:21:41+00:00",
+ "updated_at": "2026-10-17T23:37:02+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -7,6 +7,21 @@
   "picture": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2111600388755296383",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - The Place Beyond the Pines: Birthright (2026).\n\nhttps://www.reddit.com/r/fanedits/comments/1x7twgf/the_place_beyond_the_pines_birthright_2026/",
+   "url": "https://x.com/FanEditFanClub/status/2111600388755296383",
+   "sent_at": "2026-10-17T23:28:58+00:00",
+   "created_at": "2026-10-17T23:28:58+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "syndication"
+  },
   {
    "id": "2111573243312087187",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Phantasm 1 & 2 - Extended Cuts.\n\nhttps://www.reddit.com/r/fanedits/comments/1x7pzr7/phantasm_1_2_extended_cuts/",
@@ -133,21 +148,6 @@
    "url": "https://x.com/2072539271450312704/status/2111337773416218636",
    "sent_at": "2026-10-17T06:05:26+00:00",
    "created_at": "2026-10-17T06:05:26+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2111337749231890895",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Dragon Ball Recut German dub.\n\nhttps://www.reddit.com/r/fanedits/comments/1x787wl/dragon_ball_recut_german_dub/",
-   "url": "https://x.com/2072539271450312704/status/2111337749231890895",
-   "sent_at": "2026-10-17T06:05:20+00:00",
-   "created_at": "2026-10-17T06:05:20+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "",
