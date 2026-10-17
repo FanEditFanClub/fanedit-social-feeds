@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T15:06:40+00:00",
+ "updated_at": "2026-10-17T15:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2111476075004141597",
+   "text": "S1 E4 'Meadowlands' | 106 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111476075004141597",
+   "created_at": "2026-10-17T15:15:00+00:00",
+   "sent_at": "2026-10-17T15:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HUu_oHlWYAAkwiE.jpg"
+  },
+  {
    "id": "2111472305113268720",
    "text": "S1 E4 'Meadowlands' | 105 of 744",
    "url": "https://x.com/SopranosOrder/status/2111472305113268720",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HUu_lCjXsAAXqwB.jpg"
-  },
-  {
-   "id": "2111468526011625795",
-   "text": "S1 E4 'Meadowlands' | 104 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111468526011625795",
-   "created_at": "2026-10-17T14:45:00+00:00",
-   "sent_at": "2026-10-17T14:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HUu_hGIXcAApRxE.jpg"
   },
   {
    "id": "2111459081340784841",
@@ -83,20 +83,6 @@
    "image": "https://pbs.twimg.com/media/HU1kWVlWQAEQgzq.jpg"
   },
   {
-   "id": "2111401020416762138",
-   "text": "I\u2019m a hardcore Friday the 13th fan and loved it.\n\nI have other friends the same who did too.\n\nJust because it didn\u2019t work for you doesn\u2019t mean it\u2019s for fair weather fans only",
-   "url": "https://x.com/StebobM/status/2111401020416762138",
-   "created_at": "2026-10-17T10:16:45+00:00",
-   "sent_at": "2026-10-17T10:16:45+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 8,
-   "repost_count": 12,
-   "like_count": 134,
-   "image": ""
-  },
-  {
    "id": "2111350961201418593",
    "text": "A season finale can make or break any TV show. Many of us were disappointed with Lanterns it\u2019s not always review bombing just you liked it",
    "url": "https://x.com/StebobM/status/2111350961201418593",
@@ -111,17 +97,17 @@
    "image": ""
   },
   {
-   "id": "2111265326138552804",
-   "text": "released in 1900 god heated rivalry really was ahead of its time",
-   "url": "https://x.com/uhbucky/status/2111265326138552804",
-   "created_at": "2026-10-17T01:17:33+00:00",
-   "sent_at": "2026-10-17T01:17:33+00:00",
-   "author_name": "spooky mellie \ud83c\udf83",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 46,
-   "like_count": 938,
+   "id": "2111342967286096073",
+   "text": "How many times are you gonna moan about it?",
+   "url": "https://x.com/StebobM/status/2111342967286096073",
+   "created_at": "2026-10-17T06:26:04+00:00",
+   "sent_at": "2026-10-17T06:26:04+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 7,
    "image": ""
   }
  ]
