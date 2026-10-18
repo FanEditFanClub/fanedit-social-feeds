@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T01:22:00+00:00",
+ "updated_at": "2026-10-18T01:37:00+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -7,6 +7,36 @@
   "picture": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2111630549706043651",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - I have The Batman: Crimson Cut in 4K.\n\nhttps://www.reddit.com/r/fanedits/comments/1x7wkih/i_have_the_batman_crimson_cut_in_4k/",
+   "url": "https://x.com/FanEditFanClub/status/2111630549706043651",
+   "sent_at": "2026-10-18T01:28:49+00:00",
+   "created_at": "2026-10-18T01:28:49+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "syndication"
+  },
+  {
+   "id": "2111630519205016005",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Looking for L8wrtr's PT edits.\n\nhttps://www.reddit.com/r/fanedits/comments/1x7xd4q/looking_for_l8wrtrs_pt_edits/",
+   "url": "https://x.com/FanEditFanClub/status/2111630519205016005",
+   "sent_at": "2026-10-18T01:28:42+00:00",
+   "created_at": "2026-10-18T01:28:42+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "syndication"
+  },
   {
    "id": "2111600388755296383",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - The Place Beyond the Pines: Birthright (2026).\n\nhttps://www.reddit.com/r/fanedits/comments/1x7twgf/the_place_beyond_the_pines_birthright_2026/",
@@ -126,36 +156,6 @@
    "like_count": 0,
    "image": "",
    "source": "syndication"
-  },
-  {
-   "id": "2111409042081882417",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - FRISKY DINGO: THE MOVIE (Season One).\n\nhttps://www.reddit.com/r/fanedits/comments/1x79yin/frisky_dingo_the_movie_season_one/",
-   "url": "https://x.com/2072539271450312704/status/2111409042081882417",
-   "sent_at": "2026-10-17T10:48:38+00:00",
-   "created_at": "2026-10-17T10:48:38+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2111337773416218636",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Xmen Apocalypse Extended Cut.\n\nhttps://www.reddit.com/r/fanedits/comments/1x76x18/xmen_apocalypse_extended_cut/",
-   "url": "https://x.com/2072539271450312704/status/2111337773416218636",
-   "sent_at": "2026-10-17T06:05:26+00:00",
-   "created_at": "2026-10-17T06:05:26+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
   }
  ]
 }
