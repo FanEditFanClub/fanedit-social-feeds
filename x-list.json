@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T02:06:40+00:00",
+ "updated_at": "2026-10-18T02:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2111643640963436706",
+   "text": "Barry Lyndon - Shining - Clockwork - Eyes Wide Shut",
+   "url": "https://x.com/NCseventeen/status/2111643640963436706",
+   "created_at": "2026-10-18T02:20:51+00:00",
+   "sent_at": "2026-10-18T02:20:51+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HU4QaiyWYAANrim.jpg"
+  },
+  {
+   "id": "2111642478160003270",
+   "text": "Exorcist II : Heretic (35mm 6K Scan) Flat - Mono - Theatrical Cut",
+   "url": "https://x.com/NCseventeen/status/2111642478160003270",
+   "created_at": "2026-10-18T02:16:13+00:00",
+   "sent_at": "2026-10-18T02:16:13+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HU4PjIhXcAEfWEq.jpg"
+  },
+  {
+   "id": "2111642169152872836",
+   "text": "S1 E4 'Meadowlands' | 150 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111642169152872836",
+   "created_at": "2026-10-18T02:15:00+00:00",
+   "sent_at": "2026-10-18T02:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HU1V4ByWYAEP5Zu.jpg"
+  },
+  {
    "id": "2111638394920947924",
    "text": "S1 E4 'Meadowlands' | 149 of 744",
    "url": "https://x.com/SopranosOrder/status/2111638394920947924",
@@ -22,23 +64,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HU1V1EbXYAABb1b.jpg"
-  },
-  {
-   "id": "2111634367906779500",
-   "text": "S1 E4 'Meadowlands' | 148 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111634367906779500",
-   "created_at": "2026-10-18T01:44:00+00:00",
-   "sent_at": "2026-10-18T01:44:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HU1VxsuWUAArtUL.jpg"
   },
   {
    "id": "2111630549706043651",
@@ -69,34 +97,6 @@
    "image": ""
   },
   {
-   "id": "2111579246816526637",
-   "text": "\ud83d\ude4f",
-   "url": "https://x.com/NCseventeen/status/2111579246816526637",
-   "created_at": "2026-10-17T22:04:58+00:00",
-   "sent_at": "2026-10-17T22:04:58+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": ""
-  },
-  {
-   "id": "2111579145050419316",
-   "text": ":)",
-   "url": "https://x.com/NCseventeen/status/2111579145050419316",
-   "created_at": "2026-10-17T22:04:34+00:00",
-   "sent_at": "2026-10-17T22:04:34+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
    "id": "2111563401570763207",
    "text": "eddie finding out that buck hooked up with tommy in his house while he was in texas",
    "url": "https://x.com/uhbucky/status/2111563401570763207",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 7,
    "repost_count": 0,
-   "like_count": 135,
+   "like_count": 143,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HU3HtRZWoAA3_cM.jpg"
   },
   {
