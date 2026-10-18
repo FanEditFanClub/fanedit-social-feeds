@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T15:51:40+00:00",
+ "updated_at": "2026-10-18T16:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2111849787150791087",
+   "text": "S1 E4 'Meadowlands' | 205 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111849787150791087",
+   "created_at": "2026-10-18T16:00:00+00:00",
+   "sent_at": "2026-10-18T16:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HU1Y_LkXkAAQT6h.jpg"
+  },
+  {
    "id": "2111846012796940395",
    "text": "S1 E4 'Meadowlands' | 204 of 744",
    "url": "https://x.com/SopranosOrder/status/2111846012796940395",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HU1Y7BJXAAAosc8.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": ""
   },
   {
-   "id": "2111842238212739323",
-   "text": "S1 E4 'Meadowlands' | 203 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111842238212739323",
-   "created_at": "2026-10-18T15:30:00+00:00",
-   "sent_at": "2026-10-18T15:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HU1Y3zxXAAABnl3.jpg"
-  },
-  {
    "id": "2111837655470424078",
    "text": "it truly pains me that ilya had nobody to ask these questions to so he asked the one person who showed him kindness so far even though that was meant to be his rival bc he was just a kid who was gonna be all by himself and he wanted to be reassured that he\u2019d be okay \ud83d\ude2d",
    "url": "https://x.com/uhbucky/status/2111837655470424078",
@@ -63,9 +63,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 6,
-   "repost_count": 61,
-   "like_count": 876,
+   "reply_count": 8,
+   "repost_count": 92,
+   "like_count": 1484,
    "image": ""
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 20,
-   "like_count": 550,
+   "repost_count": 27,
+   "like_count": 663,
    "image": ""
   },
   {
@@ -91,9 +91,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 37,
-   "repost_count": 64,
-   "like_count": 1167,
+   "reply_count": 43,
+   "repost_count": 78,
+   "like_count": 1456,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111805823454228481/img/doAwx5AIvO7vBKZM.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 3,
    "repost_count": 9,
-   "like_count": 51,
+   "like_count": 53,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111797100094586880/img/qrW00148kSEUUlIK.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
    "repost_count": 10,
-   "like_count": 213,
+   "like_count": 215,
    "image": "https://pbs.twimg.com/media/HU4VW5aXsAANMgL.jpg"
   }
  ]
