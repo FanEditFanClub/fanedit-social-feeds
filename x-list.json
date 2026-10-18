@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T07:36:38+00:00",
+ "updated_at": "2026-10-18T07:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2111725216426504280",
+   "text": "S1 E4 'Meadowlands' | 172 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111725216426504280",
+   "created_at": "2026-10-18T07:45:00+00:00",
+   "sent_at": "2026-10-18T07:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HU1XD-IW4AEnZSW.jpg"
+  },
+  {
+   "id": "2111724103077929443",
+   "text": "I would have much preferred this over the Batman film we got. I feel so sad that we will never see this \ud83d\ude14",
+   "url": "https://x.com/StebobM/status/2111724103077929443",
+   "created_at": "2026-10-18T07:40:34+00:00",
+   "sent_at": "2026-10-18T07:40:34+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
   {
    "id": "2111721443230990824",
    "text": "S1 E4 'Meadowlands' | 171 of 744",
@@ -27,39 +55,11 @@
    "image": "https://pbs.twimg.com/media/HU1XA4RXQAEK_lW.jpg"
   },
   {
-   "id": "2111717666729992289",
-   "text": "S1 E4 'Meadowlands' | 170 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111717666729992289",
-   "created_at": "2026-10-18T07:15:00+00:00",
-   "sent_at": "2026-10-18T07:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HU1W-AqWUAEKSA5.jpg"
-  },
-  {
    "id": "2111712391436333249",
    "text": "And she\u2019s a man hater explains it all \ud83d\ude44\ud83d\ude02",
    "url": "https://x.com/StebobM/status/2111712391436333249",
    "created_at": "2026-10-18T06:54:02+00:00",
    "sent_at": "2026-10-18T06:54:02+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": ""
-  },
-  {
-   "id": "2111710869185028241",
-   "text": "Don\u2019t bother to quote him though I see?\n\nAnd no you don\u2019t gatekeep anything cause it\u2019s all subjective entertainment. Nobody is saying you have to like it but calling people fake fans or saying they\u2019re wrong for liking something is just complete BS. But you know that.",
-   "url": "https://x.com/StebobM/status/2111710869185028241",
-   "created_at": "2026-10-18T06:47:59+00:00",
-   "sent_at": "2026-10-18T06:47:59+00:00",
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 139,
+   "like_count": 141,
    "image": "https://pbs.twimg.com/media/HU4VW5aXsAANMgL.jpg"
   },
   {
