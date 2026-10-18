@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T16:36:39+00:00",
+ "updated_at": "2026-10-18T16:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2111861111968399505",
+   "text": "S1 E4 'Meadowlands' | 208 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111861111968399505",
+   "created_at": "2026-10-18T16:45:00+00:00",
+   "sent_at": "2026-10-18T16:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HU1ZJJnXwAAM3f0.jpg"
+  },
+  {
    "id": "2111857337644597321",
    "text": "S1 E4 'Meadowlands' | 207 of 744",
    "url": "https://x.com/SopranosOrder/status/2111857337644597321",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HU1ZFpzXYAAZQ_o.jpg"
-  },
-  {
-   "id": "2111853563005513919",
-   "text": "S1 E4 'Meadowlands' | 206 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111853563005513919",
-   "created_at": "2026-10-18T16:15:00+00:00",
-   "sent_at": "2026-10-18T16:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HU1ZCNaXUAEdb0S.jpg"
   },
   {
    "id": "2111844927860515233",
@@ -63,9 +63,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 8,
-   "repost_count": 159,
-   "like_count": 2602,
+   "reply_count": 9,
+   "repost_count": 189,
+   "like_count": 3055,
    "image": ""
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 35,
-   "like_count": 922,
+   "repost_count": 39,
+   "like_count": 1013,
    "image": ""
   },
   {
@@ -91,9 +91,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 55,
-   "repost_count": 103,
-   "like_count": 1938,
+   "reply_count": 60,
+   "repost_count": 107,
+   "like_count": 2120,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111805823454228481/img/doAwx5AIvO7vBKZM.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 3,
    "repost_count": 9,
-   "like_count": 55,
+   "like_count": 56,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111797100094586880/img/qrW00148kSEUUlIK.jpg"
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 4,
    "repost_count": 1,
-   "like_count": 30,
+   "like_count": 32,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 19,
+   "like_count": 20,
    "image": ""
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
    "repost_count": 10,
-   "like_count": 219,
+   "like_count": 221,
    "image": "https://pbs.twimg.com/media/HU4VW5aXsAANMgL.jpg"
   }
  ]
