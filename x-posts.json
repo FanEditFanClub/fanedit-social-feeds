@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T01:37:00+00:00",
+ "updated_at": "2026-10-18T01:51:59+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -145,17 +145,17 @@
   {
    "id": "2111459058297315489",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Ghost of Mars Chronological by Shion.\n\nhttps://www.reddit.com/r/fanedits/comments/1x7fpy6/ghost_of_mars_chronological_by_shion/",
-   "url": "https://x.com/FanEditFanClub/status/2111459058297315489",
+   "url": "https://x.com/2072539271450312704/status/2111459058297315489",
    "sent_at": "2026-10-17T14:07:23+00:00",
    "created_at": "2026-10-17T14:07:23+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "author_avatar": "",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
    "image": "",
-   "source": "syndication"
+   "source": "buffer"
   }
  ]
 }
