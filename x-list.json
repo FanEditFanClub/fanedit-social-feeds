@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T15:36:43+00:00",
+ "updated_at": "2026-10-18T15:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2111846012796940395",
+   "text": "S1 E4 'Meadowlands' | 204 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111846012796940395",
+   "created_at": "2026-10-18T15:45:00+00:00",
+   "sent_at": "2026-10-18T15:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HU1Y7BJXAAAosc8.jpg"
+  },
+  {
+   "id": "2111844927860515233",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Baby\u2019s Revenge: a DBGT Movie.\n\nhttps://www.reddit.com/r/fanedits/comments/1x89f0g/babys_revenge_a_dbgt_movie/",
+   "url": "https://x.com/FanEditFanClub/status/2111844927860515233",
+   "created_at": "2026-10-18T15:40:41+00:00",
+   "sent_at": "2026-10-18T15:40:41+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2111842238212739323",
    "text": "S1 E4 'Meadowlands' | 203 of 744",
    "url": "https://x.com/SopranosOrder/status/2111842238212739323",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HU1Y3zxXAAABnl3.jpg"
-  },
-  {
-   "id": "2111838462840279173",
-   "text": "S1 E4 'Meadowlands' | 202 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111838462840279173",
-   "created_at": "2026-10-18T15:15:00+00:00",
-   "sent_at": "2026-10-18T15:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HU1Y0mfXIAAgmeF.jpg"
   },
   {
    "id": "2111837655470424078",
@@ -49,9 +63,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 25,
-   "like_count": 355,
+   "reply_count": 6,
+   "repost_count": 61,
+   "like_count": 876,
    "image": ""
   },
   {
@@ -63,9 +77,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 19,
-   "like_count": 439,
+   "reply_count": 1,
+   "repost_count": 20,
+   "like_count": 550,
    "image": ""
   },
   {
@@ -77,9 +91,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 32,
-   "repost_count": 51,
-   "like_count": 844,
+   "reply_count": 37,
+   "repost_count": 64,
+   "like_count": 1167,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111805823454228481/img/doAwx5AIvO7vBKZM.jpg"
   },
   {
@@ -92,8 +106,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 3,
-   "repost_count": 8,
-   "like_count": 50,
+   "repost_count": 9,
+   "like_count": 51,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111797100094586880/img/qrW00148kSEUUlIK.jpg"
   },
   {
@@ -139,20 +153,6 @@
    "image": ""
   },
   {
-   "id": "2111706837091311773",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Blade Runner 2049: EYE-MAX Edition link.\n\nhttps://www.reddit.com/r/fanedits/comments/1x82qqn/blade_runner_2049_eyemax_edition_link/",
-   "url": "https://x.com/FanEditFanClub/status/2111706837091311773",
-   "created_at": "2026-10-18T06:31:58+00:00",
-   "sent_at": "2026-10-18T06:31:58+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
    "id": "2111661613337964574",
    "text": "I remember when people complained that DC had no color yet at the same time all their movies looked like log",
    "url": "https://x.com/Onyx_Tw/status/2111661613337964574",
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
    "repost_count": 10,
-   "like_count": 212,
+   "like_count": 213,
    "image": "https://pbs.twimg.com/media/HU4VW5aXsAANMgL.jpg"
   }
  ]
