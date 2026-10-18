@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T02:21:40+00:00",
+ "updated_at": "2026-10-18T02:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,32 +13,46 @@
  },
  "posts": [
   {
-   "id": "2111643640963436706",
-   "text": "Barry Lyndon - Shining - Clockwork - Eyes Wide Shut",
-   "url": "https://x.com/NCseventeen/status/2111643640963436706",
-   "created_at": "2026-10-18T02:20:51+00:00",
-   "sent_at": "2026-10-18T02:20:51+00:00",
+   "id": "2111647190812938321",
+   "text": "<3",
+   "url": "https://x.com/NCseventeen/status/2111647190812938321",
+   "created_at": "2026-10-18T02:34:57+00:00",
+   "sent_at": "2026-10-18T02:34:57+00:00",
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HU4QaiyWYAANrim.jpg"
+   "like_count": 0,
+   "image": ""
   },
   {
-   "id": "2111642478160003270",
-   "text": "Exorcist II : Heretic (35mm 6K Scan) Flat - Mono - Theatrical Cut",
-   "url": "https://x.com/NCseventeen/status/2111642478160003270",
-   "created_at": "2026-10-18T02:16:13+00:00",
-   "sent_at": "2026-10-18T02:16:13+00:00",
+   "id": "2111645946073186557",
+   "text": "S1 E4 'Meadowlands' | 151 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111645946073186557",
+   "created_at": "2026-10-18T02:30:00+00:00",
+   "sent_at": "2026-10-18T02:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HU1V7F0W4AA-s2n.jpg"
+  },
+  {
+   "id": "2111644960134980063",
+   "text": "Some of 16mm goodies - Buckaroo Banzai - Cannibal Ferox - Friday the 13th Part 2 & 3",
+   "url": "https://x.com/NCseventeen/status/2111644960134980063",
+   "created_at": "2026-10-18T02:26:05+00:00",
+   "sent_at": "2026-10-18T02:26:05+00:00",
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HU4PjIhXcAEfWEq.jpg"
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HU4Q6ubXoAEpZv_.jpg"
   },
   {
    "id": "2111642169152872836",
@@ -53,20 +67,6 @@
    "repost_count": 1,
    "like_count": 5,
    "image": "https://pbs.twimg.com/media/HU1V4ByWYAEP5Zu.jpg"
-  },
-  {
-   "id": "2111638394920947924",
-   "text": "S1 E4 'Meadowlands' | 149 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111638394920947924",
-   "created_at": "2026-10-18T02:00:00+00:00",
-   "sent_at": "2026-10-18T02:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HU1V1EbXYAABb1b.jpg"
   },
   {
    "id": "2111630549706043651",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 7,
    "repost_count": 0,
-   "like_count": 143,
+   "like_count": 148,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HU3HtRZWoAA3_cM.jpg"
   },
   {
