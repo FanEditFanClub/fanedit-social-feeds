@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T00:06:40+00:00",
+ "updated_at": "2026-10-19T00:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2111974358100877640",
+   "text": "S1 E4 'Meadowlands' | 238 of 744",
+   "url": "https://x.com/SopranosOrder/status/2111974358100877640",
+   "created_at": "2026-10-19T00:15:00+00:00",
+   "sent_at": "2026-10-19T00:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HU7LDFiWcAA2dNs.jpg"
+  },
+  {
+   "id": "2111972707776479291",
+   "text": "what\u2019s everyone being for halloween? I\u2019m feeling slightly uninspired and could use some ideas I\u2019m considering maybe being a deer but I\u2019m not sure",
+   "url": "https://x.com/uhbucky/status/2111972707776479291",
+   "created_at": "2026-10-19T00:08:26+00:00",
+   "sent_at": "2026-10-19T00:08:26+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 2,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": ""
+  },
+  {
    "id": "2111970583508557927",
    "text": "S1 E4 'Meadowlands' | 237 of 744",
    "url": "https://x.com/SopranosOrder/status/2111970583508557927",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HU7LAJnW4AAIJy0.jpg"
-  },
-  {
-   "id": "2111966808332996898",
-   "text": "S1 E4 'Meadowlands' | 236 of 744",
-   "url": "https://x.com/SopranosOrder/status/2111966808332996898",
-   "created_at": "2026-10-18T23:45:00+00:00",
-   "sent_at": "2026-10-18T23:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HU7K8YYWgAAN5HN.jpg"
+   "image": "https://pbs.twimg.com/media/HU7LAJnW4AAIJy0.jpg"
   },
   {
    "id": "2111955472261476845",
@@ -106,22 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 24,
-   "repost_count": 652,
-   "like_count": 9018,
-   "image": ""
-  },
-  {
-   "id": "2111819615047229946",
-   "text": "whole house is just \ud83d\ude27",
-   "url": "https://x.com/uhbucky/status/2111819615047229946",
-   "created_at": "2026-10-18T14:00:06+00:00",
-   "sent_at": "2026-10-18T14:00:06+00:00",
-   "author_name": "spooky mellie \ud83c\udf83",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 97,
-   "like_count": 3276,
+   "repost_count": 661,
+   "like_count": 9152,
    "image": ""
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 95,
-   "repost_count": 206,
-   "like_count": 3936,
+   "repost_count": 209,
+   "like_count": 3950,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111805823454228481/img/doAwx5AIvO7vBKZM.jpg"
   },
   {
