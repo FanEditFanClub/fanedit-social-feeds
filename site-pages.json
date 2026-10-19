@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T15:07:41+00:00",
+ "updated_at": "2026-10-19T15:22:41+00:00",
  "source": "https://www.faneditfanclub.com",
  "nav": [
   {
@@ -896,6 +896,13 @@
      "type": "text",
      "tag": "li",
      "html": "<a href=\"https://drive.google.com/drive/folders/1BX7whTXroHCru4J8y7tjUGN6LOC-ePHT?usp=drive_link\" target=\"_blank\" rel=\"noopener noreferrer\">chasedixon22&#x27;s Fan Edits</a>",
+     "align": "left",
+     "font": "body"
+    },
+    {
+     "type": "text",
+     "tag": "li",
+     "html": "<a href=\"https://drive.google.com/drive/folders/16mKHHSTQTuU2NE4aCtRT8PA1I-MsXtsG\" target=\"_blank\" rel=\"noopener noreferrer\">Chris King&#x27;s Fan Edits</a>",
      "align": "left",
      "font": "body"
     },
