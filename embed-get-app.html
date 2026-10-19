@@ -14,9 +14,11 @@
 <style>
   * { box-sizing: border-box; }
 
+  /* Sites gives this embed about 361×56–60. 100% height plus the default
+     body margin made the frame scroll and clipped the pill. */
   html, body {
     margin: 0;
-    width: 100%;
+    padding: 0;
     height: 100%;
     overflow: hidden;
     overscroll-behavior: none;
@@ -29,20 +31,24 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 100%;
     touch-action: pan-y;
   }
 
   /* Hidden until the device check adds .is-visible. */
   .get-app {
     display: none;
-    height: 46px;
-    padding: 0 22px;
+    box-sizing: border-box;
+    height: min(44px, calc(100vh - 8px));
+    max-width: 100%;
+    margin: 0;
+    padding: 0 0.9em;
     background: #ffffff;
     color: #000000;
     border: 0;
     border-radius: 999px;
     font-weight: 800;
-    font-size: 15px;
+    font-size: min(15px, 4.5vw, calc(min(44px, 100vh - 8px) * 0.34));
     line-height: 1;
     letter-spacing: -0.01em;
     text-decoration: none;
@@ -50,6 +56,7 @@
     white-space: nowrap;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
   }
 
   .get-app.is-visible { display: inline-flex; }
@@ -58,7 +65,7 @@
 
   .get-app:focus-visible {
     outline: 2px solid #1d9bf0;
-    outline-offset: 2px;
+    outline-offset: -2px;
   }
 </style>
 </head>
