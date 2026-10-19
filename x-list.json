@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T16:21:41+00:00",
+ "updated_at": "2026-10-19T16:36:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2112220280248484092",
+   "text": "not only do they have one, it\u2019s the scene of all time",
+   "url": "https://x.com/uhbucky/status/2112220280248484092",
+   "created_at": "2026-10-19T16:32:12+00:00",
+   "sent_at": "2026-10-19T16:32:12+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 19,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2107635145024974848/img/AlGStW_ieJLiuwFB.jpg"
+  },
+  {
+   "id": "2112219727338901532",
+   "text": "S1 E4 'Meadowlands' | 303 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112219727338901532",
+   "created_at": "2026-10-19T16:30:00+00:00",
+   "sent_at": "2026-10-19T16:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HU7OhWXXAAAZ7Oz.jpg"
+  },
+  {
    "id": "2112215950028386642",
    "text": "S1 E4 'Meadowlands' | 302 of 744",
    "url": "https://x.com/SopranosOrder/status/2112215950028386642",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HU7OeEBXQAAH9Mv.jpg"
-  },
-  {
-   "id": "2112212186571461013",
-   "text": "S1 E4 'Meadowlands' | 301 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112212186571461013",
-   "created_at": "2026-10-19T16:00:02+00:00",
-   "sent_at": "2026-10-19T16:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HU7ObJIWYAAFdKY.jpg"
   },
   {
    "id": "2112208180872679649",
