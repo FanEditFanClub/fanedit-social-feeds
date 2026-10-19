@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T12:06:40+00:00",
+ "updated_at": "2026-10-19T12:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112155552218505646",
+   "text": "S1 E4 'Meadowlands' | 286 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112155552218505646",
+   "created_at": "2026-10-19T12:15:00+00:00",
+   "sent_at": "2026-10-19T12:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HU7NnXaW0AE7qk_.jpg"
+  },
+  {
    "id": "2112151789701353707",
    "text": "S1 E4 'Meadowlands' | 285 of 744",
    "url": "https://x.com/SopranosOrder/status/2112151789701353707",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HU7NkerXYAIiCM6.jpg"
-  },
-  {
-   "id": "2112148002865353055",
-   "text": "S1 E4 'Meadowlands' | 284 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112148002865353055",
-   "created_at": "2026-10-19T11:45:00+00:00",
-   "sent_at": "2026-10-19T11:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HU7Nf21WIAEmpqh.jpg"
   },
   {
    "id": "2112136371192131617",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HU_Q1DAXQAADQUo.jpg"
   },
   {
