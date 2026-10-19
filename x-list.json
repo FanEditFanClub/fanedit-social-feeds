@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T18:51:40+00:00",
+ "updated_at": "2026-10-19T19:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2112257474497810737",
+   "text": "S1 E4 'Meadowlands' | 313 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112257474497810737",
+   "created_at": "2026-10-19T19:00:00+00:00",
+   "sent_at": "2026-10-19T19:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HU7PE-EWAAAYzrw.jpg"
+  },
   {
    "id": "2112255334710468933",
    "text": "New File has been added to The Fan Edit Fan Club Collection - Lanterns - Season 1 - The Z-Movie Cut - Movie Fan Edit.mp4\n\nSee Folder in Fan Edit Fan Club Master Links or request by DM.",
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HU7PBLqXAAEt3TZ.jpg"
-  },
-  {
-   "id": "2112249925446906181",
-   "text": "S1 E4 'Meadowlands' | 311 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112249925446906181",
-   "created_at": "2026-10-19T18:30:00+00:00",
-   "sent_at": "2026-10-19T18:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HU7O9FnXYAEXxzX.jpg"
+   "image": "https://pbs.twimg.com/media/HU7PBLqXAAEt3TZ.jpg"
   },
   {
    "id": "2112238491778363414",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 5,
    "repost_count": 6,
-   "like_count": 75,
+   "like_count": 84,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112230245193392128/img/65266LIYKClnQfxi.jpg"
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 98,
-   "like_count": 1279,
+   "repost_count": 113,
+   "like_count": 1460,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2107635145024974848/img/AlGStW_ieJLiuwFB.jpg"
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": ""
   },
   {
