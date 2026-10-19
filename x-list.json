@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T16:36:43+00:00",
+ "updated_at": "2026-10-19T16:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112223499645604136",
+   "text": "S1 E4 'Meadowlands' | 304 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112223499645604136",
+   "created_at": "2026-10-19T16:45:00+00:00",
+   "sent_at": "2026-10-19T16:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HU7OlgVXYAAlBn2.jpg"
+  },
+  {
    "id": "2112220280248484092",
    "text": "not only do they have one, it\u2019s the scene of all time",
    "url": "https://x.com/uhbucky/status/2112220280248484092",
@@ -22,8 +36,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 19,
+   "repost_count": 12,
+   "like_count": 132,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2107635145024974848/img/AlGStW_ieJLiuwFB.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HU7OhWXXAAAZ7Oz.jpg"
-  },
-  {
-   "id": "2112215950028386642",
-   "text": "S1 E4 'Meadowlands' | 302 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112215950028386642",
-   "created_at": "2026-10-19T16:15:00+00:00",
-   "sent_at": "2026-10-19T16:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HU7OeEBXQAAH9Mv.jpg"
   },
   {
    "id": "2112208180872679649",
@@ -77,9 +77,9 @@
    "author_name": "Carson J Gallo",
    "author_handle": "CarsonGallo",
    "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
-   "reply_count": 5,
+   "reply_count": 6,
    "repost_count": 4,
-   "like_count": 20,
+   "like_count": 21,
    "image": "https://pbs.twimg.com/media/HU_-QkiXUAAC4Hv.jpg"
   },
   {
