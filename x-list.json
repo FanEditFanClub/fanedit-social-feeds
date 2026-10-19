@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T17:06:41+00:00",
+ "updated_at": "2026-10-19T17:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2112231049468203098",
+   "text": "S1 E4 'Meadowlands' | 306 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112231049468203098",
+   "created_at": "2026-10-19T17:15:00+00:00",
+   "sent_at": "2026-10-19T17:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HU7OtzWWQAEaA_H.jpg"
+  },
+  {
+   "id": "2112230926055092433",
+   "text": "Restoring John Barry's original score to the Moonraker finale\n\nIt changes the tone from adventurous to genuinely threatening through that Flight into Space motif, though which suits Moonraker better is probably a matter of opinion...!",
+   "url": "https://x.com/tomsmason91/status/2112230926055092433",
+   "created_at": "2026-10-19T17:14:30+00:00",
+   "sent_at": "2026-10-19T17:14:30+00:00",
+   "author_name": "Tom Mason",
+   "author_handle": "tomsmason91",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 9,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2112230245193392128/img/65266LIYKClnQfxi.jpg"
+  },
+  {
    "id": "2112227280479301657",
    "text": "S1 E4 'Meadowlands' | 305 of 744",
    "url": "https://x.com/SopranosOrder/status/2112227280479301657",
@@ -22,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
+   "repost_count": 3,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/media/HU7OrKwWkAAkrSO.jpg"
-  },
-  {
-   "id": "2112223499645604136",
-   "text": "S1 E4 'Meadowlands' | 304 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112223499645604136",
-   "created_at": "2026-10-19T16:45:00+00:00",
-   "sent_at": "2026-10-19T16:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HU7OlgVXYAAlBn2.jpg"
   },
   {
    "id": "2112220280248484092",
@@ -49,9 +63,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 27,
-   "like_count": 290,
+   "reply_count": 1,
+   "repost_count": 34,
+   "like_count": 416,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2107635145024974848/img/AlGStW_ieJLiuwFB.jpg"
   },
   {
