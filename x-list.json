@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T15:36:42+00:00",
+ "updated_at": "2026-10-19T15:51:53+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2112208400348225798",
+   "text": "S1 E4 'Meadowlands' | 300 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112208400348225798",
+   "created_at": "2026-10-19T15:45:00+00:00",
+   "sent_at": "2026-10-19T15:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HU7OXY1W4AA2MwJ.jpg"
+  },
+  {
+   "id": "2112208180872679649",
+   "text": "That was the most unbelievable thing to me, when does every woman go to pound town with a bra on \ud83d\ude02 #CrystalLake",
+   "url": "https://x.com/StebobM/status/2112208180872679649",
+   "created_at": "2026-10-19T15:44:07+00:00",
+   "sent_at": "2026-10-19T15:44:07+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2112204627458277830",
    "text": "S1 E4 'Meadowlands' | 299 of 744",
    "url": "https://x.com/SopranosOrder/status/2112204627458277830",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HU7OTvjXwAAN72O.jpg"
-  },
-  {
-   "id": "2112200850756018376",
-   "text": "S1 E4 'Meadowlands' | 298 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112200850756018376",
-   "created_at": "2026-10-19T15:15:00+00:00",
-   "sent_at": "2026-10-19T15:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HU7OQZzWYAAur3A.jpg"
   },
   {
    "id": "2112186545411068409",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
    "reply_count": 5,
    "repost_count": 4,
-   "like_count": 19,
+   "like_count": 20,
    "image": "https://pbs.twimg.com/media/HU_-QkiXUAAC4Hv.jpg"
   },
   {
