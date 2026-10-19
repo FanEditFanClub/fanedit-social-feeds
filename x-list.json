@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T11:06:40+00:00",
+ "updated_at": "2026-10-19T11:21:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112140453122584825",
+   "text": "S1 E4 'Meadowlands' | 282 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112140453122584825",
+   "created_at": "2026-10-19T11:15:00+00:00",
+   "sent_at": "2026-10-19T11:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HU7NZPwWMAE2nTB.jpg"
+  },
+  {
    "id": "2112136696783348135",
    "text": "S1 E4 'Meadowlands' | 281 of 744",
    "url": "https://x.com/SopranosOrder/status/2112136696783348135",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HU7NVmgW4AE2tdE.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HU_Q1DAXQAADQUo.jpg"
-  },
-  {
-   "id": "2112132903685537941",
-   "text": "S1 E4 'Meadowlands' | 280 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112132903685537941",
-   "created_at": "2026-10-19T10:45:00+00:00",
-   "sent_at": "2026-10-19T10:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HU7NRlbW4AIzQGi.jpg"
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HU_Q1DAXQAADQUo.jpg"
   },
   {
    "id": "2111987603641635034",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 70,
    "repost_count": 0,
-   "like_count": 135,
+   "like_count": 136,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": ""
   }
  ]
