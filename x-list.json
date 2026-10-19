@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T17:36:42+00:00",
+ "updated_at": "2026-10-19T17:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2112238599831765492",
+   "text": "S1 E4 'Meadowlands' | 308 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112238599831765492",
+   "created_at": "2026-10-19T17:45:00+00:00",
+   "sent_at": "2026-10-19T17:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HU7OzOXXUAA0RmW.jpg"
+  },
+  {
+   "id": "2112238491778363414",
+   "text": "Nooooo! Man I loved this guy in everything especially Ground3 For Life \ud83d\ude14",
+   "url": "https://x.com/StebobM/status/2112238491778363414",
+   "created_at": "2026-10-19T17:44:34+00:00",
+   "sent_at": "2026-10-19T17:44:34+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2112234824648028402",
    "text": "S1 E4 'Meadowlands' | 307 of 744",
    "url": "https://x.com/SopranosOrder/status/2112234824648028402",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HU7OwYRWkAAq1_e.jpg"
-  },
-  {
-   "id": "2112231049468203098",
-   "text": "S1 E4 'Meadowlands' | 306 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112231049468203098",
-   "created_at": "2026-10-19T17:15:00+00:00",
-   "sent_at": "2026-10-19T17:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HU7OtzWWQAEaA_H.jpg"
+   "image": "https://pbs.twimg.com/media/HU7OwYRWkAAq1_e.jpg"
   },
   {
    "id": "2112230926055092433",
@@ -50,8 +64,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 3,
-   "repost_count": 2,
-   "like_count": 23,
+   "repost_count": 5,
+   "like_count": 37,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112230245193392128/img/65266LIYKClnQfxi.jpg"
   },
   {
@@ -64,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 47,
-   "like_count": 585,
+   "repost_count": 58,
+   "like_count": 713,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2107635145024974848/img/AlGStW_ieJLiuwFB.jpg"
   },
   {
@@ -109,20 +123,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2112136371192131617",
-   "text": "The biggest problem with franchises is too many people have a definitive idea of what those things should be in their heads that any deviation from that & they lose their minds. Social Media has only exasperated it & I honestly feel entertainment would be better off without it.",
-   "url": "https://x.com/StebobM/status/2112136371192131617",
-   "created_at": "2026-10-19T10:58:47+00:00",
-   "sent_at": "2026-10-19T10:58:47+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HU_Q1DAXQAADQUo.jpg"
   }
  ]
 }
