@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T21:22:01+00:00",
+ "updated_at": "2026-10-20T21:37:01+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -7,6 +7,21 @@
   "picture": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2112656748125225170",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Was able to make Anakin stoic and silent as Padm\u00e9 declares her love..\n\nhttps://www.reddit.com/r/fanedits/comments/1xa7nd5/was_able_to_make_anakin_stoic_and_silent_as_padm\u00e9/",
+   "url": "https://x.com/FanEditFanClub/status/2112656748125225170",
+   "sent_at": "2026-10-20T21:26:34+00:00",
+   "created_at": "2026-10-20T21:26:34+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "syndication"
+  },
   {
    "id": "2112602698633683211",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Krypton7887s Superman II The Final Cut.\n\nhttps://www.reddit.com/r/fanedits/comments/1xa12nl/krypton7887s_superman_ii_the_final_cut/",
@@ -133,21 +148,6 @@
    "url": "https://x.com/2072539271450312704/status/2112361054894211207",
    "sent_at": "2026-10-20T01:51:36+00:00",
    "created_at": "2026-10-20T01:51:36+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2112361027463483812",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Link to Halloween Deluxe? By tobatto.\n\nhttps://www.reddit.com/r/fanedits/comments/1x9jxi7/link_to_halloween_deluxe_by_tobatto/",
-   "url": "https://x.com/2072539271450312704/status/2112361027463483812",
-   "sent_at": "2026-10-20T01:51:29+00:00",
-   "created_at": "2026-10-20T01:51:29+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "",
