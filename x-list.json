@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T20:06:41+00:00",
+ "updated_at": "2026-10-20T20:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2112638735854731767",
+   "text": "S1 E4 'Meadowlands' | 414 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112638735854731767",
+   "created_at": "2026-10-20T20:15:00+00:00",
+   "sent_at": "2026-10-20T20:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HU-1zS5XUAA4Qu-.jpg"
+  },
   {
    "id": "2112634964663754781",
    "text": "S1 E4 'Meadowlands' | 413 of 744",
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 30,
+   "like_count": 43,
    "image": ""
-  },
-  {
-   "id": "2112631437811986794",
-   "text": "S1 E4 'Meadowlands' | 412 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112631437811986794",
-   "created_at": "2026-10-20T19:46:00+00:00",
-   "sent_at": "2026-10-20T19:46:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HU-1rNHXMAAwS-t.jpg"
   },
   {
    "id": "2112625064042508392",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 37,
+   "like_count": 46,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVGNSlvXsAAJ7OQ.jpg"
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 4,
+   "reply_count": 5,
    "repost_count": 11,
-   "like_count": 136,
+   "like_count": 140,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112581599090884608/img/53M3Qbx-7aHh9E2L.jpg"
   },
   {
@@ -176,8 +176,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
-   "repost_count": 1,
-   "like_count": 104,
+   "repost_count": 2,
+   "like_count": 105,
    "image": "https://pbs.twimg.com/media/HVEqR7NWQAAM6fP.jpg"
   }
  ]
