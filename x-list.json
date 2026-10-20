@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T09:06:41+00:00",
+ "updated_at": "2026-10-20T09:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112472641340842031",
+   "text": "S1 E4 'Meadowlands' | 370 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112472641340842031",
+   "created_at": "2026-10-20T09:15:00+00:00",
+   "sent_at": "2026-10-20T09:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HU-zBBDXYAAL4mK.jpg"
+  },
+  {
    "id": "2112468885752398049",
    "text": "S1 E4 'Meadowlands' | 369 of 744",
    "url": "https://x.com/SopranosOrder/status/2112468885752398049",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HU-y-QgXUAAoEeh.jpg"
-  },
-  {
-   "id": "2112465091803468281",
-   "text": "S1 E4 'Meadowlands' | 368 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112465091803468281",
-   "created_at": "2026-10-20T08:45:00+00:00",
-   "sent_at": "2026-10-20T08:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
    "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HU-y6NKXEAAUexb.jpg"
+   "image": "https://pbs.twimg.com/media/HU-y-QgXUAAoEeh.jpg"
   },
   {
    "id": "2112361103007031552",
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 174,
-   "like_count": 3975,
+   "repost_count": 176,
+   "like_count": 4037,
    "image": "https://pbs.twimg.com/media/HVCGNG5XwAATNBn.jpg"
   },
   {
@@ -109,20 +109,6 @@
    "repost_count": 0,
    "like_count": 5,
    "image": ""
-  },
-  {
-   "id": "2112230926055092433",
-   "text": "Restoring John Barry's original score to the Moonraker finale\n\nIt changes the tone from adventurous to genuinely threatening through that Flight into Space motif, though which suits Moonraker better is probably a matter of opinion...!",
-   "url": "https://x.com/tomsmason91/status/2112230926055092433",
-   "created_at": "2026-10-19T17:14:30+00:00",
-   "sent_at": "2026-10-19T17:14:30+00:00",
-   "author_name": "Tom Mason",
-   "author_handle": "tomsmason91",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 10,
-   "repost_count": 24,
-   "like_count": 312,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2112230245193392128/img/65266LIYKClnQfxi.jpg"
   }
  ]
 }
