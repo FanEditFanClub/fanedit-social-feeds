@@ -407,6 +407,16 @@
     flex-direction: column;
     align-items: center;
   }
+  @media screen and (max-width: 480px) {
+    .paypal-card,
+    .paypal-card .paypal-title,
+    .paypal-card .paypal-subtitle,
+    .paypal-card #paypal-container-6N34NNU436TT4 {
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+    }
+  }
   .paypal-title { color: #ffffff; font-size: 1.1rem; font-weight: 700; line-height: 1.2; margin-bottom: 4px; width: 100%; text-align: center; }
   .paypal-subtitle { color: #c9d1d9; font-size: 0.8rem; line-height: 1.3; margin-bottom: 16px; width: 100%; text-align: center; }
   #paypal-container-6N34NNU436TT4 {
@@ -698,10 +708,15 @@
     </div>
 
     <div class="widget-container">
-      <div class="profile-pic"></div>
-      <div class="text-group">
-        <h3 class="title">Fan Edit Fan Club</h3>
-        <span class="handle">Facebook Group</span>
+      <div class="rss-header">
+        <div class="header-left">
+          <div class="profile-pic"></div>
+          <div class="text-group">
+            <h3 class="title">Fan Edit Fan Club</h3>
+            <span class="handle">Facebook Group</span>
+          </div>
+        </div>
+        <a href="https://www.facebook.com/groups/faneditfanclub" target="_blank" class="feed-btn" style="background-color:#0866ff;color:#ffffff;">Join Group</a>
       </div>
       <p class="description">We're a Community for Fans &amp; Editors Dedicated to The Art of The Fan Edit.</p>
       <div class="fb-group-scroll">
