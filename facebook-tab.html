@@ -96,6 +96,13 @@
     margin: 0;
   }
 
+  /* Threads + Instagram row: same two-card layout as fb-row */
+  .ti-row .rss-container {
+    flex: 1 1 300px;
+    max-width: none;
+    margin: 0;
+  }
+
   /* ===== X Profile card / Facebook Group card (shared styles) ===== */
   .widget-container {
     background-color: #000000;
@@ -543,10 +550,15 @@
     </div>
 
     <div class="widget-container">
-      <div class="profile-pic"></div>
-      <div class="text-group">
-        <h3 class="title">Fan Edit Fan Club</h3>
-        <span class="handle">Facebook Group</span>
+      <div class="rss-header">
+        <div class="header-left">
+          <div class="profile-pic"></div>
+          <div class="text-group">
+            <h3 class="title">Fan Edit Fan Club</h3>
+            <span class="handle">Facebook Group</span>
+          </div>
+        </div>
+        <a href="https://www.facebook.com/groups/faneditfanclub" target="_blank" class="feed-btn" style="background-color:#0866ff;color:#ffffff;">Join Group</a>
       </div>
       <p class="description">We're a Community for Fans &amp; Editors Dedicated to The Art of The Fan Edit.</p>
       <div class="fb-group-scroll">
@@ -554,6 +566,41 @@
         <script src="https://widgets.sociablekit.com/facebook-group-posts/widget.js" defer></script>
       </div>
       <a href="https://www.facebook.com/groups/faneditfanclub" target="_blank" class="action-btn">Open Facebook Group</a>
+    </div>
+  </div>
+
+  <!-- Widgets: Threads + Instagram on their own line -->
+  <div class="widget-row fb-row ti-row">
+    <div class="rss-container">
+      <div class="rss-header">
+        <div class="header-left">
+          <div class="rss-title-group">
+            <h3 class="rss-title">Fan Edit Fan Club</h3>
+            <span class="rss-sub" style="color:#71767b;">Threads &middot; @faneditfanclub</span>
+          </div>
+        </div>
+        <a href="https://www.threads.net/@faneditfanclub" target="_blank" class="feed-btn" style="background-color:#e7e9ea;color:#000000;">Follow</a>
+      </div>
+      <div class="rss-feed-list x-feed-scroll" id="threads-feed">
+        <div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">Loading posts...</div>
+      </div>
+      <a href="https://www.threads.net/@faneditfanclub" target="_blank" class="action-btn">Open Threads Profile</a>
+    </div>
+
+    <div class="rss-container">
+      <div class="rss-header">
+        <div class="header-left">
+          <div class="rss-title-group">
+            <h3 class="rss-title">Fan Edit Fan Club</h3>
+            <span class="rss-sub" style="color:#71767b;">Instagram &middot; @faneditfanclub</span>
+          </div>
+        </div>
+        <a href="https://www.instagram.com/faneditfanclub/" target="_blank" class="feed-btn" style="background-color:#e1306c;color:#ffffff;">Follow</a>
+      </div>
+      <div class="rss-feed-list x-feed-scroll" id="instagram-feed">
+        <div style="font-size: 13px; color: #71767b; text-align: center; padding: 12px 0;">Loading posts...</div>
+      </div>
+      <a href="https://www.instagram.com/faneditfanclub/" target="_blank" class="action-btn">Open Instagram Profile</a>
     </div>
   </div>
 
@@ -644,6 +691,46 @@
       } else { feedEmpty('fb-page-feed'); }
     })
     .catch(function () { feedFail('fb-page-feed'); });
+
+  /* ---- Threads feed: latest @faneditfanclub posts (via threads-cli, refreshed by local cron) ---- */
+  fetch(FEEDS_BASE + "/threads.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var posts = data && data.posts;
+      var el = document.getElementById('threads-feed');
+      if (!el) return;
+      if (posts && posts.length > 0) {
+        el.innerHTML = posts.slice(0, 6).map(function (p) {
+          return '<article class="x-post">' +
+            '<div class="x-post-header"><div class="x-post-avatar"></div>' +
+            '<div class="x-post-names"><span class="x-post-name">Fan Edit Fan Club</span>' +
+            '<a class="x-post-date" href="' + p.url + '" target="_blank">@faneditfanclub &middot; ' + fmtDate(p.published) + '</a></div></div>' +
+            '<div class="x-post-body">' + linkify(p.text) + '</div>' +
+          '</article>';
+        }).join('');
+      } else { feedEmpty('threads-feed'); }
+    })
+    .catch(function () { feedFail('threads-feed'); });
+
+  /* ---- Instagram feed: latest @faneditfanclub posts (via instagram-cli, refreshed by local cron) ---- */
+  fetch(FEEDS_BASE + "/instagram.json")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var posts = data && data.posts;
+      var el = document.getElementById('instagram-feed');
+      if (!el) return;
+      if (posts && posts.length > 0) {
+        el.innerHTML = posts.slice(0, 6).map(function (p) {
+          return '<article class="x-post">' +
+            '<div class="x-post-header"><div class="x-post-avatar"></div>' +
+            '<div class="x-post-names"><span class="x-post-name">Fan Edit Fan Club</span>' +
+            '<a class="x-post-date" href="' + p.url + '" target="_blank">@faneditfanclub &middot; ' + fmtDate(p.published) + '</a></div></div>' +
+            '<div class="x-post-body">' + linkify(p.text) + '</div>' +
+          '</article>';
+        }).join('');
+      } else { feedEmpty('instagram-feed'); }
+    })
+    .catch(function () { feedFail('instagram-feed'); });
 
   /* ---- Reddit community feed: r/FanEditFanClub (via Reddit API, refreshed every 30 min) ---- */
   fetch(FEEDS_BASE + "/reddit-community.json")
