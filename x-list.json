@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T23:51:40+00:00",
+ "updated_at": "2026-10-20T00:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112332979762512075",
+   "text": "S1 E4 'Meadowlands' | 333 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112332979762512075",
+   "created_at": "2026-10-20T00:00:02+00:00",
+   "sent_at": "2026-10-20T00:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HU-wZzZWUAANu3u.jpg"
+  },
+  {
    "id": "2112329196471292340",
    "text": "S1 E4 'Meadowlands' | 332 of 744",
    "url": "https://x.com/SopranosOrder/status/2112329196471292340",
@@ -25,20 +39,6 @@
    "repost_count": 1,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HU-wTR8WoAE5VdV.jpg"
-  },
-  {
-   "id": "2112325423363129507",
-   "text": "S1 E4 'Meadowlands' | 331 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112325423363129507",
-   "created_at": "2026-10-19T23:30:00+00:00",
-   "sent_at": "2026-10-19T23:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HU-wNrpWUAAE3LU.jpg"
   },
   {
    "id": "2112319798096924935",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 10,
    "repost_count": 15,
-   "like_count": 229,
+   "like_count": 233,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112230245193392128/img/65266LIYKClnQfxi.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 6,
-   "repost_count": 441,
-   "like_count": 5099,
+   "repost_count": 459,
+   "like_count": 5294,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2107635145024974848/img/AlGStW_ieJLiuwFB.jpg"
   },
   {
