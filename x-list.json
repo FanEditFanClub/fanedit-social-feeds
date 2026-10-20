@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T13:06:40+00:00",
+ "updated_at": "2026-10-20T13:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112533039783800916",
+   "text": "S1 E4 'Meadowlands' | 386 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112533039783800916",
+   "created_at": "2026-10-20T13:15:00+00:00",
+   "sent_at": "2026-10-20T13:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HU-0AuGWwAAhQef.jpg"
+  },
+  {
    "id": "2112529274746081697",
    "text": "S1 E4 'Meadowlands' | 385 of 744",
    "url": "https://x.com/SopranosOrder/status/2112529274746081697",
@@ -22,8 +36,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HU-z9nxXgAAAzG0.jpg"
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2112525489772634387",
-   "text": "S1 E4 'Meadowlands' | 384 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112525489772634387",
-   "created_at": "2026-10-20T12:45:00+00:00",
-   "sent_at": "2026-10-20T12:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HU-z520WAAAW4yF.jpg"
-  },
-  {
    "id": "2112525244070047905",
    "text": "12-13 years later in a small NJ town most folks wouldn\u2019t clock a mid-tier 1959 cabaret singer from one traumatic Tonight Show moment. Pre-internet fame faded fast, and the show even needs a secret file to ID her. Not every national TV blip stayed common knowledge.",
    "url": "https://x.com/StebobM/status/2112525244070047905",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 10,
+   "repost_count": 1,
+   "like_count": 15,
    "image": "https://pbs.twimg.com/media/HVEw-OdXcAAj2XX.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 1,
-   "like_count": 34,
+   "like_count": 47,
    "image": "https://pbs.twimg.com/media/HVEqR7NWQAAM6fP.jpg"
   },
   {
