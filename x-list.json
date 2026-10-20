@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T08:36:40+00:00",
+ "updated_at": "2026-10-20T08:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112465091803468281",
+   "text": "S1 E4 'Meadowlands' | 368 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112465091803468281",
+   "created_at": "2026-10-20T08:45:00+00:00",
+   "sent_at": "2026-10-20T08:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HU-y6NKXEAAUexb.jpg"
+  },
+  {
    "id": "2112461318103978406",
    "text": "S1 E4 'Meadowlands' | 367 of 744",
    "url": "https://x.com/SopranosOrder/status/2112461318103978406",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HU-y2siXcAAUgH3.jpg"
-  },
-  {
-   "id": "2112457541925949852",
-   "text": "S1 E4 'Meadowlands' | 366 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112457541925949852",
-   "created_at": "2026-10-20T08:15:00+00:00",
-   "sent_at": "2026-10-20T08:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HU-yzv_XcAAbyEm.jpg"
   },
   {
    "id": "2112361103007031552",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
    "repost_count": 173,
-   "like_count": 3868,
+   "like_count": 3927,
    "image": "https://pbs.twimg.com/media/HVCGNG5XwAATNBn.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 10,
    "repost_count": 24,
-   "like_count": 309,
+   "like_count": 310,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112230245193392128/img/65266LIYKClnQfxi.jpg"
   }
  ]
