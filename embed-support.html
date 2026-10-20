@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en" data-ratio="4/5" style="--ratio: 1.25">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--
+  Google Sites embed box ratio: width:height = 4:5 (height = 1.25 × width).
+  The Support Us PayPal / Venmo card. Visual language matches .paypal-card
+  in support-tab.html and website-widgets.html (black card, centered title
+  and subtitle, light text on the hosted amount field). Sizes use --u so a
+  shorter box scales the heading down; the hosted button keeps the browser
+  font size and is zoomed down if it would overflow. Popups are fine.
+-->
+<title>Support Fan Edit Fan Club</title>
+<style>
+  * { box-sizing: border-box; touch-action: pan-y; }
+  html {
+    --ratio: 1.25;
+    --u: min(1vw, calc(1vh / var(--ratio)));
+  }
+  html, body {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    overscroll-behavior: none;
+    background: #000000;
+    color: #e7e9ea;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  .paypal-card {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: calc(1.6 * var(--u));
+    padding: calc(3.2 * var(--u)) calc(4 * var(--u));
+    background: #000000;
+    border: 1px solid #2f3336;
+    border-radius: calc(2.2 * var(--u));
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+    text-align: center;
+  }
+  .paypal-title {
+    width: 100%;
+    margin: 0;
+    color: #ffffff;
+    font-size: calc(4.6 * var(--u));
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.15;
+    text-align: center;
+    text-wrap: balance;
+  }
+  .paypal-subtitle {
+    width: 100%;
+    margin: 0 0 calc(1.2 * var(--u));
+    color: #c9d1d9;
+    font-size: calc(3 * var(--u));
+    font-weight: 600;
+    line-height: 1.3;
+    text-align: center;
+    text-wrap: pretty;
+  }
+  #paypal-container-6N34NNU436TT4 {
+    width: 100%;
+    max-width: calc(92 * var(--u));
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  #paypal-container-6N34NNU436TT4 * {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+    float: none !important;
+  }
+  #paypal-container-6N34NNU436TT4 > div { width: 100% !important; }
+  #paypal-container-6N34NNU436TT4 div,
+  #paypal-container-6N34NNU436TT4 span,
+  #paypal-container-6N34NNU436TT4 label,
+  #paypal-container-6N34NNU436TT4 p,
+  #paypal-container-6N34NNU436TT4 h3 {
+    color: #e8eaed !important;
+  }
+  #paypal-container-6N34NNU436TT4 input {
+    color: #e8eaed !important;
+    background-color: #2a2f35 !important;
+    border-color: #3d444d !important;
+    text-align: center !important;
+  }
+  #paypal-container-6N34NNU436TT4 #form-container-6N34NNU436TT4 {
+    width: 100% !important;
+    text-align: center !important;
+  }
+  #paypal-container-6N34NNU436TT4 #form-container-6N34NNU436TT4 > h3#desc-label,
+  #paypal-container-6N34NNU436TT4 #form-container-6N34NNU436TT4 > form {
+    display: inline !important;
+    text-align: center !important;
+  }
+  #paypal-container-6N34NNU436TT4 #desc-label::after {
+    content: "\00a0\2014\00a0";
+  }
+  #paypal-container-6N34NNU436TT4 label.input-label[for="amount"] {
+    display: inline !important;
+    font-size: 1.17em !important;
+    font-weight: 700 !important;
+    margin-bottom: 0 !important;
+  }
+  #paypal-container-6N34NNU436TT4 .amount-container {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100% !important;
+    margin-top: 12px !important;
+    text-align: center !important;
+  }
+  #paypal-container-6N34NNU436TT4 iframe {
+    display: block !important;
+    margin-top: 10px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 100% !important;
+  }
+  button:focus-visible, a:focus-visible {
+    outline: 2px solid #1d9bf0;
+    outline-offset: 2px;
+  }
+  /* The iframe is the phone when Google Sites stacks the page. */
+  @media (max-width: 430px) {
+    .paypal-card,
+    .paypal-title,
+    .paypal-subtitle,
+    #paypal-container-6N34NNU436TT4,
+    #paypal-container-6N34NNU436TT4 #form-container-6N34NNU436TT4,
+    #paypal-container-6N34NNU436TT4 #desc-label,
+    #paypal-container-6N34NNU436TT4 label,
+    #paypal-container-6N34NNU436TT4 .amount-container {
+      text-align: center !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+  }
+</style>
+</head>
+<body>
+<article class="paypal-card">
+  <h1 class="paypal-title">Support Fan Edit Fan Club</h1>
+  <p class="paypal-subtitle">Safe &amp; Secure Payment via PayPal or Venmo</p>
+  <div id="paypal-container-6N34NNU436TT4"></div>
+</article>
+<script src="https://www.paypal.com/sdk/js?client-id=BAAOf94djAa5CPNEqov7_VKaz7cLdghzLv-FPW4D7z_hdQO3rHzp9pDbwfzzdkO3T7b4Pk1lNIITEstuss&components=hosted-buttons&enable-funding=venmo&currency=USD"></script>
+<script>
+  paypal.HostedButtons({
+    hostedButtonId: "6N34NNU436TT4",
+    style: {
+      layout: "vertical",
+      color: "gold",
+      shape: "rect",
+      label: "paypal",
+      tagline: false
+    }
+  }).render("#paypal-container-6N34NNU436TT4");
+
+  (function () {
+    var card = document.querySelector(".paypal-card");
+    var box = document.getElementById("paypal-container-6N34NNU436TT4");
+    var timer = 0;
+    function centerText() {
+      var nodes = box.querySelectorAll("div, p, span, label, h1, h2, h3, h4, form");
+      for (var i = 0; i < nodes.length; i++) {
+        var el = nodes[i];
+        el.style.setProperty("text-align", "center", "important");
+        var cs = window.getComputedStyle(el);
+        if ((cs.display === "flex" || cs.display === "inline-flex") &&
+            (cs.flexDirection === "row" || cs.flexDirection === "row-reverse")) {
+          el.style.setProperty("justify-content", "center", "important");
+          el.style.setProperty("align-items", "center", "important");
+        }
+      }
+      var inputs = box.querySelectorAll("input");
+      for (var j = 0; j < inputs.length; j++) {
+        inputs[j].style.setProperty("text-align", "center", "important");
+      }
+    }
+    function overflow() {
+      var cardRect = card.getBoundingClientRect();
+      var top = Infinity;
+      var bottom = -Infinity;
+      for (var i = 0; i < card.children.length; i++) {
+        var r = card.children[i].getBoundingClientRect();
+        if (r.height < 1) continue;
+        top = Math.min(top, r.top);
+        bottom = Math.max(bottom, r.bottom);
+      }
+      return Math.max(bottom - (cardRect.bottom - 1), (cardRect.top + 1) - top, 0);
+    }
+    function fit() {
+      centerText();
+      box.style.zoom = "1";
+      var extra = overflow();
+      if (extra > 1) {
+        var h = box.getBoundingClientRect().height || 1;
+        var scale = Math.max(0.45, (h - extra) / h);
+        box.style.zoom = String(scale);
+        extra = overflow();
+        if (extra > 1) {
+          var h2 = box.getBoundingClientRect().height || 1;
+          box.style.zoom = String(Math.max(0.45, scale * (h2 - extra) / h2));
+        }
+      }
+    }
+    function schedule() {
+      window.clearTimeout(timer);
+      timer = window.setTimeout(fit, 60);
+    }
+    window.addEventListener("resize", schedule);
+    new MutationObserver(schedule).observe(box, { childList: true, subtree: true });
+    schedule();
+  })();
+</script>
+</body>
+</html>

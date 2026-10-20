@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" data-ratio="5/8" style="--ratio: 1.6">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--
+  Google Sites embed box ratio: width:height = 5:8 (height = 1.6 × width).
+  Same card as embed-facebook.html so it can sit beside embed-instagram.html.
+  Posts come from threads.json (threads-cli, refreshed outside GitHub Actions).
+  A profile.bio in that file is shown only when there are no posts.
+-->
+<link rel="stylesheet" href="embed.css">
+<title>Fan Edit Fan Club on Threads</title>
+</head>
+<body>
+<article class="card">
+  <header class="bar">
+    <a class="brand" href="https://www.threads.com/@faneditfanclub" target="_blank" rel="noopener noreferrer">
+      <img class="avatar" id="profile-avatar" alt="" src="https://i.imgur.com/xGyaOEB.jpeg">
+      <span class="brand-text">
+        <h1 id="profile-name">Fan Edit Fan Club</h1>
+        <p class="sub">Threads</p>
+      </span>
+    </a>
+    <a class="pill blue" href="https://www.threads.com/@faneditfanclub" target="_blank" rel="noopener noreferrer">Follow</a>
+  </header>
+  <div class="posts" id="posts"><p class="empty">Loading posts…</p></div>
+  <a class="more" href="https://www.threads.com/@faneditfanclub" target="_blank" rel="noopener noreferrer">View more on Threads</a>
+</article>
+<script src="embed.js"></script>
+<script>
+FanEmbed.mountPosts({
+  feed: "threads.json",
+  name: "Fan Edit Fan Club",
+  handle: "faneditfanclub",
+  avatar: "https://i.imgur.com/xGyaOEB.jpeg",
+  keep: function (post) { return FanEmbed.tidy(post.text) || post.image; },
+  onData: function (data) {
+    var profile = data.profile || {};
+    if (profile.name) document.getElementById("profile-name").textContent = profile.name;
+    if (profile.picture) document.getElementById("profile-avatar").src = profile.picture;
+  }
+});
+</script>
+</body>
+</html>

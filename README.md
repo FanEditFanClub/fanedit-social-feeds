@@ -35,11 +35,14 @@ Embed code (swap the file name and title). The box ratio is set in the Sites edi
 | `embed-x-list.html` | **5:8** | 1.60 | Fan Editors list card (the old `widgets.js` timeline) |
 | `embed-x-profile.html` | **5:8** | 1.60 | @FanEditFanClub card |
 | `embed-facebook.html` | **5:8** | 1.60 | Facebook Page card |
+| `embed-threads.html` | **5:8** | 1.60 | Threads card. Same layout as the Facebook Page card. Posts from `threads.json` |
+| `embed-instagram.html` | **5:8** | 1.60 | Instagram card. Same layout and box as Threads, so the pair sits side by side. Posts from `instagram.json` |
 | `embed-reddit-community.html` | **4:5** | 1.25 | r/FanEditFanClub card |
 | `embed-reddit-feed.html` | **4:5** | 1.25 | Multireddit card |
 | `embed-discord.html` | **2:3** | 1.50 | `discord-embed.html` |
 | `embed-fb-group.html` | **5:4** | 0.80 | Facebook Group block: cover (`fb-group-cover.jpg`), name, **Join**, the recent posts from `fb-group.json` that fit, and **View posts in the group** (`https://www.facebook.com/groups/faneditfanclub`) |
 | `embed-paypal.html` | **4:5** | 1.25 | PayPal / Venmo card (hosted button `6N34NNU436TT4`). The amount field and buttons stay inside the box; the PayPal window may open as a popup |
+| `embed-support.html` | **4:5** | 1.25 | Same PayPal / Venmo card for the Support Us page. Title, subtitle, and the hosted heading and amount stay centered, including at a 320–430px wide box |
 | `embed-icons.html` | **11:6** | 0.545 | Social icon grid, 11 columns × 6 rows. The Website icon opens `https://www.faneditfanclub.com`. The Email icon opens a new email to FanEditFanClub@gmail.com (see below) |
 
 Do not drop a 5:8 card into a full-width desktop section. At 1366px that box is 2186px tall. Use columns; Google Sites stacks a multi-column section into full width on phones.
@@ -53,10 +56,14 @@ Homepage, top to bottom:
 | 3 | Discord | its own row, about 800px wide so the chat stays usable | 800×1200 (2:3) | 390×585 |
 | 4 | Facebook Group, PayPal | 2 columns, about 400–480px. PayPal is 4:5 and the group card is 5:4, so the PayPal box is taller | group 480×384, PayPal 480×600 | group 390×312, PayPal 390×488, stacked |
 | 5 | Icon grid | full width. 11:6 is short enough to span the section | 1366×745, 1200×655, 768×419 | 390×213 |
+| — | Threads, Instagram | 2 columns, same 5:8 box as the Facebook Page card | 400×640 each | 390×624, stacked |
+| — | Support Us (`embed-support.html`) | its own box on the Support Us page, 4:5 | 400×500 | 390×488 |
+
+`threads.json` and `instagram.json` are written by the local threads-cli / instagram-cli refresh, not by `fetch.py`. The cards show those posts. They do not call a paid API. If a file has a `profile.bio` and no posts, the card shows that bio instead of an empty feed.
 
 Discord is the exception to the leftover-space rule: its two panels fill the box, so a taller box gives the chat more room and a shorter box still does not scroll the page. The tap button shrinks with the short box.
 
-Feed cards stack posts from the top with one fixed gap. `embed.js` renders the whole feed, then hides the posts that would be cut off; a post that only fits without its image (or with two lines of text) is shown that way. A taller box shows more posts, and any leftover space sits under the last post, never between posts. Blank lines inside a post are collapsed. Tap a post to open it on X, Facebook, or Reddit. Follow / View more links are on the card. Timestamps are ISO-8601 UTC with a numeric offset (`2026-10-08T13:00:00+00:00`, which is 9:00 AM US Eastern). The card formats them with `Intl` in the viewer's local time zone.
+Feed cards stack posts from the top with one fixed gap. `embed.js` renders the whole feed, then hides the posts that would be cut off; a post that only fits without its image (or with two lines of text) is shown that way. A taller box shows more posts, and any leftover space sits under the last post, never between posts. Blank lines inside a post are collapsed. Tap a post to open it on X, Facebook, Threads, Instagram, or Reddit. Follow / View more links are on the card. Timestamps are ISO-8601 UTC with a numeric offset (`2026-10-08T13:00:00+00:00`, which is 9:00 AM US Eastern). The card formats them with `Intl` in the viewer's local time zone.
 
 `embed-discord.html` keeps the live Discord widget (server `1529915531736383702`) and the WidgetBot chat (channel `1529915534466875546`) at every width, including phones. On a touch screen a transparent layer lets the page scroll; **Tap to interact** hands touches to the chat, and **Done** gives scrolling back. Desktop has no overlay.
 

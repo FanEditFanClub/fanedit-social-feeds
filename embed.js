@@ -103,9 +103,11 @@
     load(options.feed).then(function (data) {
       if (typeof options.onData === "function") options.onData(data || {});
       var posts = (data && data.posts) || [];
+      if (typeof options.keep === "function") posts = posts.filter(options.keep);
       if (!el) return;
       if (!posts.length) {
-        setMessage("No posts yet.", el);
+        var bio = tidy((data.profile && data.profile.bio) || "");
+        setMessage(bio || options.empty || "No posts yet.", el);
         return;
       }
       var profile = (data && data.profile) || {};
@@ -134,7 +136,7 @@
       if (options.fit !== false) keepFitted(el);
       if (typeof options.onRender === "function") options.onRender(el);
     }).catch(function () {
-      setMessage("Unable to load posts.", el);
+      setMessage(options.error || "Unable to load posts.", el);
     });
   }
 
