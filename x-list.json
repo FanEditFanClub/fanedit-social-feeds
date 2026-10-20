@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T22:36:51+00:00",
+ "updated_at": "2026-10-20T22:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112676484599157072",
+   "text": "S1 E4 'Meadowlands' | 424 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112676484599157072",
+   "created_at": "2026-10-20T22:45:00+00:00",
+   "sent_at": "2026-10-20T22:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HU-2VgUWgAEZFYq.jpg"
+  },
+  {
    "id": "2112673067847586203",
    "text": "Conan the Barbarian - Jingle all the Way (1982-1996) was a better, longer run.\n\nArnold clears.",
    "url": "https://x.com/TheManlet_King/status/2112673067847586203",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 13,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVG485nWsAAgRJT.jpg"
   },
   {
@@ -39,20 +53,6 @@
    "repost_count": 1,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HU-2SETWAAAe9DC.jpg"
-  },
-  {
-   "id": "2112668935254577432",
-   "text": "S1 E4 'Meadowlands' | 422 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112668935254577432",
-   "created_at": "2026-10-20T22:15:00+00:00",
-   "sent_at": "2026-10-20T22:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HU-2OqfWsAAjYUC.jpg"
   },
   {
    "id": "2112656748125225170",
@@ -77,9 +77,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 7,
+   "reply_count": 9,
    "repost_count": 0,
-   "like_count": 84,
+   "like_count": 88,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 106,
+   "like_count": 109,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVGNSlvXsAAJ7OQ.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 6,
    "repost_count": 13,
-   "like_count": 166,
+   "like_count": 168,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112581599090884608/img/53M3Qbx-7aHh9E2L.jpg"
   },
   {
