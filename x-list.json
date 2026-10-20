@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T10:36:41+00:00",
+ "updated_at": "2026-10-20T10:51:45+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112495291165208760",
+   "text": "S1 E4 'Meadowlands' | 376 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112495291165208760",
+   "created_at": "2026-10-20T10:45:00+00:00",
+   "sent_at": "2026-10-20T10:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HU-zVnhXIAAD-Kq.jpg"
+  },
+  {
    "id": "2112491515893137720",
    "text": "S1 E4 'Meadowlands' | 375 of 744",
    "url": "https://x.com/SopranosOrder/status/2112491515893137720",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HU-zR-rW8AAaMuN.jpg"
-  },
-  {
-   "id": "2112487740877234631",
-   "text": "S1 E4 'Meadowlands' | 374 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112487740877234631",
-   "created_at": "2026-10-20T10:15:00+00:00",
-   "sent_at": "2026-10-20T10:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HU-zOOvXoAAhimX.jpg"
   },
   {
    "id": "2112361103007031552",
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 189,
-   "like_count": 4349,
+   "repost_count": 195,
+   "like_count": 4430,
    "image": "https://pbs.twimg.com/media/HVCGNG5XwAATNBn.jpg"
   },
   {
