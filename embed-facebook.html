@@ -1,14 +1,25 @@
 <!DOCTYPE html>
-<html lang="en" data-ratio="5/8" style="--ratio: 1.6">
+<html lang="en" data-ratio="5/8">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--
-  Google Sites embed box ratio: width:height = 5:8 (height = 1.6 × width).
-  A box dragged a little shorter scales down; a little taller leaves space.
-  Replaces the Facebook Page card.
+  Google Sites embed box ratio: width:height = 5:8 (height = 1.6 × width)
+  on the homepage. A box dragged a little shorter scales down; a little
+  taller leaves space.
+
+  On the Facebook page this card sits beside the group card in a short
+  box (about 0.89). That box is taller than the group's 5:4 design, so
+  the group stays at full size while this card used to shrink. Share the
+  group's scale there so the buttons match. The 5:8 homepage box is
+  unchanged.
 -->
 <link rel="stylesheet" href="embed.css">
+<style>
+  @media (min-aspect-ratio: 4/5) {
+    html { --ratio: 0.8; }
+  }
+</style>
 <title>Fan Edit Fan Club on Facebook</title>
 </head>
 <body>
