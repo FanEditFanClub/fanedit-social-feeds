@@ -43,7 +43,7 @@ Embed code (swap the file name and title). The box ratio is set in the Sites edi
 | `embed-fb-group.html` | **5:4** | 0.80 | Facebook Group block: cover (`fb-group-cover.jpg`), name, **Join**, the recent posts from `fb-group.json` that fit, and **View posts in the group** (`https://www.facebook.com/groups/faneditfanclub`) |
 | `embed-paypal.html` | **4:5** | 1.25 | PayPal / Venmo card (hosted button `6N34NNU436TT4`). The amount field and buttons stay inside the box; the PayPal window may open as a popup |
 | `embed-support.html` | **4:5** | 1.25 | Same PayPal / Venmo card for the Support Us page. Title, subtitle, and the hosted heading and amount stay centered, including at a 320–430px wide box |
-| `embed-icons.html` | **11:6** | 0.545 | Social icon grid, 11 columns × 6 rows. The Website icon opens `https://www.faneditfanclub.com`. The Email icon opens a new email to FanEditFanClub@gmail.com (see below) |
+| `embed-icons.html` | **11:6** | 0.545 | Social icon grid, 11 across × 6 rows (65 icons; the last row is centered). The Website icon opens `https://www.faneditfanclub.com`. The Email icon opens a new email to FanEditFanClub@gmail.com (see below) |
 
 Do not drop a 5:8 card into a full-width desktop section. At 1366px that box is 2186px tall. Use columns; Google Sites stacks a multi-column section into full width on phones.
 
@@ -69,6 +69,6 @@ Feed cards stack posts from the top with one fixed gap. `embed.js` renders the w
 
 Email icon: Google Sites puts every embed in an iframe sandboxed with `allow-popups allow-popups-to-escape-sandbox` but no top navigation, and some phone browsers drop a `mailto:` that tries to navigate that iframe. The link uses `target="_blank"`, so the tap opens an unsandboxed window that hands `mailto:` to the phone's mail app. On a mouse/trackpad device (`(hover: hover) and (pointer: fine)`), where `mailto:` often has no mail app behind it, the link opens Gmail compose (`https://mail.google.com/mail/?view=cm&fs=1&to=FanEditFanClub@gmail.com`) in a new tab.
 
-`embed-icons.html` does not reflow. All 66 icons stay on 6 rows. On a phone the icon size follows `--u`, so the grid fills the 11:6 box. From about 600px wide the icons stop growing around 40px, and the name of the icon under the pointer is written in a line inside the card.
+`embed-icons.html` does not reflow. All 65 icons stay on 6 rows, and the shorter last row stays centered. On a phone the icon size follows `--u`, so the grid fills the 11:6 box. From about 600px wide the icons stop growing around 40px, and the name of the icon under the pointer is written in a line inside the card.
 
 Once these nine boxes are on the homepage, `website-widgets.html` is unused. The old URLs stay up until the Site is switched: `website-widgets.html`, `discord-embed.html`, `facebook-tab.html`, `reddit-tab.html`, `support-tab.html`. `x-tab.html` still loads, but it reads `x-list.json` / `x-posts.json` and no longer requests Facebook, Reddit, PayPal, or `widgets.js`.

@@ -191,6 +191,31 @@ class SitePageTests(unittest.TestCase):
         self.assertIn('href="#master-links"', rendered)
         self.assertNotIn("target=", rendered)
 
+    def test_drops_banned_reddit_profile(self):
+        profile = "https://www.reddit.com/user/FanEditFanClub/"
+        feed = "https://www.reddit.com/user/faneditfanclub/m/fan_edit_fan_club_reddit_feed/new"
+        community = "https://www.reddit.com/r/FanEditFanClub"
+        self.assertTrue(fetch.banned_reddit_profile(profile))
+        self.assertFalse(fetch.banned_reddit_profile(feed))
+        self.assertFalse(fetch.banned_reddit_profile(community))
+        rendered = fetch.inline_html(
+            '<a href="%s">Reddit Profile</a>' % profile, set()
+        )
+        self.assertNotIn("reddit.com/user/FanEditFanClub", rendered)
+        self.assertNotIn("Reddit Profile", rendered)
+        repairs = []
+        fixed = fetch.repair_links(
+            [
+                {"label": "Reddit Profile", "href": profile},
+                {"label": "Reddit Community", "href": community},
+                {"label": "Feed", "href": feed},
+            ],
+            [],
+            repairs,
+            "Reddit",
+        )
+        self.assertEqual([item["href"] for item in fixed], [community, feed])
+
     def test_repairs_truncated_channel_link(self):
         catalog = [{"label": "Rockstar Games", "href": "https://socialclub.rockstargames.com/member/FanEditFanClub", "icon": ""}]
         repairs = []

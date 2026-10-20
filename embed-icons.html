@@ -5,9 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--
   Google Sites embed box ratio: width:height = 11:6 (height = 6/11 × width).
-  66 icons, 11 columns by 6 rows. On a phone the icon size follows --u, so
-  the grid fills the box and stays tappable. From tablet width up, icons
-  stop growing around 40px and the name shows in a label inside the card.
+  65 icons, 11 across and 6 rows. The last row is one icon short and
+  stays centered. On a phone the icon size follows --u, so the grid fills
+  the box and stays tappable. From tablet width up, icons stop growing
+  around 40px and the name shows in a label inside the card.
   A shorter box still scales the icons down. Nothing scrolls.
   The Website icon opens https://www.faneditfanclub.com.
 -->
@@ -26,15 +27,20 @@
     overflow: hidden;
   }
   .icon-cells {
-    display: grid;
-    grid-template-columns: repeat(11, 8rem);
-    grid-template-rows: repeat(6, 8rem);
-    gap: 0.55rem;
+    --icon: 8rem;
+    --gap: 0.55rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    width: calc(11 * var(--icon) + 10 * var(--gap));
+    gap: var(--gap);
   }
   .icon-btn {
     position: relative;
-    width: 8rem;
-    height: 8rem;
+    width: var(--icon);
+    height: var(--icon);
+    flex: 0 0 var(--icon);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -77,13 +83,10 @@
   @media (min-width: 600px) {
     .icon-grid { padding: 10px 12px 8px; gap: 8px; }
     .icon-cells {
-      grid-template-columns: repeat(11, min(8rem, 40px));
-      grid-template-rows: repeat(6, min(8rem, 40px));
-      gap: min(0.55rem, 8px);
+      --icon: min(8rem, 40px);
+      --gap: min(0.55rem, 8px);
     }
     .icon-btn {
-      width: min(8rem, 40px);
-      height: min(8rem, 40px);
       border-radius: 10px;
     }
     .glyph { border-radius: 8px; }
@@ -144,7 +147,6 @@
         <a href="https://www.pinterest.com/FanEditFanClub/" target="_blank" class="icon-btn" title="Pinterest" data-label="Pinterest"><img class="glyph" src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=128" alt="Pinterest"></a>
 
         <!-- Communities & Forums -->
-        <a href="https://www.reddit.com/user/FanEditFanClub/" target="_blank" class="icon-btn" title="Reddit Profile" data-label="Reddit Profile"><img class="glyph" src="https://www.google.com/s2/favicons?domain=reddit.com&sz=128" alt="Reddit Profile"></a>
         <a href="https://www.reddit.com/r/FanEditFanClub" target="_blank" class="icon-btn" title="Reddit Community" data-label="Reddit Community"><img class="glyph" src="https://www.google.com/s2/favicons?domain=reddit.com&sz=128" alt="Reddit Community"></a>
         <a href="https://www.reddit.com/user/faneditfanclub/m/fan_edit_fan_club_reddit_feed/new" target="_blank" class="icon-btn" title="Fan Edit Fan Club Reddit Feed" data-label="Fan Edit Fan Club Reddit Feed"><img class="glyph" src="https://www.google.com/s2/favicons?domain=reddit.com&sz=128" alt="Reddit Feed"></a>
         <a href="https://faneditfanclub.eventbrite.com/" target="_blank" class="icon-btn" title="Eventbrite" data-label="Eventbrite"><img class="glyph" src="https://i.imgur.com/KFCsiTt.png" alt="Eventbrite"></a>

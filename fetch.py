@@ -723,9 +723,17 @@ def unwrap_google_url(url):
     return text
 
 
+def banned_reddit_profile(url):
+    """The club's Reddit user profile is banned. Community and multireddit stay."""
+    bare = (url or "").split("#", 1)[0].split("?", 1)[0].rstrip("/").lower()
+    return bare == "https://www.reddit.com/user/faneditfanclub"
+
+
 def href_is_usable(url):
     """Drop truncated Google Sites embed hrefs such as `url?id=9`."""
     if not url:
+        return False
+    if banned_reddit_profile(url):
         return False
     if url.startswith("mailto:"):
         return "@" in url and " " not in url
@@ -781,6 +789,8 @@ class InlineHTML(HTMLParser):
         if tag == "a" and self.anchor is not None:
             label = tidy_inline("".join(self.anchor_parts))
             href = self._app_href(self.anchor)
+            if banned_reddit_profile(self.anchor) or banned_reddit_profile(href):
+                label = ""
             if label and href and href_is_usable(href) and not href.startswith("#h."):
                 external = href.startswith("http://") or href.startswith("https://") or href.startswith("mailto:")
                 extra = ' target="_blank" rel="noopener noreferrer"' if external else ""
@@ -1002,6 +1012,9 @@ def repair_links(items, catalog, repairs, where):
         label = tidy_inline(item.get("label") or "")
         if not label:
             continue
+        if banned_reddit_profile(href):
+            repairs.append("%s: dropped banned Reddit profile" % where)
+            continue
         if not href_is_usable(href):
             replacement = catalog_match(label, catalog)
             if not replacement:
@@ -1011,6 +1024,9 @@ def repair_links(items, catalog, repairs, where):
             if not icon:
                 icon = replacement.get("icon") or ""
             repairs.append("%s: repaired %s from the homepage icon grid" % (where, label))
+        if banned_reddit_profile(href):
+            repairs.append("%s: dropped banned Reddit profile" % where)
+            continue
         entry = {"label": label, "href": href}
         if icon:
             entry["icon"] = icon
@@ -1268,7 +1284,7 @@ def dedupe_links(items):
         href = item.get("href") or ""
         label = item.get("label") or ""
         key = (label_key(label), href)
-        if not label or not href or key in seen:
+        if not label or not href or banned_reddit_profile(href) or key in seen:
             continue
         seen.add(key)
         kept.append(item)
