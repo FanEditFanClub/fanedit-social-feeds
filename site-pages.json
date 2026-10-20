@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T18:52:05+00:00",
+ "updated_at": "2026-10-20T19:07:04+00:00",
  "source": "https://www.faneditfanclub.com",
  "nav": [
   {
@@ -554,12 +554,6 @@
        "href": "https://www.patreon.com/cw/FanEditFanClub"
       }
      ]
-    },
-    {
-     "type": "card",
-     "kind": "paypal",
-     "title": "Support Fan Edit Fan Club",
-     "src": "embed-paypal.html"
     },
     {
      "type": "text",
