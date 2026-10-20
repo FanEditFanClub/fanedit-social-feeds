@@ -336,11 +336,6 @@
        "icon": "https://www.google.com/s2/favicons?domain=pinterest.com&sz=128"
       },
       {
-       "label": "Reddit Profile",
-       "href": "https://www.reddit.com/user/FanEditFanClub/",
-       "icon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=128"
-      },
-      {
        "label": "Reddit Community",
        "href": "https://www.reddit.com/r/FanEditFanClub",
        "icon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=128"
@@ -1916,13 +1911,6 @@
     {
      "type": "text",
      "tag": "p",
-     "html": "<a href=\"https://www.reddit.com/user/FanEditFanClub/\" target=\"_blank\" rel=\"noopener noreferrer\">Reddit Profile</a>",
-     "align": "left",
-     "font": "body"
-    },
-    {
-     "type": "text",
-     "tag": "p",
      "html": "<a href=\"https://www.reddit.com/r/FanEditFanClub\" target=\"_blank\" rel=\"noopener noreferrer\">Reddit Community</a>",
      "align": "left",
      "font": "body"
@@ -2325,10 +2313,6 @@
      "type": "links",
      "items": [
       {
-       "label": "Profile",
-       "href": "https://www.reddit.com/user/FanEditFanClub/"
-      },
-      {
        "label": "Community",
        "href": "https://www.reddit.com/r/FanEditFanClub"
       },
@@ -2524,11 +2508,6 @@
        "label": "Pinterest",
        "href": "https://www.patreon.com/cw/FanEditFanClub8",
        "icon": "https://www.google.com/s2/favicons?domain=pinterest.com&sz=128"
-      },
-      {
-       "label": "Reddit Profile",
-       "href": "https://www.reddit.com/user/FanEditFanClub/",
-       "icon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=128"
       },
       {
        "label": "Reddit Community",
