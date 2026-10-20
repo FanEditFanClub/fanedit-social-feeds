@@ -127,7 +127,12 @@ h1, .name {
   white-space: nowrap;
 }
 
-.pill.blue { background: #0866ff; color: #ffffff; }
+/* Follow and Join share one box. 15.2rem is the width of "Follow". */
+.pill.blue {
+  min-width: 15.2rem;
+  background: #0866ff;
+  color: #ffffff;
+}
 .pill.reddit { background: #ff4500; color: #ffffff; }
 
 /* Posts stack from the top with one fixed gap. embed.js renders every post
