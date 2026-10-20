@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T20:51:43+00:00",
+ "updated_at": "2026-10-20T21:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2112650063541661721",
+   "text": "S1 E4 'Meadowlands' | 417 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112650063541661721",
+   "created_at": "2026-10-20T21:00:00+00:00",
+   "sent_at": "2026-10-20T21:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HU-1-YBWYAA9Prv.jpg"
+  },
   {
    "id": "2112646285526458682",
    "text": "S1 E4 'Meadowlands' | 416 of 744",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HU-16ODWkAA9S4N.jpg"
   },
   {
-   "id": "2112642512787784121",
-   "text": "S1 E4 'Meadowlands' | 415 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112642512787784121",
-   "created_at": "2026-10-20T20:30:00+00:00",
-   "sent_at": "2026-10-20T20:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HU-12Y0WYAAKcB2.jpg"
-  },
-  {
    "id": "2112632823467438480",
    "text": "I think I just got a second wind for this story and I am actually going to write it. please yell at me periodically if I don\u2019t follow through on this cause I genuinely want to write it so badly. ghost hunter believer ilya and skeptic shane you are coming home",
    "url": "https://x.com/uhbucky/status/2112632823467438480",
@@ -49,9 +49,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 5,
    "repost_count": 0,
-   "like_count": 61,
+   "like_count": 65,
    "image": ""
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 72,
+   "like_count": 81,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVGNSlvXsAAJ7OQ.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 6,
-   "repost_count": 12,
-   "like_count": 147,
+   "repost_count": 13,
+   "like_count": 153,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112581599090884608/img/53M3Qbx-7aHh9E2L.jpg"
   },
   {
