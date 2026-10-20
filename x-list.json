@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T06:21:39+00:00",
+ "updated_at": "2026-10-20T06:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112431117701910810",
+   "text": "S1 E4 'Meadowlands' | 359 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112431117701910810",
+   "created_at": "2026-10-20T06:30:00+00:00",
+   "sent_at": "2026-10-20T06:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HU-yaedWsAAOc1G.jpg"
+  },
+  {
    "id": "2112427342849036539",
    "text": "S1 E4 'Meadowlands' | 358 of 744",
    "url": "https://x.com/SopranosOrder/status/2112427342849036539",
@@ -22,23 +36,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
+   "repost_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HU-yXKgWIAA4FJr.jpg"
-  },
-  {
-   "id": "2112423568726429850",
-   "text": "S1 E4 'Meadowlands' | 357 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112423568726429850",
-   "created_at": "2026-10-20T06:00:00+00:00",
-   "sent_at": "2026-10-20T06:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HU-yUAFXkAAKWle.jpg"
   },
   {
    "id": "2112361103007031552",
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 136,
-   "like_count": 2996,
+   "repost_count": 147,
+   "like_count": 3095,
    "image": "https://pbs.twimg.com/media/HVCGNG5XwAATNBn.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 10,
-   "repost_count": 20,
-   "like_count": 290,
+   "repost_count": 21,
+   "like_count": 292,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112230245193392128/img/65266LIYKClnQfxi.jpg"
   },
   {
@@ -134,23 +134,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 8,
-   "repost_count": 838,
-   "like_count": 8561,
+   "repost_count": 846,
+   "like_count": 8630,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2107635145024974848/img/AlGStW_ieJLiuwFB.jpg"
-  },
-  {
-   "id": "2112186545411068409",
-   "text": "Spotted: 4 Cybercabs at the Titusville Supercharger \ud83d\udc40\u26a1\n\nFour of them. At the same time. Tell me Robotaxi isn't coming to the Space Coast soon \ud83e\udd16\n\n#TeslaVanLife #Cybercab #Robotaxi #SpaceCoast",
-   "url": "https://x.com/CarsonGallo/status/2112186545411068409",
-   "created_at": "2026-10-19T14:18:09+00:00",
-   "sent_at": "2026-10-19T14:18:09+00:00",
-   "author_name": "Carson J Gallo",
-   "author_handle": "CarsonGallo",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
-   "reply_count": 6,
-   "repost_count": 5,
-   "like_count": 31,
-   "image": "https://pbs.twimg.com/media/HU_-QkiXUAAC4Hv.jpg"
   }
  ]
 }
