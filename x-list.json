@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T05:51:39+00:00",
+ "updated_at": "2026-10-21T06:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2112785959368487402",
+   "text": "S1 E4 'Meadowlands' | 453 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112785959368487402",
+   "created_at": "2026-10-21T06:00:01+00:00",
+   "sent_at": "2026-10-21T06:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVDd20nW4AAsMTP.jpg"
+  },
+  {
+   "id": "2112784042034704533",
+   "text": "I am so glad we have a superhero film like this. There will never be anything like it again.",
+   "url": "https://x.com/StebobM/status/2112784042034704533",
+   "created_at": "2026-10-21T05:52:23+00:00",
+   "sent_at": "2026-10-21T05:52:23+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2112782181089046774",
    "text": "S1 E4 'Meadowlands' | 452 of 744",
    "url": "https://x.com/SopranosOrder/status/2112782181089046774",
@@ -21,9 +49,9 @@
    "author_name": "Every Moment of The Sopranos in Order",
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HVDdy0PX0AA6kzG.jpg"
   },
   {
@@ -38,34 +66,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2112778408488734745",
-   "text": "S1 E4 'Meadowlands' | 451 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112778408488734745",
-   "created_at": "2026-10-21T05:30:00+00:00",
-   "sent_at": "2026-10-21T05:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HVDdvYsXkAAW8Om.jpg"
-  },
-  {
-   "id": "2112775629791699155",
-   "text": "This was a piss funny reply that should have just made everybody laugh but of course as usual some people just don\u2019t get the joke and have to be mad at everything \ud83d\ude44",
-   "url": "https://x.com/StebobM/status/2112775629791699155",
-   "created_at": "2026-10-21T05:18:58+00:00",
-   "sent_at": "2026-10-21T05:18:58+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 91,
+   "like_count": 92,
    "image": "https://pbs.twimg.com/media/HVHoRhvXAAAWfwU.jpg"
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 13,
+   "reply_count": 14,
    "repost_count": 15,
-   "like_count": 236,
+   "like_count": 253,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVHoND1WwAAHYlN.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 7,
    "repost_count": 4,
-   "like_count": 77,
+   "like_count": 80,
    "image": "https://pbs.twimg.com/media/HVHAZJLWoAATUZd.jpg"
   }
  ]
