@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T00:06:39+00:00",
+ "updated_at": "2026-10-21T00:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2112699133924389325",
+   "text": "S1 E4 'Meadowlands' | 430 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112699133924389325",
+   "created_at": "2026-10-21T00:15:00+00:00",
+   "sent_at": "2026-10-21T00:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVDcpjQXQAAxQDz.jpg"
+  },
   {
    "id": "2112696623469904113",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Zombie Zangaroo (Grindhouse) by Movies Remastered.\n\nhttps://www.reddit.com/r/moviesremastered/comments/1xa9veg/zombie_zangaroo_grindhouse_by_movies_remastered/",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 1,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HVDcmGQW8AE8-t4.jpg"
-  },
-  {
-   "id": "2112691584034554236",
-   "text": "S1 E4 'Meadowlands' | 428 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112691584034554236",
-   "created_at": "2026-10-20T23:45:00+00:00",
-   "sent_at": "2026-10-20T23:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVDcgePWEAAXxqN.jpg"
   },
   {
    "id": "2112681245218156718",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
    "repost_count": 1,
-   "like_count": 35,
+   "like_count": 38,
    "image": "https://pbs.twimg.com/media/HVHAZJLWoAATUZd.jpg"
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 33,
+   "repost_count": 2,
+   "like_count": 40,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVG485nWsAAgRJT.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 11,
    "repost_count": 1,
-   "like_count": 108,
+   "like_count": 110,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 115,
+   "like_count": 119,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVGNSlvXsAAJ7OQ.jpg"
   },
   {
