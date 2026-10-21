@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T09:21:40+00:00",
+ "updated_at": "2026-10-21T09:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112838807582081474",
+   "text": "S1 E4 'Meadowlands' | 467 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112838807582081474",
+   "created_at": "2026-10-21T09:30:01+00:00",
+   "sent_at": "2026-10-21T09:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVDenGBXEAAPnzA.jpg"
+  },
+  {
    "id": "2112835029671805007",
    "text": "S1 E4 'Meadowlands' | 466 of 744",
    "url": "https://x.com/SopranosOrder/status/2112835029671805007",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HVDej9AX0AAbp1v.jpg"
-  },
-  {
-   "id": "2112831265673969765",
-   "text": "S1 E4 'Meadowlands' | 465 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112831265673969765",
-   "created_at": "2026-10-21T09:00:02+00:00",
-   "sent_at": "2026-10-21T09:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HVDehGfXAAA6z2D.jpg"
   },
   {
    "id": "2112829781511438807",
@@ -64,8 +64,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 10,
+   "repost_count": 2,
+   "like_count": 13,
    "image": "https://pbs.twimg.com/media/HVJHIX8WIAA9WeU.jpg"
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 20,
-   "repost_count": 27,
-   "like_count": 366,
+   "repost_count": 28,
+   "like_count": 378,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVHoND1WwAAHYlN.jpg"
   },
   {
