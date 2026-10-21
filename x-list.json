@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T12:21:42+00:00",
+ "updated_at": "2026-10-21T12:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2112885203916276062",
+   "text": "https://transfer.it/t/yHw66tw1nT5J",
+   "url": "https://x.com/gnocchidrive/status/2112885203916276062",
+   "created_at": "2026-10-21T12:34:22+00:00",
+   "sent_at": "2026-10-21T12:34:22+00:00",
+   "author_name": "gnocchi",
+   "author_handle": "gnocchidrive",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVJ51hyW4AAmO47.png"
+  },
+  {
+   "id": "2112884103947411714",
+   "text": "S1 E4 'Meadowlands' | 479 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112884103947411714",
+   "created_at": "2026-10-21T12:30:00+00:00",
+   "sent_at": "2026-10-21T12:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVDfm8oWsAAzHN7.jpg"
+  },
+  {
    "id": "2112880327782023170",
    "text": "S1 E4 'Meadowlands' | 478 of 744",
    "url": "https://x.com/SopranosOrder/status/2112880327782023170",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVDfjpKWkAA2TPE.jpg"
-  },
-  {
-   "id": "2112876566216585367",
-   "text": "S1 E4 'Meadowlands' | 477 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112876566216585367",
-   "created_at": "2026-10-21T12:00:03+00:00",
-   "sent_at": "2026-10-21T12:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVDfgXgWcAAKbaX.jpg"
+   "image": "https://pbs.twimg.com/media/HVDfjpKWkAA2TPE.jpg"
   },
   {
    "id": "2112875220113469712",
@@ -49,24 +63,10 @@
    "author_name": "gnocchi",
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 3,
-   "like_count": 9,
+   "like_count": 13,
    "image": "https://pbs.twimg.com/media/HVJwxS5XYAAVTes.png"
-  },
-  {
-   "id": "2112857798145093897",
-   "text": "https://transfer.it/t/9RnIXoh1BJ4J",
-   "url": "https://x.com/gnocchidrive/status/2112857798145093897",
-   "created_at": "2026-10-21T10:45:28+00:00",
-   "sent_at": "2026-10-21T10:45:28+00:00",
-   "author_name": "gnocchi",
-   "author_handle": "gnocchidrive",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 7,
-   "like_count": 41,
-   "image": "https://pbs.twimg.com/media/HVJg0pwXUAAzSx3.jpg"
   },
   {
    "id": "2112845428471234964",
@@ -121,21 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 8,
-   "image": ""
-  },
-  {
-   "id": "2112742528177057813",
-   "text": "Bret Hart Was Right About Triple H (But Nobody Listened) https://youtu.be/EQ29TAEwx80?si=UuATadDSA7CVl_nK via @YouTube",
-   "url": "https://x.com/VasGlorious/status/2112742528177057813",
-   "created_at": "2026-10-21T03:07:26+00:00",
-   "sent_at": "2026-10-21T03:07:26+00:00",
-   "author_name": "Vincent Stauffer",
-   "author_handle": "VasGlorious",
-   "author_avatar": "https://pbs.twimg.com/profile_images/445810843234492416/93lDBCmP_normal.jpeg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "like_count": 9,
    "image": ""
   }
  ]
