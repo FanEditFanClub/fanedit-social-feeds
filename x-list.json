@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T08:51:39+00:00",
+ "updated_at": "2026-10-21T09:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,32 +13,46 @@
  },
  "posts": [
   {
-   "id": "2112828408946184329",
-   "text": "https://transfer.it/t/eYAXO1pFlbRT",
-   "url": "https://x.com/gnocchidrive/status/2112828408946184329",
-   "created_at": "2026-10-21T08:48:41+00:00",
-   "sent_at": "2026-10-21T08:48:41+00:00",
+   "id": "2112831265673969765",
+   "text": "S1 E4 'Meadowlands' | 465 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112831265673969765",
+   "created_at": "2026-10-21T09:00:02+00:00",
+   "sent_at": "2026-10-21T09:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVDehGfXAAA6z2D.jpg"
+  },
+  {
+   "id": "2112829781511438807",
+   "text": "https://transfer.it/t/SBYtK0ohGB6B",
+   "url": "https://x.com/gnocchidrive/status/2112829781511438807",
+   "created_at": "2026-10-21T08:54:09+00:00",
+   "sent_at": "2026-10-21T08:54:09+00:00",
    "author_name": "gnocchi",
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HVJGI-HWgAAA92n.jpg"
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVJHX3IXgAANUd9.jpg"
   },
   {
-   "id": "2112828110551072986",
-   "text": "https://transfer.it/t/NyDDu44B1bTA",
-   "url": "https://x.com/gnocchidrive/status/2112828110551072986",
-   "created_at": "2026-10-21T08:47:30+00:00",
-   "sent_at": "2026-10-21T08:47:30+00:00",
+   "id": "2112829456972750879",
+   "text": "https://transfer.it/t/v0N4OxwB1Rpb",
+   "url": "https://x.com/gnocchidrive/status/2112829456972750879",
+   "created_at": "2026-10-21T08:52:51+00:00",
+   "sent_at": "2026-10-21T08:52:51+00:00",
    "author_name": "gnocchi",
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVJF5hfXkAAnjYf.jpg"
+   "image": "https://pbs.twimg.com/media/HVJHIX8WIAA9WeU.jpg"
   },
   {
    "id": "2112827479794634984",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVDedH0WwAEaLWx.jpg"
-  },
-  {
-   "id": "2112823704589848812",
-   "text": "S1 E4 'Meadowlands' | 463 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112823704589848812",
-   "created_at": "2026-10-21T08:30:00+00:00",
-   "sent_at": "2026-10-21T08:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVDeZBrXQAA0Lmz.jpg"
   },
   {
    "id": "2112795118348702013",
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 102,
+   "like_count": 103,
    "image": "https://pbs.twimg.com/media/HVHoRhvXAAAWfwU.jpg"
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 20,
-   "repost_count": 26,
-   "like_count": 351,
+   "repost_count": 27,
+   "like_count": 354,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVHoND1WwAAHYlN.jpg"
   },
   {
