@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T16:36:40+00:00",
+ "updated_at": "2026-10-21T16:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2112949332060016938",
+   "text": "https://transfer.it/t/o1KTSpxDVLCT",
+   "url": "https://x.com/gnocchidrive/status/2112949332060016938",
+   "created_at": "2026-10-21T16:49:12+00:00",
+   "sent_at": "2026-10-21T16:49:12+00:00",
+   "author_name": "gnocchi",
+   "author_handle": "gnocchidrive",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVK0MGwW8AAG69v.jpg"
+  },
+  {
+   "id": "2112948276194316720",
+   "text": "S1 E4 'Meadowlands' | 496 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112948276194316720",
+   "created_at": "2026-10-21T16:45:00+00:00",
+   "sent_at": "2026-10-21T16:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVDgicsXIAA-96Z.jpg"
+  },
+  {
+   "id": "2112946388891996292",
+   "text": "https://transfer.it/t/XZjLW5olnDbL\nDirector's Cut Unrated Remastered 1080p",
+   "url": "https://x.com/gnocchidrive/status/2112946388891996292",
+   "created_at": "2026-10-21T16:37:30+00:00",
+   "sent_at": "2026-10-21T16:37:30+00:00",
+   "author_name": "gnocchi",
+   "author_handle": "gnocchidrive",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 53,
+   "image": "https://pbs.twimg.com/media/HVKwnFoWkAA-rwt.jpg"
+  },
+  {
    "id": "2112944501077463396",
    "text": "S1 E4 'Meadowlands' | 495 of 744",
    "url": "https://x.com/SopranosOrder/status/2112944501077463396",
@@ -23,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVDge7DWsAAN-ur.jpg"
-  },
-  {
-   "id": "2112940725843443762",
-   "text": "S1 E4 'Meadowlands' | 494 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112940725843443762",
-   "created_at": "2026-10-21T16:15:00+00:00",
-   "sent_at": "2026-10-21T16:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVDgbepXIAAz-IB.jpg"
   },
   {
    "id": "2112929230074093877",
@@ -49,9 +77,9 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -83,34 +111,6 @@
    "image": ""
   },
   {
-   "id": "2112899887788609969",
-   "text": "https://transfer.it/t/1tKSb94zATAY",
-   "url": "https://x.com/gnocchidrive/status/2112899887788609969",
-   "created_at": "2026-10-21T13:32:43+00:00",
-   "sent_at": "2026-10-21T13:32:43+00:00",
-   "author_name": "gnocchi",
-   "author_handle": "gnocchidrive",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 39,
-   "image": "https://pbs.twimg.com/media/HVKHJrYXoAAg0xu.jpg"
-  },
-  {
-   "id": "2112899447571018126",
-   "text": "https://transfer.it/t/Gdq2m9x1DJ6a",
-   "url": "https://x.com/gnocchidrive/status/2112899447571018126",
-   "created_at": "2026-10-21T13:30:58+00:00",
-   "sent_at": "2026-10-21T13:30:58+00:00",
-   "author_name": "gnocchi",
-   "author_handle": "gnocchidrive",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 4,
-   "like_count": 73,
-   "image": "https://pbs.twimg.com/media/HVKGuTfXsAAPeIT.jpg"
-  },
-  {
    "id": "2112887177805795787",
    "text": "unfortunately I\u2019m extremely easy to please and I will be so sat for this I have missed their covers of songs so badly this is the best day of my life",
    "url": "https://x.com/uhbucky/status/2112887177805795787",
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 8,
-   "repost_count": 159,
-   "like_count": 984,
+   "repost_count": 168,
+   "like_count": 1027,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112887161439518720/img/dj73oyBBIApVHfTM.jpg"
   }
  ]
