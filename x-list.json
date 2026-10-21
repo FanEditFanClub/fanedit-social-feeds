@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T22:36:39+00:00",
+ "updated_at": "2026-10-21T22:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,48 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2113038873009721461",
+   "text": "S1 E4 'Meadowlands' | 520 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113038873009721461",
+   "created_at": "2026-10-21T22:45:00+00:00",
+   "sent_at": "2026-10-21T22:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVDh43-WIAECOyf.jpg"
+  },
+  {
+   "id": "2113036989335244970",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - A shortlist just in time for Halloween.\n\nhttps://www.reddit.com/r/fanedits/comments/1xb1ofs/a_shortlist_just_in_time_for_halloween/",
+   "url": "https://x.com/FanEditFanClub/status/2113036989335244970",
+   "created_at": "2026-10-21T22:37:31+00:00",
+   "sent_at": "2026-10-21T22:37:31+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2113036929654489472",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Review of Halloween Reunion by plboucher.\n\nhttps://www.reddit.com/r/fanedits/comments/1xb1roe/review_of_halloween_reunion_by_plboucher/",
+   "url": "https://x.com/FanEditFanClub/status/2113036929654489472",
+   "created_at": "2026-10-21T22:37:17+00:00",
+   "sent_at": "2026-10-21T22:37:17+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
   {
    "id": "2113035098043875674",
    "text": "S1 E4 'Meadowlands' | 519 of 744",
@@ -27,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HVDh1E-WIAAmm4U.jpg"
   },
   {
-   "id": "2113031323711660235",
-   "text": "S1 E4 'Meadowlands' | 518 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113031323711660235",
-   "created_at": "2026-10-21T22:15:00+00:00",
-   "sent_at": "2026-10-21T22:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVDhxglXwAA3dr9.jpg"
-  },
-  {
    "id": "2113031266744385675",
    "text": "This is ridiculous, he\u2019s a comedian who made a joke. What is with the snowflake society? \ud83e\udd26\u200d\u2642\ufe0f",
    "url": "https://x.com/StebobM/status/2113031266744385675",
@@ -49,9 +77,9 @@
    "author_name": "Man of Steven 13 \ud83d\udd2a",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -78,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
-   "repost_count": 45,
-   "like_count": 555,
+   "repost_count": 46,
+   "like_count": 614,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HEHebTfXYAAamo0.jpg"
   },
   {
@@ -93,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 4,
    "repost_count": 16,
-   "like_count": 118,
+   "like_count": 138,
    "image": "https://pbs.twimg.com/media/HVLoeEaWgAA1zfo.jpg"
   },
   {
@@ -106,8 +134,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 1,
-   "repost_count": 13,
-   "like_count": 194,
+   "repost_count": 14,
+   "like_count": 219,
    "image": "https://pbs.twimg.com/media/HVLnJs9W8AAqh8Q.jpg"
   },
   {
@@ -135,36 +163,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 17,
    "repost_count": 7,
-   "like_count": 705,
+   "like_count": 741,
    "image": "https://pbs.twimg.com/media/HVLkto6WkAEo2Qp.jpg"
-  },
-  {
-   "id": "2112987345678930371",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - X-MEN project.\n\nhttps://www.reddit.com/r/fanedits/comments/1xavvx7/xmen_project/",
-   "url": "https://x.com/FanEditFanClub/status/2112987345678930371",
-   "created_at": "2026-10-21T19:20:15+00:00",
-   "sent_at": "2026-10-21T19:20:15+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2112987278955995319",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Phenomenal!!! JIM CARREY Classic Transformed Info HITCHCOCKIAN PARANOIA THRILLER - Fan Edit Review.\n\nhttps://www.reddit.com/r/fanedits/comments/1xaw73o/phenomenal_jim_carrey_classic_transformed_info/",
-   "url": "https://x.com/FanEditFanClub/status/2112987278955995319",
-   "created_at": "2026-10-21T19:19:59+00:00",
-   "sent_at": "2026-10-21T19:19:59+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
   },
   {
    "id": "2112949332060016938",
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 3,
    "repost_count": 1,
-   "like_count": 82,
+   "like_count": 83,
    "image": "https://pbs.twimg.com/media/HVK0MGwW8AAG69v.jpg"
   }
  ]
