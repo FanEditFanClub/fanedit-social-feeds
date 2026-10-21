@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T01:51:39+00:00",
+ "updated_at": "2026-10-21T02:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2112725563731251659",
+   "text": "S1 E4 'Meadowlands' | 437 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112725563731251659",
+   "created_at": "2026-10-21T02:00:01+00:00",
+   "sent_at": "2026-10-21T02:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVDdAjNXoAAplcY.jpg"
+  },
+  {
+   "id": "2112725091352244598",
+   "text": "alan here",
+   "url": "https://x.com/uhbucky/status/2112725091352244598",
+   "created_at": "2026-10-21T01:58:08+00:00",
+   "sent_at": "2026-10-21T01:58:08+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 20,
+   "image": "https://pbs.twimg.com/media/HVHoRhvXAAAWfwU.jpg"
+  },
+  {
+   "id": "2112725036150685769",
+   "text": "It's just so good. Absolute masterpiece more respectful to both franchises than anything either produced for over a decade beforehand.\n\nThe music? The story? The hype? 10/10\n\nThe scene when Freddy realizes he's in the real world and Jason is right behind him? 11/10 PERFECT.",
+   "url": "https://x.com/TheManlet_King/status/2112725036150685769",
+   "created_at": "2026-10-21T01:57:55+00:00",
+   "sent_at": "2026-10-21T01:57:55+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 3,
+   "repost_count": 1,
+   "like_count": 10,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HVHoND1WwAAHYlN.jpg"
+  },
+  {
    "id": "2112721785774879175",
    "text": "S1 E4 'Meadowlands' | 436 of 744",
    "url": "https://x.com/SopranosOrder/status/2112721785774879175",
@@ -23,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HVDc8obW4AAbZV2.jpg"
-  },
-  {
-   "id": "2112718009529700710",
-   "text": "S1 E4 'Meadowlands' | 435 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112718009529700710",
-   "created_at": "2026-10-21T01:30:00+00:00",
-   "sent_at": "2026-10-21T01:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVDc5wwXsAA_Hav.jpg"
   },
   {
    "id": "2112703342287675475",
@@ -107,22 +135,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
    "repost_count": 3,
-   "like_count": 47,
+   "like_count": 52,
    "image": "https://pbs.twimg.com/media/HVHAZJLWoAATUZd.jpg"
-  },
-  {
-   "id": "2112673067847586203",
-   "text": "Conan the Barbarian - Jingle all the Way (1982-1996) was a better, longer run.\n\nArnold clears.",
-   "url": "https://x.com/TheManlet_King/status/2112673067847586203",
-   "created_at": "2026-10-20T22:31:25+00:00",
-   "sent_at": "2026-10-20T22:31:25+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 6,
-   "like_count": 82,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HVG485nWsAAgRJT.jpg"
   },
   {
    "id": "2112632823467438480",
@@ -134,23 +148,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 14,
-   "repost_count": 2,
-   "like_count": 138,
+   "repost_count": 3,
+   "like_count": 145,
    "image": ""
-  },
-  {
-   "id": "2112625064042508392",
-   "text": "we got josh in the stills but the 118 is nowhere in sight",
-   "url": "https://x.com/uhbucky/status/2112625064042508392",
-   "created_at": "2026-10-20T19:20:40+00:00",
-   "sent_at": "2026-10-20T19:20:40+00:00",
-   "author_name": "spooky mellie \ud83c\udf83",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 128,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HVGNSlvXsAAJ7OQ.jpg"
   },
   {
    "id": "2112620788998107369",
