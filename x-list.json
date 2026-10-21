@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T13:06:42+00:00",
+ "updated_at": "2026-10-21T13:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2112895427582497021",
+   "text": "S1 E4 'Meadowlands' | 482 of 744",
+   "url": "https://x.com/SopranosOrder/status/2112895427582497021",
+   "created_at": "2026-10-21T13:15:00+00:00",
+   "sent_at": "2026-10-21T13:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HVDfxNDXkAAyEn_.jpg"
+  },
+  {
    "id": "2112891656450031708",
    "text": "S1 E4 'Meadowlands' | 481 of 744",
    "url": "https://x.com/SopranosOrder/status/2112891656450031708",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVDfuOYWEAAAGQc.jpg"
   },
   {
@@ -36,23 +50,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 21,
+   "repost_count": 1,
+   "like_count": 30,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVJ81LBWwAA580q.jpg"
-  },
-  {
-   "id": "2112887878271271050",
-   "text": "S1 E4 'Meadowlands' | 480 of 744",
-   "url": "https://x.com/SopranosOrder/status/2112887878271271050",
-   "created_at": "2026-10-21T12:45:00+00:00",
-   "sent_at": "2026-10-21T12:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVDfp9YXIAAzZZA.jpg"
   },
   {
    "id": "2112887177805795787",
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
-   "repost_count": 8,
-   "like_count": 84,
+   "repost_count": 20,
+   "like_count": 178,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112887161439518720/img/dj73oyBBIApVHfTM.jpg"
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 22,
+   "like_count": 32,
    "image": "https://pbs.twimg.com/media/HVJ6t3eW0AAVOgy.jpg"
   },
   {
@@ -122,34 +122,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2112795118348702013",
-   "text": "Let\u2019s face it the people who were mad were only mad because it was negative. If it had been positive there\u2019d have been no mention of NDAs.",
-   "url": "https://x.com/StebobM/status/2112795118348702013",
-   "created_at": "2026-10-21T06:36:24+00:00",
-   "sent_at": "2026-10-21T06:36:24+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": ""
-  },
-  {
-   "id": "2112791185026867650",
-   "text": "This could be a mistake but it could work if they have Pennywise/IT be pathetic at the start & he has to grow his power. Sort of like the concept for Peter Jackson\u2019s Dream Lover script for A Nightmare on Elm Street",
-   "url": "https://x.com/StebobM/status/2112791185026867650",
-   "created_at": "2026-10-21T06:20:46+00:00",
-   "sent_at": "2026-10-21T06:20:46+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 8,
    "image": ""
   }
  ]
