@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T07:36:41+00:00",
+ "updated_at": "2026-10-22T07:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2113174768157691952",
+   "text": "S1 E4 'Meadowlands' | 556 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113174768157691952",
+   "created_at": "2026-10-22T07:45:00+00:00",
+   "sent_at": "2026-10-22T07:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVEITMZXsAA88k0.jpg"
+  },
+  {
    "id": "2113170994177438081",
    "text": "S1 E4 'Meadowlands' | 555 of 744",
    "url": "https://x.com/SopranosOrder/status/2113170994177438081",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HVEIQSkWgAA-OZ5.jpg"
-  },
-  {
-   "id": "2113167218078814496",
-   "text": "S1 E4 'Meadowlands' | 554 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113167218078814496",
-   "created_at": "2026-10-22T07:15:00+00:00",
-   "sent_at": "2026-10-22T07:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HVEIMfYWAAAVJuI.jpg"
   },
   {
    "id": "2113164639601135926",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVN1gcGXYAAZ8-H.jpg"
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 13,
+   "repost_count": 1,
+   "like_count": 14,
    "image": "https://pbs.twimg.com/media/HVNplFUWoAE-mMd.jpg"
   },
   {
@@ -147,9 +147,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 8,
+   "reply_count": 9,
    "repost_count": 18,
-   "like_count": 278,
+   "like_count": 280,
    "image": ""
   },
   {
@@ -164,20 +164,6 @@
    "reply_count": 3,
    "repost_count": 0,
    "like_count": 9,
-   "image": ""
-  },
-  {
-   "id": "2113022592886174125",
-   "text": "Release Child's play (1988) deleted scenes, and make a director's cut, if possible - Sign the Petition! https://c.org/NgmFvz7nMn via @Change",
-   "url": "https://x.com/VasGlorious/status/2113022592886174125",
-   "created_at": "2026-10-21T21:40:18+00:00",
-   "sent_at": "2026-10-21T21:40:18+00:00",
-   "author_name": "Vincent Stauffer",
-   "author_handle": "VasGlorious",
-   "author_avatar": "https://pbs.twimg.com/profile_images/445810843234492416/93lDBCmP_normal.jpeg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
    "image": ""
   }
  ]
