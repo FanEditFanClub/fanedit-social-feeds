@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T14:36:40+00:00",
+ "updated_at": "2026-10-22T14:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2113280716167667991",
+   "text": "S1 E4 'Meadowlands' | 584 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113280716167667991",
+   "created_at": "2026-10-22T14:46:00+00:00",
+   "sent_at": "2026-10-22T14:46:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVEJy2VXcAAOvbE.jpg"
+  },
+  {
+   "id": "2113279057529872764",
+   "text": "A New Row has been added to The Fan Edit Central Database - A Fan Edit of Halloween, Halloween Kills, Halloween Ends called Halloween - Noir Cut by Warren Buchholz.\n\nhttps://faneditcentral.wixsite.com/home",
+   "url": "https://x.com/FanEditFanClub/status/2113279057529872764",
+   "created_at": "2026-10-22T14:39:24+00:00",
+   "sent_at": "2026-10-22T14:39:24+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2113276691053264952",
    "text": "S1 E4 'Meadowlands' | 583 of 744",
    "url": "https://x.com/SopranosOrder/status/2113276691053264952",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVEJvbOWwAAvrlB.jpg"
-  },
-  {
-   "id": "2113272914950971821",
-   "text": "S1 E4 'Meadowlands' | 582 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113272914950971821",
-   "created_at": "2026-10-22T14:15:00+00:00",
-   "sent_at": "2026-10-22T14:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVEJsFqXQAAfyVH.jpg"
   },
   {
    "id": "2113258504761028640",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVPNaM4XEAABM3H.jpg"
-  },
-  {
-   "id": "2113249045455962374",
-   "text": "If I were a director in the from the 2000's, this would be my filmography.",
-   "url": "https://x.com/TheManlet_King/status/2113249045455962374",
-   "created_at": "2026-10-22T12:40:09+00:00",
-   "sent_at": "2026-10-22T12:40:09+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 2,
-   "like_count": 36,
-   "image": "https://pbs.twimg.com/media/HVPEzPgWsAATA4q.jpg"
   },
   {
    "id": "2113233688687153178",
@@ -74,20 +74,6 @@
    "url": "https://x.com/FanEditFanClub/status/2113233688687153178",
    "created_at": "2026-10-22T11:39:08+00:00",
    "sent_at": "2026-10-22T11:39:08+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2113233620127096992",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Tusk: Tusk - Shortened, Sharpened and Polished.\n\nhttps://www.reddit.com/r/moviesremastered/comments/1xbjemm/tusk_tusk_shortened_sharpened_and_polished/",
-   "url": "https://x.com/FanEditFanClub/status/2113233620127096992",
-   "created_at": "2026-10-22T11:38:51+00:00",
-   "sent_at": "2026-10-22T11:38:51+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
@@ -107,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -120,8 +106,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
-   "repost_count": 2,
-   "like_count": 50,
+   "repost_count": 3,
+   "like_count": 52,
    "image": "https://pbs.twimg.com/media/HVOlrVtWAAAdy1d.png"
   },
   {
@@ -134,8 +120,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
-   "repost_count": 21,
-   "like_count": 164,
+   "repost_count": 22,
+   "like_count": 172,
    "image": "https://pbs.twimg.com/media/HVOlV8pWkAEobn8.jpg"
   },
   {
@@ -163,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 2,
    "repost_count": 1,
-   "like_count": 18,
+   "like_count": 19,
    "image": "https://pbs.twimg.com/media/HVN1gcGXYAAZ8-H.jpg"
   },
   {
