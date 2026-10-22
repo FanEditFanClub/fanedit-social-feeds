@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T07:21:41+00:00",
+ "updated_at": "2026-10-22T07:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2113170994177438081",
+   "text": "S1 E4 'Meadowlands' | 555 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113170994177438081",
+   "created_at": "2026-10-22T07:30:00+00:00",
+   "sent_at": "2026-10-22T07:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVEIQSkWgAA-OZ5.jpg"
+  },
+  {
    "id": "2113167218078814496",
    "text": "S1 E4 'Meadowlands' | 554 of 744",
    "url": "https://x.com/SopranosOrder/status/2113167218078814496",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVEIMfYWAAAVJuI.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": ""
   },
   {
-   "id": "2113163452063592806",
-   "text": "S1 E4 'Meadowlands' | 553 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113163452063592806",
-   "created_at": "2026-10-22T07:00:02+00:00",
-   "sent_at": "2026-10-22T07:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HVEII-vXcAAPn78.jpg"
-  },
-  {
    "id": "2113161855502078346",
    "text": "#CrystalLake second viewing was even better than the first. I spotted so many things I hadn\u2019t in first viewing & knowing where it all leads made for a richer viewing.\n\nI really hope we get a season 2 \ud83d\ude4f",
    "url": "https://x.com/StebobM/status/2113161855502078346",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HVN1gcGXYAAZ8-H.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 8,
    "repost_count": 18,
-   "like_count": 273,
+   "like_count": 278,
    "image": ""
   },
   {
