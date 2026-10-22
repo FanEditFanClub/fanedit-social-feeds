@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T01:06:41+00:00",
+ "updated_at": "2026-10-22T01:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2113076621066575997",
+   "text": "S1 E4 'Meadowlands' | 530 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113076621066575997",
+   "created_at": "2026-10-22T01:15:00+00:00",
+   "sent_at": "2026-10-22T01:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVEG7VxXIAAhVnA.jpg"
+  },
+  {
    "id": "2113072852949721391",
    "text": "S1 E4 'Meadowlands' | 529 of 744",
    "url": "https://x.com/SopranosOrder/status/2113072852949721391",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVEFU-1WAAAKbqq.jpg"
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2113069071499448765",
-   "text": "S1 E4 'Meadowlands' | 528 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113069071499448765",
-   "created_at": "2026-10-22T00:45:00+00:00",
-   "sent_at": "2026-10-22T00:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HVEFQrqW8AAwutN.jpg"
-  },
-  {
    "id": "2113047771628314855",
    "text": "The correct, chronological (and most efficient) order to watch the films in leading up to Freddy vs Jason:\n\nA Nightmare on Elm Street\nF13 Part 2\nF13 Part 3\nF13 Part 4\nNightmare 3: Dream Warriors\nNightmare 4: Dream Master\nF13 Part 6\n\nTaking place from 1981-1990.",
    "url": "https://x.com/TheManlet_King/status/2113047771628314855",
@@ -77,9 +77,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 6,
    "repost_count": 2,
-   "like_count": 36,
+   "like_count": 47,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 7,
+   "like_count": 8,
    "image": ""
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
-   "repost_count": 78,
-   "like_count": 964,
+   "repost_count": 80,
+   "like_count": 995,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HEHebTfXYAAamo0.jpg"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 5,
-   "repost_count": 29,
-   "like_count": 249,
+   "repost_count": 30,
+   "like_count": 262,
    "image": "https://pbs.twimg.com/media/HVLoeEaWgAA1zfo.jpg"
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 3,
-   "repost_count": 39,
-   "like_count": 500,
+   "repost_count": 48,
+   "like_count": 557,
    "image": "https://pbs.twimg.com/media/HVLnJs9W8AAqh8Q.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVLmIWoXwAAEVOi.jpg"
   },
   {
@@ -175,9 +175,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 19,
+   "reply_count": 20,
    "repost_count": 14,
-   "like_count": 956,
+   "like_count": 971,
    "image": "https://pbs.twimg.com/media/HVLkto6WkAEo2Qp.jpg"
   }
  ]
