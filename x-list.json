@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T13:21:41+00:00",
+ "updated_at": "2026-10-22T13:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2113261593077416088",
+   "text": "S1 E4 'Meadowlands' | 579 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113261593077416088",
+   "created_at": "2026-10-22T13:30:00+00:00",
+   "sent_at": "2026-10-22T13:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVEJhnuWwAANCON.jpg"
+  },
   {
    "id": "2113258504761028640",
    "text": "Confirmed from @SpaceX They are targeting Starship Launching from Cape Canaveral before The end of 2026. With Starship landing in Starbase for Catch, and Booster landing back at Cape Canaveral! LFG! \ud83d\ude80\ud83d\ude80\ud83d\ude80 @NASASpaceflight",
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HVEJdxuWQAAb85o.jpg"
-  },
-  {
-   "id": "2113254042118082871",
-   "text": "S1 E4 'Meadowlands' | 577 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113254042118082871",
-   "created_at": "2026-10-22T13:00:00+00:00",
-   "sent_at": "2026-10-22T13:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HVEJad9WEAA2rR9.jpg"
   },
   {
    "id": "2113249045455962374",
@@ -63,9 +63,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 2,
-   "like_count": 28,
+   "like_count": 30,
    "image": "https://pbs.twimg.com/media/HVPEzPgWsAATA4q.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 32,
+   "like_count": 37,
    "image": "https://pbs.twimg.com/media/HVOlrVtWAAAdy1d.png"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
-   "repost_count": 14,
-   "like_count": 128,
+   "repost_count": 16,
+   "like_count": 140,
    "image": "https://pbs.twimg.com/media/HVOlV8pWkAEobn8.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 14,
+   "like_count": 15,
    "image": "https://pbs.twimg.com/media/HVN1gcGXYAAZ8-H.jpg"
   },
   {
