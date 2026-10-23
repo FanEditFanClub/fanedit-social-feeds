@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T03:06:40+00:00",
+ "updated_at": "2026-10-23T03:21:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2113469208860459351",
+   "text": "S1 E4 'Meadowlands' | 634 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113469208860459351",
+   "created_at": "2026-10-23T03:15:00+00:00",
+   "sent_at": "2026-10-23T03:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVO00iXWcAAetHT.jpg"
+  },
   {
    "id": "2113465449484779776",
    "text": "S1 E4 'Meadowlands' | 633 of 744",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HVO0rXpWoAAdGwQ.jpg"
   },
   {
-   "id": "2113461658769076349",
-   "text": "S1 E4 'Meadowlands' | 632 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113461658769076349",
-   "created_at": "2026-10-23T02:45:00+00:00",
-   "sent_at": "2026-10-23T02:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HVOwTM6XcAAUyeh.jpg"
-  },
-  {
    "id": "2113433939310432295",
    "text": "grant siblings are going through the horrors tonight I feel sick to my stomach",
    "url": "https://x.com/uhbucky/status/2113433939310432295",
@@ -50,8 +50,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 128,
-   "like_count": 549,
+   "repost_count": 130,
+   "like_count": 578,
    "image": "https://pbs.twimg.com/media/HVRs94hXkAEy7E0.jpg"
   },
   {
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 5,
-   "repost_count": 59,
-   "like_count": 408,
+   "repost_count": 60,
+   "like_count": 415,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2113433343215775744/img/9L0qVjcpfD-QcKYM.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 27,
+   "like_count": 29,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 45,
+   "like_count": 46,
    "image": "https://pbs.twimg.com/media/HVQrcM1XsAAOh4E.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 7,
    "repost_count": 34,
-   "like_count": 274,
+   "like_count": 277,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2113305277650870272/img/XKN7IeBmsyK8EN0i.jpg"
   }
  ]
