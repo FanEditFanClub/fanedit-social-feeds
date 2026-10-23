@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T17:36:40+00:00",
+ "updated_at": "2026-10-23T17:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,62 @@
  },
  "posts": [
   {
+   "id": "2113689155410518389",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - REVIEW of The M4 Book Edit - is this the best movie version of THE HOBBIT?.\n\nhttps://www.reddit.com/r/fanedits/comments/1xcnga0/review_of_the_m4_book_edit_is_this_the_best_movie/",
+   "url": "https://x.com/FanEditFanClub/status/2113689155410518389",
+   "created_at": "2026-10-23T17:48:59+00:00",
+   "sent_at": "2026-10-23T17:48:59+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2113689093917831246",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Wicked - For Good (Supercut).\n\nhttps://www.reddit.com/r/fanedits/comments/1xco71v/wicked_for_good_supercut/",
+   "url": "https://x.com/FanEditFanClub/status/2113689093917831246",
+   "created_at": "2026-10-23T17:48:45+00:00",
+   "sent_at": "2026-10-23T17:48:45+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2113688150610755587",
+   "text": "S1 E4 'Meadowlands' | 692 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113688150610755587",
+   "created_at": "2026-10-23T17:45:00+00:00",
+   "sent_at": "2026-10-23T17:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVO9AQZW4AEual0.jpg"
+  },
+  {
+   "id": "2113687074553626958",
+   "text": "https://transfer.it/t/fgRf6s53ERYb",
+   "url": "https://x.com/gnocchidrive/status/2113687074553626958",
+   "created_at": "2026-10-23T17:40:43+00:00",
+   "sent_at": "2026-10-23T17:40:43+00:00",
+   "author_name": "gnocchi",
+   "author_handle": "gnocchidrive",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
+   "reply_count": 2,
+   "repost_count": 0,
+   "like_count": 16,
+   "image": "https://pbs.twimg.com/media/HVVTK8sWoAAcHH5.jpg"
+  },
+  {
    "id": "2113685890367156429",
    "text": "If true this makes me very happy #Scream8",
    "url": "https://x.com/StebobM/status/2113685890367156429",
@@ -23,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -37,22 +93,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HVO85n7WgAAFAmn.jpg"
-  },
-  {
-   "id": "2113680601002000681",
-   "text": "S1 E4 'Meadowlands' | 690 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113680601002000681",
-   "created_at": "2026-10-23T17:15:00+00:00",
-   "sent_at": "2026-10-23T17:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVO8zK-XMAAzGLy.jpg"
+   "image": "https://pbs.twimg.com/media/HVO85n7WgAAFAmn.jpg"
   },
   {
    "id": "2113662454194393381",
@@ -65,22 +107,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 47,
+   "like_count": 58,
    "image": "https://pbs.twimg.com/media/HVU8yPhXgAEygCG.jpg"
-  },
-  {
-   "id": "2113662065583747332",
-   "text": "https://transfer.it/t/XAsA314xxBrK",
-   "url": "https://x.com/gnocchidrive/status/2113662065583747332",
-   "created_at": "2026-10-23T16:01:21+00:00",
-   "sent_at": "2026-10-23T16:01:21+00:00",
-   "author_name": "gnocchi",
-   "author_handle": "gnocchidrive",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 3,
-   "like_count": 39,
-   "image": "https://pbs.twimg.com/media/HVU8YoMXgAAnOU4.jpg"
   },
   {
    "id": "2113651515835519473",
@@ -97,34 +125,6 @@
    "image": "https://pbs.twimg.com/media/HVUy2KqXoAAy5Y_.jpg"
   },
   {
-   "id": "2113613400848601140",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Here's a Sneak Peek from \"The Bay Harbor Butcher\" | Coming Soon!.\n\nhttps://www.reddit.com/r/fanedits/comments/1xcf9xq/heres_a_sneak_peek_from_the_bay_harbor_butcher/",
-   "url": "https://x.com/FanEditFanClub/status/2113613400848601140",
-   "created_at": "2026-10-23T12:47:58+00:00",
-   "sent_at": "2026-10-23T12:47:58+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2113613337602695304",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Top 20 Viewed Halloween Fanedits.\n\nhttps://www.reddit.com/r/moviesremastered/comments/1xcg2q2/top_20_viewed_halloween_fanedits/",
-   "url": "https://x.com/FanEditFanClub/status/2113613337602695304",
-   "created_at": "2026-10-23T12:47:43+00:00",
-   "sent_at": "2026-10-23T12:47:43+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
    "id": "2113609735417033176",
    "text": "I can't keep pace at 70+ hour work weeks. I'm quiting my 2nd job and will just have to scrape by for a few months until I get my raise (pending on licence) at my main job.",
    "url": "https://x.com/TheManlet_King/status/2113609735417033176",
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 7,
    "repost_count": 2,
-   "like_count": 159,
+   "like_count": 160,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVUM2TvWcAAKE_o.jpg"
   },
   {
