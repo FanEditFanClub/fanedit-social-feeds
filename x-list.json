@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T22:06:40+00:00",
+ "updated_at": "2026-10-23T22:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2113756841679446176",
+   "text": "saw other people looking for their early hr tweets and I just got emo",
+   "url": "https://x.com/uhbucky/status/2113756841679446176",
+   "created_at": "2026-10-23T22:17:57+00:00",
+   "sent_at": "2026-10-23T22:17:57+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1635040562469273606/pu/img/9CJc2CJYacJtyDJy.jpg"
+  },
+  {
+   "id": "2113756098415280165",
+   "text": "S1 E4 'Meadowlands' | 710 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113756098415280165",
+   "created_at": "2026-10-23T22:15:00+00:00",
+   "sent_at": "2026-10-23T22:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVPEPAmWEAANPVS.jpg"
+  },
+  {
+   "id": "2113755933801103389",
+   "text": "Was cool to see actor Elliott Cowan who played Daron Vex on #SyfyKrypton\u2019s in #Clayface as Detective Laney",
+   "url": "https://x.com/StebobM/status/2113755933801103389",
+   "created_at": "2026-10-23T22:14:20+00:00",
+   "sent_at": "2026-10-23T22:14:20+00:00",
+   "author_name": "Man of Stevenween",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVWR0Z1XUAADu_v.jpg"
+  },
+  {
    "id": "2113752323466137685",
    "text": "S1 E4 'Meadowlands' | 709 of 744",
    "url": "https://x.com/SopranosOrder/status/2113752323466137685",
@@ -23,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVPEHSnXAAA55xX.jpg"
-  },
-  {
-   "id": "2113748548982595613",
-   "text": "S1 E4 'Meadowlands' | 708 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113748548982595613",
-   "created_at": "2026-10-23T21:45:00+00:00",
-   "sent_at": "2026-10-23T21:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 3,
-   "like_count": 8,
-   "image": "https://pbs.twimg.com/media/HVPD-whW4AAS04Q.jpg"
   },
   {
    "id": "2113740976611094708",
@@ -83,20 +111,6 @@
    "image": "https://pbs.twimg.com/media/HVV3lRGWYAANLnW.jpg"
   },
   {
-   "id": "2113715115673469187",
-   "text": "If you\u2019ve seen it there\u2019s literally no point where he\u2019d get involved or even be aware of what\u2019s happening.",
-   "url": "https://x.com/StebobM/status/2113715115673469187",
-   "created_at": "2026-10-23T19:32:09+00:00",
-   "sent_at": "2026-10-23T19:32:09+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 11,
-   "image": ""
-  },
-  {
    "id": "2113711759521357989",
    "text": "I just miss hollanov so badly please bring my sillies back I can\u2019t do this anymore",
    "url": "https://x.com/uhbucky/status/2113711759521357989",
@@ -106,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 82,
-   "like_count": 687,
+   "repost_count": 88,
+   "like_count": 729,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2008294450724831232/img/-zuJncS8I3tYL3cv.jpg"
   },
   {
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 51,
+   "like_count": 52,
    "image": "https://pbs.twimg.com/media/HVVbaEQW0AA-X88.jpg"
   },
   {
