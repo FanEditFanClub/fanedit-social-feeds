@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T18:36:39+00:00",
+ "updated_at": "2026-10-23T18:51:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2113703250314559900",
+   "text": "S1 E4 'Meadowlands' | 696 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113703250314559900",
+   "created_at": "2026-10-23T18:45:00+00:00",
+   "sent_at": "2026-10-23T18:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HVO9lzHW4AAg9JN.jpg"
+  },
+  {
+   "id": "2113701871768781248",
+   "text": "there is truly no place in the world they\u2019d rather be than in each other\u2019s arms my stomach hurts",
+   "url": "https://x.com/uhbucky/status/2113701871768781248",
+   "created_at": "2026-10-23T18:39:31+00:00",
+   "sent_at": "2026-10-23T18:39:31+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 56,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HDEgz5bboAA2bQs.jpg"
+  },
+  {
    "id": "2113699475885793351",
    "text": "S1 E4 'Meadowlands' | 695 of 744",
    "url": "https://x.com/SopranosOrder/status/2113699475885793351",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HVO9ewpW0AA77GW.jpg"
   },
   {
@@ -35,24 +63,10 @@
    "author_name": "gnocchi",
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 9,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/media/HVVbaEQW0AA-X88.jpg"
-  },
-  {
-   "id": "2113695701414867054",
-   "text": "S1 E4 'Meadowlands' | 694 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113695701414867054",
-   "created_at": "2026-10-23T18:15:00+00:00",
-   "sent_at": "2026-10-23T18:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HVO9Mg6XoAA8SYQ.jpg"
   },
   {
    "id": "2113689155410518389",
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 2,
    "repost_count": 1,
-   "like_count": 39,
+   "like_count": 44,
    "image": "https://pbs.twimg.com/media/HVVTK8sWoAAcHH5.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 8,
    "image": ""
   },
   {
