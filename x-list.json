@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T17:21:39+00:00",
+ "updated_at": "2026-10-23T17:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2113685890367156429",
+   "text": "If true this makes me very happy #Scream8",
+   "url": "https://x.com/StebobM/status/2113685890367156429",
+   "created_at": "2026-10-23T17:36:01+00:00",
+   "sent_at": "2026-10-23T17:36:01+00:00",
+   "author_name": "Man of Steven 13 \ud83d\udd2a",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2113684376638701964",
+   "text": "S1 E4 'Meadowlands' | 691 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113684376638701964",
+   "created_at": "2026-10-23T17:30:00+00:00",
+   "sent_at": "2026-10-23T17:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVO85n7WgAAFAmn.jpg"
+  },
   {
    "id": "2113680601002000681",
    "text": "S1 E4 'Meadowlands' | 690 of 744",
@@ -27,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HVO8zK-XMAAzGLy.jpg"
   },
   {
-   "id": "2113676829080862757",
-   "text": "S1 E4 'Meadowlands' | 689 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113676829080862757",
-   "created_at": "2026-10-23T17:00:00+00:00",
-   "sent_at": "2026-10-23T17:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVO8tPmXYAAL3lw.jpg"
-  },
-  {
    "id": "2113662454194393381",
    "text": "https://transfer.it/t/faGb3941QBrA",
    "url": "https://x.com/gnocchidrive/status/2113662454194393381",
@@ -49,9 +63,9 @@
    "author_name": "gnocchi",
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 38,
+   "like_count": 47,
    "image": "https://pbs.twimg.com/media/HVU8yPhXgAEygCG.jpg"
   },
   {
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 33,
+   "like_count": 39,
    "image": "https://pbs.twimg.com/media/HVU8YoMXgAAnOU4.jpg"
   },
   {
@@ -81,20 +95,6 @@
    "repost_count": 1,
    "like_count": 6,
    "image": "https://pbs.twimg.com/media/HVUy2KqXoAAy5Y_.jpg"
-  },
-  {
-   "id": "2113645740354650322",
-   "text": "Anyone saying it feels like a Sony movie is plain wrong. This film actually makes sense as a standalone.",
-   "url": "https://x.com/StebobM/status/2113645740354650322",
-   "created_at": "2026-10-23T14:56:28+00:00",
-   "sent_at": "2026-10-23T14:56:28+00:00",
-   "author_name": "Man of Steven 13 \ud83d\udd2a",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2100582458517258240/OddY8rYR_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 9,
-   "image": ""
   },
   {
    "id": "2113613400848601140",
@@ -151,20 +151,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2113532123617374586",
-   "text": "Tim Sweeney gotta be publicly executed atp",
-   "url": "https://x.com/jrsilentboba/status/2113532123617374586",
-   "created_at": "2026-10-23T07:25:00+00:00",
-   "sent_at": "2026-10-23T07:25:00+00:00",
-   "author_name": "jrsilentboba",
-   "author_handle": "jrsilentboba",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2012170182035116032/_wPREpOl_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2113532111298641920/img/aSMQXZjYg0tIO5bg.jpg"
   }
  ]
 }
