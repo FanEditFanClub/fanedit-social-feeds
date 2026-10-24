@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T13:06:59+00:00",
+ "updated_at": "2026-10-24T13:21:43+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -7,6 +7,21 @@
   "picture": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2113981887886635291",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Top 20 Most Viewed Fanedits from the Evil Dead Franchise.\n\nhttps://www.reddit.com/r/moviesremastered/comments/1xdb4qi/top_20_most_viewed_fanedits_from_the_evil_dead/",
+   "url": "https://x.com/FanEditFanClub/status/2113981887886635291",
+   "sent_at": "2026-10-24T13:12:12+00:00",
+   "created_at": "2026-10-24T13:12:12+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "syndication"
+  },
   {
    "id": "2113916933749743997",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - The OA: Part I & II.\n\nhttps://www.reddit.com/r/fanedits/comments/1xd49oz/the_oa_part_i_ii/",
@@ -133,21 +148,6 @@
    "url": "https://x.com/2072539271450312704/status/2113613400848601140",
    "sent_at": "2026-10-23T12:47:58+00:00",
    "created_at": "2026-10-23T12:47:58+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2113613337602695304",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Top 20 Viewed Halloween Fanedits.\n\nhttps://www.reddit.com/r/moviesremastered/comments/1xcg2q2/top_20_viewed_halloween_fanedits/",
-   "url": "https://x.com/2072539271450312704/status/2113613337602695304",
-   "sent_at": "2026-10-23T12:47:43+00:00",
-   "created_at": "2026-10-23T12:47:43+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "",
