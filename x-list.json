@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T02:51:41+00:00",
+ "updated_at": "2026-10-24T03:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2113827831923065106",
+   "text": "S1 E4 'Meadowlands' | 729 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113827831923065106",
+   "created_at": "2026-10-24T03:00:02+00:00",
+   "sent_at": "2026-10-24T03:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVTuxWeWMAAM88C.jpg"
+  },
+  {
    "id": "2113824545463238668",
    "text": "sofia gigante",
    "url": "https://x.com/mandevil23edits/status/2113824545463238668",
@@ -22,8 +36,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
+   "repost_count": 2,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/media/HVXQOCEXQAAz-QN.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HVTuqVdXsAA8WC_.jpg"
   },
   {
-   "id": "2113820272692232313",
-   "text": "S1 E4 'Meadowlands' | 727 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113820272692232313",
-   "created_at": "2026-10-24T02:30:00+00:00",
-   "sent_at": "2026-10-24T02:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HVTujyUXkAAtnJQ.jpg"
-  },
-  {
    "id": "2113813101611008174",
    "text": "this doomsday movie about to clear a smooth two billion easy money",
    "url": "https://x.com/mandevil23edits/status/2113813101611008174",
@@ -63,9 +63,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 4,
    "repost_count": 2,
-   "like_count": 45,
+   "like_count": 51,
    "image": ""
   },
   {
@@ -77,9 +77,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 49,
-   "repost_count": 134,
-   "like_count": 2843,
+   "reply_count": 53,
+   "repost_count": 158,
+   "like_count": 3406,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
    "repost_count": 0,
-   "like_count": 193,
+   "like_count": 196,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1635040562469273606/pu/img/9CJc2CJYacJtyDJy.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HVWR0Z1XUAADu_v.jpg"
   },
   {
@@ -161,9 +161,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 199,
-   "like_count": 1583,
+   "reply_count": 2,
+   "repost_count": 204,
+   "like_count": 1625,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2008294450724831232/img/-zuJncS8I3tYL3cv.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 60,
+   "like_count": 62,
    "image": "https://pbs.twimg.com/media/HVVbaEQW0AA-X88.jpg"
   }
  ]
