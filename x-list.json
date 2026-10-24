@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T16:21:39+00:00",
+ "updated_at": "2026-10-24T16:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2114031665660178438",
+   "text": "S1 E5 \u2018College\u2019 | 39 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114031665660178438",
+   "created_at": "2026-10-24T16:30:00+00:00",
+   "sent_at": "2026-10-24T16:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVT0G9RXEAAgaR1.jpg"
+  },
+  {
    "id": "2114028634151252268",
    "text": "\"i'm coming after all of you, and hell's coming with me.\"",
    "url": "https://x.com/mandevil23edits/status/2114028634151252268",
@@ -22,7 +36,7 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
+   "repost_count": 1,
    "like_count": 0,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1876437477906382848/pu/img/Om_uRdLmP83ktFFt.jpg"
   },
@@ -36,8 +50,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
+   "repost_count": 2,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HVT0BmbWIAAiPhT.jpg"
   },
   {
@@ -50,23 +64,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 10,
+   "repost_count": 2,
+   "like_count": 22,
    "image": "https://pbs.twimg.com/media/HVaGrvkXwAAGYIj.jpg"
-  },
-  {
-   "id": "2114024121701212305",
-   "text": "S1 E5 \u2018College\u2019 | 37 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114024121701212305",
-   "created_at": "2026-10-24T16:00:01+00:00",
-   "sent_at": "2026-10-24T16:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 3,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HVTz7diWAAAvZxJ.jpg"
   },
   {
    "id": "2114011582619357626",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 34,
+   "like_count": 39,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVZ6U4IWoAAAkVR.jpg"
   },
   {
