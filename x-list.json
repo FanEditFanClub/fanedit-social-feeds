@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T06:36:41+00:00",
+ "updated_at": "2026-10-24T06:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2113884444176105820",
+   "text": "S1 E4 'Meadowlands' | 744 of 744",
+   "url": "https://x.com/SopranosOrder/status/2113884444176105820",
+   "created_at": "2026-10-24T06:45:00+00:00",
+   "sent_at": "2026-10-24T06:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVTwOveWAAEonnE.jpg"
+  },
+  {
    "id": "2113880669252198737",
    "text": "S1 E4 'Meadowlands' | 743 of 744",
    "url": "https://x.com/SopranosOrder/status/2113880669252198737",
@@ -22,8 +36,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
+   "repost_count": 2,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HVTwJVgXAAEF3Pr.jpg"
   },
   {
@@ -36,23 +50,9 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2113876894374326313",
-   "text": "S1 E4 'Meadowlands' | 742 of 744",
-   "url": "https://x.com/SopranosOrder/status/2113876894374326313",
-   "created_at": "2026-10-24T06:15:00+00:00",
-   "sent_at": "2026-10-24T06:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HVTwCpGWUAEf3MZ.jpg"
   },
   {
    "id": "2113875713455718464",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HVX806vWMAEK4aO.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 16,
+   "like_count": 17,
    "image": "https://pbs.twimg.com/media/HVX7XsJXsAAWJSg.jpg"
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 74,
-   "repost_count": 406,
-   "like_count": 8529,
+   "reply_count": 76,
+   "repost_count": 414,
+   "like_count": 8741,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 9,
    "repost_count": 0,
-   "like_count": 296,
+   "like_count": 301,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1635040562469273606/pu/img/9CJc2CJYacJtyDJy.jpg"
   },
   {
@@ -162,8 +162,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 2,
-   "repost_count": 323,
-   "like_count": 2591,
+   "repost_count": 327,
+   "like_count": 2666,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2008294450724831232/img/-zuJncS8I3tYL3cv.jpg"
   }
  ]
