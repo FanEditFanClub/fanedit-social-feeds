@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T23:21:38+00:00",
+ "updated_at": "2026-10-24T23:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2114137362456301899",
+   "text": "S1 E5 \u2018College\u2019 | 67 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114137362456301899",
+   "created_at": "2026-10-24T23:30:00+00:00",
+   "sent_at": "2026-10-24T23:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVYywIYWMAAydOc.jpg"
+  },
+  {
    "id": "2114133585846563281",
    "text": "S1 E5 \u2018College\u2019 | 66 of 632",
    "url": "https://x.com/SopranosOrder/status/2114133585846563281",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVYypdKX0AAr2ji.jpg"
-  },
-  {
-   "id": "2114129810893230223",
-   "text": "S1 E5 \u2018College\u2019 | 65 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114129810893230223",
-   "created_at": "2026-10-24T23:00:00+00:00",
-   "sent_at": "2026-10-24T23:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVYyiW2XkAAq7F6.jpg"
   },
   {
    "id": "2114117068543209829",
@@ -49,9 +49,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 11,
+   "reply_count": 16,
    "repost_count": 0,
-   "like_count": 10,
+   "like_count": 12,
    "image": ""
   },
   {
@@ -77,9 +77,9 @@
    "author_name": "Man of Stevenween",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 12,
+   "reply_count": 16,
    "repost_count": 3,
-   "like_count": 20,
+   "like_count": 24,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 25,
+   "like_count": 27,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 4,
    "repost_count": 8,
-   "like_count": 32,
+   "like_count": 34,
    "image": ""
   },
   {
@@ -150,20 +150,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 1,
-   "image": ""
-  },
-  {
-   "id": "2113955411678335374",
-   "text": "So he\u2019s likely the one actor not to then given Sneider\u2019s reputation",
-   "url": "https://x.com/StebobM/status/2113955411678335374",
-   "created_at": "2026-10-24T11:27:00+00:00",
-   "sent_at": "2026-10-24T11:27:00+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 5,
    "image": ""
   }
  ]
