@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T15:51:40+00:00",
+ "updated_at": "2026-10-24T16:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114025280235004321",
+   "text": "as a hardcore horror fan, this body horror flick was made for me.",
+   "url": "https://x.com/mandevil23edits/status/2114025280235004321",
+   "created_at": "2026-10-24T16:04:38+00:00",
+   "sent_at": "2026-10-24T16:04:38+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVaGrvkXwAAGYIj.jpg"
+  },
+  {
+   "id": "2114024121701212305",
+   "text": "S1 E5 \u2018College\u2019 | 37 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114024121701212305",
+   "created_at": "2026-10-24T16:00:01+00:00",
+   "sent_at": "2026-10-24T16:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 2,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVTz7diWAAAvZxJ.jpg"
+  },
+  {
    "id": "2114020339512717564",
    "text": "S1 E5 \u2018College\u2019 | 36 of 632",
    "url": "https://x.com/SopranosOrder/status/2114020339512717564",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HVTz1qKWUAAPBqj.jpg"
-  },
-  {
-   "id": "2114016566916325383",
-   "text": "S1 E5 \u2018College\u2019 | 35 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114016566916325383",
-   "created_at": "2026-10-24T15:30:00+00:00",
-   "sent_at": "2026-10-24T15:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVTzv3gXoAAqhiY.jpg"
   },
   {
    "id": "2114011582619357626",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 28,
+   "like_count": 33,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVZ6U4IWoAAAkVR.jpg"
   },
   {
@@ -134,23 +148,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 4,
-   "repost_count": 1,
-   "like_count": 27,
-   "image": ""
-  },
-  {
-   "id": "2113905293772152986",
-   "text": "my art of adria arjona as dcu wonder woman",
-   "url": "https://x.com/mandevil23edits/status/2113905293772152986",
-   "created_at": "2026-10-24T08:07:51+00:00",
-   "sent_at": "2026-10-24T08:07:51+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 0,
+   "repost_count": 2,
    "like_count": 28,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2113905251321368576/img/UIeLlN3ISvtNa-5U.jpg"
+   "image": ""
   }
  ]
 }
