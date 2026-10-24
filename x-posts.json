@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T21:36:39+00:00",
+ "updated_at": "2026-10-24T21:51:41+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -7,6 +7,21 @@
   "picture": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2114109151743824008",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Avengers fan Edit link.\n\nhttps://www.reddit.com/r/fanedits/comments/1xdoiuo/avengers_fan_edit_link/",
+   "url": "https://x.com/FanEditFanClub/status/2114109151743824008",
+   "sent_at": "2026-10-24T21:37:54+00:00",
+   "created_at": "2026-10-24T21:37:54+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "syndication"
+  },
   {
    "id": "2114070302007108040",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - When a Stranger Calls: The Extended Call Cut.\n\nhttps://www.reddit.com/r/fanedits/comments/1xdmhm0/when_a_stranger_calls_the_extended_call_cut/",
@@ -48,7 +63,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "",
    "source": "syndication"
   },
@@ -133,21 +148,6 @@
    "url": "https://x.com/2072539271450312704/status/2113689093917831246",
    "sent_at": "2026-10-23T17:48:45+00:00",
    "created_at": "2026-10-23T17:48:45+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2113689038305513825",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - superman returns extended 169 minutes..\n\nhttps://www.reddit.com/r/fanedits/comments/1xcp80o/superman_returns_extended_169_minutes/",
-   "url": "https://x.com/2072539271450312704/status/2113689038305513825",
-   "sent_at": "2026-10-23T17:48:31+00:00",
-   "created_at": "2026-10-23T17:48:31+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "",
