@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T18:21:39+00:00",
+ "updated_at": "2026-10-24T18:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114061863969272304",
+   "text": "S1 E5 \u2018College\u2019 | 47 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114061863969272304",
+   "created_at": "2026-10-24T18:30:00+00:00",
+   "sent_at": "2026-10-24T18:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVT07weXAAARzrk.jpg"
+  },
+  {
+   "id": "2114060529731866779",
+   "text": "you whitewashed a already white dude just to say a slur",
+   "url": "https://x.com/mandevil23edits/status/2114060529731866779",
+   "created_at": "2026-10-24T18:24:42+00:00",
+   "sent_at": "2026-10-24T18:24:42+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2114060510991642624/img/gBX4OMY1y5XglEgO.jpg"
+  },
+  {
    "id": "2114058088454214092",
    "text": "S1 E5 \u2018College\u2019 | 46 of 632",
    "url": "https://x.com/SopranosOrder/status/2114058088454214092",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HVT01eTWYAAasAX.jpg"
-  },
-  {
-   "id": "2114054318215336151",
-   "text": "S1 E5 \u2018College\u2019 | 45 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114054318215336151",
-   "created_at": "2026-10-24T18:00:01+00:00",
-   "sent_at": "2026-10-24T18:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HVT0vmFWoAAogRN.jpg"
   },
   {
    "id": "2114045392920965195",
@@ -49,9 +63,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 3,
-   "like_count": 35,
+   "reply_count": 3,
+   "repost_count": 4,
+   "like_count": 42,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2114044044422590464/img/h-8ZBGp5FMne_Fp6.jpg"
   },
   {
@@ -65,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 6,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1876437477906382848/pu/img/Om_uRdLmP83ktFFt.jpg"
-  },
-  {
-   "id": "2114025280235004321",
-   "text": "as a hardcore horror fan, this body horror flick was made for me.",
-   "url": "https://x.com/mandevil23edits/status/2114025280235004321",
-   "created_at": "2026-10-24T16:04:38+00:00",
-   "sent_at": "2026-10-24T16:04:38+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 3,
-   "like_count": 37,
-   "image": "https://pbs.twimg.com/media/HVaGrvkXwAAGYIj.jpg"
   },
   {
    "id": "2114011582619357626",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 54,
+   "like_count": 55,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVZ6U4IWoAAAkVR.jpg"
   },
   {
