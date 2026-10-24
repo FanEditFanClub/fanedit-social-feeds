@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T15:36:38+00:00",
+ "updated_at": "2026-10-24T15:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2114020339512717564",
+   "text": "S1 E5 \u2018College\u2019 | 36 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114020339512717564",
+   "created_at": "2026-10-24T15:45:00+00:00",
+   "sent_at": "2026-10-24T15:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVTz1qKWUAAPBqj.jpg"
+  },
+  {
    "id": "2114016566916325383",
    "text": "S1 E5 \u2018College\u2019 | 35 of 632",
    "url": "https://x.com/SopranosOrder/status/2114016566916325383",
@@ -22,23 +36,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVTzv3gXoAAqhiY.jpg"
-  },
-  {
-   "id": "2114012790096822521",
-   "text": "S1 E5 \u2018College\u2019 | 34 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114012790096822521",
-   "created_at": "2026-10-24T15:15:00+00:00",
-   "sent_at": "2026-10-24T15:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
+   "repost_count": 1,
    "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVTzqXYX0AASTQs.jpg"
+   "image": "https://pbs.twimg.com/media/HVTzv3gXoAAqhiY.jpg"
   },
   {
    "id": "2114011582619357626",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 19,
+   "like_count": 28,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVZ6U4IWoAAAkVR.jpg"
   },
   {
