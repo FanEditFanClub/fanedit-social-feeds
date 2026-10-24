@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T11:51:39+00:00",
+ "updated_at": "2026-10-24T12:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2113963733592453584",
+   "text": "S1 E5 \u2018College\u2019 | 21 of 632",
+   "url": "https://x.com/SopranosOrder/status/2113963733592453584",
+   "created_at": "2026-10-24T12:00:04+00:00",
+   "sent_at": "2026-10-24T12:00:04+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVTydrkXEAA-N2g.jpg"
+  },
+  {
+   "id": "2113962790692253957",
+   "text": "Top 20 Most Viewed Fanedits from the Evil Dead Franchise https://www.reddit.com/r/moviesremastered/comments/1xdb4qi/top_20_most_viewed_fanedits_from_the_evil_dead/",
+   "url": "https://x.com/MoviesRemaster/status/2113962790692253957",
+   "created_at": "2026-10-24T11:56:19+00:00",
+   "sent_at": "2026-10-24T11:56:19+00:00",
+   "author_name": "Movies Remastered",
+   "author_handle": "MoviesRemaster",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1816591966303342592/8fBVI70g_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2113959942134579234",
    "text": "S1 E5 \u2018College\u2019 | 20 of 632",
    "url": "https://x.com/SopranosOrder/status/2113959942134579234",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVTyXWfWAAAKvFm.jpg"
-  },
-  {
-   "id": "2113956167634272419",
-   "text": "S1 E5 \u2018College\u2019 | 19 of 632",
-   "url": "https://x.com/SopranosOrder/status/2113956167634272419",
-   "created_at": "2026-10-24T11:30:00+00:00",
-   "sent_at": "2026-10-24T11:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVTyQ6TXsAApcqr.jpg"
   },
   {
    "id": "2113955411678335374",
@@ -91,9 +105,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 4,
    "repost_count": 0,
-   "like_count": 15,
+   "like_count": 16,
    "image": ""
   },
   {
