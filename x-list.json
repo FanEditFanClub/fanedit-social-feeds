@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T11:21:40+00:00",
+ "updated_at": "2026-10-24T11:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2113956167634272419",
+   "text": "S1 E5 \u2018College\u2019 | 19 of 632",
+   "url": "https://x.com/SopranosOrder/status/2113956167634272419",
+   "created_at": "2026-10-24T11:30:00+00:00",
+   "sent_at": "2026-10-24T11:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVTyQ6TXsAApcqr.jpg"
+  },
+  {
+   "id": "2113955411678335374",
+   "text": "So he\u2019s likely the one actor not to then given Sneider\u2019s reputation",
+   "url": "https://x.com/StebobM/status/2113955411678335374",
+   "created_at": "2026-10-24T11:27:00+00:00",
+   "sent_at": "2026-10-24T11:27:00+00:00",
+   "author_name": "Man of Stevenween",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2113952392614191351",
    "text": "S1 E5 \u2018College\u2019 | 18 of 632",
    "url": "https://x.com/SopranosOrder/status/2113952392614191351",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVTyH9OXQAAL09e.jpg"
-  },
-  {
-   "id": "2113948620089430202",
-   "text": "S1 E5 \u2018College\u2019 | 17 of 632",
-   "url": "https://x.com/SopranosOrder/status/2113948620089430202",
-   "created_at": "2026-10-24T11:00:00+00:00",
-   "sent_at": "2026-10-24T11:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVTyBtnWEAE5ceE.jpg"
+   "image": "https://pbs.twimg.com/media/HVTyH9OXQAAL09e.jpg"
   },
   {
    "id": "2113942337529213274",
@@ -53,20 +67,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2113937297343496515",
-   "text": "Just found out Disney banned an awesome horror episode of Mickey Mouse titled Runaway Brain. There is huge demand for it as well just release this just release it with merchandise. It\u2019s a money making no brainer.\n\nWhat is with studios & ignoring what audiences want?",
-   "url": "https://x.com/StebobM/status/2113937297343496515",
-   "created_at": "2026-10-24T10:15:01+00:00",
-   "sent_at": "2026-10-24T10:15:01+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVY2xDpWUAAN2iL.jpg"
   },
   {
    "id": "2113916933749743997",
@@ -122,20 +122,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2113785605033226479",
-   "text": "It's funny because there's a trope of slashers being morality plays, but Friday the 13th is the only one that really feels that way.\n\nJason is the king of stone cold incels. He hates pot, trespassing, loud music, and absolutely LOATHS premarital sex.",
-   "url": "https://x.com/TheManlet_King/status/2113785605033226479",
-   "created_at": "2026-10-24T00:12:15+00:00",
-   "sent_at": "2026-10-24T00:12:15+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 94,
-   "repost_count": 541,
-   "like_count": 12029,
    "image": ""
   }
  ]
