@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T16:36:40+00:00",
+ "updated_at": "2026-10-24T16:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2114035439527149815",
+   "text": "S1 E5 \u2018College\u2019 | 40 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114035439527149815",
+   "created_at": "2026-10-24T16:45:00+00:00",
+   "sent_at": "2026-10-24T16:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVT0PdFXAAAB593.jpg"
+  },
+  {
    "id": "2114031665660178438",
    "text": "S1 E5 \u2018College\u2019 | 39 of 632",
    "url": "https://x.com/SopranosOrder/status/2114031665660178438",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVT0G9RXEAAgaR1.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1876437477906382848/pu/img/Om_uRdLmP83ktFFt.jpg"
   },
   {
-   "id": "2114027890023014516",
-   "text": "S1 E5 \u2018College\u2019 | 38 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114027890023014516",
-   "created_at": "2026-10-24T16:15:00+00:00",
-   "sent_at": "2026-10-24T16:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 8,
-   "image": "https://pbs.twimg.com/media/HVT0BmbWIAAiPhT.jpg"
-  },
-  {
    "id": "2114025280235004321",
    "text": "as a hardcore horror fan, this body horror flick was made for me.",
    "url": "https://x.com/mandevil23edits/status/2114025280235004321",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 22,
+   "like_count": 23,
    "image": "https://pbs.twimg.com/media/HVaGrvkXwAAGYIj.jpg"
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 39,
+   "like_count": 42,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVZ6U4IWoAAAkVR.jpg"
   },
   {
