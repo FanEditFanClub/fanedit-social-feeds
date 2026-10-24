@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T08:06:38+00:00",
+ "updated_at": "2026-10-24T08:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2113907093325373682",
+   "text": "S1 E5 \u2018College\u2019 | 6 of 632",
+   "url": "https://x.com/SopranosOrder/status/2113907093325373682",
+   "created_at": "2026-10-24T08:15:00+00:00",
+   "sent_at": "2026-10-24T08:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVTxD-uW0AAMPil.jpg"
+  },
+  {
+   "id": "2113905293772152986",
+   "text": "my art of adria arjona as dcu wonder woman",
+   "url": "https://x.com/mandevil23edits/status/2113905293772152986",
+   "created_at": "2026-10-24T08:07:51+00:00",
+   "sent_at": "2026-10-24T08:07:51+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2113905251321368576/img/UIeLlN3ISvtNa-5U.jpg"
+  },
+  {
    "id": "2113903687080804810",
    "text": "i understood those references",
    "url": "https://x.com/mandevil23edits/status/2113903687080804810",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVYYMwFXMAAYJCt.jpg"
   },
   {
@@ -41,34 +69,6 @@
    "image": "https://pbs.twimg.com/media/HVTw9kbXYAAeEbB.jpg"
   },
   {
-   "id": "2113900320439058443",
-   "text": "good morning",
-   "url": "https://x.com/mandevil23edits/status/2113900320439058443",
-   "created_at": "2026-10-24T07:48:05+00:00",
-   "sent_at": "2026-10-24T07:48:05+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVYVIqGWEAAaWKk.jpg"
-  },
-  {
-   "id": "2113899543763009679",
-   "text": "S1 E5 \u2018College\u2019 | 4 of 632",
-   "url": "https://x.com/SopranosOrder/status/2113899543763009679",
-   "created_at": "2026-10-24T07:45:00+00:00",
-   "sent_at": "2026-10-24T07:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HVTw3IRWAAAas1O.jpg"
-  },
-  {
    "id": "2113878410439385556",
    "text": "I\u2019ll say this they\u2019re two totally different types of movies. Joker was an experience but one I don\u2019t ever intend to revisit again. Clayface is entertaining in a completely different way & I\u2019ll definitely watch it again",
    "url": "https://x.com/StebobM/status/2113878410439385556",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 2,
    "repost_count": 2,
-   "like_count": 12,
+   "like_count": 14,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 81,
-   "repost_count": 446,
-   "like_count": 9673,
+   "reply_count": 82,
+   "repost_count": 453,
+   "like_count": 9890,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 9,
    "repost_count": 0,
-   "like_count": 335,
+   "like_count": 342,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1635040562469273606/pu/img/9CJc2CJYacJtyDJy.jpg"
   },
   {
