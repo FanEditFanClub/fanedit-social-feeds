@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T10:21:41+00:00",
+ "updated_at": "2026-10-24T10:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2113942337529213274",
+   "text": "RIP \ud83d\ude14",
+   "url": "https://x.com/StebobM/status/2113942337529213274",
+   "created_at": "2026-10-24T10:35:03+00:00",
+   "sent_at": "2026-10-24T10:35:03+00:00",
+   "author_name": "Man of Stevenween",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2113941069029384573",
+   "text": "S1 E5 \u2018College\u2019 | 15 of 632",
+   "url": "https://x.com/SopranosOrder/status/2113941069029384573",
+   "created_at": "2026-10-24T10:30:00+00:00",
+   "sent_at": "2026-10-24T10:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVTx2AhW4AAFFs5.jpg"
+  },
+  {
    "id": "2113937297343496515",
    "text": "Just found out Disney banned an awesome horror episode of Mickey Mouse titled Runaway Brain. There is huge demand for it as well just release this just release it with merchandise. It\u2019s a money making no brainer.\n\nWhat is with studios & ignoring what audiences want?",
    "url": "https://x.com/StebobM/status/2113937297343496515",
@@ -22,8 +50,8 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
+   "repost_count": 2,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVY2xDpWUAAN2iL.jpg"
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVTxxK3XsAAkHuf.jpg"
-  },
-  {
-   "id": "2113933518539727286",
-   "text": "S1 E5 \u2018College\u2019 | 13 of 632",
-   "url": "https://x.com/SopranosOrder/status/2113933518539727286",
-   "created_at": "2026-10-24T10:00:00+00:00",
-   "sent_at": "2026-10-24T10:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVTxrgIXsAAC_3E.jpg"
   },
   {
    "id": "2113916933749743997",
@@ -69,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2113916253559500992",
-   "text": "Hear Hear, people falling out over political views is so f\u2019n stupid. Problem is social media has made people think they have to live in echo chambers and that opposing views should be rejected rather than understanding that you feel differently",
-   "url": "https://x.com/StebobM/status/2113916253559500992",
-   "created_at": "2026-10-24T08:51:24+00:00",
-   "sent_at": "2026-10-24T08:51:24+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
-  },
-  {
    "id": "2113908801632121001",
    "text": "i liked it more than the critics did",
    "url": "https://x.com/mandevil23edits/status/2113908801632121001",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 14,
+   "like_count": 15,
    "image": ""
   },
   {
@@ -133,9 +133,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 90,
-   "repost_count": 511,
-   "like_count": 11192,
+   "reply_count": 92,
+   "repost_count": 517,
+   "like_count": 11372,
    "image": ""
   }
  ]
