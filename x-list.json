@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T12:51:39+00:00",
+ "updated_at": "2026-10-25T13:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114341213130101176",
+   "text": "S1 E5 \u2018College\u2019 | 117 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114341213130101176",
+   "created_at": "2026-10-25T13:00:02+00:00",
+   "sent_at": "2026-10-25T13:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVY3U0IXUAAXTSa.jpg"
+  },
+  {
+   "id": "2114340515067937265",
+   "text": "Ok so the consensus is:\n\nJust watch III\n\nWatch Halloween 1, 2 & then EITHER 4 or H20 then stop.\n\nAlternatively, watch 1, 2018, & then stop with Kills.\n\nDON'T watch the Rob Zombie films\n\nFunny that no matter which timeline you pick, the final film sucks. Crap endings all-around.",
+   "url": "https://x.com/TheManlet_King/status/2114340515067937265",
+   "created_at": "2026-10-25T12:57:15+00:00",
+   "sent_at": "2026-10-25T12:57:15+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVelflFXQAErTKu.jpg"
+  },
+  {
    "id": "2114337429834342647",
    "text": "S1 E5 \u2018College\u2019 | 116 of 632",
    "url": "https://x.com/SopranosOrder/status/2114337429834342647",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVY3OpFXwAAPjZR.jpg"
-  },
-  {
-   "id": "2114333657741533695",
-   "text": "S1 E5 \u2018College\u2019 | 115 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114333657741533695",
-   "created_at": "2026-10-25T12:30:01+00:00",
-   "sent_at": "2026-10-25T12:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVY3IWvWkAA8dUZ.jpg"
   },
   {
    "id": "2114291025326096541",
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 4,
    "repost_count": 3,
-   "like_count": 41,
+   "like_count": 42,
    "image": "https://pbs.twimg.com/media/HVdV2nTXYAECCxa.jpg"
   },
   {
@@ -147,9 +161,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 20,
-   "repost_count": 177,
-   "like_count": 6902,
+   "reply_count": 21,
+   "repost_count": 178,
+   "like_count": 6945,
    "image": ""
   },
   {
