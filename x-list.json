@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T00:21:39+00:00",
+ "updated_at": "2026-10-25T00:36:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2114152460352675901",
+   "text": "S1 E5 \u2018College\u2019 | 71 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114152460352675901",
+   "created_at": "2026-10-25T00:30:00+00:00",
+   "sent_at": "2026-10-25T00:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HVYzKcqWcAA58Ec.jpg"
+  },
   {
    "id": "2114148685248594328",
    "text": "S1 E5 \u2018College\u2019 | 70 of 632",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HVYzE0OWkAAfzsp.jpg"
   },
   {
-   "id": "2114144919522590876",
-   "text": "S1 E5 \u2018College\u2019 | 69 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114144919522590876",
-   "created_at": "2026-10-25T00:00:02+00:00",
-   "sent_at": "2026-10-25T00:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVYy-ofWAAA0PNt.jpg"
-  },
-  {
    "id": "2114140088166764971",
    "text": "it\u2019s so funny watching actual hockey games cause I\u2019m like damn how did ilya and shane have time to say all of that during their face offs",
    "url": "https://x.com/uhbucky/status/2114140088166764971",
@@ -49,9 +49,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 7,
-   "like_count": 229,
+   "reply_count": 7,
+   "repost_count": 10,
+   "like_count": 497,
    "image": ""
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 23,
    "repost_count": 1,
-   "like_count": 19,
+   "like_count": 21,
    "image": ""
   },
   {
@@ -91,9 +91,9 @@
    "author_name": "Man of Stevenween",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 24,
-   "repost_count": 4,
-   "like_count": 45,
+   "reply_count": 25,
+   "repost_count": 6,
+   "like_count": 51,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 1,
-   "like_count": 75,
+   "like_count": 76,
    "image": "https://pbs.twimg.com/media/HVbD6yeWwAEh_mF.jpg"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 4,
-   "repost_count": 8,
-   "like_count": 40,
+   "repost_count": 9,
+   "like_count": 41,
    "image": ""
   },
   {
