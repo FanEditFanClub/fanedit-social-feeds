@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T20:21:39+00:00",
+ "updated_at": "2026-10-25T20:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114454451033649292",
+   "text": "S1 E5 \u2018College\u2019 | 147 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114454451033649292",
+   "created_at": "2026-10-25T20:30:00+00:00",
+   "sent_at": "2026-10-25T20:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVY5_aOXgAA5CsM.jpg"
+  },
+  {
+   "id": "2114453617054769548",
+   "text": "real ones knew it was gonna hit from the first teaser trailer",
+   "url": "https://x.com/mandevil23edits/status/2114453617054769548",
+   "created_at": "2026-10-25T20:26:41+00:00",
+   "sent_at": "2026-10-25T20:26:41+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": ""
+  },
+  {
    "id": "2114450675057016964",
    "text": "S1 E5 \u2018College\u2019 | 146 of 632",
    "url": "https://x.com/SopranosOrder/status/2114450675057016964",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVY53YkWwAAUF9m.jpg"
-  },
-  {
-   "id": "2114446900288217117",
-   "text": "S1 E5 \u2018College\u2019 | 145 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114446900288217117",
-   "created_at": "2026-10-25T20:00:00+00:00",
-   "sent_at": "2026-10-25T20:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HVY5w32WQAA6LOc.jpg"
   },
   {
    "id": "2114445424694063612",
@@ -79,22 +93,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 25,
+   "like_count": 28,
    "image": ""
-  },
-  {
-   "id": "2114430988688511470",
-   "text": "these two characters are voiced by the same person.",
-   "url": "https://x.com/mandevil23edits/status/2114430988688511470",
-   "created_at": "2026-10-25T18:56:46+00:00",
-   "sent_at": "2026-10-25T18:56:46+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 3,
-   "like_count": 35,
-   "image": "https://pbs.twimg.com/media/HVf3xALWsAA6c5o.jpg"
   },
   {
    "id": "2114430549263880455",
@@ -105,7 +105,7 @@
    "author_name": "Man of Stevenween",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
    "like_count": 8,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVf3X7sX0AEmvyt.jpg"
@@ -162,8 +162,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 4,
-   "repost_count": 3,
-   "like_count": 232,
+   "repost_count": 4,
+   "like_count": 264,
    "image": "https://pbs.twimg.com/media/HVfnO8uW8AAO_CQ.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2114411343109328896/img/TlaZE4oPZgk8_KeH.jpg"
   }
  ]
