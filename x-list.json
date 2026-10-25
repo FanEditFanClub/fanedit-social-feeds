@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T15:36:39+00:00",
+ "updated_at": "2026-10-25T15:51:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2114382728418197731",
+   "text": "S1 E5 \u2018College\u2019 | 128 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114382728418197731",
+   "created_at": "2026-10-25T15:45:00+00:00",
+   "sent_at": "2026-10-25T15:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVY4SEjW4AArKqu.jpg"
+  },
+  {
    "id": "2114378952831902039",
    "text": "S1 E5 \u2018College\u2019 | 127 of 632",
    "url": "https://x.com/SopranosOrder/status/2114378952831902039",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVY4NFBXUAAVBts.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVfFnjrWUAAsLjV.jpg"
   },
   {
-   "id": "2114375177744380251",
-   "text": "S1 E5 \u2018College\u2019 | 126 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114375177744380251",
-   "created_at": "2026-10-25T15:15:00+00:00",
-   "sent_at": "2026-10-25T15:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVY4H_UWsAAheDW.jpg"
-  },
-  {
    "id": "2114360922261045608",
    "text": "capcut integrating chatgpt into a their workflow is so disappointing. nobody needs chatgpt to make an edit. fan editors work so hard to create art, and it\u2019s so sad that there are gonna be people prompting a robot to make their edits for them to avoid the work but get the praise",
    "url": "https://x.com/uhbucky/status/2114360922261045608",
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
-   "repost_count": 18,
-   "like_count": 247,
+   "repost_count": 22,
+   "like_count": 329,
    "image": ""
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 30,
-   "like_count": 309,
+   "repost_count": 39,
+   "like_count": 351,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2023433823959003138/img/XvZeYC_VmHeG5Js0.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 12,
    "repost_count": 0,
-   "like_count": 26,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/media/HVelflFXQAErTKu.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 6,
    "repost_count": 0,
-   "like_count": 38,
+   "like_count": 40,
    "image": "https://pbs.twimg.com/media/HVdig27XcAAKwVq.jpg"
   },
   {
