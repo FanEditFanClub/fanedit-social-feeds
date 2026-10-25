@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T13:51:39+00:00",
+ "updated_at": "2026-10-25T14:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2114356306404581880",
+   "text": "S1 E5 \u2018College\u2019 | 121 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114356306404581880",
+   "created_at": "2026-10-25T14:00:00+00:00",
+   "sent_at": "2026-10-25T14:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVY3raZXoAAfJhQ.jpg"
+  },
+  {
    "id": "2114354129816392060",
    "text": "shane hollander\u2019s song btw",
    "url": "https://x.com/uhbucky/status/2114354129816392060",
@@ -22,8 +36,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 6,
+   "like_count": 49,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2023433823959003138/img/XvZeYC_VmHeG5Js0.jpg"
   },
   {
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HVY3lUHWoAEEtnx.jpg"
   },
   {
@@ -67,20 +81,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2114348754551640119",
-   "text": "S1 E5 \u2018College\u2019 | 119 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114348754551640119",
-   "created_at": "2026-10-25T13:30:00+00:00",
-   "sent_at": "2026-10-25T13:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HVY3fqOXoAAOV_s.jpg"
   },
   {
    "id": "2114345580252049667",
@@ -105,9 +105,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 5,
+   "reply_count": 7,
    "repost_count": 0,
-   "like_count": 14,
+   "like_count": 15,
    "image": "https://pbs.twimg.com/media/HVelflFXQAErTKu.jpg"
   },
   {
