@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T17:51:40+00:00",
+ "updated_at": "2026-10-25T18:06:38+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -130,32 +130,32 @@
   {
    "id": "2114283627114619189",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Credit angelofmusic36.\n\nhttps://www.reddit.com/r/fanedit/comments/1xe004a/credit_angelofmusic36/",
-   "url": "https://x.com/FanEditFanClub/status/2114283627114619189",
-   "sent_at": "2026-10-25T09:11:12+00:00",
-   "created_at": "2026-10-25T09:11:12+00:00",
+   "url": "https://x.com/2072539271450312704/status/2114283627114619189",
+   "sent_at": "2026-10-25T09:11:13+00:00",
+   "created_at": "2026-10-25T09:11:13+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "author_avatar": "",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
    "image": "",
-   "source": "syndication"
+   "source": "buffer"
   },
   {
    "id": "2114283569845510418",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Biggs deleted scenes in A New Hope.\n\nhttps://www.reddit.com/r/fanedits/comments/1xe0el2/biggs_deleted_scenes_in_a_new_hope/",
-   "url": "https://x.com/FanEditFanClub/status/2114283569845510418",
+   "url": "https://x.com/2072539271450312704/status/2114283569845510418",
    "sent_at": "2026-10-25T09:10:59+00:00",
    "created_at": "2026-10-25T09:10:59+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "author_avatar": "",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
    "image": "",
-   "source": "syndication"
+   "source": "buffer"
   }
  ]
 }
