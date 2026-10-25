@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T23:51:38+00:00",
+ "updated_at": "2026-10-25T00:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2114144919522590876",
+   "text": "S1 E5 \u2018College\u2019 | 69 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114144919522590876",
+   "created_at": "2026-10-25T00:00:02+00:00",
+   "sent_at": "2026-10-25T00:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVYy-ofWAAA0PNt.jpg"
+  },
+  {
    "id": "2114141135635427649",
    "text": "S1 E5 \u2018College\u2019 | 68 of 632",
    "url": "https://x.com/SopranosOrder/status/2114141135635427649",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HVYy305WUAA027e.jpg"
   },
   {
@@ -35,24 +49,10 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 12,
+   "reply_count": 3,
+   "repost_count": 2,
+   "like_count": 79,
    "image": ""
-  },
-  {
-   "id": "2114137362456301899",
-   "text": "S1 E5 \u2018College\u2019 | 67 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114137362456301899",
-   "created_at": "2026-10-24T23:30:00+00:00",
-   "sent_at": "2026-10-24T23:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HVYywIYWMAAydOc.jpg"
   },
   {
    "id": "2114117068543209829",
@@ -63,9 +63,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 20,
+   "reply_count": 21,
    "repost_count": 1,
-   "like_count": 14,
+   "like_count": 16,
    "image": ""
   },
   {
@@ -91,9 +91,9 @@
    "author_name": "Man of Stevenween",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 18,
+   "reply_count": 20,
    "repost_count": 3,
-   "like_count": 27,
+   "like_count": 36,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 1,
-   "like_count": 74,
+   "like_count": 75,
    "image": "https://pbs.twimg.com/media/HVbD6yeWwAEh_mF.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 4,
    "repost_count": 8,
-   "like_count": 38,
+   "like_count": 39,
    "image": ""
   },
   {
@@ -150,20 +150,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2113962790692253957",
-   "text": "Top 20 Most Viewed Fanedits from the Evil Dead Franchise https://www.reddit.com/r/moviesremastered/comments/1xdb4qi/top_20_most_viewed_fanedits_from_the_evil_dead/",
-   "url": "https://x.com/MoviesRemaster/status/2113962790692253957",
-   "created_at": "2026-10-24T11:56:19+00:00",
-   "sent_at": "2026-10-24T11:56:19+00:00",
-   "author_name": "Movies Remastered",
-   "author_handle": "MoviesRemaster",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1816591966303342592/8fBVI70g_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
    "image": ""
   }
  ]
