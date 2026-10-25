@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T06:51:38+00:00",
+ "updated_at": "2026-10-25T07:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114250607242747917",
+   "text": "S1 E5 \u2018College\u2019 | 93 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114250607242747917",
+   "created_at": "2026-10-25T07:00:00+00:00",
+   "sent_at": "2026-10-25T07:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVY1OU2WIAAtcQN.jpg"
+  },
+  {
+   "id": "2114249543147512068",
+   "text": "That was proper cringe \ud83d\ude02",
+   "url": "https://x.com/StebobM/status/2114249543147512068",
+   "created_at": "2026-10-25T06:55:46+00:00",
+   "sent_at": "2026-10-25T06:55:46+00:00",
+   "author_name": "Man of Stevenween",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2114247688770486304",
    "text": "well yes",
    "url": "https://x.com/mandevil23edits/status/2114247688770486304",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 8,
    "image": ""
   },
   {
@@ -51,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVY1I8_WMAADTbf.jpg"
-  },
-  {
-   "id": "2114243057218658815",
-   "text": "S1 E5 \u2018College\u2019 | 91 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114243057218658815",
-   "created_at": "2026-10-25T06:30:00+00:00",
-   "sent_at": "2026-10-25T06:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVY1DIcWIAAKoX2.jpg"
   },
   {
    "id": "2114238381446295945",
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 33,
+   "like_count": 42,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1844924217827131393/pu/img/pcNWOxABOtCUkk89.jpg"
   },
   {
@@ -134,8 +148,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 16,
-   "repost_count": 142,
-   "like_count": 5362,
+   "repost_count": 143,
+   "like_count": 5433,
    "image": ""
   },
   {
@@ -150,20 +164,6 @@
    "reply_count": 27,
    "repost_count": 1,
    "like_count": 29,
-   "image": ""
-  },
-  {
-   "id": "2114099023812415817",
-   "text": "The problem is it lacks any sort of focus. MCU you knew we were headed to the Avengers, DCEU we knew we were headed towards Darkseid, etc & whether or not you were happy with how those things worked out the point is there was a clear direction.\n\nWith the DCU there isn\u2019t anything",
-   "url": "https://x.com/StebobM/status/2114099023812415817",
-   "created_at": "2026-10-24T20:57:39+00:00",
-   "sent_at": "2026-10-24T20:57:39+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 62,
-   "repost_count": 40,
-   "like_count": 440,
    "image": ""
   },
   {
