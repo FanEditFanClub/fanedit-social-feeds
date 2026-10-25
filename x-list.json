@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T13:21:39+00:00",
+ "updated_at": "2026-10-25T13:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2114348754551640119",
+   "text": "S1 E5 \u2018College\u2019 | 119 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114348754551640119",
+   "created_at": "2026-10-25T13:30:00+00:00",
+   "sent_at": "2026-10-25T13:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVY3fqOXoAAOV_s.jpg"
+  },
   {
    "id": "2114345580252049667",
    "text": "Top 20 Most Viewed Fanedits of Nightmare on Elm Street\n\nhttps://www.reddit.com/r/moviesremastered/comments/1xe6mc3/top_20_most_viewed_fanedits_of_nightmare_on_elm/",
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HVY3aC3WIAAIrtJ.jpg"
   },
   {
-   "id": "2114341213130101176",
-   "text": "S1 E5 \u2018College\u2019 | 117 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114341213130101176",
-   "created_at": "2026-10-25T13:00:02+00:00",
-   "sent_at": "2026-10-25T13:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVY3U0IXUAAXTSa.jpg"
-  },
-  {
    "id": "2114340515067937265",
    "text": "Ok so the consensus is:\n\nJust watch III\n\nWatch Halloween 1, 2 & then EITHER 4 or H20 then stop.\n\nAlternatively, watch 1, 2018, & then stop with Kills.\n\nDON'T watch the Rob Zombie films\n\nFunny that no matter which timeline you pick, the final film sucks. Crap endings all-around.",
    "url": "https://x.com/TheManlet_King/status/2114340515067937265",
@@ -63,9 +63,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 8,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/media/HVelflFXQAErTKu.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 5,
    "repost_count": 0,
-   "like_count": 28,
+   "like_count": 29,
    "image": "https://pbs.twimg.com/media/HVdig27XcAAKwVq.jpg"
   },
   {
@@ -176,8 +176,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 21,
-   "repost_count": 178,
-   "like_count": 6984,
+   "repost_count": 179,
+   "like_count": 7017,
    "image": ""
   }
  ]
