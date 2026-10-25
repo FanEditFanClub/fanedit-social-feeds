@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T16:21:39+00:00",
+ "updated_at": "2026-10-25T16:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114394053760467097",
+   "text": "S1 E5 \u2018College\u2019 | 131 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114394053760467097",
+   "created_at": "2026-10-25T16:30:00+00:00",
+   "sent_at": "2026-10-25T16:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVY4hcLWMAA6-Qa.jpg"
+  },
+  {
+   "id": "2114392974834683932",
+   "text": "ilya trying to calm himself down by touching his mother\u2019s cross to feel comforted by her is harming me severely",
+   "url": "https://x.com/uhbucky/status/2114392974834683932",
+   "created_at": "2026-10-25T16:25:43+00:00",
+   "sent_at": "2026-10-25T16:25:43+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 2,
+   "repost_count": 4,
+   "like_count": 35,
+   "image": ""
+  },
+  {
    "id": "2114390277221761321",
    "text": "S1 E5 \u2018College\u2019 | 130 of 632",
    "url": "https://x.com/SopranosOrder/status/2114390277221761321",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HVY4cO6XIAA5ffe.jpg"
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 6,
+   "like_count": 10,
    "image": ""
-  },
-  {
-   "id": "2114386503686296003",
-   "text": "S1 E5 \u2018College\u2019 | 129 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114386503686296003",
-   "created_at": "2026-10-25T16:00:00+00:00",
-   "sent_at": "2026-10-25T16:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVY4XTfXIAA0CP0.jpg"
   },
   {
    "id": "2114385985886904545",
@@ -64,8 +78,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 9,
-   "like_count": 59,
+   "repost_count": 11,
+   "like_count": 90,
    "image": "https://pbs.twimg.com/media/HVfO19OXEAAh3Ht.jpg"
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HVfOHWgXIAExcWV.jpg"
   },
   {
@@ -106,23 +120,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 4,
-   "repost_count": 31,
-   "like_count": 470,
+   "repost_count": 37,
+   "like_count": 521,
    "image": ""
-  },
-  {
-   "id": "2114354129816392060",
-   "text": "shane hollander\u2019s song btw",
-   "url": "https://x.com/uhbucky/status/2114354129816392060",
-   "created_at": "2026-10-25T13:51:22+00:00",
-   "sent_at": "2026-10-25T13:51:22+00:00",
-   "author_name": "spooky mellie \ud83c\udf83",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 48,
-   "like_count": 451,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2023433823959003138/img/XvZeYC_VmHeG5Js0.jpg"
   },
   {
    "id": "2114352540988870735",
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 12,
    "repost_count": 0,
-   "like_count": 32,
+   "like_count": 36,
    "image": "https://pbs.twimg.com/media/HVelflFXQAErTKu.jpg"
   }
  ]
