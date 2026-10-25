@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T13:06:40+00:00",
+ "updated_at": "2026-10-25T13:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114345580252049667",
+   "text": "Top 20 Most Viewed Fanedits of Nightmare on Elm Street\n\nhttps://www.reddit.com/r/moviesremastered/comments/1xe6mc3/top_20_most_viewed_fanedits_of_nightmare_on_elm/",
+   "url": "https://x.com/MoviesRemaster/status/2114345580252049667",
+   "created_at": "2026-10-25T13:17:23+00:00",
+   "sent_at": "2026-10-25T13:17:23+00:00",
+   "author_name": "Movies Remastered",
+   "author_handle": "MoviesRemaster",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1816591966303342592/8fBVI70g_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2114344978814312916",
+   "text": "S1 E5 \u2018College\u2019 | 118 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114344978814312916",
+   "created_at": "2026-10-25T13:15:00+00:00",
+   "sent_at": "2026-10-25T13:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVY3aC3WIAAIrtJ.jpg"
+  },
+  {
    "id": "2114341213130101176",
    "text": "S1 E5 \u2018College\u2019 | 117 of 632",
    "url": "https://x.com/SopranosOrder/status/2114341213130101176",
@@ -22,8 +50,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HVY3U0IXUAAXTSa.jpg"
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HVelflFXQAErTKu.jpg"
-  },
-  {
-   "id": "2114337429834342647",
-   "text": "S1 E5 \u2018College\u2019 | 116 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114337429834342647",
-   "created_at": "2026-10-25T12:45:00+00:00",
-   "sent_at": "2026-10-25T12:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVY3OpFXwAAPjZR.jpg"
   },
   {
    "id": "2114291025326096541",
@@ -163,21 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 21,
    "repost_count": 178,
-   "like_count": 6945,
-   "image": ""
-  },
-  {
-   "id": "2114117068543209829",
-   "text": "What's your favorite Halloween timelime?",
-   "url": "https://x.com/TheManlet_King/status/2114117068543209829",
-   "created_at": "2026-10-24T22:09:22+00:00",
-   "sent_at": "2026-10-24T22:09:22+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 28,
-   "repost_count": 1,
-   "like_count": 29,
+   "like_count": 6984,
    "image": ""
   }
  ]
