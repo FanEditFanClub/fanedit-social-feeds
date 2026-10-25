@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T04:06:39+00:00",
+ "updated_at": "2026-10-25T04:21:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,48 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2114209083259777432",
+   "text": "S1 E5 \u2018College\u2019 | 82 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114209083259777432",
+   "created_at": "2026-10-25T04:15:00+00:00",
+   "sent_at": "2026-10-25T04:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVY0On-WkAAE_db.jpg"
+  },
+  {
+   "id": "2114207296729293119",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Alien Covenant: 808s Special Edition.\n\nhttps://www.reddit.com/r/fanedits/comments/1xdv6i2/alien_covenant_808s_special_edition/",
+   "url": "https://x.com/FanEditFanClub/status/2114207296729293119",
+   "created_at": "2026-10-25T04:07:54+00:00",
+   "sent_at": "2026-10-25T04:07:54+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2114207234800406920",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Has anyone heard of this Superman III, Supergirl, and Superman IV mashup fanedit?.\n\nhttps://www.reddit.com/r/fanedits/comments/1xdxj2x/has_anyone_heard_of_this_superman_iii_supergirl/",
+   "url": "https://x.com/FanEditFanClub/status/2114207234800406920",
+   "created_at": "2026-10-25T04:07:39+00:00",
+   "sent_at": "2026-10-25T04:07:39+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
   {
    "id": "2114205314509685088",
    "text": "S1 E5 \u2018College\u2019 | 81 of 632",
@@ -27,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HVY0I6OXQAEAc0t.jpg"
   },
   {
-   "id": "2114201533420294342",
-   "text": "S1 E5 \u2018College\u2019 | 80 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114201533420294342",
-   "created_at": "2026-10-25T03:45:00+00:00",
-   "sent_at": "2026-10-25T03:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HVY0DcCXEAE0-iT.jpg"
-  },
-  {
    "id": "2114191369992364195",
    "text": "steve looking like he saw the multiverse and it aged him",
    "url": "https://x.com/mandevil23edits/status/2114191369992364195",
@@ -51,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 11,
+   "like_count": 12,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2114191358973857792/img/4fJcnwUKdBY16-6P.jpg"
   },
   {
@@ -65,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 31,
+   "like_count": 32,
    "image": "https://pbs.twimg.com/media/HVcZiJLWMAA5zXv.jpg"
   },
   {
@@ -79,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -92,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 15,
-   "repost_count": 105,
-   "like_count": 4169,
+   "repost_count": 108,
+   "like_count": 4295,
    "image": ""
   },
   {
@@ -105,23 +133,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 26,
+   "reply_count": 27,
    "repost_count": 1,
-   "like_count": 27,
-   "image": ""
-  },
-  {
-   "id": "2114109151743824008",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Avengers fan Edit link.\n\nhttps://www.reddit.com/r/fanedits/comments/1xdoiuo/avengers_fan_edit_link/",
-   "url": "https://x.com/FanEditFanClub/status/2114109151743824008",
-   "created_at": "2026-10-24T21:37:54+00:00",
-   "sent_at": "2026-10-24T21:37:54+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "like_count": 28,
    "image": ""
   },
   {
@@ -133,9 +147,9 @@
    "author_name": "Man of Stevenween",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 55,
-   "repost_count": 25,
-   "like_count": 282,
+   "reply_count": 57,
+   "repost_count": 27,
+   "like_count": 300,
    "image": ""
   },
   {
@@ -151,20 +165,6 @@
    "repost_count": 1,
    "like_count": 90,
    "image": "https://pbs.twimg.com/media/HVbD6yeWwAEh_mF.jpg"
-  },
-  {
-   "id": "2114070302007108040",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - When a Stranger Calls: The Extended Call Cut.\n\nhttps://www.reddit.com/r/fanedits/comments/1xdmhm0/when_a_stranger_calls_the_extended_call_cut/",
-   "url": "https://x.com/FanEditFanClub/status/2114070302007108040",
-   "created_at": "2026-10-24T19:03:32+00:00",
-   "sent_at": "2026-10-24T19:03:32+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
   }
  ]
 }
