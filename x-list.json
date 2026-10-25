@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T09:36:40+00:00",
+ "updated_at": "2026-10-25T09:51:37+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114292130512613726",
+   "text": "S1 E5 \u2018College\u2019 | 104 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114292130512613726",
+   "created_at": "2026-10-25T09:45:00+00:00",
+   "sent_at": "2026-10-25T09:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVY2NGvWIAAIcGI.jpg"
+  },
+  {
+   "id": "2114291025326096541",
+   "text": "I have zero excitement for this. It\u2019s sad really but I feel the MCU for me just ran out of steam sometime ago.",
+   "url": "https://x.com/StebobM/status/2114291025326096541",
+   "created_at": "2026-10-25T09:40:36+00:00",
+   "sent_at": "2026-10-25T09:40:36+00:00",
+   "author_name": "Man of Stevenween",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2114288358373433359",
    "text": "S1 E5 \u2018College\u2019 | 103 of 632",
    "url": "https://x.com/SopranosOrder/status/2114288358373433359",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVY2HriXgAA2iei.jpg"
-  },
-  {
-   "id": "2114284580610117641",
-   "text": "S1 E5 \u2018College\u2019 | 102 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114284580610117641",
-   "created_at": "2026-10-25T09:15:00+00:00",
-   "sent_at": "2026-10-25T09:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVY2CK7WsAExXBj.jpg"
   },
   {
    "id": "2114283627114619189",
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 34,
+   "like_count": 35,
    "image": "https://pbs.twimg.com/media/HVdV2nTXYAECCxa.jpg"
   },
   {
@@ -109,20 +123,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": ""
-  },
-  {
-   "id": "2114246846071853474",
-   "text": "It makes me laugh the excuses people make and the accusations they throw at you. DCU clearly has issues if you want to bury your head in the sand go ahead but some of us are gonna call this shit out.",
-   "url": "https://x.com/StebobM/status/2114246846071853474",
-   "created_at": "2026-10-25T06:45:03+00:00",
-   "sent_at": "2026-10-25T06:45:03+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HVdQTKDWgAA_Ufl.jpg"
   },
   {
    "id": "2114174164613603593",
@@ -148,8 +148,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 17,
-   "repost_count": 162,
-   "like_count": 6230,
+   "repost_count": 164,
+   "like_count": 6288,
    "image": ""
   },
   {
