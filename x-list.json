@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T02:36:39+00:00",
+ "updated_at": "2026-10-25T02:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114186631179604303",
+   "text": "from netflix to capeshit",
+   "url": "https://x.com/mandevil23edits/status/2114186631179604303",
+   "created_at": "2026-10-25T02:45:47+00:00",
+   "sent_at": "2026-10-25T02:45:47+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 2,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVcZiJLWMAA5zXv.jpg"
+  },
+  {
+   "id": "2114186433934078117",
+   "text": "S1 E5 \u2018College\u2019 | 76 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114186433934078117",
+   "created_at": "2026-10-25T02:45:00+00:00",
+   "sent_at": "2026-10-25T02:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 2,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HVYznU3W0AETzjs.jpg"
+  },
+  {
    "id": "2114182661413507506",
    "text": "S1 E5 \u2018College\u2019 | 75 of 632",
    "url": "https://x.com/SopranosOrder/status/2114182661413507506",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVYzhXNWoAAaxnZ.jpg"
-  },
-  {
-   "id": "2114178884291948782",
-   "text": "S1 E5 \u2018College\u2019 | 74 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114178884291948782",
-   "created_at": "2026-10-25T02:15:00+00:00",
-   "sent_at": "2026-10-25T02:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVYzb30WIAAagpZ.jpg"
   },
   {
    "id": "2114174164613603593",
@@ -64,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 13,
-   "repost_count": 79,
-   "like_count": 3183,
+   "repost_count": 85,
+   "like_count": 3375,
    "image": ""
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 25,
    "repost_count": 1,
-   "like_count": 23,
+   "like_count": 24,
    "image": ""
   },
   {
@@ -106,8 +120,8 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 47,
-   "repost_count": 11,
-   "like_count": 146,
+   "repost_count": 13,
+   "like_count": 164,
    "image": ""
   },
   {
@@ -136,20 +150,6 @@
    "reply_count": 5,
    "repost_count": 3,
    "like_count": 29,
-   "image": ""
-  },
-  {
-   "id": "2114076899437916196",
-   "text": "the way some of y\u2019all can\u2019t accept a black man with the shield is crazy. steve himself picked sam to become the next captain america, and y\u2019all still mad.",
-   "url": "https://x.com/mandevil23edits/status/2114076899437916196",
-   "created_at": "2026-10-24T19:29:45+00:00",
-   "sent_at": "2026-10-24T19:29:45+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 10,
-   "like_count": 52,
    "image": ""
   },
   {
