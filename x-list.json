@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T22:06:39+00:00",
+ "updated_at": "2026-10-25T22:21:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114480874255442164",
+   "text": "S1 E5 \u2018College\u2019 | 154 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114480874255442164",
+   "created_at": "2026-10-25T22:15:00+00:00",
+   "sent_at": "2026-10-25T22:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVY6lR2XsAAAPYA.jpg"
+  },
+  {
+   "id": "2114479843081367693",
+   "text": "costume designs by ruth e. carter",
+   "url": "https://x.com/mandevil23edits/status/2114479843081367693",
+   "created_at": "2026-10-25T22:10:54+00:00",
+   "sent_at": "2026-10-25T22:10:54+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HVgkKvgXkAAYQfm.jpg"
+  },
+  {
    "id": "2114477104842813502",
    "text": "S1 E5 \u2018College\u2019 | 153 of 632",
    "url": "https://x.com/SopranosOrder/status/2114477104842813502",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HVY6gDxWUAAd6W-.jpg"
-  },
-  {
-   "id": "2114473324902601082",
-   "text": "S1 E5 \u2018College\u2019 | 152 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114473324902601082",
-   "created_at": "2026-10-25T21:45:00+00:00",
-   "sent_at": "2026-10-25T21:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVY6ausXwAACvsc.jpg"
+   "image": "https://pbs.twimg.com/media/HVY6gDxWUAAd6W-.jpg"
   },
   {
    "id": "2114471372898312617",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
    "repost_count": 1,
-   "like_count": 32,
+   "like_count": 49,
    "image": ""
   },
   {
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 41,
+   "like_count": 43,
    "image": "https://pbs.twimg.com/media/HVgX_6iXIAAS7a_.jpg"
   },
   {
@@ -79,21 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 8,
-   "image": ""
-  },
-  {
-   "id": "2114453617054769548",
-   "text": "real ones knew it was gonna hit from the first teaser trailer",
-   "url": "https://x.com/mandevil23edits/status/2114453617054769548",
-   "created_at": "2026-10-25T20:26:41+00:00",
-   "sent_at": "2026-10-25T20:26:41+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 20,
+   "like_count": 10,
    "image": ""
   },
   {
