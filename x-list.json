@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T19:21:43+00:00",
+ "updated_at": "2026-10-26T19:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114802066228936861",
+   "text": "can I please prepare people for an upcoming change to my account. do not freak out. I know you are going to freak out. this is your warning <3 sent with love <3",
+   "url": "https://x.com/uhbucky/status/2114802066228936861",
+   "created_at": "2026-10-26T19:31:18+00:00",
+   "sent_at": "2026-10-26T19:31:18+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
+   "reply_count": 7,
+   "repost_count": 0,
+   "like_count": 19,
+   "image": ""
+  },
+  {
+   "id": "2114801740532895844",
+   "text": "S1 E5 \u2018College\u2019 | 239 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114801740532895844",
+   "created_at": "2026-10-26T19:30:00+00:00",
+   "sent_at": "2026-10-26T19:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVeQISaXQAAcI0P.jpg"
+  },
+  {
    "id": "2114797963545366649",
    "text": "S1 E5 \u2018College\u2019 | 238 of 632",
    "url": "https://x.com/SopranosOrder/status/2114797963545366649",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HVeQA_GXkAALkv0.jpg"
-  },
-  {
-   "id": "2114794193616802267",
-   "text": "S1 E5 \u2018College\u2019 | 237 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114794193616802267",
-   "created_at": "2026-10-26T19:00:01+00:00",
-   "sent_at": "2026-10-26T19:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HVeP7YDWEAAPfSY.jpg"
   },
   {
    "id": "2114782125379801108",
@@ -50,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
-   "repost_count": 1,
-   "like_count": 32,
+   "repost_count": 2,
+   "like_count": 35,
    "image": ""
   },
   {
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 13,
+   "like_count": 14,
    "image": "https://pbs.twimg.com/media/HVk2g9-XkAAVAE0.jpg"
   },
   {
@@ -120,8 +134,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 4,
-   "repost_count": 7,
-   "like_count": 130,
+   "repost_count": 8,
+   "like_count": 137,
    "image": "https://pbs.twimg.com/media/HVksnK_W0AAmbkz.jpg"
   },
   {
@@ -163,22 +177,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 2,
    "repost_count": 65,
-   "like_count": 651,
+   "like_count": 670,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111154034769813504/img/BTxNhxZNtxO8tN6X.jpg"
-  },
-  {
-   "id": "2114730346801668523",
-   "text": "Fans are so soft, players are human beings too are they not supposed to enjoy themselves?",
-   "url": "https://x.com/StebobM/status/2114730346801668523",
-   "created_at": "2026-10-26T14:46:19+00:00",
-   "sent_at": "2026-10-26T14:46:19+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
   }
  ]
 }
