@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T07:21:39+00:00",
+ "updated_at": "2026-10-26T07:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2114620545417556242",
+   "text": "S1 E5 \u2018College\u2019 | 191 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114620545417556242",
+   "created_at": "2026-10-26T07:30:00+00:00",
+   "sent_at": "2026-10-26T07:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVeJZZ5XIAEfGrf.jpg"
+  },
+  {
+   "id": "2114618752209682878",
+   "text": "New Nightmare (35mm 2K Scan) Stereo",
+   "url": "https://x.com/NCseventeen/status/2114618752209682878",
+   "created_at": "2026-10-26T07:22:52+00:00",
+   "sent_at": "2026-10-26T07:22:52+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HViib5gXYAACAIg.jpg"
+  },
   {
    "id": "2114616769725796556",
    "text": "S1 E5 \u2018College\u2019 | 190 of 632",
@@ -36,23 +64,9 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
+   "repost_count": 1,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HVifSFdXwAA-nQU.jpg"
-  },
-  {
-   "id": "2114613001990902119",
-   "text": "S1 E5 \u2018College\u2019 | 189 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114613001990902119",
-   "created_at": "2026-10-26T07:00:01+00:00",
-   "sent_at": "2026-10-26T07:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVeJOVpXMAA4iHn.jpg"
   },
   {
    "id": "2114612207765848284",
@@ -67,20 +81,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": ""
-  },
-  {
-   "id": "2114607636121346449",
-   "text": "I have been scanning my personal 35mm prints of Ken Russel's films including Music lovers, Altered States & Valentino.",
-   "url": "https://x.com/NCseventeen/status/2114607636121346449",
-   "created_at": "2026-10-26T06:38:42+00:00",
-   "sent_at": "2026-10-26T06:38:42+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 5,
-   "like_count": 37,
-   "image": "https://pbs.twimg.com/media/HViYR_EXUAATnIn.jpg"
   },
   {
    "id": "2114588630266040734",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 25,
+   "like_count": 26,
    "image": "https://pbs.twimg.com/media/HViBssGXgAAr2W6.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 5,
    "repost_count": 2,
-   "like_count": 118,
+   "like_count": 122,
    "image": ""
   },
   {
@@ -176,8 +176,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 35,
-   "repost_count": 70,
-   "like_count": 752,
+   "repost_count": 71,
+   "like_count": 755,
    "image": ""
   }
  ]
