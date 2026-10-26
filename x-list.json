@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T13:36:40+00:00",
+ "updated_at": "2026-10-26T13:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2114714916485738768",
+   "text": "S1 E5 \u2018College\u2019 | 216 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114714916485738768",
+   "created_at": "2026-10-26T13:45:00+00:00",
+   "sent_at": "2026-10-26T13:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVeMW4xXcAAI64I.jpg"
+  },
   {
    "id": "2114711144623714307",
    "text": "S1 E5 \u2018College\u2019 | 215 of 632",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HVeMPnNXoAAfb5Q.jpg"
   },
   {
-   "id": "2114707367422263622",
-   "text": "S1 E5 \u2018College\u2019 | 214 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114707367422263622",
-   "created_at": "2026-10-26T13:15:00+00:00",
-   "sent_at": "2026-10-26T13:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HVeMJhmWgAArMmU.jpg"
-  },
-  {
    "id": "2114696876264177807",
    "text": "i guess i\u2019m the only one who\u2019s very excited for dune: part three & avengers: doomsday",
    "url": "https://x.com/mandevil23edits/status/2114696876264177807",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 5,
    "repost_count": 3,
-   "like_count": 30,
+   "like_count": 34,
    "image": "https://pbs.twimg.com/media/HVjpmOlWwAAyR0M.jpg"
   },
   {
@@ -63,9 +63,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 0,
    "repost_count": 1,
-   "like_count": 13,
+   "like_count": 14,
    "image": "https://pbs.twimg.com/media/HVjoGZSWgAAcqDc.jpg"
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 2,
    "repost_count": 2,
-   "like_count": 69,
+   "like_count": 72,
    "image": "https://pbs.twimg.com/media/HVi5UeRWgAAgaDv.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 70,
+   "like_count": 71,
    "image": "https://pbs.twimg.com/media/HVi38ARWwAAgG5D.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 15,
-   "like_count": 159,
+   "like_count": 175,
    "image": "https://pbs.twimg.com/media/HViib5gXYAACAIg.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 34,
+   "like_count": 35,
    "image": "https://pbs.twimg.com/media/HVifSFdXwAA-nQU.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2111277439284654080/QcJnHeIg_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 6,
    "repost_count": 5,
-   "like_count": 289,
+   "like_count": 293,
    "image": ""
   }
  ]
