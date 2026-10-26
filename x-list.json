@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T16:06:39+00:00",
+ "updated_at": "2026-10-26T16:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114753720298643684",
+   "text": "Big love mate, Music lovers is next...",
+   "url": "https://x.com/NCseventeen/status/2114753720298643684",
+   "created_at": "2026-10-26T16:19:11+00:00",
+   "sent_at": "2026-10-26T16:19:11+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2114752665716482213",
+   "text": "S1 E5 \u2018College\u2019 | 226 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114752665716482213",
+   "created_at": "2026-10-26T16:15:00+00:00",
+   "sent_at": "2026-10-26T16:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVeNOW8XAAEItOZ.jpg"
+  },
+  {
    "id": "2114748898145439790",
    "text": "S1 E5 \u2018College\u2019 | 225 of 632",
    "url": "https://x.com/SopranosOrder/status/2114748898145439790",
@@ -22,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HVeNJpmWYAAvHkL.jpg"
-  },
-  {
-   "id": "2114745115348738089",
-   "text": "S1 E5 \u2018College\u2019 | 224 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114745115348738089",
-   "created_at": "2026-10-26T15:45:00+00:00",
-   "sent_at": "2026-10-26T15:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
+   "repost_count": 1,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVeNEHQW8AAiOxF.jpg"
+   "image": "https://pbs.twimg.com/media/HVeNJpmWYAAvHkL.jpg"
   },
   {
    "id": "2114740417656738069",
@@ -50,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 1,
-   "repost_count": 18,
-   "like_count": 163,
+   "repost_count": 23,
+   "like_count": 235,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111154034769813504/img/BTxNhxZNtxO8tN6X.jpg"
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 5,
    "repost_count": 4,
-   "like_count": 51,
+   "like_count": 53,
    "image": "https://pbs.twimg.com/media/HVjpmOlWwAAyR0M.jpg"
   },
   {
@@ -106,8 +120,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 2,
-   "repost_count": 2,
-   "like_count": 104,
+   "repost_count": 3,
+   "like_count": 109,
    "image": "https://pbs.twimg.com/media/HVi5UeRWgAAgaDv.jpg"
   },
   {
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 6,
-   "like_count": 97,
+   "like_count": 100,
    "image": "https://pbs.twimg.com/media/HVi38ARWwAAgG5D.jpg"
   },
   {
@@ -134,23 +148,9 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
-   "repost_count": 24,
-   "like_count": 320,
+   "repost_count": 25,
+   "like_count": 336,
    "image": "https://pbs.twimg.com/media/HViib5gXYAACAIg.jpg"
-  },
-  {
-   "id": "2114615349383750093",
-   "text": "Starship Troopers (35mm 6K Scan)",
-   "url": "https://x.com/NCseventeen/status/2114615349383750093",
-   "created_at": "2026-10-26T07:09:21+00:00",
-   "sent_at": "2026-10-26T07:09:21+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 3,
-   "like_count": 40,
-   "image": "https://pbs.twimg.com/media/HVifSFdXwAA-nQU.jpg"
   },
   {
    "id": "2114612207765848284",
@@ -164,20 +164,6 @@
    "reply_count": 1,
    "repost_count": 1,
    "like_count": 7,
-   "image": ""
-  },
-  {
-   "id": "2114588630266040734",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Midnight Mass (Mike Flanagan) movie edit.\n\nhttps://www.reddit.com/r/fanedits/comments/1xequgm/midnight_mass_mike_flanagan_movie_edit/",
-   "url": "https://x.com/FanEditFanClub/status/2114588630266040734",
-   "created_at": "2026-10-26T05:23:11+00:00",
-   "sent_at": "2026-10-26T05:23:11+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
    "image": ""
   }
  ]
