@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T05:06:39+00:00",
+ "updated_at": "2026-10-26T05:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2114586570598539665",
+   "text": "S1 E5 \u2018College\u2019 | 182 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114586570598539665",
+   "created_at": "2026-10-26T05:15:00+00:00",
+   "sent_at": "2026-10-26T05:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVeInXwXUAAid3d.jpg"
+  },
+  {
+   "id": "2114584527192650066",
+   "text": "sad to hear about eric bauza. he handled the legacy of those classic characters with respect and talent. 46 is far too young.",
+   "url": "https://x.com/mandevil23edits/status/2114584527192650066",
+   "created_at": "2026-10-26T05:06:53+00:00",
+   "sent_at": "2026-10-26T05:06:53+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": ""
+  },
+  {
    "id": "2114582795943325700",
    "text": "S1 E5 \u2018College\u2019 | 181 of 632",
    "url": "https://x.com/SopranosOrder/status/2114582795943325700",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVeIh80W0AAn05h.jpg"
   },
   {
@@ -37,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/media/HViBssGXgAAr2W6.jpg"
   },
   {
@@ -55,34 +83,6 @@
    "image": ""
   },
   {
-   "id": "2114579020834619681",
-   "text": "S1 E5 \u2018College\u2019 | 180 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114579020834619681",
-   "created_at": "2026-10-26T04:45:00+00:00",
-   "sent_at": "2026-10-26T04:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVeIcn0WUAAQPOc.jpg"
-  },
-  {
-   "id": "2114550131781751050",
-   "text": "both sequences from spider-man: brand new day and clayface are spot on in my book",
-   "url": "https://x.com/mandevil23edits/status/2114550131781751050",
-   "created_at": "2026-10-26T02:50:12+00:00",
-   "sent_at": "2026-10-26T02:50:12+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 19,
-   "image": ""
-  },
-  {
    "id": "2114541197222150464",
    "text": "all the different ao3 skins are so cute and fun but the idea of changing mine actually makes my skin (pun sort of intended) crawl like how do you deal with that change I think my eyes would freak out",
    "url": "https://x.com/uhbucky/status/2114541197222150464",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 5,
    "repost_count": 1,
-   "like_count": 80,
+   "like_count": 81,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 34,
    "repost_count": 70,
-   "like_count": 732,
+   "like_count": 734,
    "image": ""
   },
   {
