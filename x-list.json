@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T03:06:38+00:00",
+ "updated_at": "2026-10-26T03:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2114556371593220351",
+   "text": "S1 E5 \u2018College\u2019 | 174 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114556371593220351",
+   "created_at": "2026-10-26T03:15:00+00:00",
+   "sent_at": "2026-10-26T03:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVeH5wHWQAAIMYM.jpg"
+  },
+  {
    "id": "2114552601328955404",
    "text": "S1 E5 \u2018College\u2019 | 173 of 632",
    "url": "https://x.com/SopranosOrder/status/2114552601328955404",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HVeHz7nXoAAWi4I.jpg"
   },
   {
@@ -35,24 +49,10 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 9,
    "image": ""
-  },
-  {
-   "id": "2114548821938339893",
-   "text": "S1 E5 \u2018College\u2019 | 172 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114548821938339893",
-   "created_at": "2026-10-26T02:45:00+00:00",
-   "sent_at": "2026-10-26T02:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVeHsrtWYAETWWQ.jpg"
   },
   {
    "id": "2114541197222150464",
@@ -63,9 +63,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 1,
-   "like_count": 40,
+   "like_count": 52,
    "image": ""
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
-   "repost_count": 3,
-   "like_count": 52,
+   "repost_count": 4,
+   "like_count": 58,
    "image": ""
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
-   "reply_count": 33,
+   "reply_count": 34,
    "repost_count": 68,
-   "like_count": 696,
+   "like_count": 705,
    "image": ""
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 8,
    "repost_count": 0,
-   "like_count": 52,
+   "like_count": 53,
    "image": "https://pbs.twimg.com/media/HVgnPcRWcAElS3g.jpg"
   },
   {
