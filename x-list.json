@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T06:51:39+00:00",
+ "updated_at": "2026-10-26T07:06:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2114613001990902119",
+   "text": "S1 E5 \u2018College\u2019 | 189 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114613001990902119",
+   "created_at": "2026-10-26T07:00:01+00:00",
+   "sent_at": "2026-10-26T07:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVeJOVpXMAA4iHn.jpg"
+  },
+  {
+   "id": "2114612207765848284",
+   "text": "No you are over simplifying peoples complaints. The DCU isn\u2019t grabbing the general audience and it\u2019s cause there\u2019s no hook or clear direction",
+   "url": "https://x.com/StebobM/status/2114612207765848284",
+   "created_at": "2026-10-26T06:56:52+00:00",
+   "sent_at": "2026-10-26T06:56:52+00:00",
+   "author_name": "Man of Stevenween",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": ""
+  },
   {
    "id": "2114609219752399123",
    "text": "S1 E5 \u2018College\u2019 | 188 of 632",
@@ -36,23 +64,9 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 1,
-   "repost_count": 3,
-   "like_count": 19,
+   "repost_count": 4,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/media/HViYR_EXUAATnIn.jpg"
-  },
-  {
-   "id": "2114605444954038277",
-   "text": "S1 E5 \u2018College\u2019 | 187 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114605444954038277",
-   "created_at": "2026-10-26T06:30:00+00:00",
-   "sent_at": "2026-10-26T06:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVeJC1eW0AEv6pQ.jpg"
   },
   {
    "id": "2114588630266040734",
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 4,
-   "like_count": 25,
+   "like_count": 26,
    "image": ""
   },
   {
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 5,
    "repost_count": 2,
-   "like_count": 106,
+   "like_count": 113,
    "image": ""
   },
   {
@@ -149,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2015210354897297408/tw1fUWYg_normal.jpg",
    "reply_count": 35,
    "repost_count": 70,
-   "like_count": 748,
+   "like_count": 750,
    "image": ""
   },
   {
@@ -165,20 +179,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2114483175221252486",
-   "text": "Tonight's kino (first viewing)",
-   "url": "https://x.com/TheManlet_King/status/2114483175221252486",
-   "created_at": "2026-10-25T22:24:08+00:00",
-   "sent_at": "2026-10-25T22:24:08+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 8,
-   "repost_count": 0,
-   "like_count": 53,
-   "image": "https://pbs.twimg.com/media/HVgnPcRWcAElS3g.jpg"
   }
  ]
 }
