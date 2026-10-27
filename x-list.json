@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T12:51:40+00:00",
+ "updated_at": "2026-10-27T13:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2115066764866498577",
+   "text": "good morning",
+   "url": "https://x.com/mandevil23edits/status/2115066764866498577",
+   "created_at": "2026-10-27T13:03:07+00:00",
+   "sent_at": "2026-10-27T13:03:07+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVo6AoKWcAEGV9m.jpg"
+  },
+  {
+   "id": "2115065995035283725",
+   "text": "S1 E5 \u2018College\u2019 | 309 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115065995035283725",
+   "created_at": "2026-10-27T13:00:03+00:00",
+   "sent_at": "2026-10-27T13:00:03+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVjPdAcXMAA2zeN.jpg"
+  },
+  {
    "id": "2115062204894785739",
    "text": "S1 E5 \u2018College\u2019 | 308 of 632",
    "url": "https://x.com/SopranosOrder/status/2115062204894785739",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HVjPX_jXQAASFoE.jpg"
-  },
-  {
-   "id": "2115058435276562522",
-   "text": "S1 E5 \u2018College\u2019 | 307 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115058435276562522",
-   "created_at": "2026-10-27T12:30:01+00:00",
-   "sent_at": "2026-10-27T12:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVjPTfFWEAAPSOC.jpg"
+   "image": "https://pbs.twimg.com/media/HVjPX_jXQAASFoE.jpg"
   },
   {
    "id": "2115051116090249557",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 6,
    "repost_count": 0,
-   "like_count": 25,
+   "like_count": 26,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVorxh_WYAAVJyV.jpg"
   },
   {
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 4,
    "repost_count": 4,
-   "like_count": 90,
+   "like_count": 104,
    "image": "https://pbs.twimg.com/media/HVoqFviWoAAAHxK.jpg"
   },
   {
@@ -120,8 +134,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 1,
-   "repost_count": 10,
-   "like_count": 106,
+   "repost_count": 11,
+   "like_count": 108,
    "image": "https://pbs.twimg.com/media/HVnVb35WgAEDbaE.jpg"
   },
   {
@@ -151,20 +165,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2114918659097313413",
-   "text": "tl cleanse with the best spider-man film oat",
-   "url": "https://x.com/mandevil23edits/status/2114918659097313413",
-   "created_at": "2026-10-27T03:14:36+00:00",
-   "sent_at": "2026-10-27T03:14:36+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 6,
-   "like_count": 56,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/1910457916915621888/img/0ssZp4b1m3IamJYU.jpg"
   },
   {
    "id": "2114889846586015956",
