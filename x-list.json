@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T06:21:40+00:00",
+ "updated_at": "2026-10-27T06:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2114967581081887200",
+   "text": "S1 E5 \u2018College\u2019 | 283 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114967581081887200",
+   "created_at": "2026-10-27T06:29:00+00:00",
+   "sent_at": "2026-10-27T06:29:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVjNXs_XcAA7RGm.jpg"
+  },
+  {
+   "id": "2114967049948762324",
+   "text": "One of the best child/teenage performances of all time.",
+   "url": "https://x.com/NCseventeen/status/2114967049948762324",
+   "created_at": "2026-10-27T06:26:53+00:00",
+   "sent_at": "2026-10-27T06:26:53+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
   {
    "id": "2114965001878540623",
    "text": "lol yeah all on me yet the audience aren\u2019t coming? There is no clear direction of an over arching story.\n\nYou\u2019re the bozo here",
@@ -55,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2114960286021276014",
-   "text": "S1 E5 \u2018College\u2019 | 281 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114960286021276014",
-   "created_at": "2026-10-27T06:00:00+00:00",
-   "sent_at": "2026-10-27T06:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVjNNo9XsAAVQgM.jpg"
-  },
-  {
    "id": "2114956461524570171",
    "text": "Night of the Comet (35mm 6K Scan)",
    "url": "https://x.com/NCseventeen/status/2114956461524570171",
@@ -78,23 +92,9 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 1,
-   "repost_count": 3,
-   "like_count": 29,
+   "repost_count": 5,
+   "like_count": 39,
    "image": "https://pbs.twimg.com/media/HVnVb35WgAEDbaE.jpg"
-  },
-  {
-   "id": "2114956000071717077",
-   "text": "Leatherface (35mm 6K Scan) Flat - Theatrical",
-   "url": "https://x.com/NCseventeen/status/2114956000071717077",
-   "created_at": "2026-10-27T05:42:59+00:00",
-   "sent_at": "2026-10-27T05:42:59+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 11,
-   "image": "https://pbs.twimg.com/media/HVnUfRLXUAARiR_.jpg"
   },
   {
    "id": "2114936382577934613",
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
    "repost_count": 4,
-   "like_count": 36,
+   "like_count": 38,
    "image": "https://pbs.twimg.com/amplify_video_thumb/1910457916915621888/img/0ssZp4b1m3IamJYU.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
    "repost_count": 0,
-   "like_count": 43,
+   "like_count": 44,
    "image": ""
   }
  ]
