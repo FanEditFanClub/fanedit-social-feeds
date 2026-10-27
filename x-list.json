@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T08:06:39+00:00",
+ "updated_at": "2026-10-27T08:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2114994256959992237",
+   "text": "S1 E5 \u2018College\u2019 | 290 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114994256959992237",
+   "created_at": "2026-10-27T08:15:00+00:00",
+   "sent_at": "2026-10-27T08:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVjN7PAWMAALdkw.jpg"
+  },
+  {
    "id": "2114990485332713981",
    "text": "S1 E5 \u2018College\u2019 | 289 of 632",
    "url": "https://x.com/SopranosOrder/status/2114990485332713981",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVjN1UZWgAAXYwN.jpg"
-  },
-  {
-   "id": "2114986707661488533",
-   "text": "S1 E5 \u2018College\u2019 | 288 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114986707661488533",
-   "created_at": "2026-10-27T07:45:00+00:00",
-   "sent_at": "2026-10-27T07:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HVjNwcvWAAAO1io.jpg"
   },
   {
    "id": "2114967049948762324",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 1,
    "repost_count": 9,
-   "like_count": 73,
+   "like_count": 75,
    "image": "https://pbs.twimg.com/media/HVnVb35WgAEDbaE.jpg"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
-   "repost_count": 4,
-   "like_count": 40,
+   "repost_count": 5,
+   "like_count": 42,
    "image": "https://pbs.twimg.com/amplify_video_thumb/1910457916915621888/img/0ssZp4b1m3IamJYU.jpg"
   },
   {
