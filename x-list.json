@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T18:21:39+00:00",
+ "updated_at": "2026-10-27T18:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2115149028887613864",
+   "text": "S1 E5 \u2018College\u2019 | 331 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115149028887613864",
+   "created_at": "2026-10-27T18:30:00+00:00",
+   "sent_at": "2026-10-27T18:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVjRSifW8AE9FYJ.jpg"
+  },
+  {
+   "id": "2115147198862139655",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Maze Runner Trilogy to movie.\n\nhttps://www.reddit.com/r/fanedits/comments/1xfwajo/maze_runner_trilogy_to_movie/",
+   "url": "https://x.com/FanEditFanClub/status/2115147198862139655",
+   "created_at": "2026-10-27T18:22:44+00:00",
+   "sent_at": "2026-10-27T18:22:44+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2115147138967433441",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - REQUEST: Marvel 24 or any other transformative Marvel fan edits.\n\nhttps://www.reddit.com/r/fanedits/comments/1xg1k2d/request_marvel_24_or_any_other_transformative/",
+   "url": "https://x.com/FanEditFanClub/status/2115147138967433441",
+   "created_at": "2026-10-27T18:22:30+00:00",
+   "sent_at": "2026-10-27T18:22:30+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2115145251862290486",
    "text": "S1 E5 \u2018College\u2019 | 330 of 632",
    "url": "https://x.com/SopranosOrder/status/2115145251862290486",
@@ -23,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HVjRL_xWsAAYkN7.jpg"
   },
   {
@@ -35,24 +77,10 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 3,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/media/HVqBPR3WYAAmrYw.jpg"
-  },
-  {
-   "id": "2115141482151645402",
-   "text": "S1 E5 \u2018College\u2019 | 329 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115141482151645402",
-   "created_at": "2026-10-27T18:00:01+00:00",
-   "sent_at": "2026-10-27T18:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVjRGHHWMAAWZsg.jpg"
   },
   {
    "id": "2115130720469516789",
@@ -65,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 10,
+   "like_count": 16,
    "image": ""
   },
   {
@@ -79,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 1,
-   "like_count": 33,
+   "like_count": 35,
    "image": "https://pbs.twimg.com/media/HVpuaI0WgAAeUtT.jpg"
   },
   {
@@ -93,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 4,
-   "like_count": 107,
+   "like_count": 119,
    "image": ""
   },
   {
@@ -106,8 +134,8 @@
    "author_handle": "soulfulbodyedit",
    "author_avatar": "https://pbs.twimg.com/profile_images/2004577238646145024/FurkFK_C_normal.jpg",
    "reply_count": 0,
-   "repost_count": 3,
-   "like_count": 20,
+   "repost_count": 4,
+   "like_count": 25,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112580537529376768/img/e0TMXwnZEi7uTmbr.jpg"
   },
   {
@@ -135,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 8,
    "repost_count": 8,
-   "like_count": 258,
+   "like_count": 262,
    "image": "https://pbs.twimg.com/media/HVoqFviWoAAAHxK.jpg"
   }
  ]
