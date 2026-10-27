@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T08:21:41+00:00",
+ "updated_at": "2026-10-27T08:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2114999589539623273",
+   "text": "https://transfer.it/t/mOA6CpoXWRLR",
+   "url": "https://x.com/gnocchidrive/status/2114999589539623273",
+   "created_at": "2026-10-27T08:36:11+00:00",
+   "sent_at": "2026-10-27T08:36:11+00:00",
+   "author_name": "gnocchi",
+   "author_handle": "gnocchidrive",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVn810YX0AAn2LU.jpg"
+  },
+  {
+   "id": "2114999135388499989",
+   "text": "https://transfer.it/t/V0VvS8hXXBAT",
+   "url": "https://x.com/gnocchidrive/status/2114999135388499989",
+   "created_at": "2026-10-27T08:34:23+00:00",
+   "sent_at": "2026-10-27T08:34:23+00:00",
+   "author_name": "gnocchi",
+   "author_handle": "gnocchidrive",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVn8azvWcAACw2i.jpg"
+  },
+  {
+   "id": "2114998033884795178",
+   "text": "S1 E5 \u2018College\u2019 | 291 of 632",
+   "url": "https://x.com/SopranosOrder/status/2114998033884795178",
+   "created_at": "2026-10-27T08:30:00+00:00",
+   "sent_at": "2026-10-27T08:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVjN_5CXkAAaFqF.jpg"
+  },
+  {
    "id": "2114994256959992237",
    "text": "S1 E5 \u2018College\u2019 | 290 of 632",
    "url": "https://x.com/SopranosOrder/status/2114994256959992237",
@@ -23,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVjN7PAWMAALdkw.jpg"
-  },
-  {
-   "id": "2114990485332713981",
-   "text": "S1 E5 \u2018College\u2019 | 289 of 632",
-   "url": "https://x.com/SopranosOrder/status/2114990485332713981",
-   "created_at": "2026-10-27T08:00:00+00:00",
-   "sent_at": "2026-10-27T08:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVjN1UZWgAAXYwN.jpg"
   },
   {
    "id": "2114967049948762324",
@@ -93,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 1,
    "repost_count": 9,
-   "like_count": 75,
+   "like_count": 77,
    "image": "https://pbs.twimg.com/media/HVnVb35WgAEDbaE.jpg"
   },
   {
@@ -134,8 +162,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
-   "repost_count": 5,
-   "like_count": 42,
+   "repost_count": 6,
+   "like_count": 44,
    "image": "https://pbs.twimg.com/amplify_video_thumb/1910457916915621888/img/0ssZp4b1m3IamJYU.jpg"
   },
   {
@@ -150,34 +178,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2114889785646940361",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Avengers: Doomsday recap.\n\nhttps://www.reddit.com/r/fanedits/comments/1xfiljg/avengers_doomsday_recap/",
-   "url": "https://x.com/FanEditFanClub/status/2114889785646940361",
-   "created_at": "2026-10-27T01:19:52+00:00",
-   "sent_at": "2026-10-27T01:19:52+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2114887084532191313",
-   "text": "Also just okay. It had a strong opening, but then nothing happens for 45 full minutes. In a movie that's not even 1.5 hours long there is not time to waste 45 minutes on nothing.\n\nThe ending was preferable to 4, but was it better overall? I'm not sure.",
-   "url": "https://x.com/TheManlet_King/status/2114887084532191313",
-   "created_at": "2026-10-27T01:09:08+00:00",
-   "sent_at": "2026-10-27T01:09:08+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 0,
-   "like_count": 45,
    "image": ""
   }
  ]
