@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T14:36:42+00:00",
+ "updated_at": "2026-10-27T14:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2115093641299648583",
+   "text": "\u201crorschach would be pretty cool\u201d",
+   "url": "https://x.com/mandevil23edits/status/2115093641299648583",
+   "created_at": "2026-10-27T14:49:55+00:00",
+   "sent_at": "2026-10-27T14:49:55+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVpSc_tXsAEPlmn.jpg"
+  },
+  {
+   "id": "2115092404613058956",
+   "text": "S1 E5 \u2018College\u2019 | 316 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115092404613058956",
+   "created_at": "2026-10-27T14:45:00+00:00",
+   "sent_at": "2026-10-27T14:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVjQAtWXAAA8wui.jpg"
+  },
   {
    "id": "2115088630888771640",
    "text": "S1 E5 \u2018College\u2019 | 315 of 632",
@@ -27,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HVjP8I9WgAAWLqR.jpg"
   },
   {
-   "id": "2115084854844936245",
-   "text": "S1 E5 \u2018College\u2019 | 314 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115084854844936245",
-   "created_at": "2026-10-27T14:15:00+00:00",
-   "sent_at": "2026-10-27T14:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVjP3aQWoAAASIi.jpg"
-  },
-  {
    "id": "2115081564921160170",
    "text": "\"Tom Taylor's Daredevil\"",
    "url": "https://x.com/soulfulbodyedit/status/2115081564921160170",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2004577238646145024/FurkFK_C_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112580537529376768/img/e0TMXwnZEi7uTmbr.jpg"
   },
   {
@@ -65,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 23,
+   "like_count": 27,
    "image": ""
-  },
-  {
-   "id": "2115073392982503834",
-   "text": "me waiting for the final trailer of dune: part three:",
-   "url": "https://x.com/mandevil23edits/status/2115073392982503834",
-   "created_at": "2026-10-27T13:29:27+00:00",
-   "sent_at": "2026-10-27T13:29:27+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 5,
-   "like_count": 36,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HVpACXBWwAAG20x.jpg"
   },
   {
    "id": "2115051116090249557",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 8,
    "repost_count": 0,
-   "like_count": 42,
+   "like_count": 46,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVorxh_WYAAVJyV.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 4,
    "repost_count": 6,
-   "like_count": 163,
+   "like_count": 174,
    "image": "https://pbs.twimg.com/media/HVoqFviWoAAAHxK.jpg"
   },
   {
@@ -147,7 +147,7 @@
    "author_name": "Man of Stevenween",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
    "like_count": 4,
    "image": ""
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 1,
    "repost_count": 11,
-   "like_count": 113,
+   "like_count": 116,
    "image": "https://pbs.twimg.com/media/HVnVb35WgAEDbaE.jpg"
   },
   {
