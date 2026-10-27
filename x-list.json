@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T16:06:42+00:00",
+ "updated_at": "2026-10-27T16:21:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2115115053271883850",
+   "text": "S1 E5 \u2018College\u2019 | 322 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115115053271883850",
+   "created_at": "2026-10-27T16:15:00+00:00",
+   "sent_at": "2026-10-27T16:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVjQkTFWsAAtLFY.jpg"
+  },
+  {
+   "id": "2115113615766303124",
+   "text": "this meaning that daniel was the one who was blushing in their chemistry read I\u2019m kicking my feet already they\u2019re gonna be SO CUTE",
+   "url": "https://x.com/uhbucky/status/2115113615766303124",
+   "created_at": "2026-10-27T16:09:17+00:00",
+   "sent_at": "2026-10-27T16:09:17+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 13,
+   "image": ""
+  },
+  {
    "id": "2115111278532300821",
    "text": "S1 E5 \u2018College\u2019 | 321 of 632",
    "url": "https://x.com/SopranosOrder/status/2115111278532300821",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVjQeJrWUAAixHn.jpg"
   },
   {
@@ -36,23 +64,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
+   "repost_count": 3,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HVpid3iXcAAZDR9.jpg"
-  },
-  {
-   "id": "2115107504099151951",
-   "text": "S1 E5 \u2018College\u2019 | 320 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115107504099151951",
-   "created_at": "2026-10-27T15:45:00+00:00",
-   "sent_at": "2026-10-27T15:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVjQWz1WIAABgo1.jpg"
   },
   {
    "id": "2115093641299648583",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 21,
+   "like_count": 22,
    "image": "https://pbs.twimg.com/media/HVpSc_tXsAEPlmn.jpg"
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2004577238646145024/FurkFK_C_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 6,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112580537529376768/img/e0TMXwnZEi7uTmbr.jpg"
   },
   {
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 10,
    "repost_count": 0,
-   "like_count": 68,
+   "like_count": 73,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HVorxh_WYAAVJyV.jpg"
   },
   {
@@ -105,9 +119,9 @@
    "author_name": "gnocchi",
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 7,
-   "like_count": 204,
+   "reply_count": 6,
+   "repost_count": 8,
+   "like_count": 210,
    "image": "https://pbs.twimg.com/media/HVoqFviWoAAAHxK.jpg"
   },
   {
@@ -122,34 +136,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2114967049948762324",
-   "text": "One of the best child/teenage performances of all time.",
-   "url": "https://x.com/NCseventeen/status/2114967049948762324",
-   "created_at": "2026-10-27T06:26:53+00:00",
-   "sent_at": "2026-10-27T06:26:53+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 14,
-   "image": ""
-  },
-  {
-   "id": "2114965001878540623",
-   "text": "lol yeah all on me yet the audience aren\u2019t coming? There is no clear direction of an over arching story.\n\nYou\u2019re the bozo here",
-   "url": "https://x.com/StebobM/status/2114965001878540623",
-   "created_at": "2026-10-27T06:18:45+00:00",
-   "sent_at": "2026-10-27T06:18:45+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 4,
    "image": ""
   }
  ]
