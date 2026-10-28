@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T02:51:39+00:00",
+ "updated_at": "2026-10-28T03:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2115277379258233290",
+   "text": "S1 E5 \u2018College\u2019 | 365 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115277379258233290",
+   "created_at": "2026-10-28T03:00:01+00:00",
+   "sent_at": "2026-10-28T03:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVoI0G6WkAAI_01.jpg"
+  },
+  {
    "id": "2115273597946069008",
    "text": "S1 E5 \u2018College\u2019 | 364 of 632",
    "url": "https://x.com/SopranosOrder/status/2115273597946069008",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 3,
    "image": "https://pbs.twimg.com/media/HVoIvChWIAADEWr.jpg"
-  },
-  {
-   "id": "2115269823806714306",
-   "text": "S1 E5 \u2018College\u2019 | 363 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115269823806714306",
-   "created_at": "2026-10-28T02:30:00+00:00",
-   "sent_at": "2026-10-28T02:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HVoIpgRX0AEGzG9.jpg"
   },
   {
    "id": "2115258895375405227",
@@ -163,22 +163,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 44,
-   "like_count": 321,
+   "like_count": 325,
    "image": ""
-  },
-  {
-   "id": "2115124604150989249",
-   "text": "Get to put up some tiny little Nazi lights today.",
-   "url": "https://x.com/TheManlet_King/status/2115124604150989249",
-   "created_at": "2026-10-27T16:52:57+00:00",
-   "sent_at": "2026-10-27T16:52:57+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 1,
-   "like_count": 58,
-   "image": "https://pbs.twimg.com/media/HVpuaI0WgAAeUtT.jpg"
   }
  ]
 }
