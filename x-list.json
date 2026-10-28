@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T22:36:39+00:00",
+ "updated_at": "2026-10-28T22:51:45+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2115575587741794467",
+   "text": "S1 E5 \u2018College\u2019 | 444 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115575587741794467",
+   "created_at": "2026-10-28T22:45:00+00:00",
+   "sent_at": "2026-10-28T22:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVoQlZDWgAA-o_y.jpg"
+  },
+  {
+   "id": "2115575397253583321",
+   "text": "domino\u2019s when they started another fandom war moment:",
+   "url": "https://x.com/mandevil23edits/status/2115575397253583321",
+   "created_at": "2026-10-28T22:44:14+00:00",
+   "sent_at": "2026-10-28T22:44:14+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 8,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2115575361631096832/img/2fv7CiFHBu6WQQ9d.jpg"
+  },
+  {
+   "id": "2115575334452228474",
+   "text": "out of context note from my fic but it\u2019s actually not what you think",
+   "url": "https://x.com/uhbucky/status/2115575334452228474",
+   "created_at": "2026-10-28T22:43:59+00:00",
+   "sent_at": "2026-10-28T22:43:59+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 24,
+   "image": "https://pbs.twimg.com/media/HVwIjadXQAEa3Zh.jpg"
+  },
+  {
    "id": "2115571812570718636",
    "text": "S1 E5 \u2018College\u2019 | 443 of 632",
    "url": "https://x.com/SopranosOrder/status/2115571812570718636",
@@ -23,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HVoQgLIXUAMncRq.jpg"
-  },
-  {
-   "id": "2115568038770581985",
-   "text": "S1 E5 \u2018College\u2019 | 442 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115568038770581985",
-   "created_at": "2026-10-28T22:15:00+00:00",
-   "sent_at": "2026-10-28T22:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVoQalwXkAAVx9K.jpg"
   },
   {
    "id": "2115563393902092397",
@@ -51,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 4,
    "repost_count": 1,
-   "like_count": 13,
+   "like_count": 17,
    "image": ""
   },
   {
@@ -65,22 +93,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 3,
-   "like_count": 30,
+   "like_count": 33,
    "image": "https://pbs.twimg.com/media/HVv7v6ZXQAA5Opp.png"
-  },
-  {
-   "id": "2115561120702374129",
-   "text": "ain\u2019t no fuckin way 3cfilms is in blood and honey 3",
-   "url": "https://x.com/mandevil23edits/status/2115561120702374129",
-   "created_at": "2026-10-28T21:47:31+00:00",
-   "sent_at": "2026-10-28T21:47:31+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 4,
-   "like_count": 49,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HVv7nhxXkAAs2RL.jpg"
   },
   {
    "id": "2115557490951696423",
@@ -91,9 +105,9 @@
    "author_name": "Man of Stevenween",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 20,
+   "like_count": 26,
    "image": "https://pbs.twimg.com/media/HVvnm2AXAAAchKu.jpg"
   },
   {
@@ -165,20 +179,6 @@
    "repost_count": 0,
    "like_count": 26,
    "image": "https://pbs.twimg.com/media/HVvZrNNXEAA4H1b.jpg"
-  },
-  {
-   "id": "2115495007876534370",
-   "text": "spot the difference level impossible",
-   "url": "https://x.com/uhbucky/status/2115495007876534370",
-   "created_at": "2026-10-28T17:24:48+00:00",
-   "sent_at": "2026-10-28T17:24:48+00:00",
-   "author_name": "spooky mellie \ud83c\udf83",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 218,
-   "like_count": 2326,
-   "image": "https://pbs.twimg.com/media/HVu_f2ZWkAAiwaR.jpg"
   }
  ]
 }
