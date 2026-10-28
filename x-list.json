@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T10:06:44+00:00",
+ "updated_at": "2026-10-28T10:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2115386844393460100",
+   "text": "S1 E5 \u2018College\u2019 | 394 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115386844393460100",
+   "created_at": "2026-10-28T10:15:00+00:00",
+   "sent_at": "2026-10-28T10:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVoLXGVXAAAF3MB.jpg"
+  },
+  {
+   "id": "2115385483752550519",
+   "text": "The Haunted Mask is so freaking good still today \ud83c\udf83",
+   "url": "https://x.com/StebobM/status/2115385483752550519",
+   "created_at": "2026-10-28T10:09:35+00:00",
+   "sent_at": "2026-10-28T10:09:35+00:00",
+   "author_name": "Man of Stevenween",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2115383080739606676",
    "text": "S1 E5 \u2018College\u2019 | 393 of 632",
    "url": "https://x.com/SopranosOrder/status/2115383080739606676",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVoLSB5XUAAkjRs.jpg"
-  },
-  {
-   "id": "2115379294155202720",
-   "text": "S1 E5 \u2018College\u2019 | 392 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115379294155202720",
-   "created_at": "2026-10-28T09:45:00+00:00",
-   "sent_at": "2026-10-28T09:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVoLL3rWYAAp89O.jpg"
   },
   {
    "id": "2115376093272121790",
@@ -49,9 +63,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 6,
    "image": ""
   },
   {
@@ -125,20 +139,6 @@
    "image": ""
   },
   {
-   "id": "2115206579381252192",
-   "text": "The Top 3 (order doesn\u2019t really matter) is correctly Michael, Freddy and Jason that\u2019s all that matters",
-   "url": "https://x.com/StebobM/status/2115206579381252192",
-   "created_at": "2026-10-27T22:18:41+00:00",
-   "sent_at": "2026-10-27T22:18:41+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
    "id": "2115194481502773759",
    "text": "I love da superhero movies",
    "url": "https://x.com/uhbucky/status/2115194481502773759",
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 16,
-   "like_count": 189,
+   "like_count": 190,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2115194469230198784/img/sPduc6Y5PUlNrEKF.jpg"
   },
   {
