@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T09:21:40+00:00",
+ "updated_at": "2026-10-28T09:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2115376093272121790",
+   "text": "Alright Matt, let's make something better. I'll submit a script in any genre and you direct it to be better than the prequels.\n\nCome on. Let's go. I'm not joking. Let's get it made.",
+   "url": "https://x.com/TheManlet_King/status/2115376093272121790",
+   "created_at": "2026-10-28T09:32:17+00:00",
+   "sent_at": "2026-10-28T09:32:17+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2115375521513271516",
+   "text": "S1 E5 \u2018College\u2019 | 391 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115375521513271516",
+   "created_at": "2026-10-28T09:30:00+00:00",
+   "sent_at": "2026-10-28T09:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVoLGmVXIAA_uTI.jpg"
+  },
+  {
    "id": "2115371744508694789",
    "text": "S1 E5 \u2018College\u2019 | 390 of 632",
    "url": "https://x.com/SopranosOrder/status/2115371744508694789",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HVoLB50XUAAkzse.jpg"
-  },
-  {
-   "id": "2115367986106147205",
-   "text": "S1 E5 \u2018College\u2019 | 389 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115367986106147205",
-   "created_at": "2026-10-28T09:00:04+00:00",
-   "sent_at": "2026-10-28T09:00:04+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HVoK8mYXkAAe1sz.jpg"
   },
   {
    "id": "2115354898044702755",
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -135,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 16,
-   "like_count": 187,
+   "like_count": 188,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2115194469230198784/img/sPduc6Y5PUlNrEKF.jpg"
   },
   {
