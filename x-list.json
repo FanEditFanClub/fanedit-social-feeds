@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T13:21:40+00:00",
+ "updated_at": "2026-10-28T13:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2115435922238128557",
+   "text": "S1 E5 \u2018College\u2019 | 407 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115435922238128557",
+   "created_at": "2026-10-28T13:30:01+00:00",
+   "sent_at": "2026-10-28T13:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVoNGBbXsAA1VQ9.jpg"
+  },
+  {
+   "id": "2115435200825958548",
+   "text": "Absolutely devastated 5 year old me when I saw this episode. The floating masks chasing her and calling after her was too much.",
+   "url": "https://x.com/TheManlet_King/status/2115435200825958548",
+   "created_at": "2026-10-28T13:27:09+00:00",
+   "sent_at": "2026-10-28T13:27:09+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 2,
+   "repost_count": 0,
+   "like_count": 10,
+   "image": ""
+  },
+  {
    "id": "2115432142293643543",
    "text": "S1 E5 \u2018College\u2019 | 406 of 632",
    "url": "https://x.com/SopranosOrder/status/2115432142293643543",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVoM_INWYAA2K6n.jpg"
-  },
-  {
-   "id": "2115428371924734108",
-   "text": "S1 E5 \u2018College\u2019 | 405 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115428371924734108",
-   "created_at": "2026-10-28T13:00:01+00:00",
-   "sent_at": "2026-10-28T13:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVoM576WkAA-w8s.jpg"
+   "image": "https://pbs.twimg.com/media/HVoM_INWYAA2K6n.jpg"
   },
   {
    "id": "2115385483752550519",
@@ -63,9 +77,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 4,
+   "reply_count": 5,
    "repost_count": 0,
-   "like_count": 28,
+   "like_count": 32,
    "image": ""
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 21,
+   "like_count": 22,
    "image": "https://pbs.twimg.com/media/HVswX19XAAAYV7K.jpg"
   },
   {
