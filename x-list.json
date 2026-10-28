@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T14:51:40+00:00",
+ "updated_at": "2026-10-28T15:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2115458567180292121",
+   "text": "S1 E5 \u2018College\u2019 | 413 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115458567180292121",
+   "created_at": "2026-10-28T15:00:00+00:00",
+   "sent_at": "2026-10-28T15:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVoN7yTWgAAyXhu.jpg"
+  },
+  {
+   "id": "2115458229698199559",
+   "text": "Niche internet micro-celebrity's Top 20 favorite horror movies of all time in no particular order:\n\n\u2022 Pandorum\n\u2022 Fright Night (1985)\n\u2022 The Blob (1988)\n\u2022 The Descent\n\u2022 Final Destination\n\u2022 Tremors\n\u2022 Chopping Mall (1986)\n\u2022 Dawn of the Dead (2004)\n\u2022 The Thing (1982)\n\u2022",
+   "url": "https://x.com/TheManlet_King/status/2115458229698199559",
+   "created_at": "2026-10-28T14:58:39+00:00",
+   "sent_at": "2026-10-28T14:58:39+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVueDG3WAAAWHfY.jpg"
+  },
+  {
    "id": "2115454791564525929",
    "text": "S1 E5 \u2018College\u2019 | 412 of 632",
    "url": "https://x.com/SopranosOrder/status/2115454791564525929",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 4,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HVoN2EAXQAATBbK.jpg"
-  },
-  {
-   "id": "2115451021065412799",
-   "text": "S1 E5 \u2018College\u2019 | 411 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115451021065412799",
-   "created_at": "2026-10-28T14:30:01+00:00",
-   "sent_at": "2026-10-28T14:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVoNbQ6XEAAhLZm.jpg"
   },
   {
    "id": "2115435200825958548",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 0,
-   "like_count": 35,
+   "like_count": 44,
    "image": ""
   },
   {
@@ -66,20 +80,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 4,
-   "image": ""
-  },
-  {
-   "id": "2115376093272121790",
-   "text": "Alright Matt, let's make something better. I'll submit a script in any genre and you direct it to be better than the prequels.\n\nCome on. Let's go. I'm not joking. Let's get it made.",
-   "url": "https://x.com/TheManlet_King/status/2115376093272121790",
-   "created_at": "2026-10-28T09:32:17+00:00",
-   "sent_at": "2026-10-28T09:32:17+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 0,
-   "like_count": 39,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
    "repost_count": 1,
-   "like_count": 36,
+   "like_count": 37,
    "image": "https://pbs.twimg.com/media/HVsyVM5XgAAGwKo.jpg"
   },
   {
