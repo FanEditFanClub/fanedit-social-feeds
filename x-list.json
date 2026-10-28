@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T16:36:39+00:00",
+ "updated_at": "2026-10-28T16:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2115485323857715556",
+   "text": "2026 so far",
+   "url": "https://x.com/mandevil23edits/status/2115485323857715556",
+   "created_at": "2026-10-28T16:46:19+00:00",
+   "sent_at": "2026-10-28T16:46:19+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVu2r9PW0AAZsP_.jpg"
+  },
+  {
+   "id": "2115484990632858094",
+   "text": "S1 E5 \u2018College\u2019 | 420 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115484990632858094",
+   "created_at": "2026-10-28T16:45:00+00:00",
+   "sent_at": "2026-10-28T16:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVoOjaeWEAAxnED.jpg"
+  },
+  {
    "id": "2115481218301235567",
    "text": "S1 E5 \u2018College\u2019 | 419 of 632",
    "url": "https://x.com/SopranosOrder/status/2115481218301235567",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVoOeAXXgAAiF2b.jpg"
   },
   {
@@ -37,36 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": ""
-  },
-  {
-   "id": "2115477601602982179",
-   "text": "still can\u2019t believe people doubted his casting",
-   "url": "https://x.com/mandevil23edits/status/2115477601602982179",
-   "created_at": "2026-10-28T16:15:38+00:00",
-   "sent_at": "2026-10-28T16:15:38+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 14,
-   "image": ""
-  },
-  {
-   "id": "2115477442567577651",
-   "text": "S1 E5 \u2018College\u2019 | 418 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115477442567577651",
-   "created_at": "2026-10-28T16:15:00+00:00",
-   "sent_at": "2026-10-28T16:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVoOYKXXwAA62y0.jpg"
   },
   {
    "id": "2115461034689376613",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 13,
+   "like_count": 17,
    "image": "https://pbs.twimg.com/media/HVueDG3WAAAWHfY.jpg"
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 8,
-   "repost_count": 2,
-   "like_count": 93,
+   "reply_count": 9,
+   "repost_count": 4,
+   "like_count": 111,
    "image": ""
   },
   {
