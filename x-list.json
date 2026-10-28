@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T17:21:39+00:00",
+ "updated_at": "2026-10-28T17:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2115496318781251795",
+   "text": "S1 E5 \u2018College\u2019 | 423 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115496318781251795",
+   "created_at": "2026-10-28T17:30:01+00:00",
+   "sent_at": "2026-10-28T17:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVoOyiuWsAAM7A6.jpg"
+  },
+  {
+   "id": "2115495007876534370",
+   "text": "spot the difference level impossible",
+   "url": "https://x.com/uhbucky/status/2115495007876534370",
+   "created_at": "2026-10-28T17:24:48+00:00",
+   "sent_at": "2026-10-28T17:24:48+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 6,
+   "like_count": 45,
+   "image": "https://pbs.twimg.com/media/HVu_f2ZWkAAiwaR.jpg"
+  },
+  {
+   "id": "2115494620046188878",
+   "text": "L\u00e9a Seydoux rates James Bond films",
+   "url": "https://x.com/tomsmason91/status/2115494620046188878",
+   "created_at": "2026-10-28T17:23:16+00:00",
+   "sent_at": "2026-10-28T17:23:16+00:00",
+   "author_name": "Tom Mason",
+   "author_handle": "tomsmason91",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2115487435958210560/img/c-KYniBYQzU0XRo9.jpg"
+  },
+  {
    "id": "2115492945704997314",
    "text": "shane chasing after ilya\u2019s touch is so buzzy he was so hungry for it",
    "url": "https://x.com/uhbucky/status/2115492945704997314",
@@ -22,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 24,
+   "repost_count": 3,
+   "like_count": 92,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HKjLNBzW0AAse4A.jpg"
   },
   {
@@ -36,23 +78,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVoOtkKWIAAGcCR.jpg"
-  },
-  {
-   "id": "2115488774905843829",
-   "text": "S1 E5 \u2018College\u2019 | 421 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115488774905843829",
-   "created_at": "2026-10-28T17:00:02+00:00",
-   "sent_at": "2026-10-28T17:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVoOo50XgAAIAAr.jpg"
   },
   {
    "id": "2115485323857715556",
@@ -65,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 7,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/media/HVu2r9PW0AAZsP_.jpg"
   },
   {
@@ -79,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 12,
+   "like_count": 20,
    "image": ""
   },
   {
@@ -135,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 10,
    "repost_count": 4,
-   "like_count": 126,
+   "like_count": 129,
    "image": ""
   },
   {
