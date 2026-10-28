@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T00:07:07+00:00",
+ "updated_at": "2026-10-28T00:22:08+00:00",
  "source": "https://www.faneditfanclub.com",
  "nav": [
   {
@@ -1484,7 +1484,7 @@
     {
      "type": "text",
      "tag": "li",
-     "html": "<a href=\"https://x.ai/bot/DR18SV4AEeeNRcKT1U-0P\" target=\"_blank\" rel=\"noopener noreferrer\">\ud83e\udd16 Fan Edit Optimus - AI Fan Edit Search</a>",
+     "html": "<a href=\"https://x.ai/bot/DR18SV4AEeeNRcKT1U-0P\" target=\"_blank\" rel=\"noopener noreferrer\">Grok Bot - Fan Edit Optimus</a>",
      "align": "left",
      "font": "body"
     },
@@ -1681,6 +1681,13 @@
      "type": "text",
      "tag": "li",
      "html": "<a href=\"https://www.facebook.com/groups/893971033336715\" target=\"_blank\" rel=\"noopener noreferrer\">The Workprint and Fanedit Appreciation Society</a>",
+     "align": "left",
+     "font": "body"
+    },
+    {
+     "type": "text",
+     "tag": "p",
+     "html": "<a href=\"https://www.facebook.com/groups/1658296262451713/\" target=\"_blank\" rel=\"noopener noreferrer\">The Workprint And Fanedit Appreciation Society Backup</a>",
      "align": "left",
      "font": "body"
     },
