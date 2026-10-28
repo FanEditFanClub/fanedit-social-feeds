@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T12:21:40+00:00",
+ "updated_at": "2026-10-28T12:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2115420818033225930",
+   "text": "S1 E5 \u2018College\u2019 | 403 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115420818033225930",
+   "created_at": "2026-10-28T12:30:00+00:00",
+   "sent_at": "2026-10-28T12:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVoMwRuXsAAdkjO.jpg"
+  },
+  {
    "id": "2115417044115988928",
    "text": "S1 E5 \u2018College\u2019 | 402 of 632",
    "url": "https://x.com/SopranosOrder/status/2115417044115988928",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HVoMrUtX0AARcu0.jpg"
-  },
-  {
-   "id": "2115413270853296422",
-   "text": "S1 E5 \u2018College\u2019 | 401 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115413270853296422",
-   "created_at": "2026-10-28T12:00:00+00:00",
-   "sent_at": "2026-10-28T12:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVoMmeMX0AAjcIe.jpg"
   },
   {
    "id": "2115385483752550519",
@@ -92,8 +92,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
-   "repost_count": 0,
-   "like_count": 31,
+   "repost_count": 1,
+   "like_count": 33,
    "image": "https://pbs.twimg.com/media/HVsyVM5XgAAGwKo.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 18,
+   "like_count": 19,
    "image": "https://pbs.twimg.com/media/HVswX19XAAAYV7K.jpg"
   },
   {
@@ -151,20 +151,6 @@
    "repost_count": 16,
    "like_count": 192,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2115194469230198784/img/sPduc6Y5PUlNrEKF.jpg"
-  },
-  {
-   "id": "2115192954684047769",
-   "text": "The music in this trailer is so fucking good\n\nhttps://youtu.be/KVu3gS7iJu4?is=ssSkrKuQrSDmMeDQ",
-   "url": "https://x.com/Onyx_Tw/status/2115192954684047769",
-   "created_at": "2026-10-27T21:24:33+00:00",
-   "sent_at": "2026-10-27T21:24:33+00:00",
-   "author_name": "onyx",
-   "author_handle": "Onyx_Tw",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2050445504882884608/rdoqP-2h_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
   }
  ]
 }
