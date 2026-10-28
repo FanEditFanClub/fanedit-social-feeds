@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T00:51:41+00:00",
+ "updated_at": "2026-10-28T01:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2115247182966403382",
+   "text": "S1 E5 \u2018College\u2019 | 357 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115247182966403382",
+   "created_at": "2026-10-28T01:00:02+00:00",
+   "sent_at": "2026-10-28T01:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HVoIKBAWgAA9Rhy.jpg"
+  },
+  {
+   "id": "2115245101794685298",
+   "text": "\u201cexplain why pedoph\u2026\u201d",
+   "url": "https://x.com/mandevil23edits/status/2115245101794685298",
+   "created_at": "2026-10-28T00:51:46+00:00",
+   "sent_at": "2026-10-28T00:51:46+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HVrcMoEWAAAqVyd.jpg"
+  },
+  {
    "id": "2115243398710034924",
    "text": "S1 E5 \u2018College\u2019 | 356 of 632",
    "url": "https://x.com/SopranosOrder/status/2115243398710034924",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HVoIECYXAAA20C0.jpg"
-  },
-  {
-   "id": "2115239625736474862",
-   "text": "S1 E5 \u2018College\u2019 | 355 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115239625736474862",
-   "created_at": "2026-10-28T00:30:00+00:00",
-   "sent_at": "2026-10-28T00:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVoH-ZoXIAAAJBX.jpg"
   },
   {
    "id": "2115218815990534648",
@@ -63,9 +77,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 5,
-   "like_count": 38,
+   "like_count": 39,
    "image": ""
   },
   {
@@ -111,20 +125,6 @@
    "image": ""
   },
   {
-   "id": "2115197012404822122",
-   "text": "\u201cwhat we expected\u201d",
-   "url": "https://x.com/mandevil23edits/status/2115197012404822122",
-   "created_at": "2026-10-27T21:40:40+00:00",
-   "sent_at": "2026-10-27T21:40:40+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 14,
-   "like_count": 157,
-   "image": "https://pbs.twimg.com/media/HVqweJ9XAAE1cno.jpg"
-  },
-  {
    "id": "2115194481502773759",
    "text": "I love da superhero movies",
    "url": "https://x.com/uhbucky/status/2115194481502773759",
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 14,
-   "like_count": 156,
+   "like_count": 157,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2115194469230198784/img/sPduc6Y5PUlNrEKF.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 41,
-   "like_count": 285,
+   "like_count": 293,
    "image": ""
   },
   {
