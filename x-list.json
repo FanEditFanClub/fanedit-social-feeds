@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T22:21:38+00:00",
+ "updated_at": "2026-10-29T22:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2115934204911665516",
+   "text": "S1 E5 \u2018College\u2019 | 539 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115934204911665516",
+   "created_at": "2026-10-29T22:30:01+00:00",
+   "sent_at": "2026-10-29T22:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HVv2g8qXYAA6O2x.jpg"
+  },
+  {
+   "id": "2115932961468019113",
+   "text": "*Sir",
+   "url": "https://x.com/Onyx_Tw/status/2115932961468019113",
+   "created_at": "2026-10-29T22:25:04+00:00",
+   "sent_at": "2026-10-29T22:25:04+00:00",
+   "author_name": "onyx",
+   "author_handle": "Onyx_Tw",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2050445504882884608/rdoqP-2h_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2115930425746960847",
    "text": "S1 E5 \u2018College\u2019 | 538 of 632",
    "url": "https://x.com/SopranosOrder/status/2115930425746960847",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HVv2ctcXgAAK7t6.jpg"
-  },
-  {
-   "id": "2115926652949848457",
-   "text": "S1 E5 \u2018College\u2019 | 537 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115926652949848457",
-   "created_at": "2026-10-29T22:00:00+00:00",
-   "sent_at": "2026-10-29T22:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HVv2YWWWMAEGKMJ.jpg"
   },
   {
    "id": "2115925416737165713",
@@ -91,7 +105,7 @@
    "author_name": "Man of Stevenween",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 1,
    "like_count": 9,
    "image": ""
@@ -106,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 132,
-   "like_count": 544,
+   "repost_count": 137,
+   "like_count": 564,
    "image": ""
   },
   {
@@ -163,22 +177,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 20,
-   "like_count": 485,
+   "like_count": 491,
    "image": "https://pbs.twimg.com/media/HV0VS8sW4AEm26J.jpg"
-  },
-  {
-   "id": "2115849406691835957",
-   "text": "Santa after lovingly breaking into my house to leave some socks (I really needed new ones)",
-   "url": "https://x.com/TheManlet_King/status/2115849406691835957",
-   "created_at": "2026-10-29T16:53:03+00:00",
-   "sent_at": "2026-10-29T16:53:03+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 38,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HV0B0CNXkAAbUGH.jpg"
   }
  ]
 }
