@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T09:51:42+00:00",
+ "updated_at": "2026-10-29T10:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2115746683628011558",
+   "text": "willem dafoe been snubbed harder than anybody. for a remarkable actor who got four oscar noms and zero wins, the academy really be sleepin on the goat.",
+   "url": "https://x.com/mandevil23edits/status/2115746683628011558",
+   "created_at": "2026-10-29T10:04:52+00:00",
+   "sent_at": "2026-10-29T10:04:52+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVykZIIXcAEs9os.jpg"
+  },
+  {
+   "id": "2115745465127858550",
+   "text": "S1 E5 \u2018College\u2019 | 489 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115745465127858550",
+   "created_at": "2026-10-29T10:00:02+00:00",
+   "sent_at": "2026-10-29T10:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVvyZKOWYAAzkDW.jpg"
+  },
+  {
+   "id": "2115744131838587147",
+   "text": "dune: part two and i\u2019ll die on this hill",
+   "url": "https://x.com/mandevil23edits/status/2115744131838587147",
+   "created_at": "2026-10-29T09:54:44+00:00",
+   "sent_at": "2026-10-29T09:54:44+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1891234364517998592/pu/img/GRtl5Mzgw0w8eFcB.jpg"
+  },
+  {
    "id": "2115741682239205626",
    "text": "S1 E5 \u2018College\u2019 | 488 of 632",
    "url": "https://x.com/SopranosOrder/status/2115741682239205626",
@@ -25,48 +67,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HVvyUCiX0AA8IfC.jpg"
-  },
-  {
-   "id": "2115740215016816871",
-   "text": "they really did a whole trilogy in one year \ud83d\ude2d",
-   "url": "https://x.com/mandevil23edits/status/2115740215016816871",
-   "created_at": "2026-10-29T09:39:10+00:00",
-   "sent_at": "2026-10-29T09:39:10+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 4,
-   "image": ""
-  },
-  {
-   "id": "2115737909844168932",
-   "text": "S1 E5 \u2018College\u2019 | 487 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115737909844168932",
-   "created_at": "2026-10-29T09:30:00+00:00",
-   "sent_at": "2026-10-29T09:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVvyO1VXYAEuplA.jpg"
-  },
-  {
-   "id": "2115737735205998939",
-   "text": "good morning",
-   "url": "https://x.com/mandevil23edits/status/2115737735205998939",
-   "created_at": "2026-10-29T09:29:19+00:00",
-   "sent_at": "2026-10-29T09:29:19+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HVycQT_WgAAG4dP.jpg"
   },
   {
    "id": "2115689785238904973",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 15,
-   "like_count": 567,
+   "like_count": 571,
    "image": "https://pbs.twimg.com/media/HVw5CqzW0AAIeZJ.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
    "repost_count": 0,
-   "like_count": 129,
+   "like_count": 132,
    "image": "https://pbs.twimg.com/media/HVwIjadXQAEa3Zh.jpg"
   },
   {
