@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T23:06:39+00:00",
+ "updated_at": "2026-10-29T23:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2115945525526614176",
+   "text": "S1 E5 \u2018College\u2019 | 542 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115945525526614176",
+   "created_at": "2026-10-29T23:15:00+00:00",
+   "sent_at": "2026-10-29T23:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HVv2y3DX0AAujaq.jpg"
+  },
+  {
+   "id": "2115945414964686979",
+   "text": "Finally saw #SalemsLot 2004, was such a disappointment. By far the worst adaptation of the story. Can\u2019t see myself revisiting this one again unlike the 1979 mini series and 2024 movie.",
+   "url": "https://x.com/StebobM/status/2115945414964686979",
+   "created_at": "2026-10-29T23:14:33+00:00",
+   "sent_at": "2026-10-29T23:14:33+00:00",
+   "author_name": "Man of Stevenween",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HV1ZI7PXcAAVVyk.jpg"
+  },
+  {
    "id": "2115941755988156637",
    "text": "S1 E5 \u2018College\u2019 | 541 of 632",
    "url": "https://x.com/SopranosOrder/status/2115941755988156637",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVv2tglXAAAiF1W.jpg"
-  },
-  {
-   "id": "2115937723710329162",
-   "text": "S1 E5 \u2018College\u2019 | 540 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115937723710329162",
-   "created_at": "2026-10-29T22:44:00+00:00",
-   "sent_at": "2026-10-29T22:44:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVv2mWlXwAAO9WT.jpg"
   },
   {
    "id": "2115932961468019113",
@@ -92,23 +106,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 12,
-   "like_count": 48,
+   "repost_count": 13,
+   "like_count": 49,
    "image": "https://pbs.twimg.com/media/HV0zt0EWwAE3WKe.jpg"
-  },
-  {
-   "id": "2115896436588159221",
-   "text": "Nooooo! Fuck this year\n\nRIP \ud83d\ude14",
-   "url": "https://x.com/StebobM/status/2115896436588159221",
-   "created_at": "2026-10-29T19:59:56+00:00",
-   "sent_at": "2026-10-29T19:59:56+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 10,
-   "image": ""
   },
   {
    "id": "2115894126772101453",
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 143,
-   "like_count": 597,
+   "repost_count": 145,
+   "like_count": 608,
    "image": ""
   },
   {
@@ -176,8 +176,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 20,
-   "like_count": 503,
+   "repost_count": 21,
+   "like_count": 506,
    "image": "https://pbs.twimg.com/media/HV0VS8sW4AEm26J.jpg"
   }
  ]
