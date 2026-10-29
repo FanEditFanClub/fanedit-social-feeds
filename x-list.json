@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T13:21:40+00:00",
+ "updated_at": "2026-10-29T13:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,62 @@
  },
  "posts": [
   {
+   "id": "2115799275728703548",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Halloween 1981 Network Television Premiere HD version?.\n\nhttps://www.reddit.com/r/fanedits/comments/1xhglgy/halloween_1981_network_television_premiere_hd/",
+   "url": "https://x.com/FanEditFanClub/status/2115799275728703548",
+   "created_at": "2026-10-29T13:33:51+00:00",
+   "sent_at": "2026-10-29T13:33:51+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2115799216249327936",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Halloween 6: Hybrid Cut.\n\nhttps://www.reddit.com/r/fanedits/comments/1xhnbnh/halloween_6_hybrid_cut/",
+   "url": "https://x.com/FanEditFanClub/status/2115799216249327936",
+   "created_at": "2026-10-29T13:33:37+00:00",
+   "sent_at": "2026-10-29T13:33:37+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2115798450268774582",
+   "text": "Every game could be free on Epic and I wouldn't use it",
+   "url": "https://x.com/Onyx_Tw/status/2115798450268774582",
+   "created_at": "2026-10-29T13:30:34+00:00",
+   "sent_at": "2026-10-29T13:30:34+00:00",
+   "author_name": "onyx",
+   "author_handle": "Onyx_Tw",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2050445504882884608/rdoqP-2h_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2115798308903952840",
+   "text": "S1 E5 \u2018College\u2019 | 503 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115798308903952840",
+   "created_at": "2026-10-29T13:30:01+00:00",
+   "sent_at": "2026-10-29T13:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVvzjI8XUAEAl72.jpg"
+  },
+  {
    "id": "2115794530494501135",
    "text": "S1 E5 \u2018College\u2019 | 502 of 632",
    "url": "https://x.com/SopranosOrder/status/2115794530494501135",
@@ -23,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HVvzdSQXQAA4Bfa.jpg"
-  },
-  {
-   "id": "2115790768501911899",
-   "text": "S1 E5 \u2018College\u2019 | 501 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115790768501911899",
-   "created_at": "2026-10-29T13:00:03+00:00",
-   "sent_at": "2026-10-29T13:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVvzX-WWAAIZ1Kl.jpg"
   },
   {
    "id": "2115783478562464190",
@@ -50,8 +92,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
+   "repost_count": 1,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HVzFzhcXkAAdMNo.png"
   },
   {
@@ -65,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 15,
    "image": "https://pbs.twimg.com/media/HVzFjzMX0AAaAsk.jpg"
   },
   {
@@ -78,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 2,
-   "repost_count": 26,
-   "like_count": 211,
+   "repost_count": 29,
+   "like_count": 252,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2115781682997379072/img/KX1_MwPzTWc3l9Qp.jpg"
   },
   {
@@ -93,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 21,
+   "like_count": 22,
    "image": ""
   },
   {
@@ -105,38 +147,10 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 1,
-   "like_count": 15,
+   "like_count": 16,
    "image": "https://pbs.twimg.com/media/HVykZIIXcAEs9os.jpg"
-  },
-  {
-   "id": "2115689785238904973",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - The hobbit.\n\nhttps://www.reddit.com/r/fanedits/comments/1xh9mjs/the_hobbit/",
-   "url": "https://x.com/FanEditFanClub/status/2115689785238904973",
-   "created_at": "2026-10-29T06:18:47+00:00",
-   "sent_at": "2026-10-29T06:18:47+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2115689723574268019",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - X-men: Second Class.\n\nhttps://www.reddit.com/r/fanedits/comments/1xhap7n/xmen_second_class/",
-   "url": "https://x.com/FanEditFanClub/status/2115689723574268019",
-   "created_at": "2026-10-29T06:18:32+00:00",
-   "sent_at": "2026-10-29T06:18:32+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
   },
   {
    "id": "2115639287987290259",
@@ -163,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 19,
-   "like_count": 627,
+   "like_count": 631,
    "image": "https://pbs.twimg.com/media/HVw5CqzW0AAIeZJ.jpg"
   }
  ]
