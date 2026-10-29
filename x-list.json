@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T18:21:39+00:00",
+ "updated_at": "2026-10-29T18:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2115873802609672211",
+   "text": "S1 E5 \u2018College\u2019 | 523 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115873802609672211",
+   "created_at": "2026-10-29T18:30:00+00:00",
+   "sent_at": "2026-10-29T18:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HVv1QjCWAAAxnVq.jpg"
+  },
+  {
    "id": "2115871139268358540",
    "text": "This show is supposed to determine what IS canon.\n\nBloodsport shooting Superman with a Kryptonite bullet \u201che thinks could have happened\u201d not knows, thinks.\n\nWhat are we doing?",
    "url": "https://x.com/StebobM/status/2115871139268358540",
@@ -22,7 +36,7 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
+   "repost_count": 2,
    "like_count": 0,
    "image": ""
   },
@@ -36,8 +50,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 30,
+   "repost_count": 5,
+   "like_count": 110,
    "image": "https://pbs.twimg.com/media/HV0VS8sW4AEm26J.jpg"
   },
   {
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVv1LeyWwAAc2Vn.jpg"
   },
   {
@@ -63,9 +77,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 4,
-   "like_count": 67,
+   "reply_count": 2,
+   "repost_count": 41,
+   "like_count": 513,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2115869025859145728/img/oVzktE0IUE073WwM.jpg"
   },
   {
@@ -79,22 +93,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 11,
+   "like_count": 21,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1295146979576733697/pu/img/sxUCvOoLoiI2UAC1.jpg"
-  },
-  {
-   "id": "2115866254154346527",
-   "text": "S1 E5 \u2018College\u2019 | 521 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115866254154346527",
-   "created_at": "2026-10-29T18:00:00+00:00",
-   "sent_at": "2026-10-29T18:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HVv1FFOW8AAyGP4.jpg"
   },
   {
    "id": "2115854383669776621",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 38,
+   "like_count": 44,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2088489704836800512/img/UjBPhVIIIenZXNoz.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 48,
    "repost_count": 18,
-   "like_count": 470,
+   "like_count": 516,
    "image": ""
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 45,
+   "like_count": 47,
    "image": "https://pbs.twimg.com/media/HVzVqj3XkAARtdp.jpg"
   }
  ]
