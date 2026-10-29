@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T10:06:40+00:00",
+ "updated_at": "2026-10-29T10:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2115749231768014926",
+   "text": "S1 E5 \u2018College\u2019 | 490 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115749231768014926",
+   "created_at": "2026-10-29T10:15:00+00:00",
+   "sent_at": "2026-10-29T10:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVvyewEW8AEEaBx.jpg"
+  },
+  {
    "id": "2115746683628011558",
    "text": "willem dafoe been snubbed harder than anybody. for a remarkable actor who got four oscar noms and zero wins, the academy really be sleepin on the goat.",
    "url": "https://x.com/mandevil23edits/status/2115746683628011558",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVykZIIXcAEs9os.jpg"
   },
   {
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1891234364517998592/pu/img/GRtl5Mzgw0w8eFcB.jpg"
-  },
-  {
-   "id": "2115741682239205626",
-   "text": "S1 E5 \u2018College\u2019 | 488 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115741682239205626",
-   "created_at": "2026-10-29T09:45:00+00:00",
-   "sent_at": "2026-10-29T09:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVvyUCiX0AA8IfC.jpg"
   },
   {
    "id": "2115689785238904973",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 15,
-   "like_count": 571,
+   "like_count": 579,
    "image": "https://pbs.twimg.com/media/HVw5CqzW0AAIeZJ.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
    "repost_count": 0,
-   "like_count": 132,
+   "like_count": 134,
    "image": "https://pbs.twimg.com/media/HVwIjadXQAEa3Zh.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 9,
+   "like_count": 8,
    "image": ""
   }
  ]
