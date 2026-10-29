@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T09:36:39+00:00",
+ "updated_at": "2026-10-29T09:51:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2115741682239205626",
+   "text": "S1 E5 \u2018College\u2019 | 488 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115741682239205626",
+   "created_at": "2026-10-29T09:45:00+00:00",
+   "sent_at": "2026-10-29T09:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVvyUCiX0AA8IfC.jpg"
+  },
+  {
+   "id": "2115740215016816871",
+   "text": "they really did a whole trilogy in one year \ud83d\ude2d",
+   "url": "https://x.com/mandevil23edits/status/2115740215016816871",
+   "created_at": "2026-10-29T09:39:10+00:00",
+   "sent_at": "2026-10-29T09:39:10+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 4,
+   "image": ""
+  },
   {
    "id": "2115737909844168932",
    "text": "S1 E5 \u2018College\u2019 | 487 of 632",
@@ -39,20 +67,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HVycQT_WgAAG4dP.jpg"
-  },
-  {
-   "id": "2115734132257062934",
-   "text": "S1 E5 \u2018College\u2019 | 486 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115734132257062934",
-   "created_at": "2026-10-29T09:15:00+00:00",
-   "sent_at": "2026-10-29T09:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HVvyIRyWMAAISJD.jpg"
   },
   {
    "id": "2115689785238904973",
@@ -97,20 +111,6 @@
    "image": ""
   },
   {
-   "id": "2115629775637397882",
-   "text": "what being the messiah does to an mf",
-   "url": "https://x.com/mandevil23edits/status/2115629775637397882",
-   "created_at": "2026-10-29T02:20:19+00:00",
-   "sent_at": "2026-10-29T02:20:19+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 11,
-   "image": ""
-  },
-  {
    "id": "2115628645918056777",
    "text": "I know they\u2019re fully gonna have a million scenes together but it\u2019s breaking my brain to actually see luke patterson and ilya rozanov standing next to each other",
    "url": "https://x.com/uhbucky/status/2115628645918056777",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 15,
-   "like_count": 563,
+   "like_count": 567,
    "image": "https://pbs.twimg.com/media/HVw5CqzW0AAIeZJ.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
    "repost_count": 0,
-   "like_count": 126,
+   "like_count": 129,
    "image": "https://pbs.twimg.com/media/HVwIjadXQAEa3Zh.jpg"
   },
   {
