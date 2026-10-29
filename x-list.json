@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T20:36:39+00:00",
+ "updated_at": "2026-10-29T20:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2115907776484343890",
+   "text": "S1 E5 \u2018College\u2019 | 532 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115907776484343890",
+   "created_at": "2026-10-29T20:45:00+00:00",
+   "sent_at": "2026-10-29T20:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HVv2AAVXwAAMqmg.jpg"
+  },
+  {
    "id": "2115904268926681429",
    "text": "rip patrick stewart. hands down one of the greatest actors to ever do it.",
    "url": "https://x.com/mandevil23edits/status/2115904268926681429",
@@ -22,8 +36,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
+   "repost_count": 4,
+   "like_count": 25,
    "image": "https://pbs.twimg.com/media/HV0zt0EWwAE3WKe.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 13,
    "image": "https://pbs.twimg.com/media/HVv15bFWYAAVbvd.jpg"
-  },
-  {
-   "id": "2115900226603278750",
-   "text": "S1 E5 \u2018College\u2019 | 530 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115900226603278750",
-   "created_at": "2026-10-29T20:15:00+00:00",
-   "sent_at": "2026-10-29T20:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HVv10SzW0AEIucK.jpg"
   },
   {
    "id": "2115896436588159221",
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 2,
-   "repost_count": 71,
-   "like_count": 332,
+   "repost_count": 84,
+   "like_count": 375,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 1,
    "repost_count": 6,
-   "like_count": 11,
+   "like_count": 12,
    "image": ""
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 14,
-   "like_count": 405,
+   "like_count": 415,
    "image": "https://pbs.twimg.com/media/HV0VS8sW4AEm26J.jpg"
   },
   {
@@ -175,9 +175,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 63,
+   "reply_count": 64,
    "repost_count": 23,
-   "like_count": 727,
+   "like_count": 735,
    "image": ""
   }
  ]
