@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T13:51:42+00:00",
+ "updated_at": "2026-10-29T14:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2115805855417299229",
+   "text": "S1 E5 \u2018College\u2019 | 505 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115805855417299229",
+   "created_at": "2026-10-29T14:00:00+00:00",
+   "sent_at": "2026-10-29T14:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HVvztk_XIAAg0iB.jpg"
+  },
   {
    "id": "2115802385964757188",
    "text": "Apple needs to fire more people.\n\n15 Years of only 5GB of Free iCloud Storage. FIFTEEN YEARS!!! @johnternus",
@@ -37,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HVvzor6W4AAXfcu.jpg"
   },
   {
@@ -49,9 +63,9 @@
    "author_name": "gnocchi",
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/media/HVzVqj3XkAARtdp.jpg"
   },
   {
@@ -93,22 +107,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2050445504882884608/rdoqP-2h_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2115798308903952840",
-   "text": "S1 E5 \u2018College\u2019 | 503 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115798308903952840",
-   "created_at": "2026-10-29T13:30:01+00:00",
-   "sent_at": "2026-10-29T13:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HVvzjI8XUAEAl72.jpg"
+   "image": ""
   },
   {
    "id": "2115783478562464190",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 8,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/media/HVzFzhcXkAAdMNo.png"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 2,
-   "repost_count": 34,
-   "like_count": 324,
+   "repost_count": 48,
+   "like_count": 438,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2115781682997379072/img/KX1_MwPzTWc3l9Qp.jpg"
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 22,
+   "repost_count": 3,
+   "like_count": 27,
    "image": ""
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 1,
-   "like_count": 16,
+   "like_count": 17,
    "image": "https://pbs.twimg.com/media/HVykZIIXcAEs9os.jpg"
   },
   {
