@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T11:21:39+00:00",
+ "updated_at": "2026-10-29T11:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2115768107507565008",
+   "text": "S1 E5 \u2018College\u2019 | 495 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115768107507565008",
+   "created_at": "2026-10-29T11:30:00+00:00",
+   "sent_at": "2026-10-29T11:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HVvy4qkW0AA_e2O.jpg"
+  },
+  {
    "id": "2115764331296305608",
    "text": "S1 E5 \u2018College\u2019 | 494 of 632",
    "url": "https://x.com/SopranosOrder/status/2115764331296305608",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HVvyztCW8AEvLYu.jpg"
-  },
-  {
-   "id": "2115760569974161592",
-   "text": "S1 E5 \u2018College\u2019 | 493 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115760569974161592",
-   "created_at": "2026-10-29T11:00:03+00:00",
-   "sent_at": "2026-10-29T11:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HVvyugBWMAAC2GK.jpg"
   },
   {
    "id": "2115752431241871545",
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
-   "repost_count": 16,
-   "like_count": 592,
+   "repost_count": 18,
+   "like_count": 605,
    "image": "https://pbs.twimg.com/media/HVw5CqzW0AAIeZJ.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
    "repost_count": 0,
-   "like_count": 147,
+   "like_count": 149,
    "image": "https://pbs.twimg.com/media/HVwIjadXQAEa3Zh.jpg"
   },
   {
@@ -165,20 +165,6 @@
    "repost_count": 10,
    "like_count": 144,
    "image": "https://pbs.twimg.com/media/HVv7v6ZXQAA5Opp.png"
-  },
-  {
-   "id": "2115557490951696423",
-   "text": "Three Diamonds are the Trinity yet we haven\u2019t seen two of them \ud83d\ude02",
-   "url": "https://x.com/StebobM/status/2115557490951696423",
-   "created_at": "2026-10-28T21:33:05+00:00",
-   "sent_at": "2026-10-28T21:33:05+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 9,
-   "image": ""
   }
  ]
 }
