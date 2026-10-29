@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T15:06:42+00:00",
+ "updated_at": "2026-10-29T15:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,17 +13,31 @@
  },
  "posts": [
   {
-   "id": "2115821849992912950",
-   "text": "hi!! does anyone have any recs for a translator site for english to russian for writing fics? I\u2019m not sure which one is the most accurate so I thought I\u2019d ask here!! I also wanna learn how to code it so that if you tap the text it auto translates BUT one thing at a time",
-   "url": "https://x.com/uhbucky/status/2115821849992912950",
-   "created_at": "2026-10-29T15:03:33+00:00",
-   "sent_at": "2026-10-29T15:03:33+00:00",
-   "author_name": "spooky mellie \ud83c\udf83",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "id": "2115824730020139496",
+   "text": "S1 E5 \u2018College\u2019 | 510 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115824730020139496",
+   "created_at": "2026-10-29T15:15:00+00:00",
+   "sent_at": "2026-10-29T15:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HVv0GZ_WQAALK24.jpg"
+  },
+  {
+   "id": "2115822769321410776",
+   "text": "There is horror and then there is just mean-spirited torture slop.\n\nTerrifier may be a beacon of indie film ingenuity, but it's far too pointless and bleak for my taste.",
+   "url": "https://x.com/TheManlet_King/status/2115822769321410776",
+   "created_at": "2026-10-29T15:07:12+00:00",
+   "sent_at": "2026-10-29T15:07:12+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 3,
+   "repost_count": 0,
+   "like_count": 37,
    "image": ""
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HVv0B1wWQAAH-0l.jpg"
-  },
-  {
-   "id": "2115817180298183024",
-   "text": "S1 E5 \u2018College\u2019 | 508 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115817180298183024",
-   "created_at": "2026-10-29T14:45:00+00:00",
-   "sent_at": "2026-10-29T14:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HVvz9IRWMAAMCOl.jpg"
   },
   {
    "id": "2115802385964757188",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 3,
-   "like_count": 29,
+   "like_count": 33,
    "image": "https://pbs.twimg.com/media/HVzVqj3XkAARtdp.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 14,
+   "like_count": 16,
    "image": "https://pbs.twimg.com/media/HVzFzhcXkAAdMNo.png"
   },
   {
@@ -147,9 +147,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 7,
-   "repost_count": 270,
-   "like_count": 2311,
+   "reply_count": 9,
+   "repost_count": 400,
+   "like_count": 3457,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2115781682997379072/img/KX1_MwPzTWc3l9Qp.jpg"
   },
   {
