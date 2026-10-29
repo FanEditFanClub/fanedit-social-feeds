@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T01:21:40+00:00",
+ "updated_at": "2026-10-29T01:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2115617112224145502",
+   "text": "S1 E5 \u2018College\u2019 | 455 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115617112224145502",
+   "created_at": "2026-10-29T01:30:00+00:00",
+   "sent_at": "2026-10-29T01:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HVvvZ64XEAIhUwn.jpg"
+  },
   {
    "id": "2115614153691865194",
    "text": "that possession remake got to parker finn",
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HVvvVK0XoAAxrc6.jpg"
-  },
-  {
-   "id": "2115609565748412481",
-   "text": "S1 E5 \u2018College\u2019 | 453 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115609565748412481",
-   "created_at": "2026-10-29T01:00:01+00:00",
-   "sent_at": "2026-10-29T01:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HVvvP_oXUAAV4yO.jpg"
   },
   {
    "id": "2115598428394709351",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 32,
+   "like_count": 40,
    "image": ""
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 0,
-   "like_count": 92,
+   "like_count": 96,
    "image": "https://pbs.twimg.com/media/HVwIjadXQAEa3Zh.jpg"
   },
   {
@@ -133,9 +133,9 @@
    "author_name": "gnocchi",
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 7,
-   "like_count": 69,
+   "like_count": 72,
    "image": "https://pbs.twimg.com/media/HVv7v6ZXQAA5Opp.png"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 6,
    "image": ""
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 3,
-   "like_count": 48,
+   "like_count": 54,
    "image": "https://pbs.twimg.com/media/HVvnm2AXAAAchKu.jpg"
   },
   {
