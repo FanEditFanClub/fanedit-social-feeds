@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T09:51:39+00:00",
+ "updated_at": "2026-10-30T10:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2116108061941354573",
+   "text": "In what way does he understand Bruce Wayne? How Bruce is no different to his Batman",
+   "url": "https://x.com/StebobM/status/2116108061941354573",
+   "created_at": "2026-10-30T10:00:52+00:00",
+   "sent_at": "2026-10-30T10:00:52+00:00",
+   "author_name": "Man of Stevenween",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2116107859180064831",
+   "text": "S1 E5 \u2018College\u2019 | 585 of 632",
+   "url": "https://x.com/SopranosOrder/status/2116107859180064831",
+   "created_at": "2026-10-30T10:00:03+00:00",
+   "sent_at": "2026-10-30T10:00:03+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HV1TZZPW4AA0PmE.jpg"
+  },
   {
    "id": "2116104744800264279",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Texas Chainsaw Massacre (1974) SPEEDRUN Any% - \"5:10\".\n\nhttps://www.reddit.com/r/fanedits/comments/1xiarvl/texas_chainsaw_massacre_1974_speedrun_any_510/",
@@ -36,23 +64,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
+   "repost_count": 1,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HV1TUwpXYAAh1kH.jpg"
-  },
-  {
-   "id": "2116100299702292922",
-   "text": "S1 E5 \u2018College\u2019 | 583 of 632",
-   "url": "https://x.com/SopranosOrder/status/2116100299702292922",
-   "created_at": "2026-10-30T09:30:01+00:00",
-   "sent_at": "2026-10-30T09:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HV1TRt-XAAEdtEk.jpg"
   },
   {
    "id": "2116091287753375864",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 19,
+   "like_count": 21,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1413307153323106310/pu/img/GauVk4xlSjKVm5ji.jpg"
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 20,
+   "like_count": 21,
    "image": ""
   },
   {
@@ -105,9 +119,9 @@
    "author_name": "gnocchi",
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 1,
-   "like_count": 23,
+   "like_count": 24,
    "image": "https://pbs.twimg.com/media/HV3M2woWIAALr3R.jpg"
   },
   {
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
    "reply_count": 4,
    "repost_count": 36,
-   "like_count": 340,
+   "like_count": 341,
    "image": "https://pbs.twimg.com/media/HV17zlqWIAA4vQD.jpg"
   },
   {
@@ -135,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 27,
-   "like_count": 228,
+   "like_count": 231,
    "image": ""
   },
   {
@@ -148,8 +162,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 6,
-   "repost_count": 510,
-   "like_count": 4515,
+   "repost_count": 516,
+   "like_count": 4571,
    "image": "https://pbs.twimg.com/media/HV1yWXiW0AIZsGK.jpg"
   },
   {
@@ -164,20 +178,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 17,
-   "image": ""
-  },
-  {
-   "id": "2115947741599703123",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Halloween H20: The Devil's Eyes Edition..\n\nhttps://www.reddit.com/r/fanedits/comments/1xhyoch/halloween_h20_the_devils_eyes_edition/",
-   "url": "https://x.com/FanEditFanClub/status/2115947741599703123",
-   "created_at": "2026-10-29T23:23:48+00:00",
-   "sent_at": "2026-10-29T23:23:48+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
    "image": ""
   }
  ]
