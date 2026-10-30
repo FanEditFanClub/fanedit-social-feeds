@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T01:06:39+00:00",
+ "updated_at": "2026-10-30T01:21:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2115975724477919462",
+   "text": "S1 E5 \u2018College\u2019 | 550 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115975724477919462",
+   "created_at": "2026-10-30T01:15:00+00:00",
+   "sent_at": "2026-10-30T01:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 6,
+   "image": "https://pbs.twimg.com/media/HV1ROogXIAAQ47q.jpg"
+  },
+  {
+   "id": "2115974470204596328",
+   "text": "I love buddies interpersonal angst so much because it\u2019s so reflective of their relationship not being platonic but I yearn for the day that they\u2019re going through something together and fight something on the same side",
+   "url": "https://x.com/uhbucky/status/2115974470204596328",
+   "created_at": "2026-10-30T01:10:01+00:00",
+   "sent_at": "2026-10-30T01:10:01+00:00",
+   "author_name": "spooky mellie \ud83c\udf83",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 5,
+   "like_count": 40,
+   "image": ""
+  },
+  {
    "id": "2115973138332938328",
    "text": "\u201cI\u2019ve made my fair share of mistakes\u201d \u201cI know that because I\u2019ve been with you through most of them. did I ever one time look down on you for those mistakes?\u201d I actually feel insane all the history they share together finally catching up to them and coming to this",
    "url": "https://x.com/uhbucky/status/2115973138332938328",
@@ -21,9 +49,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 6,
-   "like_count": 46,
+   "reply_count": 4,
+   "repost_count": 86,
+   "like_count": 334,
    "image": "https://pbs.twimg.com/media/HV1yWXiW0AIZsGK.jpg"
   },
   {
@@ -37,36 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HV1RLE-WIAA47iE.jpg"
-  },
-  {
-   "id": "2115970730425040947",
-   "text": "THESE MAYRAVI HEALINGS",
-   "url": "https://x.com/uhbucky/status/2115970730425040947",
-   "created_at": "2026-10-30T00:55:09+00:00",
-   "sent_at": "2026-10-30T00:55:09+00:00",
-   "author_name": "spooky mellie \ud83c\udf83",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 16,
-   "like_count": 78,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2115970503034945536/img/O6bLIAXS_Y3ChJ7R.jpg"
-  },
-  {
-   "id": "2115968174352937374",
-   "text": "S1 E5 \u2018College\u2019 | 548 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115968174352937374",
-   "created_at": "2026-10-30T00:45:00+00:00",
-   "sent_at": "2026-10-30T00:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HV1RGE8W8AAK1JN.jpg"
   },
   {
    "id": "2115967370816524354",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 10,
    "image": ""
   },
   {
