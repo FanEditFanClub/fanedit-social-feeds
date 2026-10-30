@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T01:51:40+00:00",
+ "updated_at": "2026-10-30T02:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2115987048884830397",
+   "text": "S1 E5 \u2018College\u2019 | 553 of 632",
+   "url": "https://x.com/SopranosOrder/status/2115987048884830397",
+   "created_at": "2026-10-30T02:00:00+00:00",
+   "sent_at": "2026-10-30T02:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HV1RanaXsAAaAWU.jpg"
+  },
+  {
    "id": "2115983533348991114",
    "text": "LIGHTS. CAMERA. ACTION. \ud83c\udfac\n\n#The2019Cut",
    "url": "https://x.com/The2019Cut/status/2115983533348991114",
@@ -21,9 +35,9 @@
    "author_name": "Sonic The Hedgehog: The 2019 Cut",
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 5,
+   "reply_count": 3,
+   "repost_count": 4,
+   "like_count": 42,
    "image": "https://pbs.twimg.com/media/HV17zlqWIAA4vQD.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HV1RWhDXIAEXbxD.jpg"
-  },
-  {
-   "id": "2115979499049210250",
-   "text": "S1 E5 \u2018College\u2019 | 551 of 632",
-   "url": "https://x.com/SopranosOrder/status/2115979499049210250",
-   "created_at": "2026-10-30T01:30:00+00:00",
-   "sent_at": "2026-10-30T01:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 12,
-   "image": "https://pbs.twimg.com/media/HV1RSoAXcAAXlpd.jpg"
   },
   {
    "id": "2115974470204596328",
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 14,
-   "like_count": 113,
+   "repost_count": 15,
+   "like_count": 137,
    "image": ""
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
-   "repost_count": 197,
-   "like_count": 1185,
+   "repost_count": 240,
+   "like_count": 1492,
    "image": "https://pbs.twimg.com/media/HV1yWXiW0AIZsGK.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HV1ZI7PXcAAVVyk.jpg"
   },
   {
