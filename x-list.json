@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T09:21:39+00:00",
+ "updated_at": "2026-10-30T09:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2116100299702292922",
+   "text": "S1 E5 \u2018College\u2019 | 583 of 632",
+   "url": "https://x.com/SopranosOrder/status/2116100299702292922",
+   "created_at": "2026-10-30T09:30:01+00:00",
+   "sent_at": "2026-10-30T09:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HV1TRt-XAAEdtEk.jpg"
+  },
+  {
    "id": "2116096520365777332",
    "text": "S1 E5 \u2018College\u2019 | 582 of 632",
    "url": "https://x.com/SopranosOrder/status/2116096520365777332",
@@ -22,23 +36,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
+   "repost_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HV1TNyCW8AA5byH.jpg"
-  },
-  {
-   "id": "2116092754618995143",
-   "text": "S1 E5 \u2018College\u2019 | 581 of 632",
-   "url": "https://x.com/SopranosOrder/status/2116092754618995143",
-   "created_at": "2026-10-30T09:00:02+00:00",
-   "sent_at": "2026-10-30T09:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HV1TKTqWYAALmi3.jpg"
   },
   {
    "id": "2116091287753375864",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 12,
+   "like_count": 17,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1413307153323106310/pu/img/GauVk4xlSjKVm5ji.jpg"
   },
   {
@@ -65,21 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 17,
-   "image": ""
-  },
-  {
-   "id": "2116078227177238542",
-   "text": "Why? it\u2019s the one l thing he said that is obviously the case",
-   "url": "https://x.com/StebobM/status/2116078227177238542",
-   "created_at": "2026-10-30T08:02:18+00:00",
-   "sent_at": "2026-10-30T08:02:18+00:00",
-   "author_name": "Man of Stevenween",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 1,
+   "like_count": 19,
    "image": ""
   },
   {
@@ -93,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 21,
+   "like_count": 23,
    "image": "https://pbs.twimg.com/media/HV3NEyqWkAARuhh.jpg"
   },
   {
@@ -107,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 19,
+   "like_count": 23,
    "image": "https://pbs.twimg.com/media/HV3M2woWIAALr3R.jpg"
   },
   {
@@ -135,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 27,
-   "like_count": 224,
+   "like_count": 226,
    "image": ""
   },
   {
@@ -148,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 6,
-   "repost_count": 498,
-   "like_count": 4380,
+   "repost_count": 502,
+   "like_count": 4442,
    "image": "https://pbs.twimg.com/media/HV1yWXiW0AIZsGK.jpg"
   },
   {
@@ -172,6 +158,20 @@
    "url": "https://x.com/FanEditFanClub/status/2115947741599703123",
    "created_at": "2026-10-29T23:23:48+00:00",
    "sent_at": "2026-10-29T23:23:48+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2115947686901830069",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Does anyone have Chris Hartwell\u2019s Hobbit fan edits?.\n\nhttps://www.reddit.com/r/fanedits/comments/1xi24ia/does_anyone_have_chris_hartwells_hobbit_fan_edits/",
+   "url": "https://x.com/FanEditFanClub/status/2115947686901830069",
+   "created_at": "2026-10-29T23:23:35+00:00",
+   "sent_at": "2026-10-29T23:23:35+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
