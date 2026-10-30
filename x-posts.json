@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T07:07:04+00:00",
+ "updated_at": "2026-10-30T07:22:00+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -69,18 +69,18 @@
   },
   {
    "id": "2115885079989776701",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Is https://Fanedit.org down for anyone else? I cant get to the website. Thanks.\n\nhttps://www.reddit.com/r/fanedits/comments/1xhv0ck/is_faneditorg_down_for_anyone_else_i_cant_get_to/",
-   "url": "https://x.com/FanEditFanClub/status/2115885079989776701",
-   "sent_at": "2026-10-29T19:14:48+00:00",
-   "created_at": "2026-10-29T19:14:48+00:00",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Is Fanedit.org down for anyone else? I cant get to the website. Thanks.\n\nhttps://www.reddit.com/r/fanedits/comments/1xhv0ck/is_faneditorg_down_for_anyone_else_i_cant_get_to/",
+   "url": "https://x.com/2072539271450312704/status/2115885079989776701",
+   "sent_at": "2026-10-29T19:14:49+00:00",
+   "created_at": "2026-10-29T19:14:49+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "author_avatar": "",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 0,
    "image": "",
-   "source": "syndication"
+   "source": "buffer"
   },
   {
    "id": "2115799275728703548",
