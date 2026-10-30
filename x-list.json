@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T08:06:38+00:00",
+ "updated_at": "2026-10-30T08:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2116081420565152074",
+   "text": "S1 E5 \u2018College\u2019 | 578 of 632",
+   "url": "https://x.com/SopranosOrder/status/2116081420565152074",
+   "created_at": "2026-10-30T08:15:00+00:00",
+   "sent_at": "2026-10-30T08:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HV1S-MTXQAIWCix.jpg"
+  },
+  {
    "id": "2116078814459756713",
    "text": "good morning",
    "url": "https://x.com/mandevil23edits/status/2116078814459756713",
@@ -21,9 +35,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111786347845345280/img/8OGs26ELTOSYH1YA.jpg"
   },
   {
@@ -37,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HV1S6ArWQAAorOC.jpg"
-  },
-  {
-   "id": "2116073870813798719",
-   "text": "S1 E5 \u2018College\u2019 | 576 of 632",
-   "url": "https://x.com/SopranosOrder/status/2116073870813798719",
-   "created_at": "2026-10-30T07:45:00+00:00",
-   "sent_at": "2026-10-30T07:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HV1S2BtXcAE6M7C.jpg"
   },
   {
    "id": "2116072968111403258",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/media/HV3NEyqWkAARuhh.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 1,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HV3M2woWIAALr3R.jpg"
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
    "reply_count": 4,
-   "repost_count": 31,
-   "like_count": 326,
+   "repost_count": 34,
+   "like_count": 331,
    "image": "https://pbs.twimg.com/media/HV17zlqWIAA4vQD.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 27,
-   "like_count": 218,
+   "like_count": 219,
    "image": ""
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 6,
-   "repost_count": 471,
-   "like_count": 4094,
+   "repost_count": 477,
+   "like_count": 4156,
    "image": "https://pbs.twimg.com/media/HV1yWXiW0AIZsGK.jpg"
   },
   {
