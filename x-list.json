@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T05:36:38+00:00",
+ "updated_at": "2026-10-31T05:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2116406059589894645",
+   "text": "S1 E6 'Pax Soprana' | 32 of 620",
+   "url": "https://x.com/SopranosOrder/status/2116406059589894645",
+   "created_at": "2026-10-31T05:45:00+00:00",
+   "sent_at": "2026-10-31T05:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HV4A_YUXUAA8e6_.jpg"
+  },
+  {
+   "id": "2116404812455571665",
+   "text": "patrick stewart really been professor x since 2000 and doomsday finna be the last time we see him. rest in power king.",
+   "url": "https://x.com/mandevil23edits/status/2116404812455571665",
+   "created_at": "2026-10-31T05:40:02+00:00",
+   "sent_at": "2026-10-31T05:40:02+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2116402286490440177",
    "text": "S1 E6 'Pax Soprana' | 31 of 620",
    "url": "https://x.com/SopranosOrder/status/2116402286490440177",
@@ -22,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
+   "repost_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HV4A8TvWUAAhJ6O.jpg"
-  },
-  {
-   "id": "2116398509842719186",
-   "text": "S1 E6 'Pax Soprana' | 30 of 620",
-   "url": "https://x.com/SopranosOrder/status/2116398509842719186",
-   "created_at": "2026-10-31T05:15:00+00:00",
-   "sent_at": "2026-10-31T05:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HV4A5JPXUAAqxSA.jpg"
   },
   {
    "id": "2116396499068506284",
@@ -50,23 +64,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 16,
-   "image": "https://pbs.twimg.com/media/HV7zZVkXUAABR0x.jpg"
-  },
-  {
-   "id": "2116388974293893482",
-   "text": "today is october 31st",
-   "url": "https://x.com/mandevil23edits/status/2116388974293893482",
-   "created_at": "2026-10-31T04:37:06+00:00",
-   "sent_at": "2026-10-31T04:37:06+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
    "repost_count": 3,
-   "like_count": 26,
-   "image": "https://pbs.twimg.com/media/HV7sjcgXoAAmxAv.jpg"
+   "like_count": 20,
+   "image": "https://pbs.twimg.com/media/HV7zZVkXUAABR0x.jpg"
   },
   {
    "id": "2116355341327994942",
@@ -120,8 +120,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
-   "repost_count": 4,
-   "like_count": 85,
+   "repost_count": 5,
+   "like_count": 88,
    "image": "https://pbs.twimg.com/media/HV6YDa_WwAADRS0.png"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 14,
-   "repost_count": 35,
-   "like_count": 1365,
+   "repost_count": 36,
+   "like_count": 1384,
    "image": "https://pbs.twimg.com/media/HV6N0x-W0AAPSUy.jpg"
   },
   {
