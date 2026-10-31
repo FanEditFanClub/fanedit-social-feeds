@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T18:51:39+00:00",
+ "updated_at": "2026-10-31T19:06:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2116607171903492330",
+   "text": "speed went 2 for 2, and i respect that.",
+   "url": "https://x.com/mandevil23edits/status/2116607171903492330",
+   "created_at": "2026-10-31T19:04:09+00:00",
+   "sent_at": "2026-10-31T19:04:09+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HV-zAFAW8AAgDXi.jpg"
+  },
+  {
+   "id": "2116606135729819666",
+   "text": "S1 E6 'Pax Soprana' | 85 of 620",
+   "url": "https://x.com/SopranosOrder/status/2116606135729819666",
+   "created_at": "2026-10-31T19:00:02+00:00",
+   "sent_at": "2026-10-31T19:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HV4FBDYXsAA4PWv.jpg"
+  },
+  {
    "id": "2116602353491275893",
    "text": "S1 E6 'Pax Soprana' | 84 of 620",
    "url": "https://x.com/SopranosOrder/status/2116602353491275893",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HV4E9QRWQAETbfY.jpg"
-  },
-  {
-   "id": "2116598580622332268",
-   "text": "S1 E6 'Pax Soprana' | 83 of 620",
-   "url": "https://x.com/SopranosOrder/status/2116598580622332268",
-   "created_at": "2026-10-31T18:30:00+00:00",
-   "sent_at": "2026-10-31T18:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HV4E6BXXEAAVy_V.jpg"
   },
   {
    "id": "2116593609810100606",
@@ -63,9 +77,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 5,
+   "reply_count": 6,
    "repost_count": 1,
-   "like_count": 39,
+   "like_count": 48,
    "image": "https://pbs.twimg.com/media/HV-jdZNWsAAIyv4.jpg"
   },
   {
@@ -111,20 +125,6 @@
    "image": "https://pbs.twimg.com/tweet_video_thumb/HV-X0p3XQAAr6KQ.jpg"
   },
   {
-   "id": "2116571096992403608",
-   "text": "why he talking like eddie ruined his entire childhood lmaooo it\u2019s just an autograph",
-   "url": "https://x.com/mandevil23edits/status/2116571096992403608",
-   "created_at": "2026-10-31T16:40:48+00:00",
-   "sent_at": "2026-10-31T16:40:48+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 8,
-   "image": ""
-  },
-  {
    "id": "2116567650977374428",
    "text": "I watched IT: Welcome to Derry: The Story of Derry, I wasn\u2019t blown away tbh. It was Ok but doesn\u2019t really give you anything you didn\u2019t get from the series itself.",
    "url": "https://x.com/StebobM/status/2116567650977374428",
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
    "repost_count": 4,
-   "like_count": 60,
+   "like_count": 63,
    "image": ""
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 4,
-   "like_count": 162,
+   "like_count": 167,
    "image": "https://pbs.twimg.com/media/HV97ZO_XEAAGOxS.jpg"
   }
  ]
