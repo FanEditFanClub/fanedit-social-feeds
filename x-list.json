@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T07:51:38+00:00",
+ "updated_at": "2026-10-31T08:06:55+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2116440036962902503",
+   "text": "S1 E6 'Pax Soprana' | 41 of 620",
+   "url": "https://x.com/SopranosOrder/status/2116440036962902503",
+   "created_at": "2026-10-31T08:00:01+00:00",
+   "sent_at": "2026-10-31T08:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HV4Bd-8WUAABjs4.jpg"
+  },
+  {
+   "id": "2116439540948746713",
+   "text": "why every scrapped sequence always hit different",
+   "url": "https://x.com/mandevil23edits/status/2116439540948746713",
+   "created_at": "2026-10-31T07:58:02+00:00",
+   "sent_at": "2026-10-31T07:58:02+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2116436258620666120",
    "text": "S1 E6 'Pax Soprana' | 40 of 620",
    "url": "https://x.com/SopranosOrder/status/2116436258620666120",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HV4BZ36XsAAxL-1.jpg"
-  },
-  {
-   "id": "2116432232009302274",
-   "text": "S1 E6 'Pax Soprana' | 39 of 620",
-   "url": "https://x.com/SopranosOrder/status/2116432232009302274",
-   "created_at": "2026-10-31T07:29:00+00:00",
-   "sent_at": "2026-10-31T07:29:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HV4BWfUWQAEqT6_.jpg"
   },
   {
    "id": "2116422302455803925",
@@ -83,20 +97,6 @@
    "image": ""
   },
   {
-   "id": "2116396499068506284",
-   "text": "anya taylor-joy appreciation post",
-   "url": "https://x.com/mandevil23edits/status/2116396499068506284",
-   "created_at": "2026-10-31T05:07:00+00:00",
-   "sent_at": "2026-10-31T05:07:00+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 8,
-   "like_count": 77,
-   "image": "https://pbs.twimg.com/media/HV7zZVkXUAABR0x.jpg"
-  },
-  {
    "id": "2116355341327994942",
    "text": "I've spent more time watching movies about football than I have watching football.",
    "url": "https://x.com/JoshNitsche/status/2116355341327994942",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 4,
    "repost_count": 3,
-   "like_count": 29,
+   "like_count": 30,
    "image": "https://pbs.twimg.com/media/HV6Yh-sXEAAdB09.jpg"
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 14,
-   "repost_count": 41,
-   "like_count": 1476,
+   "repost_count": 42,
+   "like_count": 1485,
    "image": "https://pbs.twimg.com/media/HV6N0x-W0AAPSUy.jpg"
   }
  ]
