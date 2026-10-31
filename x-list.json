@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T15:21:38+00:00",
+ "updated_at": "2026-10-31T15:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2116553871330062622",
+   "text": "Its so easy to spot bot and burner accounts on here. They either have a few or no followers and they have no posts only replies.\n\nThe question is why? It\u2019s all so bizarre to me",
+   "url": "https://x.com/StebobM/status/2116553871330062622",
+   "created_at": "2026-10-31T15:32:21+00:00",
+   "sent_at": "2026-10-31T15:32:21+00:00",
+   "author_name": "Man of Stevenween",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2113736084114837504/WrN-M6Bl_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HV-ChiFXYAEaHa2.jpg"
+  },
+  {
+   "id": "2116553531620815151",
+   "text": "S1 E6 'Pax Soprana' | 71 of 620",
+   "url": "https://x.com/SopranosOrder/status/2116553531620815151",
+   "created_at": "2026-10-31T15:31:00+00:00",
+   "sent_at": "2026-10-31T15:31:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HV4D1gIXYAA_27o.jpg"
+  },
+  {
    "id": "2116549504925397230",
    "text": "S1 E6 'Pax Soprana' | 70 of 620",
    "url": "https://x.com/SopranosOrder/status/2116549504925397230",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 3,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HV4DyXDXUAAAPGF.jpg"
   },
   {
@@ -36,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 2,
+   "repost_count": 2,
+   "like_count": 27,
    "image": ""
   },
   {
@@ -49,9 +77,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -64,23 +92,9 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 12,
+   "repost_count": 2,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/media/HV97ZO_XEAAGOxS.jpg"
-  },
-  {
-   "id": "2116545731561406952",
-   "text": "S1 E6 'Pax Soprana' | 69 of 620",
-   "url": "https://x.com/SopranosOrder/status/2116545731561406952",
-   "created_at": "2026-10-31T15:00:00+00:00",
-   "sent_at": "2026-10-31T15:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HV4DvLpWgAAsLnp.jpg"
   },
   {
    "id": "2116545310323302600",
@@ -91,9 +105,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HV96vjrXwAAtgx2.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 13,
+   "like_count": 14,
    "image": ""
   },
   {
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 20,
+   "like_count": 23,
    "image": "https://pbs.twimg.com/media/HV93KJwX0AAa19G.jpg"
   },
   {
@@ -161,20 +175,6 @@
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2116514742324081150",
-   "text": "HAPPY HALLOWEEN, Y'ALL!! https://www.reddit.com/r/moviesremastered/comments/1xk9gmf/mrdb_new_releases_for_fanedits_october_2026/",
-   "url": "https://x.com/MoviesRemaster/status/2116514742324081150",
-   "created_at": "2026-10-31T12:56:52+00:00",
-   "sent_at": "2026-10-31T12:56:52+00:00",
-   "author_name": "Movies Remastered",
-   "author_handle": "MoviesRemaster",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1816591966303342592/8fBVI70g_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
