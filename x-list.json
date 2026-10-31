@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T20:36:40+00:00",
+ "updated_at": "2026-10-31T20:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2116633670492811459",
+   "text": "from the walking dead universe to marvel cinematic universe",
+   "url": "https://x.com/mandevil23edits/status/2116633670492811459",
+   "created_at": "2026-10-31T20:49:26+00:00",
+   "sent_at": "2026-10-31T20:49:26+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HV_LGgBX0AETK3X.jpg"
+  },
+  {
+   "id": "2116632552169705829",
+   "text": "S1 E6 'Pax Soprana' | 92 of 620",
+   "url": "https://x.com/SopranosOrder/status/2116632552169705829",
+   "created_at": "2026-10-31T20:45:00+00:00",
+   "sent_at": "2026-10-31T20:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HV4Fd38WMAA_9Ad.jpg"
+  },
+  {
    "id": "2116629489325150540",
    "text": "my stomach hurts look at them",
    "url": "https://x.com/uhbucky/status/2116629489325150540",
@@ -21,9 +49,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 7,
+   "reply_count": 1,
+   "repost_count": 4,
+   "like_count": 84,
    "image": "https://pbs.twimg.com/media/HV_HTZZX0AAn4lC.jpg"
   },
   {
@@ -51,36 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2116628721767518208/img/gr9jZv-cWo1Szf-X.jpg"
-  },
-  {
-   "id": "2116625002657116256",
-   "text": "S1 E6 'Pax Soprana' | 90 of 620",
-   "url": "https://x.com/SopranosOrder/status/2116625002657116256",
-   "created_at": "2026-10-31T20:15:00+00:00",
-   "sent_at": "2026-10-31T20:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HV4FW-xXwAAQEJC.jpg"
-  },
-  {
-   "id": "2116607171903492330",
-   "text": "speed went 2 for 2, and i respect that.",
-   "url": "https://x.com/mandevil23edits/status/2116607171903492330",
-   "created_at": "2026-10-31T19:04:09+00:00",
-   "sent_at": "2026-10-31T19:04:09+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 9,
-   "like_count": 49,
-   "image": "https://pbs.twimg.com/media/HV-zAFAW8AAgDXi.jpg"
   },
   {
    "id": "2116593609810100606",
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
    "repost_count": 5,
-   "like_count": 76,
+   "like_count": 77,
    "image": ""
   },
   {
