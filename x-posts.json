@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T22:37:02+00:00",
+ "updated_at": "2026-10-31T22:51:59+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -145,17 +145,17 @@
   {
    "id": "2116522792468328497",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Any standout fan edits featuring Patrick Stewart as Jean-Lic Picard?.\n\nhttps://www.reddit.com/r/fanedits/comments/1xjexej/any_standout_fan_edits_featuring_patrick_stewart/",
-   "url": "https://x.com/FanEditFanClub/status/2116522792468328497",
+   "url": "https://x.com/2072539271450312704/status/2116522792468328497",
    "sent_at": "2026-10-31T13:28:51+00:00",
    "created_at": "2026-10-31T13:28:51+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "author_avatar": "",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
    "image": "",
-   "source": "syndication"
+   "source": "buffer"
   }
  ]
 }
