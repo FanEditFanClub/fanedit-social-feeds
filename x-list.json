@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T17:36:48+00:00",
+ "updated_at": "2026-10-31T17:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2116587253535477837",
+   "text": "S1 E6 'Pax Soprana' | 80 of 620",
+   "url": "https://x.com/SopranosOrder/status/2116587253535477837",
+   "created_at": "2026-10-31T17:45:00+00:00",
+   "sent_at": "2026-10-31T17:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HV4EX8SXwAAWsor.jpg"
+  },
+  {
    "id": "2116583479442100477",
    "text": "S1 E6 'Pax Soprana' | 79 of 620",
    "url": "https://x.com/SopranosOrder/status/2116583479442100477",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HV4ETosWAAA9Wlb.jpg"
-  },
-  {
-   "id": "2116579704194896344",
-   "text": "S1 E6 'Pax Soprana' | 78 of 620",
-   "url": "https://x.com/SopranosOrder/status/2116579704194896344",
-   "created_at": "2026-10-31T17:15:00+00:00",
-   "sent_at": "2026-10-31T17:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HV4EPp1XwAAfY61.jpg"
   },
   {
    "id": "2116577289014018119",
@@ -49,9 +49,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 7,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HV-X0p3XQAAr6KQ.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -91,9 +91,9 @@
    "author_name": "spooky mellie \ud83c\udf83",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 4,
    "repost_count": 4,
-   "like_count": 31,
+   "like_count": 35,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 9,
-   "like_count": 85,
+   "like_count": 86,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 3,
-   "like_count": 118,
+   "like_count": 125,
    "image": "https://pbs.twimg.com/media/HV97ZO_XEAAGOxS.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 5,
-   "like_count": 56,
+   "like_count": 58,
    "image": "https://pbs.twimg.com/media/HV93KJwX0AAa19G.jpg"
   }
  ]
