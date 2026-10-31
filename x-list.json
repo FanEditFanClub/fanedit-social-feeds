@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T08:06:55+00:00",
+ "updated_at": "2026-10-31T08:21:44+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2116444008821993516",
+   "text": "nobody wasn\u2019t looking at matt hagan",
+   "url": "https://x.com/mandevil23edits/status/2116444008821993516",
+   "created_at": "2026-10-31T08:15:47+00:00",
+   "sent_at": "2026-10-31T08:15:47+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2116443808380706896",
+   "text": "S1 E6 'Pax Soprana' | 42 of 620",
+   "url": "https://x.com/SopranosOrder/status/2116443808380706896",
+   "created_at": "2026-10-31T08:15:00+00:00",
+   "sent_at": "2026-10-31T08:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HV4BjzqWoAA8e8C.jpg"
+  },
+  {
+   "id": "2116442166369411319",
+   "text": "good morning",
+   "url": "https://x.com/mandevil23edits/status/2116442166369411319",
+   "created_at": "2026-10-31T08:08:28+00:00",
+   "sent_at": "2026-10-31T08:08:28+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HV8c7ZtX0AApW0e.jpg"
+  },
+  {
    "id": "2116440036962902503",
    "text": "S1 E6 'Pax Soprana' | 41 of 620",
    "url": "https://x.com/SopranosOrder/status/2116440036962902503",
@@ -25,34 +67,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HV4Bd-8WUAABjs4.jpg"
-  },
-  {
-   "id": "2116439540948746713",
-   "text": "why every scrapped sequence always hit different",
-   "url": "https://x.com/mandevil23edits/status/2116439540948746713",
-   "created_at": "2026-10-31T07:58:02+00:00",
-   "sent_at": "2026-10-31T07:58:02+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
-  },
-  {
-   "id": "2116436258620666120",
-   "text": "S1 E6 'Pax Soprana' | 40 of 620",
-   "url": "https://x.com/SopranosOrder/status/2116436258620666120",
-   "created_at": "2026-10-31T07:45:00+00:00",
-   "sent_at": "2026-10-31T07:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HV4BZ36XsAAxL-1.jpg"
   },
   {
    "id": "2116422302455803925",
@@ -83,20 +97,6 @@
    "image": ""
   },
   {
-   "id": "2116404812455571665",
-   "text": "patrick stewart really been professor x since 2000 and doomsday finna be the last time we see him. rest in power king.",
-   "url": "https://x.com/mandevil23edits/status/2116404812455571665",
-   "created_at": "2026-10-31T05:40:02+00:00",
-   "sent_at": "2026-10-31T05:40:02+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": ""
-  },
-  {
    "id": "2116355341327994942",
    "text": "I've spent more time watching movies about football than I have watching football.",
    "url": "https://x.com/JoshNitsche/status/2116355341327994942",
@@ -120,8 +120,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 4,
-   "repost_count": 3,
-   "like_count": 30,
+   "repost_count": 4,
+   "like_count": 32,
    "image": "https://pbs.twimg.com/media/HV6Yh-sXEAAdB09.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 6,
-   "like_count": 107,
+   "like_count": 108,
    "image": "https://pbs.twimg.com/media/HV6YDa_WwAADRS0.png"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 14,
    "repost_count": 42,
-   "like_count": 1485,
+   "like_count": 1494,
    "image": "https://pbs.twimg.com/media/HV6N0x-W0AAPSUy.jpg"
   }
  ]
