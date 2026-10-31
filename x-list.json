@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T02:36:39+00:00",
+ "updated_at": "2026-10-31T02:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2116361037452615680",
+   "text": "the concept of posting ai generated images of denis villeneuve\u2019s dune movies",
+   "url": "https://x.com/mandevil23edits/status/2116361037452615680",
+   "created_at": "2026-10-31T02:46:06+00:00",
+   "sent_at": "2026-10-31T02:46:06+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2116361024785833984/img/buhUrNK-fco7SWaj.jpg"
+  },
+  {
+   "id": "2116360761215963513",
+   "text": "S1 E6 'Pax Soprana' | 20 of 620",
+   "url": "https://x.com/SopranosOrder/status/2116360761215963513",
+   "created_at": "2026-10-31T02:45:00+00:00",
+   "sent_at": "2026-10-31T02:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HV3_a-WXQAI78m1.jpg"
+  },
+  {
    "id": "2116357353641808150",
    "text": "the most iconic character introduction in any superhero movie",
    "url": "https://x.com/mandevil23edits/status/2116357353641808150",
@@ -22,8 +50,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1513276448395694080/pu/img/1V1Mw-afknntzZvY.jpg"
   },
   {
@@ -37,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HV3_XnCXIAAKdN_.jpg"
   },
   {
@@ -52,34 +80,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2116353211791487104",
-   "text": "S1 E6 'Pax Soprana' | 18 of 620",
-   "url": "https://x.com/SopranosOrder/status/2116353211791487104",
-   "created_at": "2026-10-31T02:15:00+00:00",
-   "sent_at": "2026-10-31T02:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HV3_UIdWkAEbi3s.jpg"
-  },
-  {
-   "id": "2116351576256213291",
-   "text": "somebody tell me this ain\u2019t the most badass frame of 2026",
-   "url": "https://x.com/mandevil23edits/status/2116351576256213291",
-   "created_at": "2026-10-31T02:08:30+00:00",
-   "sent_at": "2026-10-31T02:08:30+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 14,
    "repost_count": 28,
-   "like_count": 1215,
+   "like_count": 1231,
    "image": "https://pbs.twimg.com/media/HV6N0x-W0AAPSUy.jpg"
   },
   {
