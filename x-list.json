@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T20:21:39+00:00",
+ "updated_at": "2026-11-01T20:36:44+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2116991166550053152",
+   "text": "S1 E6 'Pax Soprana' | 187 of 620",
+   "url": "https://x.com/SopranosOrder/status/2116991166550053152",
+   "created_at": "2026-11-01T20:30:00+00:00",
+   "sent_at": "2026-11-01T20:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HV9YAjVXsAEUjfw.jpg"
+  },
+  {
    "id": "2116988592337695135",
    "text": "IT'S ALMOST TIME. \ud83d\udc99\u26a1\n\nThe wait is nearly over. Get ready for the first look at SONIC THE HEDGEHOG: THE 2019 CUT.\n\n11.8.26 \ud83c\udfac\n\n#The2019Cut",
    "url": "https://x.com/The2019Cut/status/2116988592337695135",
@@ -21,9 +35,9 @@
    "author_name": "Sonic The Hedgehog: The 2019 Cut",
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 2,
-   "like_count": 5,
+   "reply_count": 4,
+   "repost_count": 3,
+   "like_count": 38,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2116987800713089024/img/E_HNs2G7tfKojbvv.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HV9X9XnXkAAuUza.jpg"
   },
   {
-   "id": "2116983867194408976",
-   "text": "S1 E6 'Pax Soprana' | 185 of 620",
-   "url": "https://x.com/SopranosOrder/status/2116983867194408976",
-   "created_at": "2026-11-01T20:01:00+00:00",
-   "sent_at": "2026-11-01T20:01:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HV9X552XYAAYANd.jpg"
-  },
-  {
    "id": "2116981525791002866",
    "text": "Reposting because of my typo\n\nIt\u2019s likely to make a profit but $90 mil (tbh probably slightly more) is the break even point so it\u2019s profit isn\u2019t going to be major. It\u2019s more likely to be a minor profit earner. Of course that\u2019s a win but it\u2019s not some huge success at all.",
    "url": "https://x.com/StebobM/status/2116981525791002866",
@@ -63,9 +63,9 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 4,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 4,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 106,
+   "like_count": 114,
    "image": "https://pbs.twimg.com/media/HWD2uI3WMAAExh3.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 5,
-   "like_count": 40,
+   "like_count": 42,
    "image": ""
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 5,
-   "like_count": 66,
+   "repost_count": 7,
+   "like_count": 69,
    "image": "https://pbs.twimg.com/media/HWDw7T0WkAAq7gh.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 6,
    "repost_count": 13,
-   "like_count": 182,
+   "like_count": 186,
    "image": "https://pbs.twimg.com/media/HWC6LnPWsAAVWpq.jpg"
   },
   {
@@ -176,8 +176,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 3,
-   "repost_count": 7,
-   "like_count": 136,
+   "repost_count": 8,
+   "like_count": 140,
    "image": "https://pbs.twimg.com/media/HWCuX6_WUAEOhKi.jpg"
   }
  ]
