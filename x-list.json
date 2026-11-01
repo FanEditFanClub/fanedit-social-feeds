@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T22:06:41+00:00",
+ "updated_at": "2026-11-01T22:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2117017589352141103",
+   "text": "S1 E6 'Pax Soprana' | 194 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117017589352141103",
+   "created_at": "2026-11-01T22:15:00+00:00",
+   "sent_at": "2026-11-01T22:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HV9YaV1WEAA7DoW.jpg"
+  },
   {
    "id": "2117013817851027674",
    "text": "S1 E6 'Pax Soprana' | 193 of 620",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HV9YXg8WwAAQD9G.jpg"
   },
   {
-   "id": "2117010291116396825",
-   "text": "S1 E6 'Pax Soprana' | 192 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117010291116396825",
-   "created_at": "2026-11-01T21:46:00+00:00",
-   "sent_at": "2026-11-01T21:46:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HV9YTXAWsAA6_v8.jpg"
-  },
-  {
    "id": "2117007461500543201",
    "text": "music composed by alan silvestri",
    "url": "https://x.com/mandevil23edits/status/2117007461500543201",
@@ -49,9 +49,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 17,
+   "reply_count": 3,
+   "repost_count": 1,
+   "like_count": 28,
    "image": "https://pbs.twimg.com/media/HWEfDxTWEAE6h4z.jpg"
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 23,
+   "like_count": 27,
    "image": ""
   },
   {
@@ -91,9 +91,9 @@
    "author_name": "Sonic The Hedgehog: The 2019 Cut",
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
-   "reply_count": 14,
-   "repost_count": 65,
-   "like_count": 570,
+   "reply_count": 16,
+   "repost_count": 73,
+   "like_count": 668,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2116987800713089024/img/E_HNs2G7tfKojbvv.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 5,
    "repost_count": 1,
-   "like_count": 7,
+   "like_count": 8,
    "image": ""
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 141,
+   "like_count": 146,
    "image": "https://pbs.twimg.com/media/HWD2uI3WMAAExh3.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 7,
    "repost_count": 13,
-   "like_count": 205,
+   "like_count": 211,
    "image": "https://pbs.twimg.com/media/HWC6LnPWsAAVWpq.jpg"
   }
  ]
