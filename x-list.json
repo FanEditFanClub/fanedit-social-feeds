@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T21:36:39+00:00",
+ "updated_at": "2026-11-01T21:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2117010291116396825",
+   "text": "S1 E6 'Pax Soprana' | 192 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117010291116396825",
+   "created_at": "2026-11-01T21:46:00+00:00",
+   "sent_at": "2026-11-01T21:46:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HV9YTXAWsAA6_v8.jpg"
+  },
+  {
    "id": "2117007461500543201",
    "text": "music composed by alan silvestri",
    "url": "https://x.com/mandevil23edits/status/2117007461500543201",
@@ -21,9 +35,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HWEfDxTWEAE6h4z.jpg"
   },
   {
@@ -37,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 2,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HV9YQPcXMAAxXeb.jpg"
   },
   {
@@ -55,20 +69,6 @@
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWEc5dnWsAAl0db.jpg"
   },
   {
-   "id": "2117002489677464021",
-   "text": "S1 E6 'Pax Soprana' | 190 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117002489677464021",
-   "created_at": "2026-11-01T21:15:00+00:00",
-   "sent_at": "2026-11-01T21:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HV9YM_SXsAEB1rM.jpg"
-  },
-  {
    "id": "2116995184429060247",
    "text": "we not ready for this storm at all",
    "url": "https://x.com/mandevil23edits/status/2116995184429060247",
@@ -78,8 +78,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 19,
+   "repost_count": 1,
+   "like_count": 21,
    "image": ""
   },
   {
@@ -91,9 +91,9 @@
    "author_name": "Sonic The Hedgehog: The 2019 Cut",
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
-   "reply_count": 12,
-   "repost_count": 36,
-   "like_count": 329,
+   "reply_count": 13,
+   "repost_count": 49,
+   "like_count": 435,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2116987800713089024/img/E_HNs2G7tfKojbvv.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 133,
+   "like_count": 137,
    "image": "https://pbs.twimg.com/media/HWD2uI3WMAAExh3.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 7,
    "repost_count": 13,
-   "like_count": 198,
+   "like_count": 201,
    "image": "https://pbs.twimg.com/media/HWC6LnPWsAAVWpq.jpg"
   }
  ]
