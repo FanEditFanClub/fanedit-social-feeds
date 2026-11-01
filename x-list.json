@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T16:51:40+00:00",
+ "updated_at": "2026-11-01T17:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2116938323495112903",
+   "text": "S1 E6 'Pax Soprana' | 173 of 620",
+   "url": "https://x.com/SopranosOrder/status/2116938323495112903",
+   "created_at": "2026-11-01T17:00:01+00:00",
+   "sent_at": "2026-11-01T17:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HV9XPl3WcAABQXc.jpg"
+  },
+  {
+   "id": "2116937078777028918",
+   "text": "It\u2019s not likely to make profit but it\u2019s not a major win at all",
+   "url": "https://x.com/StebobM/status/2116937078777028918",
+   "created_at": "2026-11-01T16:55:05+00:00",
+   "sent_at": "2026-11-01T16:55:05+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2116934541961212411",
    "text": "S1 E6 'Pax Soprana' | 172 of 620",
    "url": "https://x.com/SopranosOrder/status/2116934541961212411",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HV9XEuMXMAAMmy9.jpg"
-  },
-  {
-   "id": "2116930767976538172",
-   "text": "S1 E6 'Pax Soprana' | 171 of 620",
-   "url": "https://x.com/SopranosOrder/status/2116930767976538172",
-   "created_at": "2026-11-01T16:30:00+00:00",
-   "sent_at": "2026-11-01T16:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 8,
-   "image": "https://pbs.twimg.com/media/HV9XBgrW8AAYVaR.jpg"
   },
   {
    "id": "2116902131886129185",
@@ -64,8 +78,8 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 3,
-   "repost_count": 7,
-   "like_count": 132,
+   "repost_count": 10,
+   "like_count": 138,
    "image": "https://pbs.twimg.com/media/HWC6LnPWsAAVWpq.jpg"
   },
   {
@@ -106,23 +120,9 @@
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 3,
-   "repost_count": 3,
-   "like_count": 78,
+   "repost_count": 4,
+   "like_count": 82,
    "image": "https://pbs.twimg.com/media/HWCuX6_WUAEOhKi.jpg"
-  },
-  {
-   "id": "2116870992928944297",
-   "text": "What a fucking tool Will Wheaton is, time and a place for this stuff and that not it.",
-   "url": "https://x.com/StebobM/status/2116870992928944297",
-   "created_at": "2026-11-01T12:32:28+00:00",
-   "sent_at": "2026-11-01T12:32:28+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 8,
-   "image": ""
   },
   {
    "id": "2116852058355556573",
@@ -134,8 +134,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
-   "repost_count": 37,
-   "like_count": 1078,
+   "repost_count": 41,
+   "like_count": 1158,
    "image": ""
   },
   {
@@ -147,9 +147,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 35,
-   "repost_count": 5,
-   "like_count": 156,
+   "reply_count": 36,
+   "repost_count": 6,
+   "like_count": 159,
    "image": ""
   },
   {
@@ -162,8 +162,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 42,
-   "like_count": 328,
+   "repost_count": 45,
+   "like_count": 352,
    "image": "https://pbs.twimg.com/media/HWB2qLyXoAAsXcs.jpg"
   }
  ]
