@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T17:22:02+00:00",
+ "updated_at": "2026-11-01T17:37:01+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -130,17 +130,17 @@
   {
    "id": "2116782626245689375",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - \u201cPsycho \u201898\u201d.\n\nhttps://www.reddit.com/r/fanedits/comments/1xjy2ck/psycho_98/",
-   "url": "https://x.com/FanEditFanClub/status/2116782626245689375",
+   "url": "https://x.com/2072539271450312704/status/2116782626245689375",
    "sent_at": "2026-11-01T06:41:20+00:00",
    "created_at": "2026-11-01T06:41:20+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "author_avatar": "",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
    "image": "",
-   "source": "syndication"
+   "source": "buffer"
   },
   {
    "id": "2116782576765407559",
