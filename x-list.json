@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T21:51:39+00:00",
+ "updated_at": "2026-11-01T22:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2117013817851027674",
+   "text": "S1 E6 'Pax Soprana' | 193 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117013817851027674",
+   "created_at": "2026-11-01T22:00:01+00:00",
+   "sent_at": "2026-11-01T22:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HV9YXg8WwAAQD9G.jpg"
+  },
+  {
    "id": "2117010291116396825",
    "text": "S1 E6 'Pax Soprana' | 192 of 620",
    "url": "https://x.com/SopranosOrder/status/2117010291116396825",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HV9YTXAWsAA6_v8.jpg"
   },
   {
@@ -35,24 +49,10 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 8,
+   "like_count": 17,
    "image": "https://pbs.twimg.com/media/HWEfDxTWEAE6h4z.jpg"
-  },
-  {
-   "id": "2117006266547810760",
-   "text": "S1 E6 'Pax Soprana' | 191 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117006266547810760",
-   "created_at": "2026-11-01T21:30:00+00:00",
-   "sent_at": "2026-11-01T21:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HV9YQPcXMAAxXeb.jpg"
   },
   {
    "id": "2117005081803628964",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWEc5dnWsAAl0db.jpg"
   },
   {
@@ -77,9 +77,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 21,
+   "reply_count": 1,
+   "repost_count": 2,
+   "like_count": 23,
    "image": ""
   },
   {
@@ -91,9 +91,9 @@
    "author_name": "Sonic The Hedgehog: The 2019 Cut",
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
-   "reply_count": 13,
-   "repost_count": 49,
-   "like_count": 435,
+   "reply_count": 14,
+   "repost_count": 65,
+   "like_count": 570,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2116987800713089024/img/E_HNs2G7tfKojbvv.jpg"
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 4,
+   "reply_count": 5,
    "repost_count": 1,
-   "like_count": 6,
+   "like_count": 7,
    "image": ""
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 137,
+   "like_count": 141,
    "image": "https://pbs.twimg.com/media/HWD2uI3WMAAExh3.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 7,
    "repost_count": 13,
-   "like_count": 201,
+   "like_count": 205,
    "image": "https://pbs.twimg.com/media/HWC6LnPWsAAVWpq.jpg"
   }
  ]
