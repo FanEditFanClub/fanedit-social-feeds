@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T20:21:41+00:00",
+ "updated_at": "2026-11-02T20:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2117353804706267507",
+   "text": "S1 E6 'Pax Soprana' | 283 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117353804706267507",
+   "created_at": "2026-11-02T20:31:00+00:00",
+   "sent_at": "2026-11-02T20:31:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWDuL1HW0AApTTq.jpg"
+  },
+  {
+   "id": "2117353802688864728",
+   "text": "still thinking about how my mcu fancasting of samara weaving as emma frost really made my day",
+   "url": "https://x.com/mandevil23edits/status/2117353802688864728",
+   "created_at": "2026-11-02T20:30:59+00:00",
+   "sent_at": "2026-11-02T20:30:59+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWJaCyPWcAEC0Dn.jpg"
+  },
   {
    "id": "2117349778048639465",
    "text": "S1 E6 'Pax Soprana' | 282 of 620",
@@ -27,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HWDuIwtWwAA-liV.jpg"
   },
   {
-   "id": "2117346008061415541",
-   "text": "S1 E6 'Pax Soprana' | 281 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117346008061415541",
-   "created_at": "2026-11-02T20:00:01+00:00",
-   "sent_at": "2026-11-02T20:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWDuFaWXoAAtE4M.jpg"
-  },
-  {
    "id": "2117343801492824085",
    "text": "tbh, after everything that i\u2019ve seen from the snl episode, inde navarrette is most definitely going to do a great job portraying rogue in the x-men reboot movie.",
    "url": "https://x.com/mandevil23edits/status/2117343801492824085",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 15,
+   "like_count": 17,
    "image": ""
-  },
-  {
-   "id": "2117341806417326335",
-   "text": "ben wang is a talented actor who had great performances in american born chinese and the long walk, so i\u2019ll take it.",
-   "url": "https://x.com/mandevil23edits/status/2117341806417326335",
-   "created_at": "2026-11-02T19:43:19+00:00",
-   "sent_at": "2026-11-02T19:43:19+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 2,
-   "like_count": 43,
-   "image": "https://pbs.twimg.com/media/HWJPJehWoAA_fj9.jpg"
   },
   {
    "id": "2117338727613689931",
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 6,
-   "repost_count": 44,
-   "like_count": 1287,
+   "repost_count": 46,
+   "like_count": 1357,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HKZkWKEWQAAX1p4.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 10,
+   "like_count": 12,
    "image": ""
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 9,
-   "like_count": 223,
+   "like_count": 225,
    "image": ""
   }
  ]
