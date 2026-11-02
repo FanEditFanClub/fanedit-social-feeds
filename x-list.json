@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T10:06:41+00:00",
+ "updated_at": "2026-11-02T10:21:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2117198783125574026",
+   "text": "S1 E6 'Pax Soprana' | 242 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117198783125574026",
+   "created_at": "2026-11-02T10:15:00+00:00",
+   "sent_at": "2026-11-02T10:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWDsLisWMAAqVpb.jpg"
+  },
+  {
    "id": "2117195014745014777",
    "text": "S1 E6 'Pax Soprana' | 241 of 620",
    "url": "https://x.com/SopranosOrder/status/2117195014745014777",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HWDsFlzXEAEigsH.jpg"
-  },
-  {
-   "id": "2117191233365762106",
-   "text": "S1 E6 'Pax Soprana' | 240 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117191233365762106",
-   "created_at": "2026-11-02T09:45:00+00:00",
-   "sent_at": "2026-11-02T09:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWDsCBxXQAAXZOd.jpg"
   },
   {
    "id": "2117182295337496974",
@@ -92,8 +92,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
-   "repost_count": 4,
-   "like_count": 50,
+   "repost_count": 5,
+   "like_count": 55,
    "image": ""
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1998622738047709185/_VQe1qvR_normal.jpg",
    "reply_count": 12,
    "repost_count": 6,
-   "like_count": 129,
+   "like_count": 134,
    "image": ""
   }
  ]
