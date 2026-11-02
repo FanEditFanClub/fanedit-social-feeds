@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T05:36:41+00:00",
+ "updated_at": "2026-11-02T05:51:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2117130835610468358",
+   "text": "S1 E6 'Pax Soprana' | 224 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117130835610468358",
+   "created_at": "2026-11-02T05:45:00+00:00",
+   "sent_at": "2026-11-02T05:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWDrNFPXMAAk4jh.jpg"
+  },
   {
    "id": "2117127061001441611",
    "text": "S1 E6 'Pax Soprana' | 223 of 620",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HWDrRsuXkAAn43o.jpg"
   },
   {
-   "id": "2117123286421111052",
-   "text": "S1 E6 'Pax Soprana' | 222 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117123286421111052",
-   "created_at": "2026-11-02T05:15:00+00:00",
-   "sent_at": "2026-11-02T05:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWDrGSwW8AI7rdZ.jpg"
-  },
-  {
    "id": "2117107961197699085",
    "text": "two best live action batman actors",
    "url": "https://x.com/mandevil23edits/status/2117107961197699085",
@@ -50,8 +50,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 38,
+   "repost_count": 1,
+   "like_count": 39,
    "image": "https://pbs.twimg.com/media/HWF6d8NXsAAAyDM.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 0,
-   "like_count": 27,
+   "like_count": 28,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWFYBi9XcAA9_Mv.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1998622738047709185/_VQe1qvR_normal.jpg",
    "reply_count": 10,
    "repost_count": 5,
-   "like_count": 113,
+   "like_count": 117,
    "image": ""
   },
   {
@@ -175,9 +175,9 @@
    "author_name": "Sonic The Hedgehog: The 2019 Cut",
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
-   "reply_count": 23,
-   "repost_count": 170,
-   "like_count": 1589,
+   "reply_count": 24,
+   "repost_count": 172,
+   "like_count": 1598,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2116987800713089024/img/E_HNs2G7tfKojbvv.jpg"
   }
  ]
