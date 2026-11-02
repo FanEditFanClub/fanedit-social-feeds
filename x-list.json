@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T23:36:42+00:00",
+ "updated_at": "2026-11-02T23:51:46+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117402626228629533",
+   "text": "S1 E6 'Pax Soprana' | 296 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117402626228629533",
+   "created_at": "2026-11-02T23:45:00+00:00",
+   "sent_at": "2026-11-02T23:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWDu8DxWEAEB84P.jpg"
+  },
+  {
+   "id": "2117401678387556387",
+   "text": "this always makes me giggle I love this angry little baby",
+   "url": "https://x.com/uhbucky/status/2117401678387556387",
+   "created_at": "2026-11-02T23:41:14+00:00",
+   "sent_at": "2026-11-02T23:41:14+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 17,
+   "image": "https://pbs.twimg.com/media/HWKFmtEWMAAEGmw.jpg"
+  },
+  {
    "id": "2117398852466569374",
    "text": "S1 E6 'Pax Soprana' | 295 of 620",
    "url": "https://x.com/SopranosOrder/status/2117398852466569374",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 5,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HWDu4m0XkAEWpsf.jpg"
-  },
-  {
-   "id": "2117395076674371782",
-   "text": "S1 E6 'Pax Soprana' | 294 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117395076674371782",
-   "created_at": "2026-11-02T23:15:00+00:00",
-   "sent_at": "2026-11-02T23:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HWDu0yVWMAAsxF9.jpg"
   },
   {
    "id": "2117382958457954389",
@@ -50,8 +64,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 8,
-   "repost_count": 1,
-   "like_count": 40,
+   "repost_count": 2,
+   "like_count": 42,
    "image": "https://pbs.twimg.com/media/HWJ0k-rWIAAhk3Y.jpg"
   },
   {
@@ -64,8 +78,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 6,
-   "like_count": 17,
+   "repost_count": 7,
+   "like_count": 18,
    "image": "https://pbs.twimg.com/media/HWJaCyPWcAEC0Dn.jpg"
   },
   {
@@ -78,8 +92,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
-   "repost_count": 4,
-   "like_count": 44,
+   "repost_count": 6,
+   "like_count": 51,
    "image": ""
   },
   {
@@ -135,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
    "repost_count": 56,
-   "like_count": 1775,
+   "like_count": 1803,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HKZkWKEWQAAX1p4.jpg"
   },
   {
