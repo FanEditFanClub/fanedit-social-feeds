@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T02:36:39+00:00",
+ "updated_at": "2026-11-02T02:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117086493084725539",
+   "text": "real television is back in style",
+   "url": "https://x.com/mandevil23edits/status/2117086493084725539",
+   "created_at": "2026-11-02T02:48:48+00:00",
+   "sent_at": "2026-11-02T02:48:48+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWFm8VqXIAA5nSE.jpg"
+  },
+  {
+   "id": "2117085536808763581",
+   "text": "S1 E6 'Pax Soprana' | 212 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117085536808763581",
+   "created_at": "2026-11-02T02:45:00+00:00",
+   "sent_at": "2026-11-02T02:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWDqlOEWwAAFjVT.jpg"
+  },
+  {
    "id": "2117081762501394859",
    "text": "S1 E6 'Pax Soprana' | 211 of 620",
    "url": "https://x.com/SopranosOrder/status/2117081762501394859",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWDqiNuXwAAwy0H.jpg"
-  },
-  {
-   "id": "2117077987308781780",
-   "text": "S1 E6 'Pax Soprana' | 210 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117077987308781780",
-   "created_at": "2026-11-02T02:15:00+00:00",
-   "sent_at": "2026-11-02T02:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HWDqekKWsAAI4kW.jpg"
+   "image": "https://pbs.twimg.com/media/HWDqiNuXwAAwy0H.jpg"
   },
   {
    "id": "2117077564242190834",
@@ -50,23 +64,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 13,
+   "repost_count": 1,
+   "like_count": 18,
    "image": ""
-  },
-  {
-   "id": "2117077104869147117",
-   "text": "\u201cbrian tyree henry playing harvey dent and sebastian stan playing victor zsasz in the batman: part ii\u201d",
-   "url": "https://x.com/mandevil23edits/status/2117077104869147117",
-   "created_at": "2026-11-02T02:11:29+00:00",
-   "sent_at": "2026-11-02T02:11:29+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 3,
-   "like_count": 21,
-   "image": "https://pbs.twimg.com/media/HWFeYa9XwAAFwnO.jpg"
   },
   {
    "id": "2117072018042421415",
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1998622738047709185/_VQe1qvR_normal.jpg",
    "reply_count": 7,
    "repost_count": 3,
-   "like_count": 84,
+   "like_count": 85,
    "image": ""
   },
   {
@@ -161,9 +161,9 @@
    "author_name": "Sonic The Hedgehog: The 2019 Cut",
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
-   "reply_count": 21,
-   "repost_count": 152,
-   "like_count": 1384,
+   "reply_count": 22,
+   "repost_count": 154,
+   "like_count": 1410,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2116987800713089024/img/E_HNs2G7tfKojbvv.jpg"
   },
   {
