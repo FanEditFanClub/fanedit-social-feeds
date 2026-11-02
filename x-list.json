@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T04:06:41+00:00",
+ "updated_at": "2026-11-02T04:21:49+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117108186381451503",
+   "text": "S1 E6 'Pax Soprana' | 218 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117108186381451503",
+   "created_at": "2026-11-02T04:15:00+00:00",
+   "sent_at": "2026-11-02T04:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HWDq4f7XAAAA0eg.jpg"
+  },
+  {
+   "id": "2117107961197699085",
+   "text": "two best live action batman actors",
+   "url": "https://x.com/mandevil23edits/status/2117107961197699085",
+   "created_at": "2026-11-02T04:14:06+00:00",
+   "sent_at": "2026-11-02T04:14:06+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWF6d8NXsAAAyDM.jpg"
+  },
+  {
    "id": "2117104412279607491",
    "text": "S1 E6 'Pax Soprana' | 217 of 620",
    "url": "https://x.com/SopranosOrder/status/2117104412279607491",
@@ -22,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWDq1QrWQAADaH5.jpg"
-  },
-  {
-   "id": "2117100888112415173",
-   "text": "S1 E6 'Pax Soprana' | 216 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117100888112415173",
-   "created_at": "2026-11-02T03:46:00+00:00",
-   "sent_at": "2026-11-02T03:46:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
+   "repost_count": 2,
    "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HWDqxfQXAAAZikh.jpg"
+   "image": "https://pbs.twimg.com/media/HWDq1QrWQAADaH5.jpg"
   },
   {
    "id": "2117099098172166332",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 6,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/media/HWFyZdvXsAA_2LF.jpg"
   },
   {
@@ -63,24 +77,10 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2117086493084725539",
-   "text": "real television is back in style",
-   "url": "https://x.com/mandevil23edits/status/2117086493084725539",
-   "created_at": "2026-11-02T02:48:48+00:00",
-   "sent_at": "2026-11-02T02:48:48+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 4,
-   "like_count": 14,
-   "image": "https://pbs.twimg.com/media/HWFm8VqXIAA5nSE.jpg"
   },
   {
    "id": "2117072018042421415",
@@ -119,9 +119,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 5,
+   "reply_count": 6,
    "repost_count": 0,
-   "like_count": 23,
+   "like_count": 25,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWFYBi9XcAA9_Mv.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1998622738047709185/_VQe1qvR_normal.jpg",
    "reply_count": 9,
    "repost_count": 3,
-   "like_count": 101,
+   "like_count": 105,
    "image": ""
   },
   {
@@ -176,8 +176,8 @@
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
    "reply_count": 23,
-   "repost_count": 159,
-   "like_count": 1506,
+   "repost_count": 162,
+   "like_count": 1528,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2116987800713089024/img/E_HNs2G7tfKojbvv.jpg"
   }
  ]
