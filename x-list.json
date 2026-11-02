@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T22:36:42+00:00",
+ "updated_at": "2026-11-02T22:51:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117387526839423313",
+   "text": "S1 E6 'Pax Soprana' | 292 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117387526839423313",
+   "created_at": "2026-11-02T22:45:00+00:00",
+   "sent_at": "2026-11-02T22:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWDuuOdX0AA43je.jpg"
+  },
+  {
+   "id": "2117385988603363766",
+   "text": "the boyfriend effect",
+   "url": "https://x.com/uhbucky/status/2117385988603363766",
+   "created_at": "2026-11-02T22:38:53+00:00",
+   "sent_at": "2026-11-02T22:38:53+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 8,
+   "like_count": 48,
+   "image": "https://pbs.twimg.com/media/HWJ3VcYWAAAMhZb.jpg"
+  },
+  {
    "id": "2117383754779877381",
    "text": "S1 E6 'Pax Soprana' | 291 of 620",
    "url": "https://x.com/SopranosOrder/status/2117383754779877381",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HWDurItWgAADe_5.jpg"
   },
   {
@@ -35,24 +63,10 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 14,
    "image": "https://pbs.twimg.com/media/HWJ0k-rWIAAhk3Y.jpg"
-  },
-  {
-   "id": "2117379976991318122",
-   "text": "S1 E6 'Pax Soprana' | 290 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117379976991318122",
-   "created_at": "2026-11-02T22:15:00+00:00",
-   "sent_at": "2026-11-02T22:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWDun7hXwAAPG0L.jpg"
   },
   {
    "id": "2117353802688864728",
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
    "repost_count": 2,
-   "like_count": 37,
+   "like_count": 38,
    "image": ""
   },
   {
@@ -134,8 +148,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
-   "repost_count": 53,
-   "like_count": 1670,
+   "repost_count": 54,
+   "like_count": 1696,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HKZkWKEWQAAX1p4.jpg"
   },
   {
@@ -149,22 +163,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 23,
+   "like_count": 27,
    "image": ""
-  },
-  {
-   "id": "2117212237781716998",
-   "text": "Boo",
-   "url": "https://x.com/TheManlet_King/status/2117212237781716998",
-   "created_at": "2026-11-02T11:08:28+00:00",
-   "sent_at": "2026-11-02T11:08:28+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 6,
-   "repost_count": 3,
-   "like_count": 143,
-   "image": "https://pbs.twimg.com/media/HWHZTkEWsAAY_Vj.jpg"
   }
  ]
 }
