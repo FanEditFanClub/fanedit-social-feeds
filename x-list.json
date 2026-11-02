@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T11:06:40+00:00",
+ "updated_at": "2026-11-02T11:21:54+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2117213882632843546",
+   "text": "S1 E6 'Pax Soprana' | 246 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117213882632843546",
+   "created_at": "2026-11-02T11:15:00+00:00",
+   "sent_at": "2026-11-02T11:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWDsX0sXoAAw7Q5.jpg"
+  },
+  {
+   "id": "2117212237781716998",
+   "text": "Boo",
+   "url": "https://x.com/TheManlet_King/status/2117212237781716998",
+   "created_at": "2026-11-02T11:08:28+00:00",
+   "sent_at": "2026-11-02T11:08:28+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 12,
+   "image": "https://pbs.twimg.com/media/HWHZTkEWsAAY_Vj.jpg"
+  },
   {
    "id": "2117210120983658582",
    "text": "S1 E6 'Pax Soprana' | 245 of 620",
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 28,
+   "like_count": 39,
    "image": ""
-  },
-  {
-   "id": "2117206332889575787",
-   "text": "S1 E6 'Pax Soprana' | 244 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117206332889575787",
-   "created_at": "2026-11-02T10:45:00+00:00",
-   "sent_at": "2026-11-02T10:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWDsSLEXoAAqZHR.jpg"
   },
   {
    "id": "2117182295337496974",
@@ -105,9 +119,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 4,
    "repost_count": 5,
-   "like_count": 62,
+   "like_count": 64,
    "image": ""
   },
   {
@@ -137,20 +151,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2117070094052307234",
-   "text": "You get a lot more Chucky, and with even better sfx, but less tension and story.\n\nThe first 1 already borrowed from The Terminator but 2 was even more overt with the protector named 'Kyle' and the factory 3rd act location.\n\nSolid sequel though. I feel it's complete with 2.",
-   "url": "https://x.com/TheManlet_King/status/2117070094052307234",
-   "created_at": "2026-11-02T01:43:38+00:00",
-   "sent_at": "2026-11-02T01:43:38+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 7,
-   "repost_count": 0,
-   "like_count": 32,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HWFYBi9XcAA9_Mv.jpg"
   }
  ]
 }
