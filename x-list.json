@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T00:21:41+00:00",
+ "updated_at": "2026-11-02T00:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117052951013298209",
+   "text": "Tonight's kino (first viewing)",
+   "url": "https://x.com/TheManlet_King/status/2117052951013298209",
+   "created_at": "2026-11-02T00:35:31+00:00",
+   "sent_at": "2026-11-02T00:35:31+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWFIcJUWsAAvH45.jpg"
+  },
+  {
+   "id": "2117051814772167046",
+   "text": "S1 E6 'Pax Soprana' | 203 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117051814772167046",
+   "created_at": "2026-11-02T00:31:00+00:00",
+   "sent_at": "2026-11-02T00:31:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWDqIM1XcAElRqZ.jpg"
+  },
+  {
    "id": "2117047788265681135",
    "text": "S1 E6 'Pax Soprana' | 202 of 620",
    "url": "https://x.com/SopranosOrder/status/2117047788265681135",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWDqFLrWYAAvRSH.jpg"
-  },
-  {
-   "id": "2117044016424292432",
-   "text": "S1 E6 'Pax Soprana' | 201 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117044016424292432",
-   "created_at": "2026-11-02T00:00:00+00:00",
-   "sent_at": "2026-11-02T00:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWDqB8WWUAAEebc.jpg"
   },
   {
    "id": "2117039927238000810",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 61,
+   "like_count": 80,
    "image": ""
   },
   {
@@ -63,9 +77,9 @@
    "author_name": "Make Movies Great Again",
    "author_handle": "Coops_Kino",
    "author_avatar": "https://pbs.twimg.com/profile_images/1998622738047709185/_VQe1qvR_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 4,
    "repost_count": 0,
-   "like_count": 43,
+   "like_count": 50,
    "image": ""
   },
   {
@@ -83,20 +97,6 @@
    "image": ""
   },
   {
-   "id": "2117022336486658338",
-   "text": "Wtf this was outrageously kino. I'm in awe at how competently made this was as a horror film, from a vfx perspective and as a police thriller. The 3 leads (especially Brad Dourif) all did a phenomenal job.\n\nSeriously, this was actually a solid film in every regard. Excellent.",
-   "url": "https://x.com/TheManlet_King/status/2117022336486658338",
-   "created_at": "2026-11-01T22:33:52+00:00",
-   "sent_at": "2026-11-01T22:33:52+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 1,
-   "like_count": 29,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HWEslRaXEAAmSyD.jpg"
-  },
-  {
    "id": "2117007461500543201",
    "text": "music composed by alan silvestri",
    "url": "https://x.com/mandevil23edits/status/2117007461500543201",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 7,
    "repost_count": 7,
-   "like_count": 75,
+   "like_count": 81,
    "image": "https://pbs.twimg.com/media/HWEfDxTWEAE6h4z.jpg"
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
    "reply_count": 18,
-   "repost_count": 123,
-   "like_count": 1106,
+   "repost_count": 125,
+   "like_count": 1141,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2116987800713089024/img/E_HNs2G7tfKojbvv.jpg"
   },
   {
