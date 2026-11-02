@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T02:51:39+00:00",
+ "updated_at": "2026-11-02T03:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117089817427390814",
+   "text": "How is the De-Flicker on Davinci?",
+   "url": "https://x.com/NCseventeen/status/2117089817427390814",
+   "created_at": "2026-11-02T03:02:00+00:00",
+   "sent_at": "2026-11-02T03:02:00+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2117089327683690561",
+   "text": "S1 E6 'Pax Soprana' | 213 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117089327683690561",
+   "created_at": "2026-11-02T03:00:03+00:00",
+   "sent_at": "2026-11-02T03:00:03+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWDqoYHXEAAXQqn.jpg"
+  },
+  {
    "id": "2117086493084725539",
    "text": "real television is back in style",
    "url": "https://x.com/mandevil23edits/status/2117086493084725539",
@@ -22,8 +50,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWFm8VqXIAA5nSE.jpg"
   },
   {
@@ -36,23 +64,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWDqlOEWwAAFjVT.jpg"
-  },
-  {
-   "id": "2117081762501394859",
-   "text": "S1 E6 'Pax Soprana' | 211 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117081762501394859",
-   "created_at": "2026-11-02T02:30:00+00:00",
-   "sent_at": "2026-11-02T02:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HWDqiNuXwAAwy0H.jpg"
   },
   {
    "id": "2117077564242190834",
@@ -64,8 +78,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 18,
+   "repost_count": 2,
+   "like_count": 23,
    "image": ""
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
    "repost_count": 0,
-   "like_count": 20,
+   "like_count": 21,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWFYBi9XcAA9_Mv.jpg"
   },
   {
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 1,
-   "like_count": 27,
+   "like_count": 28,
    "image": "https://pbs.twimg.com/media/HWFIcJUWsAAvH45.jpg"
   },
   {
@@ -135,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1998622738047709185/_VQe1qvR_normal.jpg",
    "reply_count": 7,
    "repost_count": 3,
-   "like_count": 85,
+   "like_count": 89,
    "image": ""
   },
   {
@@ -163,22 +177,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
    "reply_count": 22,
    "repost_count": 154,
-   "like_count": 1410,
+   "like_count": 1433,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2116987800713089024/img/E_HNs2G7tfKojbvv.jpg"
-  },
-  {
-   "id": "2116981525791002866",
-   "text": "Reposting because of my typo\n\nIt\u2019s likely to make a profit but $90 mil (tbh probably slightly more) is the break even point so it\u2019s profit isn\u2019t going to be major. It\u2019s more likely to be a minor profit earner. Of course that\u2019s a win but it\u2019s not some huge success at all.",
-   "url": "https://x.com/StebobM/status/2116981525791002866",
-   "created_at": "2026-11-01T19:51:42+00:00",
-   "sent_at": "2026-11-01T19:51:42+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 2,
-   "like_count": 8,
-   "image": ""
   }
  ]
 }
