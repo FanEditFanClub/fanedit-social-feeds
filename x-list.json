@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T10:36:44+00:00",
+ "updated_at": "2026-11-02T10:51:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117206560824832147",
+   "text": "Sonic would hate this!",
+   "url": "https://x.com/TheManlet_King/status/2117206560824832147",
+   "created_at": "2026-11-02T10:45:54+00:00",
+   "sent_at": "2026-11-02T10:45:54+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": ""
+  },
+  {
+   "id": "2117206332889575787",
+   "text": "S1 E6 'Pax Soprana' | 244 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117206332889575787",
+   "created_at": "2026-11-02T10:45:00+00:00",
+   "sent_at": "2026-11-02T10:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWDsSLEXoAAqZHR.jpg"
+  },
+  {
    "id": "2117202558817370459",
    "text": "S1 E6 'Pax Soprana' | 243 of 620",
    "url": "https://x.com/SopranosOrder/status/2117202558817370459",
@@ -22,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HWDsPBZXkAAlK6L.jpg"
-  },
-  {
-   "id": "2117198783125574026",
-   "text": "S1 E6 'Pax Soprana' | 242 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117198783125574026",
-   "created_at": "2026-11-02T10:15:00+00:00",
-   "sent_at": "2026-11-02T10:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWDsLisWMAAqVpb.jpg"
   },
   {
    "id": "2117182295337496974",
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
    "repost_count": 5,
-   "like_count": 57,
+   "like_count": 61,
    "image": ""
   },
   {
@@ -137,20 +151,6 @@
    "repost_count": 0,
    "like_count": 32,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWFYBi9XcAA9_Mv.jpg"
-  },
-  {
-   "id": "2117052951013298209",
-   "text": "Tonight's kino (first viewing)",
-   "url": "https://x.com/TheManlet_King/status/2117052951013298209",
-   "created_at": "2026-11-02T00:35:31+00:00",
-   "sent_at": "2026-11-02T00:35:31+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 1,
-   "like_count": 29,
-   "image": "https://pbs.twimg.com/media/HWFIcJUWsAAvH45.jpg"
   }
  ]
 }
