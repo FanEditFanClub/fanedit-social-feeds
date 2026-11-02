@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T08:36:40+00:00",
+ "updated_at": "2026-11-02T08:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2117176133766803483",
+   "text": "S1 E6 'Pax Soprana' | 236 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117176133766803483",
+   "created_at": "2026-11-02T08:45:00+00:00",
+   "sent_at": "2026-11-02T08:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWDr2EsXAAIB_qf.jpg"
+  },
+  {
    "id": "2117172939506503836",
    "text": "match so terrible it even made the big show cry",
    "url": "https://x.com/mandevil23edits/status/2117172939506503836",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": ""
   },
   {
@@ -69,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2117168584057307209",
-   "text": "S1 E6 'Pax Soprana' | 234 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117168584057307209",
-   "created_at": "2026-11-02T08:15:00+00:00",
-   "sent_at": "2026-11-02T08:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWDrvUrXcAABH2o.jpg"
-  },
-  {
    "id": "2117166836550901980",
    "text": "if jeffery wright can portray james gordon perfectly, then bryan tyree henry can definitely pull it off as two face in matt reeves\u2019 the batman: part ii.",
    "url": "https://x.com/mandevil23edits/status/2117166836550901980",
@@ -91,9 +91,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 16,
+   "reply_count": 3,
+   "repost_count": 2,
+   "like_count": 26,
    "image": ""
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1998622738047709185/_VQe1qvR_normal.jpg",
    "reply_count": 11,
    "repost_count": 5,
-   "like_count": 120,
+   "like_count": 121,
    "image": ""
   }
  ]
