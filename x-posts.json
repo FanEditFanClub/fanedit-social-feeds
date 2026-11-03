@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T22:07:02+00:00",
+ "updated_at": "2026-11-03T22:22:00+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -7,6 +7,21 @@
   "picture": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2117744127697633418",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Buffy Season 6 Finale from UPn.\n\nhttps://www.reddit.com/r/fanedits/comments/1xmadq0/buffy_season_6_finale_from_upn/",
+   "url": "https://twitter.com/FanEditFanClub/status/2117744127697633418",
+   "sent_at": "2026-11-03T22:22:00+00:00",
+   "created_at": "2026-11-03T22:22:00+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "buffer"
+  },
   {
    "id": "2117666889589457176",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Once Upon a Time in Hollywood [Red Apple Assembled Cut] ONLY on MRDb!.\n\nhttps://www.reddit.com/r/moviesremastered/comments/1xlweju/once_upon_a_time_in_hollywood_red_apple_assembled/",
@@ -133,21 +148,6 @@
    "url": "https://x.com/2072539271450312704/status/2117433974091915698",
    "sent_at": "2026-11-03T01:49:34+00:00",
    "created_at": "2026-11-03T01:49:34+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2117433911395381560",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - The Red John Chronicles: Chapter 1.\n\nhttps://www.reddit.com/r/fanedits/comments/1xlgqxk/the_red_john_chronicles_chapter_1/",
-   "url": "https://x.com/2072539271450312704/status/2117433911395381560",
-   "sent_at": "2026-11-03T01:49:19+00:00",
-   "created_at": "2026-11-03T01:49:19+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "",
