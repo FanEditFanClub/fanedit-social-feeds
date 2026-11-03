@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T16:21:43+00:00",
+ "updated_at": "2026-11-03T16:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,48 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2117656999458685270",
+   "text": "jesterbell when she see people being excited for an x-men movie reboot:",
+   "url": "https://x.com/mandevil23edits/status/2117656999458685270",
+   "created_at": "2026-11-03T16:35:47+00:00",
+   "sent_at": "2026-11-03T16:35:47+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2097745295450996736/img/P1NEgfsScvCl8brz.jpg"
+  },
+  {
+   "id": "2117655544865669270",
+   "text": "S1 E6 'Pax Soprana' | 363 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117655544865669270",
+   "created_at": "2026-11-03T16:30:00+00:00",
+   "sent_at": "2026-11-03T16:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWHQLpDX0AESxkI.jpg"
+  },
+  {
+   "id": "2117654500098056623",
+   "text": "i can\u2019t unsee the fact that this nigga looks like chris evans \ud83d\ude2d",
+   "url": "https://x.com/mandevil23edits/status/2117654500098056623",
+   "created_at": "2026-11-03T16:25:51+00:00",
+   "sent_at": "2026-11-03T16:25:51+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": ""
+  },
   {
    "id": "2117651768490492387",
    "text": "S1 E6 'Pax Soprana' | 362 of 620",
@@ -37,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
-  },
-  {
-   "id": "2117647995030122906",
-   "text": "S1 E6 'Pax Soprana' | 361 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117647995030122906",
-   "created_at": "2026-11-03T16:00:00+00:00",
-   "sent_at": "2026-11-03T16:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWHQFiIXcAAa8T0.jpg"
   },
   {
    "id": "2117646715151102103",
@@ -67,34 +95,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": ""
-  },
-  {
-   "id": "2117574555178811713",
-   "text": "ran away and still serving face",
-   "url": "https://x.com/mandevil23edits/status/2117574555178811713",
-   "created_at": "2026-11-03T11:08:11+00:00",
-   "sent_at": "2026-11-03T11:08:11+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 32,
-   "image": ""
-  },
-  {
-   "id": "2117571984079061076",
-   "text": "clayface (2026)",
-   "url": "https://x.com/mandevil23edits/status/2117571984079061076",
-   "created_at": "2026-11-03T10:57:58+00:00",
-   "sent_at": "2026-11-03T10:57:58+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 16,
-   "repost_count": 306,
-   "like_count": 6041,
-   "image": "https://pbs.twimg.com/media/HWMgfivXUAEY5i1.jpg"
   },
   {
    "id": "2117546519104561641",
@@ -133,9 +133,9 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 9,
-   "repost_count": 18,
-   "like_count": 383,
+   "reply_count": 10,
+   "repost_count": 19,
+   "like_count": 396,
    "image": "https://pbs.twimg.com/media/HWMAzeTW0AENHL7.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": ""
   },
   {
