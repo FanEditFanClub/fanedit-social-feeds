@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T00:51:43+00:00",
+ "updated_at": "2026-11-03T01:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117422832150065580",
+   "text": "supergirl & lesla-lar\n\nart by sophie campbell",
+   "url": "https://x.com/mandevil23edits/status/2117422832150065580",
+   "created_at": "2026-11-03T01:05:17+00:00",
+   "sent_at": "2026-11-03T01:05:17+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWKY10FWUAAnPrU.jpg"
+  },
+  {
+   "id": "2117421503755001863",
+   "text": "S1 E6 'Pax Soprana' | 301 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117421503755001863",
+   "created_at": "2026-11-03T01:00:00+00:00",
+   "sent_at": "2026-11-03T01:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HWHMKeIWAAA1I0C.jpg"
+  },
+  {
    "id": "2117417725861810549",
    "text": "S1 E6 'Pax Soprana' | 300 of 620",
    "url": "https://x.com/SopranosOrder/status/2117417725861810549",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HWHMFgwWIAAFWOQ.jpg"
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWKRxERWUAAkeo3.jpg"
-  },
-  {
-   "id": "2117413952841830570",
-   "text": "S1 E6 'Pax Soprana' | 299 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117413952841830570",
-   "created_at": "2026-11-03T00:30:00+00:00",
-   "sent_at": "2026-11-03T00:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
    "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HWHL_e_XYAAAyOH.jpg"
+   "image": "https://pbs.twimg.com/media/HWKRxERWUAAkeo3.jpg"
   },
   {
    "id": "2117382958457954389",
@@ -81,20 +95,6 @@
    "repost_count": 7,
    "like_count": 19,
    "image": "https://pbs.twimg.com/media/HWJaCyPWcAEC0Dn.jpg"
-  },
-  {
-   "id": "2117343801492824085",
-   "text": "tbh, after everything that i\u2019ve seen from the snl episode, inde navarrette is most definitely going to do a great job portraying rogue in the x-men reboot movie.",
-   "url": "https://x.com/mandevil23edits/status/2117343801492824085",
-   "created_at": "2026-11-02T19:51:15+00:00",
-   "sent_at": "2026-11-02T19:51:15+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 6,
-   "like_count": 60,
-   "image": ""
   },
   {
    "id": "2117338727613689931",
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
    "repost_count": 63,
-   "like_count": 1931,
+   "like_count": 1958,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HKZkWKEWQAAX1p4.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 34,
+   "like_count": 35,
    "image": ""
   }
  ]
