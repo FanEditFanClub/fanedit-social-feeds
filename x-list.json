@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T10:36:39+00:00",
+ "updated_at": "2026-11-03T10:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117569268531282192",
+   "text": "good morning",
+   "url": "https://x.com/mandevil23edits/status/2117569268531282192",
+   "created_at": "2026-11-03T10:47:10+00:00",
+   "sent_at": "2026-11-03T10:47:10+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWMeBoRXUAAhCW_.jpg"
+  },
+  {
+   "id": "2117568721002942464",
+   "text": "S1 E6 'Pax Soprana' | 340 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117568721002942464",
+   "created_at": "2026-11-03T10:45:00+00:00",
+   "sent_at": "2026-11-03T10:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWHOOECW0AAd_tv.jpg"
+  },
+  {
    "id": "2117564947169173666",
    "text": "S1 E6 'Pax Soprana' | 339 of 620",
    "url": "https://x.com/SopranosOrder/status/2117564947169173666",
@@ -22,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWHOKmEXoAACDPz.jpg"
-  },
-  {
-   "id": "2117561171033137164",
-   "text": "S1 E6 'Pax Soprana' | 338 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117561171033137164",
-   "created_at": "2026-11-03T10:15:00+00:00",
-   "sent_at": "2026-11-03T10:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
    "repost_count": 1,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HWHOHltW4AAqdG2.jpg"
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWHOKmEXoAACDPz.jpg"
   },
   {
    "id": "2117546519104561641",
@@ -77,9 +91,9 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 10,
-   "like_count": 113,
+   "reply_count": 4,
+   "repost_count": 11,
+   "like_count": 126,
    "image": "https://pbs.twimg.com/media/HWMAzeTW0AENHL7.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 4,
    "repost_count": 2,
-   "like_count": 51,
+   "like_count": 52,
    "image": "https://pbs.twimg.com/media/HWLmbadXEAAT_6A.jpg"
   },
   {
@@ -125,20 +139,6 @@
    "image": "https://pbs.twimg.com/media/HWLhE04WsAATZtF.jpg"
   },
   {
-   "id": "2117500669968207920",
-   "text": "draymond green once again proving he is the main character of every highlight reel for the wrong reasons",
-   "url": "https://x.com/mandevil23edits/status/2117500669968207920",
-   "created_at": "2026-11-03T06:14:35+00:00",
-   "sent_at": "2026-11-03T06:14:35+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 12,
-   "image": ""
-  },
-  {
    "id": "2117465565195284619",
    "text": "it\u2019s only been 4 days btw",
    "url": "https://x.com/uhbucky/status/2117465565195284619",
@@ -148,8 +148,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 16,
-   "repost_count": 186,
-   "like_count": 3334,
+   "repost_count": 197,
+   "like_count": 3546,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWK_tImWQAAX9jA.jpg"
   },
   {
