@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T20:36:46+00:00",
+ "updated_at": "2026-11-03T20:51:47+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117720819086299159",
+   "text": "the running time of dune: part three:",
+   "url": "https://x.com/mandevil23edits/status/2117720819086299159",
+   "created_at": "2026-11-03T20:49:23+00:00",
+   "sent_at": "2026-11-03T20:49:23+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWOn27tXQAAqoR1.jpg"
+  },
+  {
+   "id": "2117719715732988350",
+   "text": "S1 E6 'Pax Soprana' | 380 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117719715732988350",
+   "created_at": "2026-11-03T20:45:00+00:00",
+   "sent_at": "2026-11-03T20:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HWHRGakXoAAt7IN.jpg"
+  },
+  {
    "id": "2117715942176432214",
    "text": "S1 E6 'Pax Soprana' | 379 of 620",
    "url": "https://x.com/SopranosOrder/status/2117715942176432214",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HWHRDsWWcAAoS6r.jpg"
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 8,
+   "like_count": 20,
    "image": ""
-  },
-  {
-   "id": "2117712166526816559",
-   "text": "S1 E6 'Pax Soprana' | 378 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117712166526816559",
-   "created_at": "2026-11-03T20:15:00+00:00",
-   "sent_at": "2026-11-03T20:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HWHRAjyXAAA7vCz.jpg"
   },
   {
    "id": "2117705870737883542",
@@ -91,24 +105,10 @@
    "author_name": "gnocchi",
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 41,
+   "like_count": 43,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWOR50OWUAAtGgD.jpg"
-  },
-  {
-   "id": "2117695844447076694",
-   "text": "mf that\u2019s michael jackson",
-   "url": "https://x.com/mandevil23edits/status/2117695844447076694",
-   "created_at": "2026-11-03T19:10:08+00:00",
-   "sent_at": "2026-11-03T19:10:08+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 30,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HWORIsTXUAAFK6k.jpg"
   },
   {
    "id": "2117694615340143056",
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 9,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/media/HWOK24EWgAA0L-L.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
    "repost_count": 1,
-   "like_count": 92,
+   "like_count": 93,
    "image": ""
   },
   {
