@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T06:36:39+00:00",
+ "updated_at": "2026-11-03T06:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117508322605592678",
+   "text": "S1 E6 'Pax Soprana' | 324 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117508322605592678",
+   "created_at": "2026-11-03T06:45:00+00:00",
+   "sent_at": "2026-11-03T06:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWHNZKoXwAATy-0.jpg"
+  },
+  {
+   "id": "2117508144394109273",
+   "text": "they really milking this franchise like it\u2019s the last cow on earth",
+   "url": "https://x.com/mandevil23edits/status/2117508144394109273",
+   "created_at": "2026-11-03T06:44:17+00:00",
+   "sent_at": "2026-11-03T06:44:17+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWLmbadXEAAT_6A.jpg"
+  },
+  {
    "id": "2117504547971330174",
    "text": "S1 E6 'Pax Soprana' | 323 of 620",
    "url": "https://x.com/SopranosOrder/status/2117504547971330174",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWHNWHWWMAAE8fz.jpg"
   },
   {
@@ -41,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HWLhE04WsAATZtF.jpg"
   },
   {
-   "id": "2117501024751505790",
-   "text": "S1 E6 'Pax Soprana' | 322 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117501024751505790",
-   "created_at": "2026-11-03T06:16:00+00:00",
-   "sent_at": "2026-11-03T06:16:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWHNTj5XcAADqBn.jpg"
-  },
-  {
    "id": "2117500669968207920",
    "text": "draymond green once again proving he is the main character of every highlight reel for the wrong reasons",
    "url": "https://x.com/mandevil23edits/status/2117500669968207920",
@@ -65,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 8,
    "image": ""
-  },
-  {
-   "id": "2117493643086909868",
-   "text": "phil lord and christopher miller as directors for the nova movie",
-   "url": "https://x.com/mandevil23edits/status/2117493643086909868",
-   "created_at": "2026-11-03T05:46:40+00:00",
-   "sent_at": "2026-11-03T05:46:40+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 12,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HWLZPSdXUAABHKz.jpg"
   },
   {
    "id": "2117465565195284619",
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 9,
-   "repost_count": 43,
-   "like_count": 931,
+   "repost_count": 54,
+   "like_count": 1146,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWK_tImWQAAX9jA.jpg"
   },
   {
