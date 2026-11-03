@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T17:51:46+00:00",
+ "updated_at": "2026-11-03T18:06:49+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117678197986791809",
+   "text": "S1 E6 'Pax Soprana' | 369 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117678197986791809",
+   "created_at": "2026-11-03T18:00:01+00:00",
+   "sent_at": "2026-11-03T18:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWHQfaaXUAAxzP5.jpg"
+  },
+  {
+   "id": "2117677770285396098",
+   "text": "hans zimmer still moving like he has something to prove",
+   "url": "https://x.com/mandevil23edits/status/2117677770285396098",
+   "created_at": "2026-11-03T17:58:19+00:00",
+   "sent_at": "2026-11-03T17:58:19+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2117674417274892605",
    "text": "S1 E6 'Pax Soprana' | 368 of 620",
    "url": "https://x.com/SopranosOrder/status/2117674417274892605",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWHQb_dWgAAYYuu.jpg"
   },
   {
@@ -35,24 +63,10 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 3,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 27,
    "image": ""
-  },
-  {
-   "id": "2117670390764052929",
-   "text": "S1 E6 'Pax Soprana' | 367 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117670390764052929",
-   "created_at": "2026-11-03T17:29:00+00:00",
-   "sent_at": "2026-11-03T17:29:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HWHQZTpXgAAV-Ky.jpg"
   },
   {
    "id": "2117669058757726481",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 14,
+   "like_count": 18,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWN4ws-W0AA62aQ.jpg"
   },
   {
@@ -111,20 +125,6 @@
    "image": "https://pbs.twimg.com/amplify_video_thumb/2097745295450996736/img/P1NEgfsScvCl8brz.jpg"
   },
   {
-   "id": "2117654500098056623",
-   "text": "i can\u2019t unsee the fact that this nigga looks like chris evans \ud83d\ude2d",
-   "url": "https://x.com/mandevil23edits/status/2117654500098056623",
-   "created_at": "2026-11-03T16:25:51+00:00",
-   "sent_at": "2026-11-03T16:25:51+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 1,
-   "like_count": 29,
-   "image": ""
-  },
-  {
    "id": "2117646715151102103",
    "text": "What a selfish prick",
    "url": "https://x.com/StebobM/status/2117646715151102103",
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 10,
    "repost_count": 21,
-   "like_count": 466,
+   "like_count": 480,
    "image": "https://pbs.twimg.com/media/HWMAzeTW0AENHL7.jpg"
   },
   {
