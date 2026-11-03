@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T01:06:39+00:00",
+ "updated_at": "2026-11-03T01:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,18 +13,46 @@
  },
  "posts": [
   {
-   "id": "2117422832150065580",
-   "text": "supergirl & lesla-lar\n\nart by sophie campbell",
-   "url": "https://x.com/mandevil23edits/status/2117422832150065580",
-   "created_at": "2026-11-03T01:05:17+00:00",
-   "sent_at": "2026-11-03T01:05:17+00:00",
+   "id": "2117425349503992000",
+   "text": "when you find out your goat still has it",
+   "url": "https://x.com/mandevil23edits/status/2117425349503992000",
+   "created_at": "2026-11-03T01:15:17+00:00",
+   "sent_at": "2026-11-03T01:15:17+00:00",
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWKY10FWUAAnPrU.jpg"
+   "image": ""
+  },
+  {
+   "id": "2117425275667435529",
+   "text": "S1 E6 'Pax Soprana' | 302 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117425275667435529",
+   "created_at": "2026-11-03T01:15:00+00:00",
+   "sent_at": "2026-11-03T01:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWHMNOuXkAAzkQY.jpg"
+  },
+  {
+   "id": "2117424601345282533",
+   "text": "actors from sam raimi\u2019s spider-man to zack snyder\u2019s justice league",
+   "url": "https://x.com/mandevil23edits/status/2117424601345282533",
+   "created_at": "2026-11-03T01:12:19+00:00",
+   "sent_at": "2026-11-03T01:12:19+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HWKacvNXgAASU93.jpg"
   },
   {
    "id": "2117421503755001863",
@@ -39,20 +67,6 @@
    "repost_count": 1,
    "like_count": 4,
    "image": "https://pbs.twimg.com/media/HWHMKeIWAAA1I0C.jpg"
-  },
-  {
-   "id": "2117417725861810549",
-   "text": "S1 E6 'Pax Soprana' | 300 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117417725861810549",
-   "created_at": "2026-11-03T00:45:00+00:00",
-   "sent_at": "2026-11-03T00:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HWHMFgwWIAAFWOQ.jpg"
   },
   {
    "id": "2117415236798173514",
@@ -81,20 +95,6 @@
    "repost_count": 2,
    "like_count": 48,
    "image": "https://pbs.twimg.com/media/HWJ0k-rWIAAhk3Y.jpg"
-  },
-  {
-   "id": "2117353802688864728",
-   "text": "still thinking about how my mcu fancasting of samara weaving as emma frost really made my day",
-   "url": "https://x.com/mandevil23edits/status/2117353802688864728",
-   "created_at": "2026-11-02T20:30:59+00:00",
-   "sent_at": "2026-11-02T20:30:59+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 7,
-   "like_count": 19,
-   "image": "https://pbs.twimg.com/media/HWJaCyPWcAEC0Dn.jpg"
   },
   {
    "id": "2117338727613689931",
@@ -148,8 +148,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
-   "repost_count": 63,
-   "like_count": 1958,
+   "repost_count": 65,
+   "like_count": 1987,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HKZkWKEWQAAX1p4.jpg"
   },
   {
