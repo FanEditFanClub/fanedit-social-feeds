@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T19:36:46+00:00",
+ "updated_at": "2026-11-03T19:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2117705870737883542",
+   "text": "\ud83d\ude0d",
+   "url": "https://x.com/NCseventeen/status/2117705870737883542",
+   "created_at": "2026-11-03T19:49:59+00:00",
+   "sent_at": "2026-11-03T19:49:59+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2117704616179859592",
+   "text": "S1 E6 'Pax Soprana' | 376 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117704616179859592",
+   "created_at": "2026-11-03T19:45:00+00:00",
+   "sent_at": "2026-11-03T19:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWHQ0X5XYAAjy3u.jpg"
+  },
   {
    "id": "2117701093081874713",
    "text": "S1 E6 'Pax Soprana' | 375 of 620",
@@ -35,24 +63,10 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWOU0NLWYAArkkK.jpg"
-  },
-  {
-   "id": "2117697066336153713",
-   "text": "S1 E6 'Pax Soprana' | 374 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117697066336153713",
-   "created_at": "2026-11-03T19:15:00+00:00",
-   "sent_at": "2026-11-03T19:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWHQuPeWUAAm1Um.jpg"
   },
   {
    "id": "2117696682230170108",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 20,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWOR50OWUAAtGgD.jpg"
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 22,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWORIsTXUAAFK6k.jpg"
   },
   {
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
    "repost_count": 1,
-   "like_count": 84,
+   "like_count": 86,
    "image": ""
   },
   {
@@ -135,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
    "repost_count": 1,
-   "like_count": 69,
+   "like_count": 76,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWN4ws-W0AA62aQ.jpg"
   },
   {
@@ -164,20 +178,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2117646715151102103",
-   "text": "What a selfish prick",
-   "url": "https://x.com/StebobM/status/2117646715151102103",
-   "created_at": "2026-11-03T15:54:55+00:00",
-   "sent_at": "2026-11-03T15:54:55+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
    "image": ""
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T19:36:52+00:00",
+ "updated_at": "2026-11-03T19:51:45+00:00",
  "source": "https://www.faneditfanclub.com",
  "nav": [
   {
@@ -1674,6 +1674,13 @@
      "type": "text",
      "tag": "li",
      "html": "<a href=\"https://www.facebook.com/groups/285239246721271/\" target=\"_blank\" rel=\"noopener noreferrer\">The &#x27;Official&#x27; Workprint Channel</a>",
+     "align": "left",
+     "font": "body"
+    },
+    {
+     "type": "text",
+     "tag": "li",
+     "html": "<a href=\"https://www.facebook.com/groups/1480670097295925/\" target=\"_blank\" rel=\"noopener noreferrer\">The FanEdit &amp; Workprint Hub \ud83c\udfa5\ud83c\udf7f\ud83d\udc80\ud83d\udda4</a>",
      "align": "left",
      "font": "body"
     },
