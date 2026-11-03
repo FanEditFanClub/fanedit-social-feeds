@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T22:36:39+00:00",
+ "updated_at": "2026-11-03T22:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117749915245846658",
+   "text": "S1 E6 'Pax Soprana' | 388 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117749915245846658",
+   "created_at": "2026-11-03T22:45:00+00:00",
+   "sent_at": "2026-11-03T22:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWHRhxTWoAANIKl.jpg"
+  },
+  {
+   "id": "2117749572919574993",
+   "text": "this scene make the rest of the show feel even more frustrating because you see what it could\u2019ve been",
+   "url": "https://x.com/mandevil23edits/status/2117749572919574993",
+   "created_at": "2026-11-03T22:43:38+00:00",
+   "sent_at": "2026-11-03T22:43:38+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2117746143253733499",
    "text": "S1 E6 'Pax Soprana' | 387 of 620",
    "url": "https://x.com/SopranosOrder/status/2117746143253733499",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 6,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HWHRevYXEAAr7mK.jpg"
   },
   {
@@ -37,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 15,
    "image": "https://pbs.twimg.com/media/HWO-h53X0AAy0_l.jpg"
   },
   {
@@ -69,34 +97,6 @@
    "image": ""
   },
   {
-   "id": "2117742365167304856",
-   "text": "S1 E6 'Pax Soprana' | 386 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117742365167304856",
-   "created_at": "2026-11-03T22:15:00+00:00",
-   "sent_at": "2026-11-03T22:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HWHRbvRWwAAzW6T.jpg"
-  },
-  {
-   "id": "2117739260610769181",
-   "text": "me when i\u2019m starving for the batman: part ii",
-   "url": "https://x.com/mandevil23edits/status/2117739260610769181",
-   "created_at": "2026-11-03T22:02:40+00:00",
-   "sent_at": "2026-11-03T22:02:40+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
-  },
-  {
    "id": "2117713965635494377",
    "text": "Man, if I had a nickle.",
    "url": "https://x.com/TheManlet_King/status/2117713965635494377",
@@ -105,9 +105,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 95,
+   "like_count": 111,
    "image": ""
   },
   {
@@ -161,7 +161,7 @@
    "author_name": "gnocchi",
    "author_handle": "gnocchidrive",
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
    "like_count": 11,
    "image": "https://pbs.twimg.com/media/HWOK24EWgAA0L-L.jpg"
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
    "repost_count": 2,
-   "like_count": 98,
+   "like_count": 100,
    "image": ""
   }
  ]
