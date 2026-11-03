@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T17:36:41+00:00",
+ "updated_at": "2026-11-03T17:51:46+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117674417274892605",
+   "text": "S1 E6 'Pax Soprana' | 368 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117674417274892605",
+   "created_at": "2026-11-03T17:45:00+00:00",
+   "sent_at": "2026-11-03T17:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWHQb_dWgAAYYuu.jpg"
+  },
+  {
+   "id": "2117674111191388568",
+   "text": "Any luck we'll get to play before the babies born on Skyrim's release graduate highschool or no? Clocks ticking because right now they're already freshmen.",
+   "url": "https://x.com/TheManlet_King/status/2117674111191388568",
+   "created_at": "2026-11-03T17:43:47+00:00",
+   "sent_at": "2026-11-03T17:43:47+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": ""
+  },
+  {
    "id": "2117670390764052929",
    "text": "S1 E6 'Pax Soprana' | 367 of 620",
    "url": "https://x.com/SopranosOrder/status/2117670390764052929",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HWHQZTpXgAAV-Ky.jpg"
   },
   {
@@ -37,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 14,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWN4ws-W0AA62aQ.jpg"
   },
   {
@@ -55,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2117666868131422626",
-   "text": "S1 E6 'Pax Soprana' | 366 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117666868131422626",
-   "created_at": "2026-11-03T17:15:00+00:00",
-   "sent_at": "2026-11-03T17:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 8,
-   "image": "https://pbs.twimg.com/media/HWHQV_pXIAAFqfP.jpg"
-  },
-  {
    "id": "2117666833599807701",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Once Upon a Time in Hollywood [Red Apple Assembled Cut] ONLY on MRDb!.\n\nhttps://www.reddit.com/r/FanEditedMovies/comments/1xlwfok/once_upon_a_time_in_hollywood_red_apple_assembled/",
    "url": "https://x.com/FanEditFanClub/status/2117666833599807701",
@@ -81,20 +95,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2117660085094625400",
-   "text": "They've BEEN doing this",
-   "url": "https://x.com/TheManlet_King/status/2117660085094625400",
-   "created_at": "2026-11-03T16:48:03+00:00",
-   "sent_at": "2026-11-03T16:48:03+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 50,
-   "image": "https://pbs.twimg.com/media/HWNwn0UWsAAUO1r.jpg"
   },
   {
    "id": "2117656999458685270",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 5,
    "repost_count": 1,
-   "like_count": 26,
+   "like_count": 29,
    "image": ""
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 10,
-   "repost_count": 20,
-   "like_count": 454,
+   "repost_count": 21,
+   "like_count": 466,
    "image": "https://pbs.twimg.com/media/HWMAzeTW0AENHL7.jpg"
   },
   {
@@ -165,20 +165,6 @@
    "repost_count": 0,
    "like_count": 4,
    "image": ""
-  },
-  {
-   "id": "2117502250591375527",
-   "text": "As someone who loved Bullet Train and liked The Fall Guy(due for a rewatch), hop of my GOAT",
-   "url": "https://x.com/jrsilentboba/status/2117502250591375527",
-   "created_at": "2026-11-03T06:20:52+00:00",
-   "sent_at": "2026-11-03T06:20:52+00:00",
-   "author_name": "jrsilentboba",
-   "author_handle": "jrsilentboba",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2012170182035116032/_wPREpOl_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWLhE04WsAATZtF.jpg"
   }
  ]
 }
