@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T09:52:04+00:00",
+ "updated_at": "2026-11-04T10:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2117920094450032998",
+   "text": "Stop falling for fake quotes from parody accounts.",
+   "url": "https://x.com/StebobM/status/2117920094450032998",
+   "created_at": "2026-11-04T10:01:14+00:00",
+   "sent_at": "2026-11-04T10:01:14+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2117919787703792032",
+   "text": "S1 E6 'Pax Soprana' | 433 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117919787703792032",
+   "created_at": "2026-11-04T10:00:01+00:00",
+   "sent_at": "2026-11-04T10:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWIvxn8XgAAvSrk.jpg"
+  },
   {
    "id": "2117916009575415815",
    "text": "S1 E6 'Pax Soprana' | 432 of 620",
@@ -27,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HWIvtenW4AAoD6e.jpg"
   },
   {
-   "id": "2117912236895215675",
-   "text": "S1 E6 'Pax Soprana' | 431 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117912236895215675",
-   "created_at": "2026-11-04T09:30:00+00:00",
-   "sent_at": "2026-11-04T09:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWIvqXQXAAAS9Ef.jpg"
-  },
-  {
    "id": "2117911223539028214",
    "text": "This could work BUT give us freaking Batman before it and these solo villain films should lead to something where all the villains eventually face off against Batman",
    "url": "https://x.com/StebobM/status/2117911223539028214",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": ""
   },
   {
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 8,
    "repost_count": 36,
-   "like_count": 759,
+   "like_count": 761,
    "image": ""
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
    "repost_count": 287,
-   "like_count": 1794,
+   "like_count": 1799,
    "image": "https://pbs.twimg.com/amplify_video_thumb/1965075403699023872/img/Z0QODL-bty7nOL89.jpg"
   },
   {
