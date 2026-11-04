@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T03:51:43+00:00",
+ "updated_at": "2026-11-04T04:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117829192981135373",
+   "text": "S1 E6 'Pax Soprana' | 409 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117829192981135373",
+   "created_at": "2026-11-04T04:00:01+00:00",
+   "sent_at": "2026-11-04T04:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWItEUQXIAAqFe_.jpg"
+  },
+  {
+   "id": "2117827967376363655",
+   "text": "TEXAS ACTUALLY WENT BLUE OH MY GOD I COULD CRY",
+   "url": "https://x.com/uhbucky/status/2117827967376363655",
+   "created_at": "2026-11-04T03:55:09+00:00",
+   "sent_at": "2026-11-04T03:55:09+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 2,
+   "repost_count": 8,
+   "like_count": 151,
+   "image": ""
+  },
+  {
    "id": "2117825412352946489",
    "text": "S1 E6 'Pax Soprana' | 408 of 620",
    "url": "https://x.com/SopranosOrder/status/2117825412352946489",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HWIs__NXQAESMkG.jpg"
-  },
-  {
-   "id": "2117821641317081404",
-   "text": "S1 E6 'Pax Soprana' | 407 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117821641317081404",
-   "created_at": "2026-11-04T03:30:01+00:00",
-   "sent_at": "2026-11-04T03:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWIs9BhX0AAynaO.jpg"
   },
   {
    "id": "2117817397352808874",
@@ -50,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
-   "repost_count": 73,
-   "like_count": 626,
+   "repost_count": 106,
+   "like_count": 845,
    "image": "https://pbs.twimg.com/amplify_video_thumb/1965075403699023872/img/Z0QODL-bty7nOL89.jpg"
   },
   {
@@ -83,20 +97,6 @@
    "image": ""
   },
   {
-   "id": "2117764944208785556",
-   "text": "I JUST WANT HOLLANOV TO COME BACK ALREADY.",
-   "url": "https://x.com/uhbucky/status/2117764944208785556",
-   "created_at": "2026-11-03T23:44:43+00:00",
-   "sent_at": "2026-11-03T23:44:43+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 23,
-   "like_count": 404,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2103650730678910976/img/q1aXIsnYfkfXhUup.jpg"
-  },
-  {
    "id": "2117759944032461035",
    "text": "(the fan casting of dave bautista as kratos in 2023)",
    "url": "https://x.com/mandevil23edits/status/2117759944032461035",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 3,
-   "like_count": 38,
+   "like_count": 39,
    "image": "https://pbs.twimg.com/media/HWPLcDCXoAAq50U.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 7,
-   "like_count": 45,
+   "like_count": 46,
    "image": "https://pbs.twimg.com/media/HWPK1m4XIAAx_8t.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 268,
+   "like_count": 270,
    "image": ""
   },
   {
@@ -150,34 +150,6 @@
    "reply_count": 1,
    "repost_count": 0,
    "like_count": 2,
-   "image": ""
-  },
-  {
-   "id": "2117696682230170108",
-   "text": "25 billion followers!",
-   "url": "https://x.com/gnocchidrive/status/2117696682230170108",
-   "created_at": "2026-11-03T19:13:28+00:00",
-   "sent_at": "2026-11-03T19:13:28+00:00",
-   "author_name": "gnocchi",
-   "author_handle": "gnocchidrive",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 1,
-   "like_count": 68,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HWOR50OWUAAtGgD.jpg"
-  },
-  {
-   "id": "2117694615340143056",
-   "text": "Running Away Balloon https://imgflip.com/i/b4zuqi via @imgflip",
-   "url": "https://x.com/VasGlorious/status/2117694615340143056",
-   "created_at": "2026-11-03T19:05:15+00:00",
-   "sent_at": "2026-11-03T19:05:15+00:00",
-   "author_name": "Vincent Stauffer",
-   "author_handle": "VasGlorious",
-   "author_avatar": "https://pbs.twimg.com/profile_images/445810843234492416/93lDBCmP_normal.jpeg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
    "image": ""
   }
  ]
