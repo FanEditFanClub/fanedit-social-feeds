@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T20:51:39+00:00",
+ "updated_at": "2026-11-04T21:06:45+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2118086130541429202",
+   "text": "S1 E6 'Pax Soprana' | 477 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118086130541429202",
+   "created_at": "2026-11-04T21:01:00+00:00",
+   "sent_at": "2026-11-04T21:01:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWIx9QzWwAA8c52.jpg"
+  },
+  {
    "id": "2118082256187318355",
    "text": "\u201cfalcon fearless chicken wings\u201d next to anthony mackie\u2019s captain america",
    "url": "https://x.com/mandevil23edits/status/2118082256187318355",
@@ -22,8 +36,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 3,
+   "repost_count": 1,
+   "like_count": 25,
    "image": "https://pbs.twimg.com/media/HWTwlIPWAAAPQz2.jpg"
   },
   {
@@ -37,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWIx5q9XQAAeUEX.jpg"
   },
   {
@@ -50,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HWTvcLEWUAAcd9N.jpg"
   },
   {
@@ -63,9 +77,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 1,
-   "like_count": 33,
+   "like_count": 52,
    "image": ""
   },
   {
@@ -79,22 +93,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 8,
+   "like_count": 15,
    "image": ""
-  },
-  {
-   "id": "2118078330750545985",
-   "text": "S1 E6 'Pax Soprana' | 475 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118078330750545985",
-   "created_at": "2026-11-04T20:30:00+00:00",
-   "sent_at": "2026-11-04T20:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWIx2YOXwAAJ5gB.jpg"
   },
   {
    "id": "2118043683966652725",
@@ -148,8 +148,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 10,
-   "repost_count": 3,
-   "like_count": 66,
+   "repost_count": 5,
+   "like_count": 70,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2118035794619207681/img/HgNXvek811KOQemT.jpg"
   }
  ]
