@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T18:51:39+00:00",
+ "updated_at": "2026-11-04T19:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2118055681278566679",
+   "text": "S1 E6 'Pax Soprana' | 469 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118055681278566679",
+   "created_at": "2026-11-04T19:00:00+00:00",
+   "sent_at": "2026-11-04T19:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWIxiMKWUAEPYJd.jpg"
+  },
+  {
    "id": "2118051904760783036",
    "text": "S1 E6 'Pax Soprana' | 468 of 620",
    "url": "https://x.com/SopranosOrder/status/2118051904760783036",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HWIxfKeWQAA0-pq.jpg"
-  },
-  {
-   "id": "2118048130340098326",
-   "text": "S1 E6 'Pax Soprana' | 467 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118048130340098326",
-   "created_at": "2026-11-04T18:30:00+00:00",
-   "sent_at": "2026-11-04T18:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWIxcYyWUAAeWD1.jpg"
   },
   {
    "id": "2118047020883873799",
@@ -50,8 +50,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 39,
+   "repost_count": 2,
+   "like_count": 44,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWTQiOSWsAAa_Mn.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 7,
    "repost_count": 1,
-   "like_count": 33,
+   "like_count": 37,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2118035794619207681/img/HgNXvek811KOQemT.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
-   "repost_count": 10,
-   "like_count": 177,
+   "repost_count": 11,
+   "like_count": 183,
    "image": "https://pbs.twimg.com/media/HWSrlvTX0AAMlzD.jpg"
   },
   {
@@ -151,20 +151,6 @@
    "repost_count": 3,
    "like_count": 8,
    "image": ""
-  },
-  {
-   "id": "2117873970901025014",
-   "text": "#nw hope (2026)",
-   "url": "https://x.com/mandevil23edits/status/2117873970901025014",
-   "created_at": "2026-11-04T06:57:57+00:00",
-   "sent_at": "2026-11-04T06:57:57+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 17,
-   "image": "https://pbs.twimg.com/media/HWQzJfFWkAAPmum.jpg"
   }
  ]
 }
