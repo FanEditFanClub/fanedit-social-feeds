@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T09:21:40+00:00",
+ "updated_at": "2026-11-04T09:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2117912236895215675",
+   "text": "S1 E6 'Pax Soprana' | 431 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117912236895215675",
+   "created_at": "2026-11-04T09:30:00+00:00",
+   "sent_at": "2026-11-04T09:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWIvqXQXAAAS9Ef.jpg"
+  },
+  {
+   "id": "2117911223539028214",
+   "text": "This could work BUT give us freaking Batman before it and these solo villain films should lead to something where all the villains eventually face off against Batman",
+   "url": "https://x.com/StebobM/status/2117911223539028214",
+   "created_at": "2026-11-04T09:25:59+00:00",
+   "sent_at": "2026-11-04T09:25:59+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2117908460058578976",
    "text": "S1 E6 'Pax Soprana' | 430 of 620",
    "url": "https://x.com/SopranosOrder/status/2117908460058578976",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWIvnJ1WMAAlGqv.jpg"
-  },
-  {
-   "id": "2117904707880387047",
-   "text": "S1 E6 'Pax Soprana' | 429 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117904707880387047",
-   "created_at": "2026-11-04T09:00:05+00:00",
-   "sent_at": "2026-11-04T09:00:05+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWIvkK_XUAAyZs0.jpg"
+   "image": "https://pbs.twimg.com/media/HWIvnJ1WMAAlGqv.jpg"
   },
   {
    "id": "2117873970901025014",
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 8,
    "repost_count": 36,
-   "like_count": 755,
+   "like_count": 757,
    "image": ""
   },
   {
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
    "repost_count": 287,
-   "like_count": 1790,
+   "like_count": 1791,
    "image": "https://pbs.twimg.com/amplify_video_thumb/1965075403699023872/img/Z0QODL-bty7nOL89.jpg"
   },
   {
