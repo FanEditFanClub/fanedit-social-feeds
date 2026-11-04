@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T18:21:42+00:00",
+ "updated_at": "2026-11-04T18:36:47+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2118048130340098326",
+   "text": "S1 E6 'Pax Soprana' | 467 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118048130340098326",
+   "created_at": "2026-11-04T18:30:00+00:00",
+   "sent_at": "2026-11-04T18:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWIxcYyWUAAeWD1.jpg"
+  },
+  {
+   "id": "2118047020883873799",
+   "text": ">Dems improve life for the average person in any way instead of taking your money for gay stuff",
+   "url": "https://x.com/TheManlet_King/status/2118047020883873799",
+   "created_at": "2026-11-04T18:25:35+00:00",
+   "sent_at": "2026-11-04T18:25:35+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 20,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HWTQiOSWsAAa_Mn.jpg"
+  },
+  {
    "id": "2118044355227431187",
    "text": "S1 E6 'Pax Soprana' | 466 of 620",
    "url": "https://x.com/SopranosOrder/status/2118044355227431187",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWIxZiGWMAAMtRQ.jpg"
   },
   {
@@ -39,20 +67,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2118040584283918721",
-   "text": "S1 E6 'Pax Soprana' | 465 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118040584283918721",
-   "created_at": "2026-11-04T18:00:01+00:00",
-   "sent_at": "2026-11-04T18:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWIxXMuXsAAqitG.jpg"
   },
   {
    "id": "2118039036673630250",
@@ -92,8 +106,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 7,
-   "repost_count": 0,
-   "like_count": 23,
+   "repost_count": 1,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2118035794619207681/img/HgNXvek811KOQemT.jpg"
   },
   {
@@ -106,23 +120,9 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
-   "repost_count": 8,
-   "like_count": 162,
+   "repost_count": 10,
+   "like_count": 173,
    "image": "https://pbs.twimg.com/media/HWSrlvTX0AAMlzD.jpg"
-  },
-  {
-   "id": "2117982527394664641",
-   "text": "I just want a party that is pro American citizen. That's it. But both parties can only agree on 1 thing and that is HATING the American citizenry.\n\nConstantly choosing between the 'Jaguars eating people's faces' party and the 'Slightly less Jaguars' party, sucks.",
-   "url": "https://x.com/TheManlet_King/status/2117982527394664641",
-   "created_at": "2026-11-04T14:09:19+00:00",
-   "sent_at": "2026-11-04T14:09:19+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 3,
-   "like_count": 78,
-   "image": ""
   },
   {
    "id": "2117968227859124673",
