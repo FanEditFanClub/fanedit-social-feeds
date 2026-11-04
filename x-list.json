@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T04:21:39+00:00",
+ "updated_at": "2026-11-04T04:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2117836738081206697",
+   "text": "S1 E6 'Pax Soprana' | 411 of 620",
+   "url": "https://x.com/SopranosOrder/status/2117836738081206697",
+   "created_at": "2026-11-04T04:30:00+00:00",
+   "sent_at": "2026-11-04T04:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HWItqDvXoAAuR7R.jpg"
+  },
+  {
    "id": "2117832962020676081",
    "text": "S1 E6 'Pax Soprana' | 410 of 620",
    "url": "https://x.com/SopranosOrder/status/2117832962020676081",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWItHL-WcAE4m2K.jpg"
-  },
-  {
-   "id": "2117829192981135373",
-   "text": "S1 E6 'Pax Soprana' | 409 of 620",
-   "url": "https://x.com/SopranosOrder/status/2117829192981135373",
-   "created_at": "2026-11-04T04:00:01+00:00",
-   "sent_at": "2026-11-04T04:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HWItEUQXIAAqFe_.jpg"
+   "image": "https://pbs.twimg.com/media/HWItHL-WcAE4m2K.jpg"
   },
   {
    "id": "2117827967376363655",
@@ -49,9 +49,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 21,
-   "like_count": 355,
+   "reply_count": 5,
+   "repost_count": 28,
+   "like_count": 550,
    "image": ""
   },
   {
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
-   "repost_count": 145,
-   "like_count": 1036,
+   "repost_count": 191,
+   "like_count": 1269,
    "image": "https://pbs.twimg.com/amplify_video_thumb/1965075403699023872/img/Z0QODL-bty7nOL89.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 5,
-   "like_count": 39,
+   "like_count": 41,
    "image": "https://pbs.twimg.com/media/HWPLcDCXoAAq50U.jpg"
   },
   {
@@ -121,22 +121,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 7,
-   "like_count": 46,
+   "like_count": 47,
    "image": "https://pbs.twimg.com/media/HWPK1m4XIAAx_8t.jpg"
-  },
-  {
-   "id": "2117713965635494377",
-   "text": "Man, if I had a nickle.",
-   "url": "https://x.com/TheManlet_King/status/2117713965635494377",
-   "created_at": "2026-11-03T20:22:09+00:00",
-   "sent_at": "2026-11-03T20:22:09+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 0,
-   "like_count": 272,
-   "image": ""
   }
  ]
 }
