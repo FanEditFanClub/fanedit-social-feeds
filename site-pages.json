@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T15:37:07+00:00",
+ "updated_at": "2026-11-04T15:52:06+00:00",
  "source": "https://www.faneditfanclub.com",
  "nav": [
   {
@@ -1282,6 +1282,13 @@
      "type": "text",
      "tag": "li",
      "html": "<a href=\"https://x.com/mwhoopsada68394?s=11\" target=\"_blank\" rel=\"noopener noreferrer\">Fan Edits United</a>",
+     "align": "left",
+     "font": "body"
+    },
+    {
+     "type": "text",
+     "tag": "li",
+     "html": "<a href=\"https://www.fanrestore.com\" target=\"_blank\" rel=\"noopener noreferrer\">FanRestore</a>",
      "align": "left",
      "font": "body"
     },
