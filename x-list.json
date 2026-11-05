@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T02:51:42+00:00",
+ "updated_at": "2026-11-05T03:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2118176727662796920",
+   "text": "S1 E6 'Pax Soprana' | 501 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118176727662796920",
+   "created_at": "2026-11-05T03:01:00+00:00",
+   "sent_at": "2026-11-05T03:01:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWJuu-_WIAEFFeB.jpg"
+  },
   {
    "id": "2118172700560568785",
    "text": "S1 E6 'Pax Soprana' | 500 of 620",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HWJuhPqX0AAXEvw.jpg"
   },
   {
-   "id": "2118168927649825251",
-   "text": "S1 E6 'Pax Soprana' | 499 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118168927649825251",
-   "created_at": "2026-11-05T02:30:00+00:00",
-   "sent_at": "2026-11-05T02:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HWJudIgWwAAL6Qo.jpg"
-  },
-  {
    "id": "2118166415941529910",
    "text": "1. i need evil dead wrath to be good so this will be justified.\n\n2. there needs to be a director who can capture that supernatural horror and dark fantasy for a constantine movie.\n\n3. an actor needs to be british and have great acting chops for the comic book character.",
    "url": "https://x.com/mandevil23edits/status/2118166415941529910",
@@ -49,9 +49,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 2,
+   "reply_count": 2,
+   "repost_count": 3,
+   "like_count": 7,
    "image": ""
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 23,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/media/HWU8LYyWoAA3l8f.jpg"
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 30,
-   "like_count": 614,
+   "repost_count": 34,
+   "like_count": 648,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HBSBgnwaoAAuj9y.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
    "repost_count": 9,
-   "like_count": 214,
+   "like_count": 215,
    "image": ""
   },
   {
