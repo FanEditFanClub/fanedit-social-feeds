@@ -1,17 +1,31 @@
 {
- "updated_at": "2026-11-05T03:51:41+00:00",
+ "updated_at": "2026-11-05T04:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
   "id": "2072540475530084770",
   "name": "Fan Editors",
-  "member_count": 55,
+  "member_count": 56,
   "url": "https://x.com/i/lists/2072540475530084770",
   "owner_name": "Fan Edit Fan Club",
   "owner_handle": "FanEditFanClub",
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2118191581262234048",
+   "text": "S1 E6 'Pax Soprana' | 505 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118191581262234048",
+   "created_at": "2026-11-05T04:00:01+00:00",
+   "sent_at": "2026-11-05T04:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWJu9TtWcAASSPe.jpg"
+  },
   {
    "id": "2118187800122253598",
    "text": "S1 E6 'Pax Soprana' | 504 of 620",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HWJu4p7XgAAzReK.jpg"
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2118184026678649069",
-   "text": "S1 E6 'Pax Soprana' | 503 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118184026678649069",
-   "created_at": "2026-11-05T03:30:00+00:00",
-   "sent_at": "2026-11-05T03:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HWJu09lW8AAfp7V.jpg"
-  },
-  {
    "id": "2118166415941529910",
    "text": "1. i need evil dead wrath to be good so this will be justified.\n\n2. there needs to be a director who can capture that supernatural horror and dark fantasy for a constantine movie.\n\n3. an actor needs to be british and have great acting chops for the comic book character.",
    "url": "https://x.com/mandevil23edits/status/2118166415941529910",
@@ -77,9 +77,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 4,
+   "reply_count": 5,
    "repost_count": 6,
-   "like_count": 21,
+   "like_count": 23,
    "image": ""
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 38,
-   "like_count": 716,
+   "repost_count": 39,
+   "like_count": 740,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HBSBgnwaoAAuj9y.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
    "repost_count": 9,
-   "like_count": 216,
+   "like_count": 219,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 8,
    "repost_count": 1,
-   "like_count": 78,
+   "like_count": 80,
    "image": ""
   }
  ]
