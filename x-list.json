@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T16:36:42+00:00",
+ "updated_at": "2026-11-05T16:51:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2118384093519917073",
+   "text": "S1 E6 'Pax Soprana' | 556 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118384093519917073",
+   "created_at": "2026-11-05T16:45:00+00:00",
+   "sent_at": "2026-11-05T16:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWJxlg7XAAAP5j0.jpg"
+  },
+  {
+   "id": "2118382158738026784",
+   "text": "Complete clickbait Matt Reeves was producer on Clayface and he\u2019s producer on Caped Crusader neither of which take part in the Matt Reeves The Batman universe",
+   "url": "https://x.com/StebobM/status/2118382158738026784",
+   "created_at": "2026-11-05T16:37:18+00:00",
+   "sent_at": "2026-11-05T16:37:18+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2118381811600400749",
    "text": "\u201care you comic book twitter or film twitter?\u201d\n\nme:",
    "url": "https://x.com/mandevil23edits/status/2118381811600400749",
@@ -21,9 +49,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "reply_count": 1,
+   "repost_count": 4,
+   "like_count": 32,
    "image": "https://pbs.twimg.com/media/HWYBAplXgAA-gLf.jpg"
   },
   {
@@ -41,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HWJxioLXgAA-uQE.jpg"
   },
   {
-   "id": "2118376544595050819",
-   "text": "S1 E6 'Pax Soprana' | 554 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118376544595050819",
-   "created_at": "2026-11-05T16:15:00+00:00",
-   "sent_at": "2026-11-05T16:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWJxf7zXYAALUO-.jpg"
-  },
-  {
    "id": "2118373074038907154",
    "text": "niggas when white actors get cast as x-men characters who are actually white in the x-men comics",
    "url": "https://x.com/mandevil23edits/status/2118373074038907154",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 17,
+   "like_count": 23,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWX5FF_WwAAZl4L.jpg"
   },
   {
@@ -78,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 6,
-   "repost_count": 21,
-   "like_count": 383,
+   "repost_count": 29,
+   "like_count": 449,
    "image": ""
   },
   {
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
    "repost_count": 1,
-   "like_count": 77,
+   "like_count": 82,
    "image": ""
   },
   {
@@ -111,20 +125,6 @@
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWXP7fVXcAABh0X.jpg"
   },
   {
-   "id": "2118319491075789192",
-   "text": "The way people are over pineapple on pizza is absolutely ridiculous. If someone likes it let them have it",
-   "url": "https://x.com/StebobM/status/2118319491075789192",
-   "created_at": "2026-11-05T12:28:17+00:00",
-   "sent_at": "2026-11-05T12:28:17+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": ""
-  },
-  {
    "id": "2118313316187529606",
    "text": "\"Yeah okay FA-MMMMHMMHMH!\"",
    "url": "https://x.com/TheManlet_King/status/2118313316187529606",
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 6,
-   "like_count": 146,
+   "like_count": 148,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWXCuBmXEAAYgX4.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 4,
    "repost_count": 9,
-   "like_count": 123,
+   "like_count": 125,
    "image": "https://pbs.twimg.com/media/HWXCMYpXUAEKRtS.jpg"
   },
   {
