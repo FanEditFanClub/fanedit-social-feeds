@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T03:36:40+00:00",
+ "updated_at": "2026-11-05T03:51:41+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -7,6 +7,36 @@
   "picture": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2118186724778000400",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - The Backdreams: Come True Rerelease.\n\nhttps://www.reddit.com/r/fanedits/comments/1xn9bym/the_backdreams_come_true_rerelease/",
+   "url": "https://x.com/FanEditFanClub/status/2118186724778000400",
+   "sent_at": "2026-11-05T03:40:43+00:00",
+   "created_at": "2026-11-05T03:40:43+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "syndication"
+  },
+  {
+   "id": "2118186669476139151",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Kill bill fan edit.\n\nhttps://www.reddit.com/r/moviesremastered/comments/1xnda4u/kill_bill_fan_edit/",
+   "url": "https://x.com/FanEditFanClub/status/2118186669476139151",
+   "sent_at": "2026-11-05T03:40:30+00:00",
+   "created_at": "2026-11-05T03:40:30+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "syndication"
+  },
   {
    "id": "2118123227130007881",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Review, Bay Harbor Butcher.\n\nhttps://www.reddit.com/r/fanedits/comments/1xn5j57/review_bay_harbor_butcher/",
@@ -118,36 +148,6 @@
    "url": "https://x.com/2072539271450312704/status/2117981517171372172",
    "sent_at": "2026-11-04T14:05:21+00:00",
    "created_at": "2026-11-04T14:05:21+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2117808412993954064",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Taxi!.\n\nhttps://www.reddit.com/r/fanedits/comments/1xmfg34/taxi/",
-   "url": "https://x.com/2072539271450312704/status/2117808412993954064",
-   "sent_at": "2026-11-04T02:37:27+00:00",
-   "created_at": "2026-11-04T02:37:27+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2117808344815575267",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Lucifer (2016) [Fan-Edit].\n\nhttps://www.reddit.com/r/Unfair/comments/1xmg0mk/lucifer_2016_fanedit/",
-   "url": "https://x.com/2072539271450312704/status/2117808344815575267",
-   "sent_at": "2026-11-04T02:37:11+00:00",
-   "created_at": "2026-11-04T02:37:11+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "",
