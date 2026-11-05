@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T13:51:40+00:00",
+ "updated_at": "2026-11-05T14:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2118343023935291750",
+   "text": "He is a public servant, not a king. If an elected official does something you do not like, you replace them because THEY are supposed to serve US.",
+   "url": "https://x.com/TheManlet_King/status/2118343023935291750",
+   "created_at": "2026-11-05T14:01:48+00:00",
+   "sent_at": "2026-11-05T14:01:48+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2118342573580255453",
+   "text": "S1 E6 'Pax Soprana' | 545 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118342573580255453",
+   "created_at": "2026-11-05T14:00:01+00:00",
+   "sent_at": "2026-11-05T14:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWJxC7RXkAAJxKd.jpg"
+  },
+  {
    "id": "2118338795108016331",
    "text": "S1 E6 'Pax Soprana' | 544 of 620",
    "url": "https://x.com/SopranosOrder/status/2118338795108016331",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HWJw_X9WIAA4PLQ.jpg"
-  },
-  {
-   "id": "2118335271876063481",
-   "text": "S1 E6 'Pax Soprana' | 543 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118335271876063481",
-   "created_at": "2026-11-05T13:31:00+00:00",
-   "sent_at": "2026-11-05T13:31:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWJw8QVW8AAMJXH.jpg"
   },
   {
    "id": "2118327828089384965",
@@ -78,8 +92,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 5,
-   "like_count": 80,
+   "repost_count": 6,
+   "like_count": 87,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWXCuBmXEAAYgX4.jpg"
   },
   {
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 2,
    "repost_count": 7,
-   "like_count": 75,
+   "like_count": 84,
    "image": "https://pbs.twimg.com/media/HWXCMYpXUAEKRtS.jpg"
   },
   {
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 9,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/media/HWWk5kkWYAAK6AC.jpg"
   },
   {
@@ -134,23 +148,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 5,
-   "repost_count": 10,
-   "like_count": 74,
+   "repost_count": 12,
+   "like_count": 79,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112027735325306880/img/QPMfbG8brOMWECrS.jpg"
-  },
-  {
-   "id": "2118186724778000400",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - The Backdreams: Come True Rerelease.\n\nhttps://www.reddit.com/r/fanedits/comments/1xn9bym/the_backdreams_come_true_rerelease/",
-   "url": "https://x.com/FanEditFanClub/status/2118186724778000400",
-   "created_at": "2026-11-05T03:40:43+00:00",
-   "sent_at": "2026-11-05T03:40:43+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
   }
  ]
 }
