@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T09:06:41+00:00",
+ "updated_at": "2026-11-05T09:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2118270847567757318",
+   "text": "S1 E6 'Pax Soprana' | 526 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118270847567757318",
+   "created_at": "2026-11-05T09:15:00+00:00",
+   "sent_at": "2026-11-05T09:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWJwE1vWcAAp5Vo.jpg"
+  },
+  {
    "id": "2118267081506558125",
    "text": "S1 E6 'Pax Soprana' | 525 of 620",
    "url": "https://x.com/SopranosOrder/status/2118267081506558125",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HWJwB2SWMAEhEf6.jpg"
-  },
-  {
-   "id": "2118263297501991203",
-   "text": "S1 E6 'Pax Soprana' | 524 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118263297501991203",
-   "created_at": "2026-11-05T08:45:00+00:00",
-   "sent_at": "2026-11-05T08:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWJv91_XQAAENP0.jpg"
   },
   {
    "id": "2118248198053548183",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 5,
    "repost_count": 4,
-   "like_count": 48,
+   "like_count": 50,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112027735325306880/img/QPMfbG8brOMWECrS.jpg"
   },
   {
