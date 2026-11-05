@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T21:36:43+00:00",
+ "updated_at": "2026-11-05T21:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2118460093880480234",
+   "text": "clayface looking like he just stepped out of batman: the animated series",
+   "url": "https://x.com/mandevil23edits/status/2118460093880480234",
+   "created_at": "2026-11-05T21:47:00+00:00",
+   "sent_at": "2026-11-05T21:47:00+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWZIObjXIAA5x16.jpg"
+  },
+  {
+   "id": "2118459591113478508",
+   "text": "S1 E6 'Pax Soprana' | 576 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118459591113478508",
+   "created_at": "2026-11-05T21:45:00+00:00",
+   "sent_at": "2026-11-05T21:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWJynOuWMAACC-F.jpg"
+  },
   {
    "id": "2118456067831349259",
    "text": "S1 E6 'Pax Soprana' | 575 of 620",
@@ -35,24 +63,10 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 7,
-   "repost_count": 5,
-   "like_count": 25,
+   "reply_count": 11,
+   "repost_count": 7,
+   "like_count": 45,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2118395057845764096/img/ImYwH0VX15oGrH6h.jpg"
-  },
-  {
-   "id": "2118452041085272150",
-   "text": "S1 E6 'Pax Soprana' | 574 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118452041085272150",
-   "created_at": "2026-11-05T21:15:00+00:00",
-   "sent_at": "2026-11-05T21:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWJyekHXoAAqWbM.jpg"
   },
   {
    "id": "2118451234462126276",
@@ -64,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 69,
-   "like_count": 212,
+   "repost_count": 119,
+   "like_count": 391,
    "image": ""
   },
   {
@@ -94,20 +108,6 @@
    "reply_count": 1,
    "repost_count": 2,
    "like_count": 24,
-   "image": ""
-  },
-  {
-   "id": "2118429719867879494",
-   "text": "#forautumn",
-   "url": "https://x.com/mandevil23edits/status/2118429719867879494",
-   "created_at": "2026-11-05T19:46:18+00:00",
-   "sent_at": "2026-11-05T19:46:18+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 6,
-   "like_count": 27,
    "image": ""
   },
   {
