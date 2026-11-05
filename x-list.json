@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T20:06:41+00:00",
+ "updated_at": "2026-11-05T20:21:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2118437193404543297",
+   "text": "S1 E6 'Pax Soprana' | 570 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118437193404543297",
+   "created_at": "2026-11-05T20:16:00+00:00",
+   "sent_at": "2026-11-05T20:16:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWJyRqgXkAAhJ1S.jpg"
+  },
+  {
+   "id": "2118435916041925060",
+   "text": "ah yes the long-awaited materialists sequel",
+   "url": "https://x.com/mandevil23edits/status/2118435916041925060",
+   "created_at": "2026-11-05T20:10:55+00:00",
+   "sent_at": "2026-11-05T20:10:55+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": ""
+  },
   {
    "id": "2118433170458919386",
    "text": "S1 E6 'Pax Soprana' | 569 of 620",
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 10,
+   "like_count": 14,
    "image": ""
-  },
-  {
-   "id": "2118429392120807856",
-   "text": "S1 E6 'Pax Soprana' | 568 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118429392120807856",
-   "created_at": "2026-11-05T19:45:00+00:00",
-   "sent_at": "2026-11-05T19:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWJyKmJW8AAkkRa.jpg"
   },
   {
    "id": "2118425886081028116",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2050445504882884608/rdoqP-2h_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": ""
   },
   {
@@ -77,9 +91,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 10,
+   "reply_count": 12,
    "repost_count": 0,
-   "like_count": 75,
+   "like_count": 90,
    "image": "https://pbs.twimg.com/media/HWYnzbRWwAAqoHc.jpg"
   },
   {
@@ -125,20 +139,6 @@
    "image": ""
   },
   {
-   "id": "2118391953700409553",
-   "text": "\u201ckodak black in gta 6\u201d",
-   "url": "https://x.com/mandevil23edits/status/2118391953700409553",
-   "created_at": "2026-11-05T17:16:14+00:00",
-   "sent_at": "2026-11-05T17:16:14+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 20,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HWYKQAwXsAA1pGq.jpg"
-  },
-  {
    "id": "2118389962198417791",
    "text": "Effectively zero people switched their vote btw. Maybe ~1%.\n\nDems won because they showed up. Reps lost because they stayed home. You can argue about why, buts literally that simple.",
    "url": "https://x.com/TheManlet_King/status/2118389962198417791",
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 4,
-   "like_count": 75,
+   "like_count": 80,
    "image": ""
   },
   {
@@ -176,8 +176,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
-   "repost_count": 73,
-   "like_count": 883,
+   "repost_count": 74,
+   "like_count": 900,
    "image": ""
   }
  ]
