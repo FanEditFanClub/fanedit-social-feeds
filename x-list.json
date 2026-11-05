@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T19:51:41+00:00",
+ "updated_at": "2026-11-05T20:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2118433170458919386",
+   "text": "S1 E6 'Pax Soprana' | 569 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118433170458919386",
+   "created_at": "2026-11-05T20:00:01+00:00",
+   "sent_at": "2026-11-05T20:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWJyOzMW0AAtlZZ.jpg"
+  },
+  {
    "id": "2118429719867879494",
    "text": "#forautumn",
    "url": "https://x.com/mandevil23edits/status/2118429719867879494",
@@ -22,8 +36,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 2,
+   "like_count": 10,
    "image": ""
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2118425616928104754",
-   "text": "S1 E6 'Pax Soprana' | 567 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118425616928104754",
-   "created_at": "2026-11-05T19:30:00+00:00",
-   "sent_at": "2026-11-05T19:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWJyHSmXcAAjfWk.jpg"
-  },
-  {
    "id": "2118424443051512076",
    "text": "do you guys like my lil buddy :) he is my favorite mug ever :)",
    "url": "https://x.com/uhbucky/status/2118424443051512076",
@@ -77,9 +77,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 8,
+   "reply_count": 10,
    "repost_count": 0,
-   "like_count": 59,
+   "like_count": 75,
    "image": "https://pbs.twimg.com/media/HWYnzbRWwAAqoHc.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 19,
+   "like_count": 20,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWYKQAwXsAA1pGq.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 4,
-   "like_count": 70,
+   "like_count": 75,
    "image": ""
   },
   {
@@ -176,8 +176,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
-   "repost_count": 70,
-   "like_count": 871,
+   "repost_count": 73,
+   "like_count": 883,
    "image": ""
   }
  ]
