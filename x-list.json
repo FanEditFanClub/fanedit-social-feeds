@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T12:21:42+00:00",
+ "updated_at": "2026-11-05T12:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2118319921180574089",
+   "text": "S1 E6 'Pax Soprana' | 539 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118319921180574089",
+   "created_at": "2026-11-05T12:30:00+00:00",
+   "sent_at": "2026-11-05T12:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWJwt3dWMAAVIng.jpg"
+  },
+  {
+   "id": "2118319491075789192",
+   "text": "The way people are over pineapple on pizza is absolutely ridiculous. If someone likes it let them have it",
+   "url": "https://x.com/StebobM/status/2118319491075789192",
+   "created_at": "2026-11-05T12:28:17+00:00",
+   "sent_at": "2026-11-05T12:28:17+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2118316146831008030",
    "text": "S1 E6 'Pax Soprana' | 538 of 620",
    "url": "https://x.com/SopranosOrder/status/2118316146831008030",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWJwq3_WIAAbhJj.jpg"
   },
   {
@@ -36,8 +64,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 25,
+   "repost_count": 1,
+   "like_count": 44,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWXCuBmXEAAYgX4.jpg"
   },
   {
@@ -51,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 15,
+   "like_count": 24,
    "image": "https://pbs.twimg.com/media/HWXCMYpXUAEKRtS.jpg"
-  },
-  {
-   "id": "2118312383320072329",
-   "text": "S1 E6 'Pax Soprana' | 537 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118312383320072329",
-   "created_at": "2026-11-05T12:00:03+00:00",
-   "sent_at": "2026-11-05T12:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWJwohcXcAAbL0r.jpg"
   },
   {
    "id": "2118306183991734630",
@@ -109,20 +123,6 @@
    "repost_count": 0,
    "like_count": 9,
    "image": "https://pbs.twimg.com/media/HWWk5kkWYAAK6AC.jpg"
-  },
-  {
-   "id": "2118248198053548183",
-   "text": "Think it\u2019s pretty clear that it\u2019s dead and has been for some time",
-   "url": "https://x.com/StebobM/status/2118248198053548183",
-   "created_at": "2026-11-05T07:45:00+00:00",
-   "sent_at": "2026-11-05T07:45:00+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
   },
   {
    "id": "2118205668763086998",
