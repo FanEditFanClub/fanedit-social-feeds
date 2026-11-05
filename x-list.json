@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T14:06:40+00:00",
+ "updated_at": "2026-11-05T14:21:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2118346346016985331",
+   "text": "S1 E6 'Pax Soprana' | 546 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118346346016985331",
+   "created_at": "2026-11-05T14:15:00+00:00",
+   "sent_at": "2026-11-05T14:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWJxFpRXMAAVyzx.jpg"
+  },
+  {
    "id": "2118343023935291750",
    "text": "He is a public servant, not a king. If an elected official does something you do not like, you replace them because THEY are supposed to serve US.",
    "url": "https://x.com/TheManlet_King/status/2118343023935291750",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 13,
    "image": ""
   },
   {
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HWJxC7RXkAAJxKd.jpg"
   },
   {
-   "id": "2118338795108016331",
-   "text": "S1 E6 'Pax Soprana' | 544 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118338795108016331",
-   "created_at": "2026-11-05T13:45:00+00:00",
-   "sent_at": "2026-11-05T13:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWJw_X9WIAA4PLQ.jpg"
-  },
-  {
    "id": "2118327828089384965",
    "text": "People don\u2019t actually think they\u2019re made of bacon FFS",
    "url": "https://x.com/StebobM/status/2118327828089384965",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWXP7fVXcAABh0X.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 6,
-   "like_count": 87,
+   "like_count": 98,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWXCuBmXEAAYgX4.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1984939608484855808/WoWTZxPG_normal.jpg",
    "reply_count": 2,
    "repost_count": 7,
-   "like_count": 84,
+   "like_count": 88,
    "image": "https://pbs.twimg.com/media/HWXCMYpXUAEKRtS.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 5,
    "repost_count": 12,
-   "like_count": 79,
+   "like_count": 81,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2112027735325306880/img/QPMfbG8brOMWECrS.jpg"
   }
  ]
