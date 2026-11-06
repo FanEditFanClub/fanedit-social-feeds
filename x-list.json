@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T01:36:39+00:00",
+ "updated_at": "2026-11-06T01:51:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,18 +13,18 @@
  },
  "posts": [
   {
-   "id": "2118517589228007896",
-   "text": "buck being put in handcuffs and bent over when ao3 down is just sinister",
-   "url": "https://x.com/uhbucky/status/2118517589228007896",
-   "created_at": "2026-11-06T01:35:28+00:00",
-   "sent_at": "2026-11-06T01:35:28+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "id": "2118519988805836877",
+   "text": "S1 E6 'Pax Soprana' | 592 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118519988805836877",
+   "created_at": "2026-11-06T01:45:00+00:00",
+   "sent_at": "2026-11-06T01:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HWZ8hRTWYAEkf6P.jpg"
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWW91_nWkAAPVAu.jpg"
   },
   {
    "id": "2118516213890576858",
@@ -37,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HWW9y9fWsAADyxR.jpg"
   },
   {
@@ -50,23 +50,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 23,
-   "like_count": 151,
+   "repost_count": 44,
+   "like_count": 330,
    "image": "https://pbs.twimg.com/media/HWZ6EM6XsAECaFW.jpg"
-  },
-  {
-   "id": "2118512439121575937",
-   "text": "S1 E6 'Pax Soprana' | 590 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118512439121575937",
-   "created_at": "2026-11-06T01:15:00+00:00",
-   "sent_at": "2026-11-06T01:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HWW9v48WAAA1pD9.jpg"
   },
   {
    "id": "2118504708666995163",
@@ -79,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 14,
+   "like_count": 17,
    "image": ""
   },
   {
@@ -105,9 +91,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 4,
+   "reply_count": 5,
    "repost_count": 10,
-   "like_count": 80,
+   "like_count": 87,
    "image": ""
   },
   {
@@ -119,10 +105,24 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 10,
-   "like_count": 57,
+   "like_count": 59,
    "image": "https://pbs.twimg.com/media/HWZIObjXIAA5x16.jpg"
+  },
+  {
+   "id": "2118455255138804157",
+   "text": "first #NHLBruins edit :)",
+   "url": "https://x.com/uhbucky/status/2118455255138804157",
+   "created_at": "2026-11-05T21:27:46+00:00",
+   "sent_at": "2026-11-05T21:27:46+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 31,
+   "repost_count": 50,
+   "like_count": 229,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2118395057845764096/img/ImYwH0VX15oGrH6h.jpg"
   },
   {
    "id": "2118425886081028116",
@@ -176,8 +176,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 7,
-   "repost_count": 4,
-   "like_count": 111,
+   "repost_count": 5,
+   "like_count": 115,
    "image": ""
   }
  ]
