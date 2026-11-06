@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T04:51:39+00:00",
+ "updated_at": "2026-11-06T05:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2118569064507580584",
+   "text": "S1 E6 'Pax Soprana' | 605 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118569064507580584",
+   "created_at": "2026-11-06T05:00:00+00:00",
+   "sent_at": "2026-11-06T05:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWW-jmqWwAApvc4.jpg"
+  },
   {
    "id": "2118565287461044627",
    "text": "S1 E6 'Pax Soprana' | 604 of 620",
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/media/HWamXFEWUAAUP4R.jpg"
-  },
-  {
-   "id": "2118561514860740709",
-   "text": "S1 E6 'Pax Soprana' | 603 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118561514860740709",
-   "created_at": "2026-11-06T04:30:00+00:00",
-   "sent_at": "2026-11-06T04:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWW-c3fXsAAK9hw.jpg"
   },
   {
    "id": "2118560441140216102",
@@ -64,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
-   "repost_count": 0,
-   "like_count": 17,
+   "repost_count": 1,
+   "like_count": 26,
    "image": ""
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 175,
+   "like_count": 190,
    "image": "https://pbs.twimg.com/media/HWaS6RrXUAApIpy.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 61,
-   "like_count": 467,
+   "like_count": 468,
    "image": "https://pbs.twimg.com/media/HWZ6EM6XsAECaFW.jpg"
   },
   {
@@ -135,21 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 7,
    "repost_count": 13,
-   "like_count": 149,
-   "image": ""
-  },
-  {
-   "id": "2118425886081028116",
-   "text": "If Transformers 2007 doesn't get an anniversary release in theaters, we riot",
-   "url": "https://x.com/Onyx_Tw/status/2118425886081028116",
-   "created_at": "2026-11-05T19:31:04+00:00",
-   "sent_at": "2026-11-05T19:31:04+00:00",
-   "author_name": "onyx",
-   "author_handle": "Onyx_Tw",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2050445504882884608/rdoqP-2h_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 5,
+   "like_count": 151,
    "image": ""
   }
  ]
