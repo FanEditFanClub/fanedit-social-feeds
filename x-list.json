@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T11:21:40+00:00",
+ "updated_at": "2026-11-06T11:36:44+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2118667209648320811",
+   "text": "S1 E7 'Down Neck' | 15 of 704",
+   "url": "https://x.com/SopranosOrder/status/2118667209648320811",
+   "created_at": "2026-11-06T11:30:00+00:00",
+   "sent_at": "2026-11-06T11:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWXASxvWoAAG9DV.jpg"
+  },
+  {
    "id": "2118663435256770587",
    "text": "S1 E7 'Down Neck' | 14 of 704",
    "url": "https://x.com/SopranosOrder/status/2118663435256770587",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HWXAPkuXwAAYNlN.jpg"
-  },
-  {
-   "id": "2118659671682887828",
-   "text": "S1 E7 'Down Neck' | 13 of 704",
-   "url": "https://x.com/SopranosOrder/status/2118659671682887828",
-   "created_at": "2026-11-06T11:00:03+00:00",
-   "sent_at": "2026-11-06T11:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWXAMUrWQAA7Sr8.jpg"
   },
   {
    "id": "2118635781162172825",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 6,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 6,
-   "like_count": 609,
+   "like_count": 625,
    "image": "https://pbs.twimg.com/media/HWaS6RrXUAApIpy.jpg"
   },
   {
