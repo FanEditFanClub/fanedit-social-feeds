@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T03:21:40+00:00",
+ "updated_at": "2026-11-06T03:36:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2118547482980364470",
+   "text": "women in thunderbolts*",
+   "url": "https://x.com/mandevil23edits/status/2118547482980364470",
+   "created_at": "2026-11-06T03:34:15+00:00",
+   "sent_at": "2026-11-06T03:34:15+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWaXtJqXEAAUHXg.jpg"
+  },
+  {
+   "id": "2118546416587137404",
+   "text": "S1 E6 'Pax Soprana' | 599 of 620",
+   "url": "https://x.com/SopranosOrder/status/2118546416587137404",
+   "created_at": "2026-11-06T03:30:01+00:00",
+   "sent_at": "2026-11-06T03:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWW-PKJXkAAib6e.jpg"
+  },
+  {
    "id": "2118542638165192982",
    "text": "S1 E6 'Pax Soprana' | 598 of 620",
    "url": "https://x.com/SopranosOrder/status/2118542638165192982",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWW-MChWcAAwp27.jpg"
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 25,
+   "like_count": 63,
    "image": "https://pbs.twimg.com/media/HWaS6RrXUAApIpy.jpg"
-  },
-  {
-   "id": "2118538887769333827",
-   "text": "S1 E6 'Pax Soprana' | 597 of 620",
-   "url": "https://x.com/SopranosOrder/status/2118538887769333827",
-   "created_at": "2026-11-06T03:00:06+00:00",
-   "sent_at": "2026-11-06T03:00:06+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HWW-I1oX0AA2CNB.jpg"
   },
   {
    "id": "2118536180631224335",
@@ -92,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 60,
-   "like_count": 457,
+   "repost_count": 61,
+   "like_count": 462,
    "image": "https://pbs.twimg.com/media/HWZ6EM6XsAECaFW.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 3,
-   "like_count": 21,
+   "like_count": 22,
    "image": ""
   },
   {
@@ -121,22 +135,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 7,
    "repost_count": 12,
-   "like_count": 132,
+   "like_count": 136,
    "image": ""
-  },
-  {
-   "id": "2118460093880480234",
-   "text": "clayface looking like he just stepped out of batman: the animated series",
-   "url": "https://x.com/mandevil23edits/status/2118460093880480234",
-   "created_at": "2026-11-05T21:47:00+00:00",
-   "sent_at": "2026-11-05T21:47:00+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 11,
-   "like_count": 69,
-   "image": "https://pbs.twimg.com/media/HWZIObjXIAA5x16.jpg"
   },
   {
    "id": "2118425886081028116",
