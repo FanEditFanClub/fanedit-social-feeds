@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T12:36:42+00:00",
+ "updated_at": "2026-11-06T12:51:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2118686083580092809",
+   "text": "S1 E7 'Down Neck' | 20 of 704",
+   "url": "https://x.com/SopranosOrder/status/2118686083580092809",
+   "created_at": "2026-11-06T12:45:00+00:00",
+   "sent_at": "2026-11-06T12:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWXAjAoXYAEaRlx.jpg"
+  },
+  {
    "id": "2118682311096963080",
    "text": "S1 E7 'Down Neck' | 19 of 704",
    "url": "https://x.com/SopranosOrder/status/2118682311096963080",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HWXAgCvXUAA2QgV.jpg"
-  },
-  {
-   "id": "2118678533962903637",
-   "text": "S1 E7 'Down Neck' | 18 of 704",
-   "url": "https://x.com/SopranosOrder/status/2118678533962903637",
-   "created_at": "2026-11-06T12:15:00+00:00",
-   "sent_at": "2026-11-06T12:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWXAdbxX0AATETD.jpg"
   },
   {
    "id": "2118635781162172825",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 7,
-   "like_count": 687,
+   "like_count": 710,
    "image": "https://pbs.twimg.com/media/HWaS6RrXUAApIpy.jpg"
   },
   {
