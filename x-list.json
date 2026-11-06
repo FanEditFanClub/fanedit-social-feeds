@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T16:21:42+00:00",
+ "updated_at": "2026-11-06T16:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2118742709859135564",
+   "text": "S1 E7 'Down Neck' | 35 of 704",
+   "url": "https://x.com/SopranosOrder/status/2118742709859135564",
+   "created_at": "2026-11-06T16:30:01+00:00",
+   "sent_at": "2026-11-06T16:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWXBVFBXQAAgs61.jpg"
+  },
+  {
+   "id": "2118741440947777707",
+   "text": "#lastfourwatched",
+   "url": "https://x.com/mandevil23edits/status/2118741440947777707",
+   "created_at": "2026-11-06T16:24:58+00:00",
+   "sent_at": "2026-11-06T16:24:58+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWdIHFCWQAAb_8A.jpg"
+  },
+  {
    "id": "2118739321838821651",
    "text": "i'll get a box of 24 please",
    "url": "https://x.com/mandevil23edits/status/2118739321838821651",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWdGIHxW8AE_B0B.jpg"
   },
   {
@@ -36,8 +64,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWXBRmaXwAAXtky.jpg"
   },
   {
@@ -49,9 +77,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWdFIOpW4AIiaEr.jpg"
   },
   {
@@ -64,37 +92,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 2,
-   "repost_count": 20,
-   "like_count": 240,
+   "repost_count": 35,
+   "like_count": 422,
    "image": "https://pbs.twimg.com/media/HWdEp8aXUAAX-Be.jpg"
-  },
-  {
-   "id": "2118735162175561944",
-   "text": "S1 E7 'Down Neck' | 33 of 704",
-   "url": "https://x.com/SopranosOrder/status/2118735162175561944",
-   "created_at": "2026-11-06T16:00:01+00:00",
-   "sent_at": "2026-11-06T16:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWXBOe3W4AAPGho.jpg"
-  },
-  {
-   "id": "2118734225314656266",
-   "text": "I do plan to buy exactly these films and nothing else.\n\n>Shrek collection\n>Rocky collection\n>Spider-Man trilogy\n>PotC trilogy\n>The Terminator\n>Highlander\n>Road House\n>First Blood\n>Bloodsport\n>Equilibrium\n>Every Steven Seagal film\n>Big Trouble in Little China\n>Napoleon Dynamite",
-   "url": "https://x.com/TheManlet_King/status/2118734225314656266",
-   "created_at": "2026-11-06T15:56:18+00:00",
-   "sent_at": "2026-11-06T15:56:18+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 10,
-   "image": ""
   },
   {
    "id": "2118722810486960519",
@@ -125,18 +125,18 @@
    "image": ""
   },
   {
-   "id": "2118635781162172825",
-   "text": "good morning",
-   "url": "https://x.com/mandevil23edits/status/2118635781162172825",
-   "created_at": "2026-11-06T09:25:07+00:00",
-   "sent_at": "2026-11-06T09:25:07+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 4,
+   "id": "2118712372294463933",
+   "text": "The sad remnants of my Xbox 360 and PS4 collections.",
+   "url": "https://x.com/TheManlet_King/status/2118712372294463933",
+   "created_at": "2026-11-06T14:29:27+00:00",
+   "sent_at": "2026-11-06T14:29:27+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 3,
    "repost_count": 0,
-   "like_count": 26,
-   "image": "https://pbs.twimg.com/media/HWboAl9W0AAtCDF.jpg"
+   "like_count": 52,
+   "image": "https://pbs.twimg.com/media/HWctq4fXsAAHgrJ.jpg"
   },
   {
    "id": "2118590462915469651",
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 7,
+   "like_count": 8,
    "image": ""
   }
  ]
