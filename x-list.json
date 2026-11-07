@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T02:36:39+00:00",
+ "updated_at": "2026-11-07T02:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2118897476446961777",
+   "text": "S1 E7 'Down Neck' | 76 of 704",
+   "url": "https://x.com/SopranosOrder/status/2118897476446961777",
+   "created_at": "2026-11-07T02:45:00+00:00",
+   "sent_at": "2026-11-07T02:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWcDguOXIAAyXr-.jpg"
+  },
+  {
+   "id": "2118895547029291386",
+   "text": "i\u2019ve played this game before",
+   "url": "https://x.com/mandevil23edits/status/2118895547029291386",
+   "created_at": "2026-11-07T02:37:20+00:00",
+   "sent_at": "2026-11-07T02:37:20+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 2,
+   "repost_count": 0,
+   "like_count": 10,
+   "image": "https://pbs.twimg.com/media/HWfURK9WAAACtmy.jpg"
+  },
+  {
    "id": "2118893701749424540",
    "text": "S1 E7 'Down Neck' | 75 of 704",
    "url": "https://x.com/SopranosOrder/status/2118893701749424540",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HWcDdSqWsAAYjd-.jpg"
   },
   {
@@ -35,38 +63,10 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 1,
-   "like_count": 16,
+   "reply_count": 4,
+   "repost_count": 4,
+   "like_count": 47,
    "image": ""
-  },
-  {
-   "id": "2118889926771028186",
-   "text": "S1 E7 'Down Neck' | 74 of 704",
-   "url": "https://x.com/SopranosOrder/status/2118889926771028186",
-   "created_at": "2026-11-07T02:15:00+00:00",
-   "sent_at": "2026-11-07T02:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWcDaiZWIAAw189.jpg"
-  },
-  {
-   "id": "2118889640900124838",
-   "text": "robert pattinson as james bond would be a generational casting choice",
-   "url": "https://x.com/mandevil23edits/status/2118889640900124838",
-   "created_at": "2026-11-07T02:13:52+00:00",
-   "sent_at": "2026-11-07T02:13:52+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 3,
-   "like_count": 38,
-   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1497653174681083905/pu/img/U1geO-uPISNa5KVF.jpg"
   },
   {
    "id": "2118868229279932770",
@@ -120,8 +120,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 4,
-   "repost_count": 9,
-   "like_count": 159,
+   "repost_count": 11,
+   "like_count": 165,
    "image": "https://pbs.twimg.com/media/HWefeI1WYAAfUiq.jpg"
   },
   {
