@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T07:36:38+00:00",
+ "updated_at": "2026-11-07T07:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2118973546781118802",
+   "text": "that\u2019s a wonderful-looking woman here",
+   "url": "https://x.com/mandevil23edits/status/2118973546781118802",
+   "created_at": "2026-11-07T07:47:16+00:00",
+   "sent_at": "2026-11-07T07:47:16+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": ""
+  },
+  {
+   "id": "2118972973663035794",
+   "text": "S1 E7 'Down Neck' | 96 of 704",
+   "url": "https://x.com/SopranosOrder/status/2118972973663035794",
+   "created_at": "2026-11-07T07:45:00+00:00",
+   "sent_at": "2026-11-07T07:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWcEg4ZWkAA_UDn.jpg"
+  },
+  {
    "id": "2118969853268898191",
    "text": "dojo cat\u2019s best work",
    "url": "https://x.com/mandevil23edits/status/2118969853268898191",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -39,34 +67,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HWcEcYBXsAEYBZW.jpg"
-  },
-  {
-   "id": "2118965423853211652",
-   "text": "S1 E7 'Down Neck' | 94 of 704",
-   "url": "https://x.com/SopranosOrder/status/2118965423853211652",
-   "created_at": "2026-11-07T07:15:00+00:00",
-   "sent_at": "2026-11-07T07:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWcEZWEWAAAnKCK.jpg"
-  },
-  {
-   "id": "2118963018176360794",
-   "text": "david lynch\u2019s version has it\u2019s charms but denis villeneuve\u2019s take on dune became a cinematic upgrade.",
-   "url": "https://x.com/mandevil23edits/status/2118963018176360794",
-   "created_at": "2026-11-07T07:05:26+00:00",
-   "sent_at": "2026-11-07T07:05:26+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": ""
   },
   {
    "id": "2118960965178085514",
@@ -123,20 +123,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWeon3MXwAAv_Uz.jpg"
-  },
-  {
-   "id": "2118837784614224022",
-   "text": "Archiving my personal print of Terminator 3 Rise of the Machines (35mm 6K Scan) Scope - DTS",
-   "url": "https://x.com/NCseventeen/status/2118837784614224022",
-   "created_at": "2026-11-06T22:47:48+00:00",
-   "sent_at": "2026-11-06T22:47:48+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 6,
-   "repost_count": 14,
-   "like_count": 256,
-   "image": "https://pbs.twimg.com/media/HWefeI1WYAAfUiq.jpg"
   }
  ]
 }
