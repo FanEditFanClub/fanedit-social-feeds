@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T20:06:40+00:00",
+ "updated_at": "2026-11-07T20:21:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119162874681516470",
+   "text": "IT'S NOT TOO LATE TO START RUNNING AGAIN.\n\nGet ready for your first look at SONIC THE HEDGEHOG: THE 2019 CUT.\n\nSee you tomorrow. \ud83c\udfac\n\n#The2019Cut",
+   "url": "https://x.com/The2019Cut/status/2119162874681516470",
+   "created_at": "2026-11-07T20:19:36+00:00",
+   "sent_at": "2026-11-07T20:19:36+00:00",
+   "author_name": "Sonic The Hedgehog: The 2019 Cut",
+   "author_handle": "The2019Cut",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWjHT7xWkAESuoe.jpg"
+  },
+  {
+   "id": "2119161717481414913",
+   "text": "S1 E7 'Down Neck' | 146 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119161717481414913",
+   "created_at": "2026-11-07T20:15:00+00:00",
+   "sent_at": "2026-11-07T20:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWcG-XjXUAAKNWq.jpg"
+  },
+  {
    "id": "2119157947028943052",
    "text": "S1 E7 'Down Neck' | 145 of 704",
    "url": "https://x.com/SopranosOrder/status/2119157947028943052",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWcG7A4WcAACNGv.jpg"
-  },
-  {
-   "id": "2119154167734231270",
-   "text": "S1 E7 'Down Neck' | 144 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119154167734231270",
-   "created_at": "2026-11-07T19:45:00+00:00",
-   "sent_at": "2026-11-07T19:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWcG2OwWYAAm186.jpg"
   },
   {
    "id": "2119151755090866659",
@@ -64,8 +78,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
-   "repost_count": 0,
-   "like_count": 12,
+   "repost_count": 1,
+   "like_count": 18,
    "image": ""
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 4,
-   "like_count": 41,
+   "like_count": 51,
    "image": ""
   },
   {
@@ -92,8 +106,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
-   "repost_count": 42,
-   "like_count": 694,
+   "repost_count": 51,
+   "like_count": 1031,
    "image": "https://pbs.twimg.com/media/HWixoYbXQAA1maN.jpg"
   },
   {
@@ -134,8 +148,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
-   "repost_count": 2,
-   "like_count": 82,
+   "repost_count": 3,
+   "like_count": 132,
    "image": ""
   },
   {
@@ -149,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 1,
    "repost_count": 10,
-   "like_count": 135,
+   "like_count": 139,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2118843344377798656/img/zZ-e6redSDH8jOaS.jpg"
   }
  ]
