@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T18:51:39+00:00",
+ "updated_at": "2026-11-07T19:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119144281579421983",
+   "text": "the role of jean grey was made for her",
+   "url": "https://x.com/mandevil23edits/status/2119144281579421983",
+   "created_at": "2026-11-07T19:05:43+00:00",
+   "sent_at": "2026-11-07T19:05:43+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2119142850084712597",
+   "text": "S1 E7 'Down Neck' | 141 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119142850084712597",
+   "created_at": "2026-11-07T19:00:01+00:00",
+   "sent_at": "2026-11-07T19:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWcGtgQWUAA7auj.jpg"
+  },
+  {
    "id": "2119139068391162138",
    "text": "S1 E7 'Down Neck' | 140 of 704",
    "url": "https://x.com/SopranosOrder/status/2119139068391162138",
@@ -22,8 +50,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
+   "repost_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HWcGqIuWcAAD_Tr.jpg"
   },
   {
@@ -36,8 +64,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 11,
+   "repost_count": 5,
+   "like_count": 61,
    "image": "https://pbs.twimg.com/media/HWixoYbXQAA1maN.jpg"
   },
   {
@@ -69,20 +97,6 @@
    "image": ""
   },
   {
-   "id": "2119135294456840506",
-   "text": "S1 E7 'Down Neck' | 139 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119135294456840506",
-   "created_at": "2026-11-07T18:30:00+00:00",
-   "sent_at": "2026-11-07T18:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HWcGnYlXIAAMQpo.jpg"
-  },
-  {
    "id": "2119132207268708526",
    "text": "no wonder why the sorcerer supreme was so distracted",
    "url": "https://x.com/mandevil23edits/status/2119132207268708526",
@@ -93,22 +107,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 12,
+   "like_count": 22,
    "image": ""
-  },
-  {
-   "id": "2119128779800863203",
-   "text": "tenet was literally robert pattinson\u2019s bond audition tape and he passed with flying colors",
-   "url": "https://x.com/mandevil23edits/status/2119128779800863203",
-   "created_at": "2026-11-07T18:04:07+00:00",
-   "sent_at": "2026-11-07T18:04:07+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 5,
-   "like_count": 35,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HWioW_3WEAAw8tZ.jpg"
   },
   {
    "id": "2119128410383376867",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 22,
+   "like_count": 24,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWioDXMWAAAph55.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 0,
    "repost_count": 8,
-   "like_count": 124,
+   "like_count": 128,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2118843344377798656/img/zZ-e6redSDH8jOaS.jpg"
   },
   {
