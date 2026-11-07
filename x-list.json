@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T02:06:39+00:00",
+ "updated_at": "2026-11-07T02:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2118889926771028186",
+   "text": "S1 E7 'Down Neck' | 74 of 704",
+   "url": "https://x.com/SopranosOrder/status/2118889926771028186",
+   "created_at": "2026-11-07T02:15:00+00:00",
+   "sent_at": "2026-11-07T02:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWcDaiZWIAAw189.jpg"
+  },
+  {
+   "id": "2118889640900124838",
+   "text": "robert pattinson as james bond would be a generational casting choice",
+   "url": "https://x.com/mandevil23edits/status/2118889640900124838",
+   "created_at": "2026-11-07T02:13:52+00:00",
+   "sent_at": "2026-11-07T02:13:52+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 6,
+   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1497653174681083905/pu/img/U1geO-uPISNa5KVF.jpg"
+  },
+  {
    "id": "2118886157400318214",
    "text": "S1 E7 'Down Neck' | 73 of 704",
    "url": "https://x.com/SopranosOrder/status/2118886157400318214",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWcDXr7XcAE9DHB.jpg"
-  },
-  {
-   "id": "2118882376877326705",
-   "text": "S1 E7 'Down Neck' | 72 of 704",
-   "url": "https://x.com/SopranosOrder/status/2118882376877326705",
-   "created_at": "2026-11-07T01:45:00+00:00",
-   "sent_at": "2026-11-07T01:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWcDTf3W8AA2D22.jpg"
   },
   {
    "id": "2118880963048419509",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
    "repost_count": 2,
-   "like_count": 18,
+   "like_count": 23,
    "image": "https://pbs.twimg.com/media/HWfHAM9XQAAOd94.jpg"
   },
   {
@@ -97,20 +111,6 @@
    "image": "https://pbs.twimg.com/media/HWeon3MXwAAv_Uz.jpg"
   },
   {
-   "id": "2118842097449193690",
-   "text": "both mcu films getting the full imax treatment",
-   "url": "https://x.com/mandevil23edits/status/2118842097449193690",
-   "created_at": "2026-11-06T23:04:56+00:00",
-   "sent_at": "2026-11-06T23:04:56+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 7,
-   "like_count": 117,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2118842022945595393/img/XMrvWVo2slBc37Xh.jpg"
-  },
-  {
    "id": "2118837784614224022",
    "text": "Archiving my personal print of Terminator 3 Rise of the Machines (35mm 6K Scan) Scope - DTS",
    "url": "https://x.com/NCseventeen/status/2118837784614224022",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 4,
    "repost_count": 9,
-   "like_count": 148,
+   "like_count": 155,
    "image": "https://pbs.twimg.com/media/HWefeI1WYAAfUiq.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": ""
   }
  ]
