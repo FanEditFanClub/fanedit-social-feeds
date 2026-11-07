@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fan Edit Optimus — Ask the Collection</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    width: 100%;
+    overflow-x: clip;
+    background-color: transparent;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #e7e9ea;
+  }
+
+  .page-wrap {
+    width: 100%;
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .chat-panel {
+    width: 100%;
+    max-width: 720px;
+    min-width: 0;
+    background-color: #000000;
+    border: 1px solid #2f3336;
+    border-radius: 16px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  /* ===== Header: avatar + name + tagline ===== */
+  .chat-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-width: 0;
+  }
+  .avatar-wrap {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid #2f3336;
+    background-color: #16181c;
+    flex-shrink: 0;
+    /* slow, subtle head turn */
+    animation: head-turn 12s ease-in-out infinite;
+  }
+  @keyframes head-turn {
+    0%, 100% { transform: rotate(0deg); }
+    25% { transform: rotate(2deg); }
+    60% { transform: rotate(-2deg); }
+  }
+  .avatar-wrap video,
+  .avatar-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    /* gentle idle bob */
+    animation: bob 4s ease-in-out infinite;
+  }
+  @keyframes bob {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-2px); }
+  }
+  .chat-titles { min-width: 0; }
+  .chat-title {
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: 800;
+    letter-spacing: -0.3px;
+    line-height: 1.25;
+  }
+  .chat-sub {
+    color: #71767b;
+    font-size: 13px;
+    line-height: 1.35;
+    margin-top: 2px;
+    overflow-wrap: anywhere;
+  }
+
+  /* ===== Message list ===== */
+  .chat-log {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-height: 420px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 4px 2px;
+    scrollbar-width: thin;
+    scrollbar-color: #2f3336 transparent;
+  }
+  .chat-log::-webkit-scrollbar { width: 5px; }
+  .chat-log::-webkit-scrollbar-track { background: transparent; }
+  .chat-log::-webkit-scrollbar-thumb { background-color: #2f3336; border-radius: 10px; }
+
+  .msg-row { display: flex; min-width: 0; }
+  .msg-row.user { justify-content: flex-end; }
+  .msg-row.bot { justify-content: flex-start; align-items: flex-end; gap: 8px; }
+  .msg-mini-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid #2f3336;
+    flex-shrink: 0;
+  }
+  .msg {
+    max-width: 85%;
+    padding: 10px 12px;
+    border-radius: 16px;
+    font-size: 14px;
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+    min-width: 0;
+  }
+  .msg.user {
+    background-color: #1d9bf0;
+    color: #ffffff;
+    border-bottom-right-radius: 4px;
+  }
+  .msg.bot {
+    background-color: #16181c;
+    border: 1px solid #2f3336;
+    border-bottom-left-radius: 4px;
+  }
+  .msg.bot a { color: #1d9bf0; text-decoration: none; }
+  .msg.bot a:hover { text-decoration: underline; }
+  .msg.error { color: #f4212e; }
+
+  /* typing indicator: three dots */
+  .typing-dots span {
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color: #71767b;
+    margin-right: 4px;
+    animation: typing-bounce 1.2s ease-in-out infinite;
+  }
+  .typing-dots span:nth-child(2) { animation-delay: 0.15s; }
+  .typing-dots span:nth-child(3) { animation-delay: 0.3s; margin-right: 0; }
+  @keyframes typing-bounce {
+    0%, 60%, 100% { transform: translateY(0); opacity: 0.5; }
+    30% { transform: translateY(-4px); opacity: 1; }
+  }
+
+  /* ===== Example question chips ===== */
+  .chat-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .chat-chip {
+    background: none;
+    border: 1px solid #2f3336;
+    border-radius: 9999px;
+    color: #e7e9ea;
+    font-family: inherit;
+    font-size: 12.5px;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: border-color 0.15s ease, background-color 0.15s ease;
+  }
+  .chat-chip:hover { border-color: #1d9bf0; background-color: rgba(29, 155, 240, 0.1); }
+
+  /* ===== Input row ===== */
+  .chat-form { display: flex; gap: 8px; min-width: 0; }
+  .chat-input {
+    flex: 1;
+    min-width: 0;
+    background-color: #16181c;
+    border: 1px solid #2f3336;
+    border-radius: 9999px;
+    color: #e7e9ea;
+    font-family: inherit;
+    font-size: 14px;
+    padding: 10px 14px;
+    outline: none;
+  }
+  .chat-input:focus { border-color: #1d9bf0; }
+  .chat-input:disabled { opacity: 0.6; }
+  .chat-send {
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    border-radius: 9999px;
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 10px 18px;
+    cursor: pointer;
+    flex-shrink: 0;
+    transition: opacity 0.2s ease;
+  }
+  .chat-send:hover { opacity: 0.9; }
+  .chat-send:disabled { opacity: 0.5; cursor: default; }
+
+  .chat-foot {
+    color: #71767b;
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.4;
+  }
+
+  @media screen and (max-width: 480px) {
+    .chat-panel { padding: 14px 12px; border-radius: 12px; }
+    .avatar-wrap { width: 52px; height: 52px; }
+    .chat-title { font-size: 16px; }
+    .chat-sub { font-size: 12.5px; }
+    .msg { font-size: 13.5px; max-width: 88%; }
+    .chat-log { max-height: 360px; }
+  }
+</style>
+</head>
+<body>
+<div class="page-wrap">
+  <div class="chat-panel" id="chatPanel">
+    <div class="chat-header">
+      <div class="avatar-wrap" id="avatarWrap" title="Fan Edit Optimus">
+        <video id="avatarIdle" src="optimus-idle.mp4" muted loop autoplay playsinline preload="auto"></video>
+        <video id="avatarWorking" src="optimus-working.mp4" muted loop playsinline preload="auto" style="display:none"></video>
+        <img id="avatarImg" src="optimus-avatar.webp" alt="Fan Edit Optimus" style="display:none">
+      </div>
+      <div class="chat-titles">
+        <div class="chat-title">Fan Edit Optimus</div>
+        <div class="chat-sub">Ask me for a fan edit &mdash; I search the Collection first, then the wider community.</div>
+      </div>
+    </div>
+
+    <div class="chat-log" id="chatLog" aria-live="polite"></div>
+
+    <div class="chat-chips" id="chatChips">
+      <button type="button" class="chat-chip" data-q="Do you have a Blade Runner fan edit?">Blade Runner fan edit?</button>
+      <button type="button" class="chat-chip" data-q="Find me a horror fan edit">Find me a horror fan edit</button>
+      <button type="button" class="chat-chip" data-q="What are the server rules?">What are the server rules?</button>
+    </div>
+
+    <form class="chat-form" id="chatForm" autocomplete="off">
+      <input class="chat-input" id="chatInput" type="text" placeholder="Ask for a fan edit&hellip;" maxlength="500" aria-label="Ask Fan Edit Optimus">
+      <button class="chat-send" id="chatSend" type="submit">Send</button>
+    </form>
+
+    <div class="chat-foot">Same Fan Edit Optimus that answers in Discord &mdash; with direct links, just like a DM.</div>
+  </div>
+</div>
+
+<script>
+(function () {
+  var ENDPOINT = 'https://fan-edit-fan-club-collection-discord.onrender.com/webchat';
+  var TIMEOUT_MS = 120000;
+
+  var log = document.getElementById('chatLog');
+  var form = document.getElementById('chatForm');
+  var input = document.getElementById('chatInput');
+  var sendBtn = document.getElementById('chatSend');
+  var chips = document.getElementById('chatChips');
+
+  /* ---------- session id: one per browser, drives rate limiting + follow-ups ---------- */
+  var sessionId = null;
+  try {
+    sessionId = localStorage.getItem('fefc-optimus-session');
+    if (!sessionId) {
+      sessionId = (window.crypto && crypto.randomUUID)
+        ? crypto.randomUUID()
+        : 'web-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 10);
+      localStorage.setItem('fefc-optimus-session', sessionId);
+    }
+  } catch (e) {
+    sessionId = 'web-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 10);
+  }
+
+  /* ---------- avatar states: idle loop / working (typing) clip / static fallback ---------- */
+  var idleVid = document.getElementById('avatarIdle');
+  var workVid = document.getElementById('avatarWorking');
+  var img = document.getElementById('avatarImg');
+  var videoOK = true;
+
+  function showFallbackImg() {
+    videoOK = false;
+    idleVid.style.display = 'none';
+    workVid.style.display = 'none';
+    img.style.display = 'block';
+  }
+  idleVid.addEventListener('error', showFallbackImg);
+  workVid.addEventListener('error', function () {
+    workVid.style.display = 'none';
+    if (videoOK) { idleVid.style.display = 'block'; idleVid.play().catch(function () {}); }
+  });
+  idleVid.muted = true;
+  workVid.muted = true;
+  idleVid.play().catch(function () { /* autoplay blocked: static frame still shows */ });
+
+  function setAvatar(state) {
+    if (!videoOK) return;
+    if (state === 'working') {
+      idleVid.style.display = 'none';
+      workVid.style.display = 'block';
+      workVid.play().catch(function () {});
+    } else {
+      workVid.style.display = 'none';
+      idleVid.style.display = 'block';
+      idleVid.play().catch(function () {});
+    }
+  }
+
+  /* ---------- safe answer rendering: escape, then **bold**, then linkify ---------- */
+  function escapeHtml(s) {
+    return String(s)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+  function renderAnswer(text) {
+    var esc = escapeHtml(text);
+    esc = esc.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+    esc = esc.replace(/https?:\/\/[^\s<]+/g, function (url) {
+      var trailing = '';
+      var m = url.match(/[.,;:!?)]+$/);
+      if (m) { trailing = m[0]; url = url.slice(0, -m[0].length); }
+      var href = url.replace(/&amp;/g, '&');
+      return '<a href="' + href + '" target="_blank" rel="noopener">' + url + '</a>' + trailing;
+    });
+    return esc.replace(/\n/g, '<br>');
+  }
+
+  /* ---------- message plumbing ---------- */
+  var busy = false;
+  var typingRow = null;
+
+  function scrollToBottom() {
+    log.scrollTop = log.scrollHeight;
+  }
+  function addUserMessage(text) {
+    var row = document.createElement('div');
+    row.className = 'msg-row user';
+    var bubble = document.createElement('div');
+    bubble.className = 'msg user';
+    bubble.textContent = text;
+    row.appendChild(bubble);
+    log.appendChild(row);
+    scrollToBottom();
+  }
+  function addBotMessage(html, isError) {
+    var row = document.createElement('div');
+    row.className = 'msg-row bot';
+    var av = document.createElement('img');
+    av.className = 'msg-mini-avatar';
+    av.src = 'optimus-avatar.webp';
+    av.alt = '';
+    var bubble = document.createElement('div');
+    bubble.className = 'msg bot' + (isError ? ' error' : '');
+    bubble.innerHTML = html;
+    row.appendChild(av);
+    row.appendChild(bubble);
+    log.appendChild(row);
+    scrollToBottom();
+  }
+  function showTyping() {
+    var row = document.createElement('div');
+    row.className = 'msg-row bot';
+    var av = document.createElement('img');
+    av.className = 'msg-mini-avatar';
+    av.src = 'optimus-avatar.webp';
+    av.alt = '';
+    var bubble = document.createElement('div');
+    bubble.className = 'msg bot';
+    bubble.innerHTML = '<span class="typing-dots"><span></span><span></span><span></span></span>';
+    row.appendChild(av);
+    row.appendChild(bubble);
+    log.appendChild(row);
+    scrollToBottom();
+    return row;
+  }
+
+  function setBusy(b) {
+    busy = b;
+    input.disabled = b;
+    sendBtn.disabled = b;
+    if (!b) input.focus();
+  }
+
+  function ask(question) {
+    if (busy || !question) return;
+    addUserMessage(question);
+    setBusy(true);
+    setAvatar('working');
+    typingRow = showTyping();
+
+    var controller = null;
+    var timeoutId = null;
+    if (window.AbortController) {
+      controller = new AbortController();
+      timeoutId = setTimeout(function () { controller.abort(); }, TIMEOUT_MS);
+    }
+    var fetchOpts = {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question: question, session_id: sessionId })
+    };
+    if (controller) fetchOpts.signal = controller.signal;
+
+    fetch(ENDPOINT, fetchOpts)
+      .then(function (resp) {
+        if (!resp.ok) throw new Error('http ' + resp.status);
+        return resp.json();
+      })
+      .then(function (data) {
+        if (typingRow) { typingRow.remove(); typingRow = null; }
+        var answer = (data && data.answer) ? String(data.answer) : '';
+        if (!answer) throw new Error('empty answer');
+        addBotMessage(renderAnswer(answer), false);
+      })
+      .catch(function () {
+        if (typingRow) { typingRow.remove(); typingRow = null; }
+        addBotMessage(escapeHtml("I couldn't reach the bot \u2014 try again in a moment."), true);
+      })
+      .then(function () {
+        if (timeoutId) clearTimeout(timeoutId);
+        setAvatar('idle');
+        setBusy(false);
+      });
+  }
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var q = input.value.trim();
+    if (!q) return;
+    input.value = '';
+    ask(q);
+  });
+
+  chips.addEventListener('click', function (e) {
+    var btn = e.target.closest ? e.target.closest('[data-q]') : null;
+    if (!btn || busy) return;
+    ask(btn.getAttribute('data-q'));
+  });
+
+  /* greeting on load, same as the bot's own greeting */
+  addBotMessage(renderAnswer("Hey, I'm Fan Edit Optimus. Ask me for a fan edit and I'll look in the Fan Edit Fan Club Collection first, then the wider community."), false);
+})();
+</script>
+</body>
+</html>
