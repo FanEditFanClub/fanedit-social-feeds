@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T22:06:39+00:00",
+ "updated_at": "2026-11-07T22:22:01+00:00",
  "source": "syndication, buffer fallback",
  "profile": {
   "name": "Fan Edit Fan Club",
@@ -7,6 +7,21 @@
   "picture": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2119192958620578159",
+   "text": "New Post in The Fan Edit Fan Club Reddit Feed - The 1.66 Truman Show FanEdit - 4K HDR Preview Sample.\n\nhttps://www.reddit.com/r/fanedits/comments/1xpmuv9/the_166_truman_show_fanedit_4k_hdr_preview_sample/",
+   "url": "https://x.com/FanEditFanClub/status/2119192958620578159",
+   "sent_at": "2026-11-07T22:19:08+00:00",
+   "created_at": "2026-11-07T22:19:08+00:00",
+   "author_name": "Fan Edit Fan Club",
+   "author_handle": "FanEditFanClub",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "",
+   "source": "syndication"
+  },
   {
    "id": "2119136666715607432",
    "text": "New Post in The Fan Edit Fan Club Reddit Feed - Is there a Fan edit or TV version of The Entity (1982)?.\n\nhttps://www.reddit.com/r/fanedits/comments/1xpfcsa/is_there_a_fan_edit_or_tv_version_of_the_entity/",
@@ -133,21 +148,6 @@
    "url": "https://x.com/2072539271450312704/status/2118960801356607842",
    "sent_at": "2026-11-07T06:56:38+00:00",
    "created_at": "2026-11-07T06:56:38+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "",
-   "source": "buffer"
-  },
-  {
-   "id": "2118868229279932770",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Spanish faneditors, are there any???.\n\nhttps://www.reddit.com/r/fanedits/comments/1xojy7b/spanish_faneditors_are_there_any/",
-   "url": "https://x.com/2072539271450312704/status/2118868229279932770",
-   "sent_at": "2026-11-07T00:48:47+00:00",
-   "created_at": "2026-11-07T00:48:47+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "",
