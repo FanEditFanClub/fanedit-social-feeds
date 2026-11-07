@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T02:21:40+00:00",
+ "updated_at": "2026-11-07T02:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2118893701749424540",
+   "text": "S1 E7 'Down Neck' | 75 of 704",
+   "url": "https://x.com/SopranosOrder/status/2118893701749424540",
+   "created_at": "2026-11-07T02:30:00+00:00",
+   "sent_at": "2026-11-07T02:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWcDdSqWsAAYjd-.jpg"
+  },
+  {
+   "id": "2118892204731375636",
+   "text": "rob is literally coming after every single role like he\u2019s thanos and i respect that",
+   "url": "https://x.com/mandevil23edits/status/2118892204731375636",
+   "created_at": "2026-11-07T02:24:03+00:00",
+   "sent_at": "2026-11-07T02:24:03+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 3,
+   "repost_count": 1,
+   "like_count": 16,
+   "image": ""
+  },
+  {
    "id": "2118889926771028186",
    "text": "S1 E7 'Down Neck' | 74 of 704",
    "url": "https://x.com/SopranosOrder/status/2118889926771028186",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWcDaiZWIAAw189.jpg"
   },
   {
@@ -36,37 +64,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
+   "repost_count": 3,
+   "like_count": 38,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1497653174681083905/pu/img/U1geO-uPISNa5KVF.jpg"
-  },
-  {
-   "id": "2118886157400318214",
-   "text": "S1 E7 'Down Neck' | 73 of 704",
-   "url": "https://x.com/SopranosOrder/status/2118886157400318214",
-   "created_at": "2026-11-07T02:00:01+00:00",
-   "sent_at": "2026-11-07T02:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWcDXr7XcAE9DHB.jpg"
-  },
-  {
-   "id": "2118880963048419509",
-   "text": "scott summers is probably gonna overthink this",
-   "url": "https://x.com/mandevil23edits/status/2118880963048419509",
-   "created_at": "2026-11-07T01:39:23+00:00",
-   "sent_at": "2026-11-07T01:39:23+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 2,
-   "like_count": 23,
-   "image": "https://pbs.twimg.com/media/HWfHAM9XQAAOd94.jpg"
   },
   {
    "id": "2118868229279932770",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 4,
    "repost_count": 9,
-   "like_count": 155,
+   "like_count": 159,
    "image": "https://pbs.twimg.com/media/HWefeI1WYAAfUiq.jpg"
   },
   {
