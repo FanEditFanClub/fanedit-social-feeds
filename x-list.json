@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T07:51:40+00:00",
+ "updated_at": "2026-11-07T08:06:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2118976752126968025",
+   "text": "S1 E7 'Down Neck' | 97 of 704",
+   "url": "https://x.com/SopranosOrder/status/2118976752126968025",
+   "created_at": "2026-11-07T08:00:01+00:00",
+   "sent_at": "2026-11-07T08:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWcEkxcXwAA8Dk_.jpg"
+  },
+  {
    "id": "2118973546781118802",
    "text": "that\u2019s a wonderful-looking woman here",
    "url": "https://x.com/mandevil23edits/status/2118973546781118802",
@@ -21,9 +35,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 8,
    "image": ""
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2118968947101868448",
-   "text": "S1 E7 'Down Neck' | 95 of 704",
-   "url": "https://x.com/SopranosOrder/status/2118968947101868448",
-   "created_at": "2026-11-07T07:29:00+00:00",
-   "sent_at": "2026-11-07T07:29:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWcEcYBXsAEYBZW.jpg"
-  },
-  {
    "id": "2118960965178085514",
    "text": "Wow. If he gets it I don\u2019t see him being Batman anymore although tbh I think Part 2 will be the last Reevesverse movie anyway.",
    "url": "https://x.com/StebobM/status/2118960965178085514",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": ""
   },
   {
