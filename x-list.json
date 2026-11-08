@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T00:21:41+00:00",
+ "updated_at": "2026-11-08T00:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119225894447583352",
+   "text": "S1 E7 'Down Neck' | 163 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119225894447583352",
+   "created_at": "2026-11-08T00:30:01+00:00",
+   "sent_at": "2026-11-08T00:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWhFIMZXMAAioD8.jpg"
+  },
+  {
+   "id": "2119224802464637283",
+   "text": "what the hell is going on in the new x-men movie?",
+   "url": "https://x.com/mandevil23edits/status/2119224802464637283",
+   "created_at": "2026-11-08T00:25:40+00:00",
+   "sent_at": "2026-11-08T00:25:40+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2119223295954260080",
    "text": "only one of these actors were still in character",
    "url": "https://x.com/mandevil23edits/status/2119223295954260080",
@@ -21,9 +49,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HWj-WTiXQAAeEmN.jpg"
   },
   {
@@ -37,36 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWhFE5UXAAANsq6.jpg"
-  },
-  {
-   "id": "2119218348617531533",
-   "text": "S1 E7 'Down Neck' | 161 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119218348617531533",
-   "created_at": "2026-11-08T00:00:02+00:00",
-   "sent_at": "2026-11-08T00:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWhFBdIWAAApXsn.jpg"
-  },
-  {
-   "id": "2119213353348612333",
-   "text": "i don\u2019t blame cody rhodes for this shit. it just goes to show that triple h is not really good at booking.",
-   "url": "https://x.com/mandevil23edits/status/2119213353348612333",
-   "created_at": "2026-11-07T23:40:11+00:00",
-   "sent_at": "2026-11-07T23:40:11+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": ""
   },
   {
    "id": "2119192958620578159",
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
-   "repost_count": 19,
-   "like_count": 373,
+   "repost_count": 20,
+   "like_count": 399,
    "image": ""
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
    "reply_count": 21,
-   "repost_count": 101,
-   "like_count": 927,
+   "repost_count": 104,
+   "like_count": 962,
    "image": "https://pbs.twimg.com/media/HWjHT7xWkAESuoe.jpg"
   },
   {
@@ -162,8 +162,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 12,
-   "repost_count": 359,
-   "like_count": 7114,
+   "repost_count": 381,
+   "like_count": 7449,
    "image": "https://pbs.twimg.com/media/HWixoYbXQAA1maN.jpg"
   },
   {
