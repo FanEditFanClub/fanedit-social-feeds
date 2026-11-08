@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T05:21:40+00:00",
+ "updated_at": "2026-11-08T05:36:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119301387670483084",
+   "text": "S1 E7 'Down Neck' | 183 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119301387670483084",
+   "created_at": "2026-11-08T05:30:00+00:00",
+   "sent_at": "2026-11-08T05:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWhGGVsXYAAaKAc.jpg"
+  },
+  {
+   "id": "2119300373349339504",
+   "text": "what we didn\u2019t want what we wanted",
+   "url": "https://x.com/mandevil23edits/status/2119300373349339504",
+   "created_at": "2026-11-08T05:25:58+00:00",
+   "sent_at": "2026-11-08T05:25:58+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWlEdA5XgAAcj_P.jpg"
+  },
+  {
    "id": "2119298529755545857",
    "text": "#mynewjamesbond",
    "url": "https://x.com/mandevil23edits/status/2119298529755545857",
@@ -22,8 +50,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1497653174681083905/pu/img/U1geO-uPISNa5KVF.jpg"
   },
   {
@@ -41,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HWhGDqRWsAEmTBb.jpg"
   },
   {
-   "id": "2119293844772512010",
-   "text": "S1 E7 'Down Neck' | 181 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119293844772512010",
-   "created_at": "2026-11-08T05:00:01+00:00",
-   "sent_at": "2026-11-08T05:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HWhGAyJXgAEl0Tv.jpg"
-  },
-  {
    "id": "2119292978896228568",
    "text": "Playing my personal 35mm print of Maximum Overdrive. We got a nice vibe here with friends & family!",
    "url": "https://x.com/NCseventeen/status/2119292978896228568",
@@ -65,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 18,
+   "like_count": 21,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119292723555397632/img/cGAx_0JZrVc_NIOt.jpg"
-  },
-  {
-   "id": "2119290273071292773",
-   "text": "samara weaving was method acting the whole time",
-   "url": "https://x.com/mandevil23edits/status/2119290273071292773",
-   "created_at": "2026-11-08T04:45:50+00:00",
-   "sent_at": "2026-11-08T04:45:50+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HWk7RGtWkAAaMt1.jpg"
   },
   {
    "id": "2119244760686776521",
@@ -120,8 +120,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 76,
+   "repost_count": 3,
+   "like_count": 79,
    "image": "https://pbs.twimg.com/media/HWkJ5rRWIAALrus.jpg"
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 35,
-   "like_count": 665,
+   "repost_count": 36,
+   "like_count": 682,
    "image": ""
   },
   {
@@ -162,23 +162,9 @@
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
    "reply_count": 25,
-   "repost_count": 152,
-   "like_count": 1514,
+   "repost_count": 154,
+   "like_count": 1530,
    "image": "https://pbs.twimg.com/media/HWjHT7xWkAESuoe.jpg"
-  },
-  {
-   "id": "2119151755090866659",
-   "text": "What is the actual point of pages like this? Whether it says parody in their bio or not they\u2019re still posting false information (with AI photos)\n\nAnd as usual people lap it up & it starts to spread.",
-   "url": "https://x.com/StebobM/status/2119151755090866659",
-   "created_at": "2026-11-07T19:35:25+00:00",
-   "sent_at": "2026-11-07T19:35:25+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": ""
   }
  ]
 }
