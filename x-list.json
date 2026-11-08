@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T01:06:41+00:00",
+ "updated_at": "2026-11-08T01:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,62 @@
  },
  "posts": [
   {
+   "id": "2119237903859450145",
+   "text": "THIS is what I mean btw. Just picture this as Super Saiyan God Super Saiyan instead of blue.",
+   "url": "https://x.com/TheManlet_King/status/2119237903859450145",
+   "created_at": "2026-11-08T01:17:44+00:00",
+   "sent_at": "2026-11-08T01:17:44+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWkLpA-WoAA6G4n.jpg"
+  },
+  {
+   "id": "2119237254489247929",
+   "text": "Movie magic",
+   "url": "https://x.com/NCseventeen/status/2119237254489247929",
+   "created_at": "2026-11-08T01:15:09+00:00",
+   "sent_at": "2026-11-08T01:15:09+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2119237204853616640/img/muZYyOakjGeTOCAZ.jpg"
+  },
+  {
+   "id": "2119237215007932525",
+   "text": "S1 E7 'Down Neck' | 166 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119237215007932525",
+   "created_at": "2026-11-08T01:15:00+00:00",
+   "sent_at": "2026-11-08T01:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWhFRPdWgAAFF52.jpg"
+  },
+  {
+   "id": "2119235988966801844",
+   "text": "\"It... It's not?\"",
+   "url": "https://x.com/TheManlet_King/status/2119235988966801844",
+   "created_at": "2026-11-08T01:10:07+00:00",
+   "sent_at": "2026-11-08T01:10:07+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 12,
+   "image": "https://pbs.twimg.com/media/HWkJ5rRWIAALrus.jpg"
+  },
+  {
    "id": "2119233440008503430",
    "text": "S1 E7 'Down Neck' | 165 of 704",
    "url": "https://x.com/SopranosOrder/status/2119233440008503430",
@@ -23,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HWhFOroW8AAPPqV.jpg"
   },
   {
@@ -37,22 +93,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 5,
    "image": ""
-  },
-  {
-   "id": "2119229665047089432",
-   "text": "S1 E7 'Down Neck' | 164 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119229665047089432",
-   "created_at": "2026-11-08T00:45:00+00:00",
-   "sent_at": "2026-11-08T00:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HWhFLTuWsAAIvcy.jpg"
   },
   {
    "id": "2119224802464637283",
@@ -106,8 +148,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 20,
-   "like_count": 428,
+   "repost_count": 21,
+   "like_count": 443,
    "image": ""
   },
   {
@@ -119,9 +161,9 @@
    "author_name": "Sonic The Hedgehog: The 2019 Cut",
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
-   "reply_count": 21,
-   "repost_count": 110,
-   "like_count": 1038,
+   "reply_count": 23,
+   "repost_count": 115,
+   "like_count": 1077,
    "image": "https://pbs.twimg.com/media/HWjHT7xWkAESuoe.jpg"
   },
   {
@@ -136,48 +178,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 4,
-   "image": ""
-  },
-  {
-   "id": "2119150502164471810",
-   "text": "SSB shouldn't exist. It looks stupid and the color change makes no sense.\n\nThe hair should have not changed color for SSG, just the aura/eyes (like UI). The red hair should have been saved for stacking super saiyan on the god ki.\n\nI really hate Super Saiyan Blue.",
-   "url": "https://x.com/TheManlet_King/status/2119150502164471810",
-   "created_at": "2026-11-07T19:30:26+00:00",
-   "sent_at": "2026-11-07T19:30:26+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 6,
-   "repost_count": 1,
-   "like_count": 67,
-   "image": ""
-  },
-  {
-   "id": "2119138936358408696",
-   "text": ">first time ever getting a fact about fascism right\n>gets a community note",
-   "url": "https://x.com/TheManlet_King/status/2119138936358408696",
-   "created_at": "2026-11-07T18:44:28+00:00",
-   "sent_at": "2026-11-07T18:44:28+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 13,
-   "repost_count": 411,
-   "like_count": 8048,
-   "image": "https://pbs.twimg.com/media/HWixoYbXQAA1maN.jpg"
-  },
-  {
-   "id": "2119136666715607432",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Is there a Fan edit or TV version of The Entity (1982)?.\n\nhttps://www.reddit.com/r/fanedits/comments/1xpfcsa/is_there_a_fan_edit_or_tv_version_of_the_entity/",
-   "url": "https://x.com/FanEditFanClub/status/2119136666715607432",
-   "created_at": "2026-11-07T18:35:27+00:00",
-   "sent_at": "2026-11-07T18:35:27+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
    "image": ""
   }
  ]
