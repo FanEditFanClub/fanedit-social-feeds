@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T00:36:39+00:00",
+ "updated_at": "2026-11-08T00:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2119230053561127365",
+   "text": "just give ludwig g\u00f6ransson another oscar already",
+   "url": "https://x.com/mandevil23edits/status/2119230053561127365",
+   "created_at": "2026-11-08T00:46:32+00:00",
+   "sent_at": "2026-11-08T00:46:32+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2119229665047089432",
+   "text": "S1 E7 'Down Neck' | 164 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119229665047089432",
+   "created_at": "2026-11-08T00:45:00+00:00",
+   "sent_at": "2026-11-08T00:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWhFLTuWsAAIvcy.jpg"
+  },
   {
    "id": "2119225894447583352",
    "text": "S1 E7 'Down Neck' | 163 of 704",
@@ -37,36 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": ""
-  },
-  {
-   "id": "2119223295954260080",
-   "text": "only one of these actors were still in character",
-   "url": "https://x.com/mandevil23edits/status/2119223295954260080",
-   "created_at": "2026-11-08T00:19:41+00:00",
-   "sent_at": "2026-11-08T00:19:41+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HWj-WTiXQAAeEmN.jpg"
-  },
-  {
-   "id": "2119222115605852206",
-   "text": "S1 E7 'Down Neck' | 162 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119222115605852206",
-   "created_at": "2026-11-08T00:15:00+00:00",
-   "sent_at": "2026-11-08T00:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWhFE5UXAAANsq6.jpg"
   },
   {
    "id": "2119192958620578159",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 20,
-   "like_count": 399,
+   "like_count": 414,
    "image": ""
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
    "reply_count": 21,
-   "repost_count": 104,
-   "like_count": 962,
+   "repost_count": 110,
+   "like_count": 1006,
    "image": "https://pbs.twimg.com/media/HWjHT7xWkAESuoe.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 1,
-   "like_count": 63,
+   "like_count": 67,
    "image": ""
   },
   {
@@ -162,8 +162,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 12,
-   "repost_count": 381,
-   "like_count": 7449,
+   "repost_count": 397,
+   "like_count": 7745,
    "image": "https://pbs.twimg.com/media/HWixoYbXQAA1maN.jpg"
   },
   {
