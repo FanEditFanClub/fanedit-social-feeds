@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T13:06:41+00:00",
+ "updated_at": "2026-11-08T13:21:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2119418409503047945",
+   "text": "S1 E7 'Down Neck' | 214 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119418409503047945",
+   "created_at": "2026-11-08T13:15:00+00:00",
+   "sent_at": "2026-11-08T13:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWhHpbkWYAAa9nI.jpg"
+  },
+  {
    "id": "2119414886434279524",
    "text": "S1 E7 'Down Neck' | 213 of 704",
    "url": "https://x.com/SopranosOrder/status/2119414886434279524",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HWhHm1tXkAEx6Tc.jpg"
-  },
-  {
-   "id": "2119410859495875001",
-   "text": "S1 E7 'Down Neck' | 212 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119410859495875001",
-   "created_at": "2026-11-08T12:45:00+00:00",
-   "sent_at": "2026-11-08T12:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWhHiZjXIAgegvz.jpg"
   },
   {
    "id": "2119327171780952079",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 8,
-   "like_count": 91,
+   "like_count": 94,
    "image": "https://pbs.twimg.com/media/HWk7RGtWkAAaMt1.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 99,
+   "like_count": 100,
    "image": "https://pbs.twimg.com/media/HWkJ5rRWIAALrus.jpg"
   }
  ]
