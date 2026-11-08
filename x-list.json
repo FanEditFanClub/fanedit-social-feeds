@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T01:21:39+00:00",
+ "updated_at": "2026-11-08T01:36:38+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2119240992779907418",
+   "text": "S1 E7 'Down Neck' | 167 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119240992779907418",
+   "created_at": "2026-11-08T01:30:00+00:00",
+   "sent_at": "2026-11-08T01:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWhFUn5XQAAP_8K.jpg"
+  },
+  {
    "id": "2119237903859450145",
    "text": "THIS is what I mean btw. Just picture this as Super Saiyan God Super Saiyan instead of blue.",
    "url": "https://x.com/TheManlet_King/status/2119237903859450145",
@@ -21,9 +35,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWkLpA-WoAA6G4n.jpg"
   },
   {
@@ -36,8 +50,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119237204853616640/img/muZYyOakjGeTOCAZ.jpg"
   },
   {
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWhFRPdWgAAFF52.jpg"
   },
   {
@@ -64,23 +78,9 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 12,
+   "repost_count": 2,
+   "like_count": 38,
    "image": "https://pbs.twimg.com/media/HWkJ5rRWIAALrus.jpg"
-  },
-  {
-   "id": "2119233440008503430",
-   "text": "S1 E7 'Down Neck' | 165 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119233440008503430",
-   "created_at": "2026-11-08T01:00:00+00:00",
-   "sent_at": "2026-11-08T01:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HWhFOroW8AAPPqV.jpg"
   },
   {
    "id": "2119230053561127365",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 6,
    "image": ""
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 21,
-   "like_count": 443,
+   "repost_count": 22,
+   "like_count": 454,
    "image": ""
   },
   {
@@ -161,9 +161,9 @@
    "author_name": "Sonic The Hedgehog: The 2019 Cut",
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
-   "reply_count": 23,
-   "repost_count": 115,
-   "like_count": 1077,
+   "reply_count": 24,
+   "repost_count": 118,
+   "like_count": 1107,
    "image": "https://pbs.twimg.com/media/HWjHT7xWkAESuoe.jpg"
   },
   {
