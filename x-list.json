@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T17:51:39+00:00",
+ "updated_at": "2026-11-08T18:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119490139147964875",
+   "text": "S1 E7 'Down Neck' | 233 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119490139147964875",
+   "created_at": "2026-11-08T18:00:02+00:00",
+   "sent_at": "2026-11-08T18:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWhImJuXcAAWjjz.jpg"
+  },
+  {
+   "id": "2119489262747869385",
+   "text": "I wish there was a way to mute the ai fruit people videos. I hate scrolling by and seeing even 1 second.",
+   "url": "https://x.com/TheManlet_King/status/2119489262747869385",
+   "created_at": "2026-11-08T17:56:33+00:00",
+   "sent_at": "2026-11-08T17:56:33+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": ""
+  },
+  {
    "id": "2119486356795818341",
    "text": "S1 E7 'Down Neck' | 232 of 704",
    "url": "https://x.com/SopranosOrder/status/2119486356795818341",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWhIh6wXUAAIvu_.jpg"
-  },
-  {
-   "id": "2119482330008146336",
-   "text": "S1 E7 'Down Neck' | 231 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119482330008146336",
-   "created_at": "2026-11-08T17:29:00+00:00",
-   "sent_at": "2026-11-08T17:29:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWhIfHLWsAAXJ4w.jpg"
   },
   {
    "id": "2119476102779551926",
@@ -77,9 +91,9 @@
    "author_name": "Sonic The Hedgehog: The 2019 Cut",
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2095676673920204800/9pmJYVSg_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 4,
    "repost_count": 31,
-   "like_count": 270,
+   "like_count": 285,
    "image": ""
   },
   {
@@ -120,8 +134,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 7,
-   "like_count": 43,
+   "repost_count": 8,
+   "like_count": 45,
    "image": "https://pbs.twimg.com/media/HWm_IuWW0AA0auA.jpg"
   },
   {
@@ -135,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 6,
    "repost_count": 2,
-   "like_count": 45,
+   "like_count": 47,
    "image": "https://pbs.twimg.com/media/HWm7aIsWwAAjGCd.jpg"
   },
   {
