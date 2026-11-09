@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T07:51:40+00:00",
+ "updated_at": "2026-11-09T08:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119701533860237396",
+   "text": "S1 E7 'Down Neck' | 289 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119701533860237396",
+   "created_at": "2026-11-09T08:00:02+00:00",
+   "sent_at": "2026-11-09T08:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWmK3GdXEAAQXel.jpg"
+  },
+  {
+   "id": "2119700709100912813",
+   "text": "she\u2019s really out here immersing herself in storm\u2019s roots in cairo this is the commitment we need",
+   "url": "https://x.com/mandevil23edits/status/2119700709100912813",
+   "created_at": "2026-11-09T07:56:45+00:00",
+   "sent_at": "2026-11-09T07:56:45+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2119697749423853959",
    "text": "S1 E7 'Down Neck' | 288 of 704",
    "url": "https://x.com/SopranosOrder/status/2119697749423853959",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWmKzb_W4AEmFa5.jpg"
-  },
-  {
-   "id": "2119693975112044553",
-   "text": "S1 E7 'Down Neck' | 287 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119693975112044553",
-   "created_at": "2026-11-09T07:30:00+00:00",
-   "sent_at": "2026-11-09T07:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWmKwYvXQAAhplE.jpg"
   },
   {
    "id": "2119680767647223924",
@@ -69,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2119675608594571582",
-   "text": "if only there was an actual dc game with the flash this mod wouldn\u2019t even be necessary",
-   "url": "https://x.com/mandevil23edits/status/2119675608594571582",
-   "created_at": "2026-11-09T06:17:01+00:00",
-   "sent_at": "2026-11-09T06:17:01+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 3,
-   "like_count": 19,
-   "image": ""
-  },
-  {
    "id": "2119632933757841532",
    "text": "Here is a little clip of my 35mm scan of Jokers in 6K IB Technicolor print (WIP)",
    "url": "https://x.com/NCseventeen/status/2119632933757841532",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 56,
+   "like_count": 58,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119629210427740161/img/y7FYnZUASqcE-W7f.jpg"
   }
  ]
