@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T10:21:39+00:00",
+ "updated_at": "2026-11-09T10:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2119739275021340848",
+   "text": "S1 E7 'Down Neck' | 299 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119739275021340848",
+   "created_at": "2026-11-09T10:30:00+00:00",
+   "sent_at": "2026-11-09T10:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWmLU8oWQAAuz2p.jpg"
+  },
   {
    "id": "2119735499224993938",
    "text": "S1 E7 'Down Neck' | 298 of 704",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HWmLR0qWgAAW6Cl.jpg"
   },
   {
-   "id": "2119731736208875931",
-   "text": "S1 E7 'Down Neck' | 297 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119731736208875931",
-   "created_at": "2026-11-09T10:00:03+00:00",
-   "sent_at": "2026-11-09T10:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWmLPDaXwAAy2Bm.jpg"
-  },
-  {
    "id": "2119729815687479691",
    "text": "alia atreides is outmogging tf out of them in this poster",
    "url": "https://x.com/mandevil23edits/status/2119729815687479691",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 6,
    "image": ""
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 7,
+   "like_count": 8,
    "image": ""
   },
   {
@@ -77,9 +77,9 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": ""
   },
   {
@@ -91,7 +91,7 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 4,
    "like_count": 64,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119629210427740161/img/y7FYnZUASqcE-W7f.jpg"
