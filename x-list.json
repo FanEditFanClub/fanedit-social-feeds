@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T20:06:41+00:00",
+ "updated_at": "2026-11-09T20:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2119886493019992130",
+   "text": "S1 E7 'Down Neck' | 338 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119886493019992130",
+   "created_at": "2026-11-09T20:15:00+00:00",
+   "sent_at": "2026-11-09T20:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWmNWBcW0AAqYkk.jpg"
+  },
+  {
    "id": "2119883630629556634",
    "text": "can\u2019t wait for the scene where batman converts the joker mid-fight and they both start singing hymns",
    "url": "https://x.com/mandevil23edits/status/2119883630629556634",
@@ -21,9 +35,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 5,
+   "reply_count": 2,
+   "repost_count": 1,
+   "like_count": 19,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWtW7E6XQAEiOxC.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HWmNTZFXsAAWLGk.jpg"
   },
   {
-   "id": "2119878943675232518",
-   "text": "S1 E7 'Down Neck' | 336 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119878943675232518",
-   "created_at": "2026-11-09T19:45:00+00:00",
-   "sent_at": "2026-11-09T19:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWmNP34XoAAKEif.jpg"
-  },
-  {
    "id": "2119878349820428447",
    "text": "thinking about ilya putting his head in the laps of the people he feels safest with :( I bet he did this with his mom when he was a kid too :(",
    "url": "https://x.com/uhbucky/status/2119878349820428447",
@@ -63,9 +63,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 10,
-   "like_count": 165,
+   "reply_count": 3,
+   "repost_count": 24,
+   "like_count": 289,
    "image": "https://pbs.twimg.com/media/HWtSH8gXAAAeODC.jpg"
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWtQQrRXIAAKxgg.jpg"
   },
   {
@@ -91,9 +91,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 4,
-   "like_count": 24,
+   "reply_count": 1,
+   "repost_count": 7,
+   "like_count": 46,
    "image": "https://pbs.twimg.com/media/HWtP5bDWEAAhnAC.jpg"
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 6,
-   "repost_count": 1,
-   "like_count": 7,
+   "reply_count": 7,
+   "repost_count": 2,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/media/HWtMUWoXQAAzaHj.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 11,
-   "like_count": 74,
+   "like_count": 79,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119856319616204800/img/6TtuP3CI8gmaOEZ8.jpg"
   }
  ]
