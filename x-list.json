@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T03:21:40+00:00",
+ "updated_at": "2026-11-09T03:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119633324884853062",
+   "text": "S1 E7 'Down Neck' | 271 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119633324884853062",
+   "created_at": "2026-11-09T03:29:00+00:00",
+   "sent_at": "2026-11-09T03:29:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWmJ-gAWMAEqrAF.jpg"
+  },
+  {
+   "id": "2119632933757841532",
+   "text": "Here is a little clip of my 35mm scan of Jokers in 6K IB Technicolor print (WIP)",
+   "url": "https://x.com/NCseventeen/status/2119632933757841532",
+   "created_at": "2026-11-09T03:27:26+00:00",
+   "sent_at": "2026-11-09T03:27:26+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 8,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2119629210427740161/img/y7FYnZUASqcE-W7f.jpg"
+  },
+  {
    "id": "2119629802986438769",
    "text": "S1 E7 'Down Neck' | 270 of 704",
    "url": "https://x.com/SopranosOrder/status/2119629802986438769",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWmJ7hWWQAATWc0.jpg"
-  },
-  {
-   "id": "2119626044680618435",
-   "text": "S1 E7 'Down Neck' | 269 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119626044680618435",
-   "created_at": "2026-11-09T03:00:04+00:00",
-   "sent_at": "2026-11-09T03:00:04+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWmJ4XdWUAAnLBv.jpg"
   },
   {
    "id": "2119555969998848289",
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 54,
+   "like_count": 55,
    "image": ""
   },
   {
@@ -122,34 +136,6 @@
    "reply_count": 5,
    "repost_count": 5,
    "like_count": 28,
-   "image": ""
-  },
-  {
-   "id": "2119453951733207416",
-   "text": "Add it to reasons I\u2019ve stopped watching:\n\n- VAR\n- lack of good games\n- boring coverage\n- poor officiating\n\nAnd many other reasons",
-   "url": "https://x.com/StebobM/status/2119453951733207416",
-   "created_at": "2026-11-08T15:36:14+00:00",
-   "sent_at": "2026-11-08T15:36:14+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
-  },
-  {
-   "id": "2119453916081406045",
-   "text": "https://www.youtube.com/watch?v=BxflmrNT1W8",
-   "url": "https://x.com/The2019Cut/status/2119453916081406045",
-   "created_at": "2026-11-08T15:36:05+00:00",
-   "sent_at": "2026-11-08T15:36:05+00:00",
-   "author_name": "Sonic The Hedgehog: The 2019 Cut",
-   "author_handle": "The2019Cut",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2119513958822408192/rFwETy4k_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 50,
-   "like_count": 440,
    "image": ""
   }
  ]
