@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T05:36:40+00:00",
+ "updated_at": "2026-11-09T05:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2119669052662559197",
+   "text": "talent won",
+   "url": "https://x.com/mandevil23edits/status/2119669052662559197",
+   "created_at": "2026-11-09T05:50:58+00:00",
+   "sent_at": "2026-11-09T05:50:58+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2119668640253362363",
+   "text": "2 for 2 mcu casting announcements on the same day",
+   "url": "https://x.com/mandevil23edits/status/2119668640253362363",
+   "created_at": "2026-11-09T05:49:20+00:00",
+   "sent_at": "2026-11-09T05:49:20+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWqTY9lX0AATSSS.jpg"
+  },
+  {
+   "id": "2119667550720319735",
+   "text": "S1 E7 'Down Neck' | 280 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119667550720319735",
+   "created_at": "2026-11-09T05:45:00+00:00",
+   "sent_at": "2026-11-09T05:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWmKZlmW8AAfUTa.jpg"
+  },
+  {
    "id": "2119664027378843992",
    "text": "S1 E7 'Down Neck' | 279 of 704",
    "url": "https://x.com/SopranosOrder/status/2119664027378843992",
@@ -23,50 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWmKXMsWIAAcyBY.jpg"
-  },
-  {
-   "id": "2119660215306006839",
-   "text": "me when i see denis talking about primetime the same way matt talked about good time:",
-   "url": "https://x.com/mandevil23edits/status/2119660215306006839",
-   "created_at": "2026-11-09T05:15:51+00:00",
-   "sent_at": "2026-11-09T05:15:51+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/1947055881541009411/img/V0Kcki89gJt3sZbX.jpg"
-  },
-  {
-   "id": "2119660000695959958",
-   "text": "S1 E7 'Down Neck' | 278 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119660000695959958",
-   "created_at": "2026-11-09T05:15:00+00:00",
-   "sent_at": "2026-11-09T05:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWmKUXAW0AIiA9L.jpg"
-  },
-  {
-   "id": "2119655967277121889",
-   "text": "cgi webs at the end doesn\u2019t magically turn the practical choreography into a lie. that\u2019s just how movies work, genius",
-   "url": "https://x.com/mandevil23edits/status/2119655967277121889",
-   "created_at": "2026-11-09T04:58:58+00:00",
-   "sent_at": "2026-11-09T04:58:58+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 18,
-   "image": ""
   },
   {
    "id": "2119632933757841532",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 51,
+   "like_count": 52,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119629210427740161/img/y7FYnZUASqcE-W7f.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 5,
    "repost_count": 1,
-   "like_count": 61,
+   "like_count": 62,
    "image": "https://pbs.twimg.com/media/HWoYPcDWQAEAR81.jpg"
   },
   {
@@ -109,20 +109,6 @@
    "repost_count": 3,
    "like_count": 57,
    "image": ""
-  },
-  {
-   "id": "2119507384225960325",
-   "text": "Mfw I listen to Feeling This(Action) by Blink-182 and the harmony kicks in right after the bridge.",
-   "url": "https://x.com/TheManlet_King/status/2119507384225960325",
-   "created_at": "2026-11-08T19:08:33+00:00",
-   "sent_at": "2026-11-08T19:08:33+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 1,
-   "like_count": 29,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HWoAsxcXYAINuMs.jpg"
   }
  ]
 }
