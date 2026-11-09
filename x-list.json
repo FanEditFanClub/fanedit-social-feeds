@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T16:51:41+00:00",
+ "updated_at": "2026-11-09T17:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2119837424893223142",
+   "text": "S1 E7 'Down Neck' | 325 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119837424893223142",
+   "created_at": "2026-11-09T17:00:01+00:00",
+   "sent_at": "2026-11-09T17:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWmMrOnXkAAEWSZ.jpg"
+  },
   {
    "id": "2119833645200597139",
    "text": "S1 E7 'Down Neck' | 324 of 704",
@@ -36,23 +50,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 4,
+   "repost_count": 2,
+   "like_count": 22,
    "image": "https://pbs.twimg.com/media/HWsn8yeXAAALerG.jpg"
-  },
-  {
-   "id": "2119829870255485349",
-   "text": "S1 E7 'Down Neck' | 323 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119829870255485349",
-   "created_at": "2026-11-09T16:30:00+00:00",
-   "sent_at": "2026-11-09T16:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWmMkM0XcAEqitV.jpg"
   },
   {
    "id": "2119816709431599152",
@@ -63,9 +63,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 52,
-   "like_count": 862,
+   "reply_count": 5,
+   "repost_count": 62,
+   "like_count": 1026,
    "image": ""
   },
   {
@@ -80,20 +80,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 20,
-   "image": ""
-  },
-  {
-   "id": "2119678204856410519",
-   "text": "Honestly like a 7/10, I grew up on it but I\u2019ve never loved it. Always found it to be one of those where I just don\u2019t think I get it like others do.",
-   "url": "https://x.com/StebobM/status/2119678204856410519",
-   "created_at": "2026-11-09T06:27:20+00:00",
-   "sent_at": "2026-11-09T06:27:20+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 7,
    "image": ""
   }
  ]
