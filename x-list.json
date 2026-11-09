@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T20:21:41+00:00",
+ "updated_at": "2026-11-09T20:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,48 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2119891172185317579",
+   "text": "If I were him I\u2019d be pretty disappointed that I wasn\u2019t coming in with an opportunity to start the slate entirely clean. With DC feels like someone\u2019s always coming in to mop up a mess created by execs",
+   "url": "https://x.com/StebobM/status/2119891172185317579",
+   "created_at": "2026-11-09T20:33:35+00:00",
+   "sent_at": "2026-11-09T20:33:35+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2119890270476984624",
+   "text": "S1 E7 'Down Neck' | 339 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119890270476984624",
+   "created_at": "2026-11-09T20:30:00+00:00",
+   "sent_at": "2026-11-09T20:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWmNZGfXgAAWKN9.jpg"
+  },
+  {
+   "id": "2119889127093174672",
+   "text": "I think one of the biggest failures of the DCU so far has been the lack of projects for families. There\u2019s been far to much content for adults. Peacemaker S2 was advertised as the follow up to Superman yet kids who saw Superman weren\u2019t old enough to watch it.",
+   "url": "https://x.com/StebobM/status/2119889127093174672",
+   "created_at": "2026-11-09T20:25:28+00:00",
+   "sent_at": "2026-11-09T20:25:28+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
   {
    "id": "2119886493019992130",
    "text": "S1 E7 'Down Neck' | 338 of 704",
@@ -36,23 +78,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 19,
+   "repost_count": 3,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWtW7E6XQAEiOxC.jpg"
-  },
-  {
-   "id": "2119882718876217497",
-   "text": "S1 E7 'Down Neck' | 337 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119882718876217497",
-   "created_at": "2026-11-09T20:00:00+00:00",
-   "sent_at": "2026-11-09T20:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWmNTZFXsAAWLGk.jpg"
   },
   {
    "id": "2119878349820428447",
@@ -64,23 +92,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
-   "repost_count": 24,
-   "like_count": 289,
+   "repost_count": 36,
+   "like_count": 421,
    "image": "https://pbs.twimg.com/media/HWtSH8gXAAAeODC.jpg"
-  },
-  {
-   "id": "2119876305323950375",
-   "text": "Good cast and like the sound of the plot",
-   "url": "https://x.com/StebobM/status/2119876305323950375",
-   "created_at": "2026-11-09T19:34:31+00:00",
-   "sent_at": "2026-11-09T19:34:31+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HWtQQrRXIAAKxgg.jpg"
   },
   {
    "id": "2119875905707217379",
@@ -92,23 +106,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 7,
-   "like_count": 46,
+   "repost_count": 9,
+   "like_count": 58,
    "image": "https://pbs.twimg.com/media/HWtP5bDWEAAhnAC.jpg"
-  },
-  {
-   "id": "2119871967431975393",
-   "text": "Hopefully means the end of this shit & these 2 clowns now",
-   "url": "https://x.com/StebobM/status/2119871967431975393",
-   "created_at": "2026-11-09T19:17:17+00:00",
-   "sent_at": "2026-11-09T19:17:17+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 7,
-   "repost_count": 2,
-   "like_count": 10,
-   "image": "https://pbs.twimg.com/media/HWtMUWoXQAAzaHj.jpg"
   },
   {
    "id": "2119862874637996390",
@@ -134,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
-   "repost_count": 11,
-   "like_count": 79,
+   "repost_count": 12,
+   "like_count": 82,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119856319616204800/img/6TtuP3CI8gmaOEZ8.jpg"
   }
  ]
