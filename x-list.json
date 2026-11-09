@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T17:36:41+00:00",
+ "updated_at": "2026-11-09T17:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119849968575926538",
+   "text": "they recast scarlet johansson and chris evans",
+   "url": "https://x.com/mandevil23edits/status/2119849968575926538",
+   "created_at": "2026-11-09T17:49:52+00:00",
+   "sent_at": "2026-11-09T17:49:52+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWs4TxEXAAEKYZV.jpg"
+  },
+  {
+   "id": "2119848744372015361",
+   "text": "S1 E7 'Down Neck' | 328 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119848744372015361",
+   "created_at": "2026-11-09T17:45:00+00:00",
+   "sent_at": "2026-11-09T17:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWmM1VOXEAAK206.jpg"
+  },
+  {
    "id": "2119845794249314665",
    "text": "I have to admit it was pretty inevitable, but I am shocked it has happened before Man of Tomorrow",
    "url": "https://x.com/StebobM/status/2119845794249314665",
@@ -21,9 +49,9 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 8,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 8,
    "image": ""
   },
   {
@@ -50,37 +78,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 2,
-   "like_count": 12,
+   "repost_count": 3,
+   "like_count": 36,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2104110789502156800/img/QNMRuGRrs89EfXbZ.jpg"
-  },
-  {
-   "id": "2119841195371483483",
-   "text": "S1 E7 'Down Neck' | 326 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119841195371483483",
-   "created_at": "2026-11-09T17:15:00+00:00",
-   "sent_at": "2026-11-09T17:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWmMt2VW4AAEOpj.jpg"
-  },
-  {
-   "id": "2119840340987277550",
-   "text": "riley freeman already got the advice ready for him",
-   "url": "https://x.com/mandevil23edits/status/2119840340987277550",
-   "created_at": "2026-11-09T17:11:36+00:00",
-   "sent_at": "2026-11-09T17:11:36+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2087139261938085888/img/9DLu8F2T5mRHfhC0.jpg"
   },
   {
    "id": "2119816709431599152",
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 6,
-   "repost_count": 91,
-   "like_count": 1375,
+   "repost_count": 96,
+   "like_count": 1500,
    "image": ""
   }
  ]
