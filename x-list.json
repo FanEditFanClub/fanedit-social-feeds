@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T06:21:39+00:00",
+ "updated_at": "2026-11-09T06:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119678875659845656",
+   "text": "S1 E7 'Down Neck' | 283 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119678875659845656",
+   "created_at": "2026-11-09T06:30:00+00:00",
+   "sent_at": "2026-11-09T06:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWmKja5WMAATJZF.jpg"
+  },
+  {
+   "id": "2119678204856410519",
+   "text": "Honestly like a 7/10, I grew up on it but I\u2019ve never loved it. Always found it to be one of those where I just don\u2019t think I get it like others do.",
+   "url": "https://x.com/StebobM/status/2119678204856410519",
+   "created_at": "2026-11-09T06:27:20+00:00",
+   "sent_at": "2026-11-09T06:27:20+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2119675608594571582",
    "text": "if only there was an actual dc game with the flash this mod wouldn\u2019t even be necessary",
    "url": "https://x.com/mandevil23edits/status/2119675608594571582",
@@ -21,9 +49,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 4,
    "image": ""
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWmKgrMXIAA9Vq9.jpg"
-  },
-  {
-   "id": "2119671329855340627",
-   "text": "S1 E7 'Down Neck' | 281 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119671329855340627",
-   "created_at": "2026-11-09T06:00:01+00:00",
-   "sent_at": "2026-11-09T06:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWmKeFaX0AARAv-.jpg"
   },
   {
    "id": "2119669052662559197",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": ""
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 54,
+   "like_count": 55,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119629210427740161/img/y7FYnZUASqcE-W7f.jpg"
   },
   {
@@ -93,22 +107,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 5,
    "repost_count": 1,
-   "like_count": 62,
+   "like_count": 65,
    "image": "https://pbs.twimg.com/media/HWoYPcDWQAEAR81.jpg"
-  },
-  {
-   "id": "2119521994664296672",
-   "text": "Still a little in awe at how little traction part 2 got compared to part 1. Oh well. Still hope to do Full Metal Alchemist one day.",
-   "url": "https://x.com/TheManlet_King/status/2119521994664296672",
-   "created_at": "2026-11-08T20:06:36+00:00",
-   "sent_at": "2026-11-08T20:06:36+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 3,
-   "like_count": 57,
-   "image": ""
   }
  ]
 }
