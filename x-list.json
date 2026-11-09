@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T15:21:41+00:00",
+ "updated_at": "2026-11-09T15:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119815112282526059",
+   "text": "during ep 5 they fling you from your chair when marleau hits shane and then they pump drugs into the air so you\u2019re loopy with shane in the hospital",
+   "url": "https://x.com/uhbucky/status/2119815112282526059",
+   "created_at": "2026-11-09T15:31:21+00:00",
+   "sent_at": "2026-11-09T15:31:21+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 43,
+   "image": ""
+  },
+  {
+   "id": "2119814770693910928",
+   "text": "S1 E7 'Down Neck' | 319 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119814770693910928",
+   "created_at": "2026-11-09T15:30:00+00:00",
+   "sent_at": "2026-11-09T15:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWmMXLNWwAA-S8K.jpg"
+  },
+  {
    "id": "2119810996609110520",
    "text": "S1 E7 'Down Neck' | 318 of 704",
    "url": "https://x.com/SopranosOrder/status/2119810996609110520",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HWmMTqwWsAAA_cy.jpg"
-  },
-  {
-   "id": "2119807235320913931",
-   "text": "S1 E7 'Down Neck' | 317 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119807235320913931",
-   "created_at": "2026-11-09T15:00:03+00:00",
-   "sent_at": "2026-11-09T15:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWmMQmYXcAA-ek2.jpg"
   },
   {
    "id": "2119729815687479691",
@@ -63,9 +77,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 5,
-   "like_count": 43,
+   "reply_count": 0,
+   "repost_count": 6,
+   "like_count": 47,
    "image": ""
   },
   {
@@ -77,7 +91,7 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
    "like_count": 7,
    "image": ""
@@ -91,9 +105,9 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 5,
-   "like_count": 74,
+   "like_count": 75,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119629210427740161/img/y7FYnZUASqcE-W7f.jpg"
   }
  ]
