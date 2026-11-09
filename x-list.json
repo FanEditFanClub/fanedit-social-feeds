@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T04:51:41+00:00",
+ "updated_at": "2026-11-09T05:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119656229429706914",
+   "text": "S1 E7 'Down Neck' | 277 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119656229429706914",
+   "created_at": "2026-11-09T05:00:01+00:00",
+   "sent_at": "2026-11-09T05:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWmKRNyX0AAH7CA.jpg"
+  },
+  {
+   "id": "2119655967277121889",
+   "text": "cgi webs at the end doesn\u2019t magically turn the practical choreography into a lie. that\u2019s just how movies work, genius",
+   "url": "https://x.com/mandevil23edits/status/2119655967277121889",
+   "created_at": "2026-11-09T04:58:58+00:00",
+   "sent_at": "2026-11-09T04:58:58+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2119652450974245088",
    "text": "S1 E7 'Down Neck' | 276 of 704",
    "url": "https://x.com/SopranosOrder/status/2119652450974245088",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HWmKNHlWEAAAIw4.jpg"
-  },
-  {
-   "id": "2119648678302437711",
-   "text": "S1 E7 'Down Neck' | 275 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119648678302437711",
-   "created_at": "2026-11-09T04:30:00+00:00",
-   "sent_at": "2026-11-09T04:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWmKKrjW4AIPbA-.jpg"
   },
   {
    "id": "2119644886890864792",
@@ -46,20 +60,6 @@
    "url": "https://x.com/mandevil23edits/status/2119644886890864792",
    "created_at": "2026-11-09T04:14:56+00:00",
    "sent_at": "2026-11-09T04:14:56+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2119643876273123431",
-   "text": "yet this terrible match ain\u2019t got shit bret hart vs owen hart",
-   "url": "https://x.com/mandevil23edits/status/2119643876273123431",
-   "created_at": "2026-11-09T04:10:55+00:00",
-   "sent_at": "2026-11-09T04:10:55+00:00",
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 39,
+   "like_count": 44,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119629210427740161/img/y7FYnZUASqcE-W7f.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 5,
    "repost_count": 1,
-   "like_count": 60,
+   "like_count": 61,
    "image": "https://pbs.twimg.com/media/HWoYPcDWQAEAR81.jpg"
   },
   {
