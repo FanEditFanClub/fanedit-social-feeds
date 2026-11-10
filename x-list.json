@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T03:06:40+00:00",
+ "updated_at": "2026-11-10T03:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2119992190449635508",
+   "text": "S1 E7 'Down Neck' | 366 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119992190449635508",
+   "created_at": "2026-11-10T03:15:00+00:00",
+   "sent_at": "2026-11-10T03:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWo3Sd2WgAAHRe5.jpg"
+  },
+  {
+   "id": "2119991243577131151",
+   "text": "from the first trailer to now feels like a lifetime but we here",
+   "url": "https://x.com/mandevil23edits/status/2119991243577131151",
+   "created_at": "2026-11-10T03:11:14+00:00",
+   "sent_at": "2026-11-10T03:11:14+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HWu4yz_XwAEL6Q6.jpg"
+  },
+  {
    "id": "2119988414657503318",
    "text": "S1 E7 'Down Neck' | 365 of 704",
    "url": "https://x.com/SopranosOrder/status/2119988414657503318",
@@ -22,8 +50,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWo3PsiXEAA0bGZ.jpg"
   },
   {
@@ -35,24 +63,10 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 16,
+   "like_count": 22,
    "image": "https://pbs.twimg.com/media/HWu0hbVWcAIVB_n.jpg"
-  },
-  {
-   "id": "2119984639712325674",
-   "text": "S1 E7 'Down Neck' | 364 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119984639712325674",
-   "created_at": "2026-11-10T02:45:00+00:00",
-   "sent_at": "2026-11-10T02:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWo3Lj0XMAAR3qG.jpg"
   },
   {
    "id": "2119963098127745027",
@@ -64,23 +78,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 10,
-   "like_count": 75,
+   "repost_count": 12,
+   "like_count": 86,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119880855187324928/img/z2NuJoeSKckDAw-y.jpg"
-  },
-  {
-   "id": "2119962611848475134",
-   "text": "the vibes are definitely immaculate for the mcu rn. w timing ngl.",
-   "url": "https://x.com/mandevil23edits/status/2119962611848475134",
-   "created_at": "2026-11-10T01:17:28+00:00",
-   "sent_at": "2026-11-10T01:17:28+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 23,
-   "image": ""
   },
   {
    "id": "2119932091253055787",
