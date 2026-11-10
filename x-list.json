@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T16:21:42+00:00",
+ "updated_at": "2026-11-10T16:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2120192258368503881",
+   "text": "S1 E7 'Down Neck' | 419 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120192258368503881",
+   "created_at": "2026-11-10T16:30:00+00:00",
+   "sent_at": "2026-11-10T16:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWo6LS_XYAAl2Jc.jpg"
+  },
+  {
    "id": "2120190038138884119",
    "text": "Nah. I'm good.",
    "url": "https://x.com/TheManlet_King/status/2120190038138884119",
@@ -21,9 +35,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -64,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 3,
-   "like_count": 85,
+   "repost_count": 6,
+   "like_count": 133,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2094879854256672768/img/bvaw1UnsVIuPtLKR.jpg"
   },
   {
@@ -77,24 +91,10 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2120184711318208776",
-   "text": "S1 E7 'Down Neck' | 417 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120184711318208776",
-   "created_at": "2026-11-10T16:00:00+00:00",
-   "sent_at": "2026-11-10T16:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWo6EaAW0AAZ1KX.jpg"
   },
   {
    "id": "2120166172951769288",
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
-   "repost_count": 167,
-   "like_count": 934,
+   "repost_count": 177,
+   "like_count": 1005,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2032832314775056392/img/uEpek9_SJdsNRQZv.jpg"
   },
   {
