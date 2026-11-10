@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T20:21:41+00:00",
+ "updated_at": "2026-11-10T20:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120252657264898248",
+   "text": "S1 E7 'Down Neck' | 435 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120252657264898248",
+   "created_at": "2026-11-10T20:30:00+00:00",
+   "sent_at": "2026-11-10T20:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWo7B0OXkAAtT13.jpg"
+  },
+  {
+   "id": "2120251493257216416",
+   "text": "\"James Gunn is no longer heading the DCU\"",
+   "url": "https://x.com/TheManlet_King/status/2120251493257216416",
+   "created_at": "2026-11-10T20:25:23+00:00",
+   "sent_at": "2026-11-10T20:25:23+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 14,
+   "image": "https://pbs.twimg.com/media/HWylfrUWoAIoiIj.jpg"
+  },
+  {
    "id": "2120248881271504955",
    "text": "S1 E7 'Down Neck' | 434 of 704",
    "url": "https://x.com/SopranosOrder/status/2120248881271504955",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 5,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HWo6-zHXcAAzfJ5.jpg"
   },
   {
@@ -36,23 +64,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
+   "repost_count": 1,
+   "like_count": 13,
    "image": ""
-  },
-  {
-   "id": "2120245112374497492",
-   "text": "S1 E7 'Down Neck' | 433 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120245112374497492",
-   "created_at": "2026-11-10T20:00:01+00:00",
-   "sent_at": "2026-11-10T20:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HWo672ZWkAAPuGf.jpg"
   },
   {
    "id": "2120222652438823062",
@@ -64,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 2,
-   "repost_count": 84,
-   "like_count": 1062,
+   "repost_count": 98,
+   "like_count": 1210,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120222480329580544/img/wqju4PRPBNXfLEe-.jpg"
   },
   {
@@ -78,8 +92,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 5,
-   "like_count": 27,
+   "repost_count": 6,
+   "like_count": 30,
    "image": "https://pbs.twimg.com/media/HWyGxeuXUAAKHXs.jpg"
   },
   {
@@ -106,8 +120,8 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
+   "repost_count": 1,
+   "like_count": 4,
    "image": ""
   },
   {
@@ -120,8 +134,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 10,
-   "repost_count": 64,
-   "like_count": 450,
+   "repost_count": 67,
+   "like_count": 501,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120181161611689984/img/kLrXxMU1UKsMwOK0.jpg"
   },
   {
@@ -139,20 +153,6 @@
    "image": ""
   },
   {
-   "id": "2120190038138884119",
-   "text": "Nah. I'm good.",
-   "url": "https://x.com/TheManlet_King/status/2120190038138884119",
-   "created_at": "2026-11-10T16:21:10+00:00",
-   "sent_at": "2026-11-10T16:21:10+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 29,
-   "image": ""
-  },
-  {
    "id": "2120185926974673289",
    "text": "oh my god shane\u2019s arc in unrivaled is gonna be so delicious exploring the mixed feelings he has and trying to navigate that I am so excited",
    "url": "https://x.com/uhbucky/status/2120185926974673289",
@@ -162,8 +162,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 2,
-   "repost_count": 54,
-   "like_count": 809,
+   "repost_count": 55,
+   "like_count": 842,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2094879854256672768/img/bvaw1UnsVIuPtLKR.jpg"
   },
   {
