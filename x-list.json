@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T03:51:40+00:00",
+ "updated_at": "2026-11-10T04:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2120003519122178335",
+   "text": "S1 E7 'Down Neck' | 369 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120003519122178335",
+   "created_at": "2026-11-10T04:00:01+00:00",
+   "sent_at": "2026-11-10T04:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HWo3cmvWcAAQtNF.jpg"
+  },
+  {
+   "id": "2120003262468571448",
+   "text": "\u201cthe difference is we had a house to burn\u201d",
+   "url": "https://x.com/mandevil23edits/status/2120003262468571448",
+   "created_at": "2026-11-10T03:59:00+00:00",
+   "sent_at": "2026-11-10T03:59:00+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2108384294045376512/img/dGFuIR4MBLtr-4Za.jpg"
+  },
   {
    "id": "2119999487758495869",
    "text": "S1 E7 'Down Neck' | 368 of 704",
@@ -37,36 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HWu9lBFXoAAzcpO.jpg"
-  },
-  {
-   "id": "2119995966388384014",
-   "text": "S1 E7 'Down Neck' | 367 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119995966388384014",
-   "created_at": "2026-11-10T03:30:00+00:00",
-   "sent_at": "2026-11-10T03:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWo3Vh7W4AAGMtY.jpg"
-  },
-  {
-   "id": "2119991243577131151",
-   "text": "from the first trailer to now feels like a lifetime but we here",
-   "url": "https://x.com/mandevil23edits/status/2119991243577131151",
-   "created_at": "2026-11-10T03:11:14+00:00",
-   "sent_at": "2026-11-10T03:11:14+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 11,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HWu4yz_XwAEL6Q6.jpg"
   },
   {
    "id": "2119986542060109862",
@@ -77,9 +77,9 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 37,
+   "reply_count": 3,
+   "repost_count": 2,
+   "like_count": 43,
    "image": "https://pbs.twimg.com/media/HWu0hbVWcAIVB_n.jpg"
   }
  ]
