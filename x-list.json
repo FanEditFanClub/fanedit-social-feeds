@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T23:06:40+00:00",
+ "updated_at": "2026-11-10T23:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120295703926735141",
+   "text": "Why was everyone telling me this was a huge success? Even my pea sized brain knew it wasn't a financial success.",
+   "url": "https://x.com/Onyx_Tw/status/2120295703926735141",
+   "created_at": "2026-11-10T23:21:03+00:00",
+   "sent_at": "2026-11-10T23:21:03+00:00",
+   "author_name": "onyx",
+   "author_handle": "Onyx_Tw",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2050445504882884608/rdoqP-2h_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2120294179704324169",
+   "text": "S1 E7 'Down Neck' | 446 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120294179704324169",
+   "created_at": "2026-11-10T23:15:00+00:00",
+   "sent_at": "2026-11-10T23:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWo7nVUWwAAr5lb.jpg"
+  },
+  {
    "id": "2120290410119516271",
    "text": "S1 E7 'Down Neck' | 445 of 704",
    "url": "https://x.com/SopranosOrder/status/2120290410119516271",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWo7kPIXAAANFYQ.jpg"
   },
   {
@@ -36,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
+   "repost_count": 2,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1591111625951559680/pu/img/ZoGdnk1LIQMdjpbA.jpg"
   },
   {
@@ -51,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 6,
+   "like_count": 15,
    "image": ""
-  },
-  {
-   "id": "2120286629718044773",
-   "text": "S1 E7 'Down Neck' | 444 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120286629718044773",
-   "created_at": "2026-11-10T22:45:00+00:00",
-   "sent_at": "2026-11-10T22:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HWo7ge1WIAAMNGE.jpg"
   },
   {
    "id": "2120281139915198759",
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 6,
-   "like_count": 33,
+   "like_count": 35,
    "image": "https://pbs.twimg.com/media/HWzAdLUXQAAc2pn.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 8,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/media/HWy5R4TXUAAGJa5.jpg"
   },
   {
@@ -165,20 +179,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2120222652438823062",
-   "text": "I know someone who would eat this up",
-   "url": "https://x.com/uhbucky/status/2120222652438823062",
-   "created_at": "2026-11-10T18:30:46+00:00",
-   "sent_at": "2026-11-10T18:30:46+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 196,
-   "like_count": 2298,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2120222480329580544/img/wqju4PRPBNXfLEe-.jpg"
   }
  ]
 }
