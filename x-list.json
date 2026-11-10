@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T02:21:39+00:00",
+ "updated_at": "2026-11-10T02:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2119980866218918242",
+   "text": "S1 E7 'Down Neck' | 363 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119980866218918242",
+   "created_at": "2026-11-10T02:30:00+00:00",
+   "sent_at": "2026-11-10T02:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWo3Ht3W8AA5WaE.jpg"
+  },
   {
    "id": "2119977090099433858",
    "text": "S1 E7 'Down Neck' | 362 of 704",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HWo3BZIXcAAHjDk.jpg"
   },
   {
-   "id": "2119973322687443085",
-   "text": "S1 E7 'Down Neck' | 361 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119973322687443085",
-   "created_at": "2026-11-10T02:00:01+00:00",
-   "sent_at": "2026-11-10T02:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWo29nyXcAAZxMF.jpg"
-  },
-  {
    "id": "2119963098127745027",
    "text": "my most anticipated mcu project rn",
    "url": "https://x.com/mandevil23edits/status/2119963098127745027",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 7,
-   "like_count": 53,
+   "like_count": 61,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119880855187324928/img/z2NuJoeSKckDAw-y.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 10,
+   "like_count": 16,
    "image": ""
   },
   {
@@ -94,34 +94,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2119919929088766283",
-   "text": "Merger bros seeing their opening \ud83d\ude02\ud83d\ude02\n\nIt ain\u2019t gonna happen",
-   "url": "https://x.com/StebobM/status/2119919929088766283",
-   "created_at": "2026-11-09T22:27:51+00:00",
-   "sent_at": "2026-11-09T22:27:51+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
-  },
-  {
-   "id": "2119917819970130028",
-   "text": "In what way is the Batman stronger than ever?\n\nThe sequel has faced so many delays it\u2019s not even clear if there\u2019s a huge audience appetite for it",
-   "url": "https://x.com/StebobM/status/2119917819970130028",
-   "created_at": "2026-11-09T22:19:29+00:00",
-   "sent_at": "2026-11-09T22:19:29+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
    "image": ""
   }
  ]
