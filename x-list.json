@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T02:06:40+00:00",
+ "updated_at": "2026-11-10T02:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2119977090099433858",
+   "text": "S1 E7 'Down Neck' | 362 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119977090099433858",
+   "created_at": "2026-11-10T02:15:00+00:00",
+   "sent_at": "2026-11-10T02:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HWo3BZIXcAAHjDk.jpg"
+  },
   {
    "id": "2119973322687443085",
    "text": "S1 E7 'Down Neck' | 361 of 704",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HWo29nyXcAAZxMF.jpg"
   },
   {
-   "id": "2119969540389966042",
-   "text": "S1 E7 'Down Neck' | 360 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119969540389966042",
-   "created_at": "2026-11-10T01:45:00+00:00",
-   "sent_at": "2026-11-10T01:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HWm5bt2XEAAgyeZ.jpg"
-  },
-  {
    "id": "2119963098127745027",
    "text": "my most anticipated mcu project rn",
    "url": "https://x.com/mandevil23edits/status/2119963098127745027",
@@ -50,8 +50,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 5,
-   "like_count": 43,
+   "repost_count": 7,
+   "like_count": 53,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119880855187324928/img/z2NuJoeSKckDAw-y.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 9,
+   "like_count": 10,
    "image": ""
   },
   {
@@ -122,20 +122,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 2,
-   "image": ""
-  },
-  {
-   "id": "2119915058209661149",
-   "text": "TNT playing The Suicide Squad rn is funny af",
-   "url": "https://x.com/Onyx_Tw/status/2119915058209661149",
-   "created_at": "2026-11-09T22:08:30+00:00",
-   "sent_at": "2026-11-09T22:08:30+00:00",
-   "author_name": "onyx",
-   "author_handle": "Onyx_Tw",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2050445504882884608/rdoqP-2h_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
    "image": ""
   }
  ]
