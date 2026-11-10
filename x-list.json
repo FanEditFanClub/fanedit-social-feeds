@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T03:36:40+00:00",
+ "updated_at": "2026-11-10T03:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2119999487758495869",
+   "text": "S1 E7 'Down Neck' | 368 of 704",
+   "url": "https://x.com/SopranosOrder/status/2119999487758495869",
+   "created_at": "2026-11-10T03:44:00+00:00",
+   "sent_at": "2026-11-10T03:44:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWo3YjaW0AEvvEU.jpg"
+  },
   {
    "id": "2119996514466410959",
    "text": "our alia atreides",
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HWo3Vh7W4AAGMtY.jpg"
   },
   {
-   "id": "2119992190449635508",
-   "text": "S1 E7 'Down Neck' | 366 of 704",
-   "url": "https://x.com/SopranosOrder/status/2119992190449635508",
-   "created_at": "2026-11-10T03:15:00+00:00",
-   "sent_at": "2026-11-10T03:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWo3Sd2WgAAHRe5.jpg"
-  },
-  {
    "id": "2119991243577131151",
    "text": "from the first trailer to now feels like a lifetime but we here",
    "url": "https://x.com/mandevil23edits/status/2119991243577131151",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 8,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWu4yz_XwAEL6Q6.jpg"
   },
   {
@@ -79,36 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 32,
+   "like_count": 37,
    "image": "https://pbs.twimg.com/media/HWu0hbVWcAIVB_n.jpg"
-  },
-  {
-   "id": "2119932091253055787",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - Power Rangers Samurai \u00d7 RPM \u2014 Part 5: \u201cThe Lion and the Eagle\u201d Is OUT NOW!.\n\nhttps://www.reddit.com/r/fanedits/comments/1xqjb9o/power_rangers_samurai_rpm_part_5_the_lion_and_the/",
-   "url": "https://x.com/FanEditFanClub/status/2119932091253055787",
-   "created_at": "2026-11-09T23:16:11+00:00",
-   "sent_at": "2026-11-09T23:16:11+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2119932018062446671",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - What are some of the best TV-to-Movie Fan Edits ever made?.\n\nhttps://www.reddit.com/r/fanedits/comments/1xqm44c/what_are_some_of_the_best_tvtomovie_fan_edits/",
-   "url": "https://x.com/FanEditFanClub/status/2119932018062446671",
-   "created_at": "2026-11-09T23:15:54+00:00",
-   "sent_at": "2026-11-09T23:15:54+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
   }
  ]
 }
