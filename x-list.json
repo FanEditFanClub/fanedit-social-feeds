@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T10:06:41+00:00",
+ "updated_at": "2026-11-10T10:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2120097886050595268",
+   "text": "S1 E7 'Down Neck' | 394 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120097886050595268",
+   "created_at": "2026-11-10T10:15:00+00:00",
+   "sent_at": "2026-11-10T10:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWo4x2JWgAEHmXe.jpg"
+  },
+  {
    "id": "2120095570463502801",
    "text": "That in itself is a problem too you have to build around the Trinity. Even if Batman was the first film in the DCU we\u2019d still be where we are now. Same if it was Wonder Woman. You need all 3 & then you go to characters like Flash, Aquaman, Green Lantern & so on.",
    "url": "https://x.com/StebobM/status/2120095570463502801",
@@ -22,8 +36,8 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2120090336269885765",
-   "text": "S1 E7 'Down Neck' | 392 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120090336269885765",
-   "created_at": "2026-11-10T09:45:00+00:00",
-   "sent_at": "2026-11-10T09:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWo4riiWEAEZZVd.jpg"
-  },
-  {
    "id": "2120068158057058559",
    "text": "kevin feige to james gunn:",
    "url": "https://x.com/mandevil23edits/status/2120068158057058559",
@@ -91,9 +91,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 7,
-   "like_count": 60,
+   "reply_count": 5,
+   "repost_count": 8,
+   "like_count": 63,
    "image": "https://pbs.twimg.com/media/HWv9ukRWkAAtnuA.jpg"
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 5,
-   "like_count": 129,
+   "reply_count": 6,
+   "repost_count": 6,
+   "like_count": 134,
    "image": "https://pbs.twimg.com/media/HWu0hbVWcAIVB_n.jpg"
   }
  ]
