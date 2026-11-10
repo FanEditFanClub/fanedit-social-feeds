@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T16:51:40+00:00",
+ "updated_at": "2026-11-10T17:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120199809340711065",
+   "text": "S1 E7 'Down Neck' | 421 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120199809340711065",
+   "created_at": "2026-11-10T17:00:00+00:00",
+   "sent_at": "2026-11-10T17:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWo6S_JXMAArn73.jpg"
+  },
+  {
+   "id": "2120199457698660512",
+   "text": "Whatever tech company needs a CEO that could resist a billion Chinese honeypots, I'm available.\n\n$1m per year base salary and you'll never lose again.",
+   "url": "https://x.com/TheManlet_King/status/2120199457698660512",
+   "created_at": "2026-11-10T16:58:36+00:00",
+   "sent_at": "2026-11-10T16:58:36+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2120197665254232486",
    "text": "Whatever happens with DC, they must fix the momentum problem. Since the Hamada era, the lack of transparency on direction has hurt them. Events like SDCC & Fandome never maximized the hype, unlike the BvS announcement in the previous era; which was off the charts.",
    "url": "https://x.com/StebobM/status/2120197665254232486",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWx0iVGXYAATMN_.jpg"
   },
   {
@@ -41,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HWo6PBHWMAEqGd1.jpg"
   },
   {
-   "id": "2120192258368503881",
-   "text": "S1 E7 'Down Neck' | 419 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120192258368503881",
-   "created_at": "2026-11-10T16:30:00+00:00",
-   "sent_at": "2026-11-10T16:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWo6LS_XYAAl2Jc.jpg"
-  },
-  {
    "id": "2120190038138884119",
    "text": "Nah. I'm good.",
    "url": "https://x.com/TheManlet_King/status/2120190038138884119",
@@ -65,21 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 8,
-   "image": ""
-  },
-  {
-   "id": "2120188589325668710",
-   "text": "Isaac absolutely deserves this. His books are good. Dead Men Running is great. Domes was great. The Last Human, I'm still listening to right now, but it's solid so far.\n\nI'd even go so far as to say he is one of the leading inspirations to continue my own writings. Someone in a",
-   "url": "https://x.com/TheManlet_King/status/2120188589325668710",
-   "created_at": "2026-11-10T16:15:25+00:00",
-   "sent_at": "2026-11-10T16:15:25+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
+   "like_count": 10,
    "image": ""
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 2,
-   "repost_count": 11,
-   "like_count": 211,
+   "repost_count": 21,
+   "like_count": 309,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2094879854256672768/img/bvaw1UnsVIuPtLKR.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
-   "repost_count": 182,
-   "like_count": 1074,
+   "repost_count": 190,
+   "like_count": 1130,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2032832314775056392/img/uEpek9_SJdsNRQZv.jpg"
   },
   {
