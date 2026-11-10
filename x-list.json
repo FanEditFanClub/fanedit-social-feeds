@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T22:51:39+00:00",
+ "updated_at": "2026-11-10T23:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2120290410119516271",
+   "text": "S1 E7 'Down Neck' | 445 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120290410119516271",
+   "created_at": "2026-11-10T23:00:01+00:00",
+   "sent_at": "2026-11-10T23:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWo7kPIXAAANFYQ.jpg"
+  },
+  {
    "id": "2120288211696251291",
    "text": "i still can\u2019t believe it\u2019s been 4 years. he will always be the definitive voice of batman for me. rest in peace, kevin conroy.",
    "url": "https://x.com/mandevil23edits/status/2120288211696251291",
@@ -22,8 +36,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1591111625951559680/pu/img/ZoGdnk1LIQMdjpbA.jpg"
   },
   {
@@ -35,9 +49,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 6,
    "image": ""
   },
   {
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HWo7ge1WIAAMNGE.jpg"
-  },
-  {
-   "id": "2120282603182026953",
-   "text": "S1 E7 'Down Neck' | 443 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120282603182026953",
-   "created_at": "2026-11-10T22:29:00+00:00",
-   "sent_at": "2026-11-10T22:29:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWo7db9W0AATH9P.jpg"
   },
   {
    "id": "2120281139915198759",
@@ -77,9 +77,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 6,
-   "like_count": 26,
+   "like_count": 33,
    "image": "https://pbs.twimg.com/media/HWzAdLUXQAAc2pn.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 6,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HWy5R4TXUAAGJa5.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
    "repost_count": 0,
-   "like_count": 39,
+   "like_count": 41,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWyxMyAWsAAI0bZ.jpg"
   },
   {
@@ -176,8 +176,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 2,
-   "repost_count": 190,
-   "like_count": 2212,
+   "repost_count": 196,
+   "like_count": 2298,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120222480329580544/img/wqju4PRPBNXfLEe-.jpg"
   }
  ]
