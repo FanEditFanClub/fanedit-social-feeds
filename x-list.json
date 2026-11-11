@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T02:51:40+00:00",
+ "updated_at": "2026-11-11T03:06:46+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2120352251889774979",
+   "text": "kevin feige took a bunch of a-tier comic book characters, then built the biggest cinematic franchise in movie history with them and yet dc still can't pull that off with their a-listers.",
+   "url": "https://x.com/mandevil23edits/status/2120352251889774979",
+   "created_at": "2026-11-11T03:05:45+00:00",
+   "sent_at": "2026-11-11T03:05:45+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2120350803810537712",
+   "text": "S1 E7 'Down Neck' | 461 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120350803810537712",
+   "created_at": "2026-11-11T03:00:00+00:00",
+   "sent_at": "2026-11-11T03:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWwY_XZXYAA17q6.jpg"
+  },
+  {
+   "id": "2120349340082544698",
+   "text": "rdj with that doctor doom accent:",
+   "url": "https://x.com/mandevil23edits/status/2120349340082544698",
+   "created_at": "2026-11-11T02:54:11+00:00",
+   "sent_at": "2026-11-11T02:54:11+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 2,
+   "like_count": 17,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2120349322717888512/img/qXBSfc_GaIEmsTEQ.jpg"
+  },
+  {
    "id": "2120347027649552602",
    "text": "S1 E7 'Down Neck' | 460 of 704",
    "url": "https://x.com/SopranosOrder/status/2120347027649552602",
@@ -25,48 +67,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HWwY662WUAALqhE.jpg"
-  },
-  {
-   "id": "2120343257448370395",
-   "text": "S1 E7 'Down Neck' | 459 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120343257448370395",
-   "created_at": "2026-11-11T02:30:01+00:00",
-   "sent_at": "2026-11-11T02:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWwY3fHW8AAoj7s.jpg"
-  },
-  {
-   "id": "2120328034678956500",
-   "text": "the only man who can save the future of dc",
-   "url": "https://x.com/mandevil23edits/status/2120328034678956500",
-   "created_at": "2026-11-11T01:29:31+00:00",
-   "sent_at": "2026-11-11T01:29:31+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 12,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2119843159827968000/img/E1galLW7GImDGaxI.jpg"
-  },
-  {
-   "id": "2120324136295891331",
-   "text": "\u201ca 12 year old girl can sedu-\u201d",
-   "url": "https://x.com/mandevil23edits/status/2120324136295891331",
-   "created_at": "2026-11-11T01:14:02+00:00",
-   "sent_at": "2026-11-11T01:14:02+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 23,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2120324121405837312/img/0X0x9KDOuyg-37fS.jpg"
   },
   {
    "id": "2120296283013255595",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 61,
+   "like_count": 62,
    "image": ""
   }
  ]
