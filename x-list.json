@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T15:21:39+00:00",
+ "updated_at": "2026-11-11T15:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2120539294754541694",
+   "text": "S1 E7 'Down Neck' | 511 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120539294754541694",
+   "created_at": "2026-11-11T15:29:00+00:00",
+   "sent_at": "2026-11-11T15:29:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWwbnoWXMAABvVm.jpg"
+  },
+  {
    "id": "2120536023566254554",
    "text": "S1 E7 'Down Neck' | 510 of 704",
    "url": "https://x.com/SopranosOrder/status/2120536023566254554",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWwbk3ZW4AEEhyy.jpg"
-  },
-  {
-   "id": "2120532001484673197",
-   "text": "S1 E7 'Down Neck' | 509 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120532001484673197",
-   "created_at": "2026-11-11T15:00:01+00:00",
-   "sent_at": "2026-11-11T15:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWwbhy0XkAEDfnp.jpg"
   },
   {
    "id": "2120527472315805911",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120526534171676672/img/NmCYZupsnzHNhUhS.jpg"
   },
   {
@@ -63,9 +63,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 5,
+   "reply_count": 6,
    "repost_count": 0,
-   "like_count": 37,
+   "like_count": 44,
    "image": "https://pbs.twimg.com/media/HW2YwtjW0AABpTC.jpg"
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 16,
+   "like_count": 17,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 3,
-   "like_count": 73,
+   "like_count": 80,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 9,
-   "like_count": 49,
+   "like_count": 53,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2053293595126292481/img/r7hylpTnMiMSX21P.jpg"
   },
   {
@@ -122,20 +122,6 @@
    "reply_count": 1,
    "repost_count": 0,
    "like_count": 1,
-   "image": ""
-  },
-  {
-   "id": "2120449164697911483",
-   "text": "It\u2019s pretty clear in real time what happened with Lanterns. The show started off of a bang but after episode 4 it fell off a cliff. Then it just got progressively worse and audiences weren\u2019t to it & not enough people were going back to binge it after aswell",
-   "url": "https://x.com/StebobM/status/2120449164697911483",
-   "created_at": "2026-11-11T09:30:51+00:00",
-   "sent_at": "2026-11-11T09:30:51+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
    "image": ""
   }
  ]
