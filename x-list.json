@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T04:36:40+00:00",
+ "updated_at": "2026-11-11T04:51:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120378475336888511",
+   "text": "the resurrection of the scarlet witch has gained more hype for the doomsday movie",
+   "url": "https://x.com/mandevil23edits/status/2120378475336888511",
+   "created_at": "2026-11-11T04:49:57+00:00",
+   "sent_at": "2026-11-11T04:49:57+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2102979468755120128/img/0ggbJhne5Xy-5Koq.jpg"
+  },
+  {
+   "id": "2120377226822856860",
+   "text": "S1 E7 'Down Neck' | 468 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120377226822856860",
+   "created_at": "2026-11-11T04:45:00+00:00",
+   "sent_at": "2026-11-11T04:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWwZVhuWYAA454_.jpg"
+  },
+  {
    "id": "2120374856218816960",
    "text": "the road of avengers: doomsday",
    "url": "https://x.com/mandevil23edits/status/2120374856218816960",
@@ -21,9 +49,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "reply_count": 1,
+   "repost_count": 5,
+   "like_count": 38,
    "image": "https://pbs.twimg.com/media/HW0VsPMWEAEw_Xd.jpg"
   },
   {
@@ -41,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HWwZSzOWkAAvOBb.jpg"
   },
   {
-   "id": "2120369677230911925",
-   "text": "S1 E7 'Down Neck' | 466 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120369677230911925",
-   "created_at": "2026-11-11T04:15:00+00:00",
-   "sent_at": "2026-11-11T04:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWwZPjaXIAACdO2.jpg"
-  },
-  {
    "id": "2120362671136534627",
    "text": "\"You ain't bend sheeit\"",
    "url": "https://x.com/TheManlet_King/status/2120362671136534627",
@@ -63,24 +77,10 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 2,
-   "like_count": 48,
+   "reply_count": 2,
+   "repost_count": 4,
+   "like_count": 58,
    "image": "https://pbs.twimg.com/media/HW0KnI2XMAAa5DH.jpg"
-  },
-  {
-   "id": "2120361487202218317",
-   "text": "and the face of mcu x-men too",
-   "url": "https://x.com/mandevil23edits/status/2120361487202218317",
-   "created_at": "2026-11-11T03:42:27+00:00",
-   "sent_at": "2026-11-11T03:42:27+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 19,
-   "image": ""
   },
   {
    "id": "2120296283013255595",
