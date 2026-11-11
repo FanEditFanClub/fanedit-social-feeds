@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T00:21:40+00:00",
+ "updated_at": "2026-11-11T00:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120313056706125883",
+   "text": "S1 E7 'Down Neck' | 451 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120313056706125883",
+   "created_at": "2026-11-11T00:30:00+00:00",
+   "sent_at": "2026-11-11T00:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWwYb68WcAAI8_R.jpg"
+  },
+  {
+   "id": "2120311333841178843",
+   "text": "let matt reeves finish his batman trilogy",
+   "url": "https://x.com/mandevil23edits/status/2120311333841178843",
+   "created_at": "2026-11-11T00:23:10+00:00",
+   "sent_at": "2026-11-11T00:23:10+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 2,
+   "repost_count": 3,
+   "like_count": 17,
+   "image": "https://pbs.twimg.com/media/HWzb6jwXEAA5Klv.jpg"
+  },
+  {
    "id": "2120309278950965613",
    "text": "S1 E7 'Down Neck' | 450 of 704",
    "url": "https://x.com/SopranosOrder/status/2120309278950965613",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HWwYY1jWsAA9bXf.jpg"
-  },
-  {
-   "id": "2120305511505547306",
-   "text": "S1 E7 'Down Neck' | 449 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120305511505547306",
-   "created_at": "2026-11-11T00:00:01+00:00",
-   "sent_at": "2026-11-11T00:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWwXmv0WIAAsJat.jpg"
   },
   {
    "id": "2120303101341249862",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 7,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HWzUbm2W8AIFw2_.jpg"
   },
   {
@@ -83,20 +97,6 @@
    "image": ""
   },
   {
-   "id": "2120288211696251291",
-   "text": "i still can\u2019t believe it\u2019s been 4 years. he will always be the definitive voice of batman for me. rest in peace, kevin conroy.",
-   "url": "https://x.com/mandevil23edits/status/2120288211696251291",
-   "created_at": "2026-11-10T22:51:17+00:00",
-   "sent_at": "2026-11-10T22:51:17+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 8,
-   "like_count": 34,
-   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1591111625951559680/pu/img/ZoGdnk1LIQMdjpbA.jpg"
-  },
-  {
    "id": "2120287815678537766",
    "text": "This looks almost like it's a bit from The Boondocks",
    "url": "https://x.com/TheManlet_King/status/2120287815678537766",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 37,
+   "like_count": 38,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 12,
+   "like_count": 13,
    "image": "https://pbs.twimg.com/media/HWy5R4TXUAAGJa5.jpg"
   },
   {
