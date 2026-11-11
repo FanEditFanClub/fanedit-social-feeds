@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T10:21:40+00:00",
+ "updated_at": "2026-11-11T10:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2120464053067743697",
+   "text": "S1 E7 'Down Neck' | 491 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120464053067743697",
+   "created_at": "2026-11-11T10:30:01+00:00",
+   "sent_at": "2026-11-11T10:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWwalzdXgAAnEWx.jpg"
+  },
+  {
+   "id": "2120463384755708326",
+   "text": "it\u2019s really that damn serious to those who are huge fans of the scarlet witch",
+   "url": "https://x.com/mandevil23edits/status/2120463384755708326",
+   "created_at": "2026-11-11T10:27:21+00:00",
+   "sent_at": "2026-11-11T10:27:21+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
   {
    "id": "2120460274146930776",
    "text": "S1 E7 'Down Neck' | 490 of 704",
@@ -49,38 +77,10 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 1,
-   "like_count": 10,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/media/HW1gKaBXsAEJ6SA.jpg"
-  },
-  {
-   "id": "2120456499205927030",
-   "text": "S1 E7 'Down Neck' | 489 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120456499205927030",
-   "created_at": "2026-11-11T10:00:00+00:00",
-   "sent_at": "2026-11-11T10:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWwafbLW4AAnN1I.jpg"
-  },
-  {
-   "id": "2120456170154635664",
-   "text": "it\u2019s been 18 years since iron man became a game changer as the first mcu movie, and it still holds up beautifully to this day.",
-   "url": "https://x.com/mandevil23edits/status/2120456170154635664",
-   "created_at": "2026-11-11T09:58:41+00:00",
-   "sent_at": "2026-11-11T09:58:41+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 19,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/1653338810355204096/img/M9AUZrxDUo_Zl8lq.jpg"
   },
   {
    "id": "2120449164697911483",
@@ -106,8 +106,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
-   "repost_count": 11,
-   "like_count": 153,
+   "repost_count": 12,
+   "like_count": 157,
    "image": "https://pbs.twimg.com/media/HW0KnI2XMAAa5DH.jpg"
   }
  ]
