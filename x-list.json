@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T19:06:40+00:00",
+ "updated_at": "2026-11-11T19:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2120596290354511931",
+   "text": "Anyone could say this \ud83e\udd23",
+   "url": "https://x.com/StebobM/status/2120596290354511931",
+   "created_at": "2026-11-11T19:15:29+00:00",
+   "sent_at": "2026-11-11T19:15:29+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2120596169420382473",
+   "text": "S1 E7 'Down Neck' | 526 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120596169420382473",
+   "created_at": "2026-11-11T19:15:00+00:00",
+   "sent_at": "2026-11-11T19:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWwcZrLXEAEyQsW.jpg"
+  },
   {
    "id": "2120592401345466853",
    "text": "I reckon anything that\u2019s not already coming to HBO max is the last of it in the DCU. I think they\u2019ll make it theatrical movies only going forward",
@@ -41,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HWwcW9_XcAA8fYc.jpg"
   },
   {
-   "id": "2120590741600911814",
-   "text": "Guess it\u2019s a why pay 2 people when you can pay 1 person on a demoted level to do the same job",
-   "url": "https://x.com/StebobM/status/2120590741600911814",
-   "created_at": "2026-11-11T18:53:26+00:00",
-   "sent_at": "2026-11-11T18:53:26+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
    "id": "2120589290807722464",
    "text": "family is coming home and they\u2019re about to be better than ever we are so back",
    "url": "https://x.com/uhbucky/status/2120589290807722464",
@@ -64,23 +78,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 29,
-   "like_count": 157,
+   "repost_count": 55,
+   "like_count": 343,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2093724428026712064/img/HPyDMMBxC4D1U_Ir.jpg"
-  },
-  {
-   "id": "2120588619651924038",
-   "text": "S1 E7 'Down Neck' | 524 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120588619651924038",
-   "created_at": "2026-11-11T18:45:00+00:00",
-   "sent_at": "2026-11-11T18:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWwcRkvXUAAjmN2.jpg"
   },
   {
    "id": "2120583803282616352",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 1,
-   "like_count": 24,
+   "like_count": 28,
    "image": ""
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
+   "repost_count": 1,
+   "like_count": 18,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1807980562872684544/pu/img/m1AQHAG4TE7Usji5.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 40,
+   "like_count": 41,
    "image": ""
   },
   {
