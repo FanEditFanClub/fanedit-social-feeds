@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T17:06:41+00:00",
+ "updated_at": "2026-11-11T17:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120565970389569832",
+   "text": "S1 E7 'Down Neck' | 518 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120565970389569832",
+   "created_at": "2026-11-11T17:15:00+00:00",
+   "sent_at": "2026-11-11T17:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWwb99JXoAA0Pay.jpg"
+  },
+  {
+   "id": "2120565486656122934",
+   "text": "Yes to all of this",
+   "url": "https://x.com/StebobM/status/2120565486656122934",
+   "created_at": "2026-11-11T17:13:04+00:00",
+   "sent_at": "2026-11-11T17:13:04+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2120563016043528409",
    "text": "If Man of Tomorrow was the last DC/Superman anything I ever get I can live with it. I have thousands of comics I can go read and an absolute ton of animated & live action TV Shows & Movies I can revisit anytime.\n\nI am absolutely blessed to have all that I do as a fan of DC.",
    "url": "https://x.com/StebobM/status/2120563016043528409",
@@ -22,8 +50,8 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HW3A0f5X0AEUZSR.jpg"
   },
   {
@@ -37,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HWwb7FZX0AAyMaR.jpg"
   },
   {
@@ -51,35 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
-   "image": ""
-  },
-  {
-   "id": "2120558421112205485",
-   "text": "S1 E7 'Down Neck' | 516 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120558421112205485",
-   "created_at": "2026-11-11T16:45:00+00:00",
-   "sent_at": "2026-11-11T16:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HWwb3XPXYAAPBep.jpg"
-  },
-  {
-   "id": "2120556706925027344",
-   "text": "Based on what?",
-   "url": "https://x.com/StebobM/status/2120556706925027344",
-   "created_at": "2026-11-11T16:38:11+00:00",
-   "sent_at": "2026-11-11T16:38:11+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "like_count": 14,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 26,
+   "like_count": 27,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 6,
    "repost_count": 0,
-   "like_count": 65,
+   "like_count": 70,
    "image": "https://pbs.twimg.com/media/HW2YwtjW0AABpTC.jpg"
   },
   {
@@ -133,9 +133,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 4,
-   "like_count": 99,
+   "like_count": 102,
    "image": ""
   },
   {
