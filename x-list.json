@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T02:36:39+00:00",
+ "updated_at": "2026-11-11T02:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2120347027649552602",
+   "text": "S1 E7 'Down Neck' | 460 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120347027649552602",
+   "created_at": "2026-11-11T02:45:00+00:00",
+   "sent_at": "2026-11-11T02:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWwY662WUAALqhE.jpg"
+  },
+  {
    "id": "2120343257448370395",
    "text": "S1 E7 'Down Neck' | 459 of 704",
    "url": "https://x.com/SopranosOrder/status/2120343257448370395",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HWwY3fHW8AAoj7s.jpg"
-  },
-  {
-   "id": "2120339478568947827",
-   "text": "S1 E7 'Down Neck' | 458 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120339478568947827",
-   "created_at": "2026-11-11T02:15:00+00:00",
-   "sent_at": "2026-11-11T02:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWwYz7tXoAAT_QU.jpg"
   },
   {
    "id": "2120328034678956500",
@@ -64,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 20,
+   "repost_count": 2,
+   "like_count": 23,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120324121405837312/img/0X0x9KDOuyg-37fS.jpg"
   },
   {
@@ -107,21 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 58,
-   "image": ""
-  },
-  {
-   "id": "2120275567190888746",
-   "text": "It was great for a few years then it was terrible should have ended with COIE",
-   "url": "https://x.com/StebobM/status/2120275567190888746",
-   "created_at": "2026-11-10T22:01:02+00:00",
-   "sent_at": "2026-11-10T22:01:02+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "like_count": 61,
    "image": ""
   }
  ]
