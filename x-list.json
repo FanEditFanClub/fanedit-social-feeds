@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T05:21:43+00:00",
+ "updated_at": "2026-11-11T05:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120388553301704839",
+   "text": "S1 E7 'Down Neck' | 471 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120388553301704839",
+   "created_at": "2026-11-11T05:30:00+00:00",
+   "sent_at": "2026-11-11T05:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWwZgIcXYAATLj1.jpg"
+  },
+  {
+   "id": "2120386897570926598",
+   "text": "the moment wanda got resurrected by doctor doom, the motion and hype for doomsday has instantly leveled up.",
+   "url": "https://x.com/mandevil23edits/status/2120386897570926598",
+   "created_at": "2026-11-11T05:23:25+00:00",
+   "sent_at": "2026-11-11T05:23:25+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 10,
+   "image": ""
+  },
+  {
    "id": "2120384776809160785",
    "text": "S1 E7 'Down Neck' | 470 of 704",
    "url": "https://x.com/SopranosOrder/status/2120384776809160785",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWwZc4ZWUAA_wOa.jpg"
   },
   {
@@ -36,37 +64,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 16,
+   "repost_count": 5,
+   "like_count": 45,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2092491099176615936/img/lwOxoLW6uTovq6eo.jpg"
-  },
-  {
-   "id": "2120381005651665284",
-   "text": "S1 E7 'Down Neck' | 469 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120381005651665284",
-   "created_at": "2026-11-11T05:00:01+00:00",
-   "sent_at": "2026-11-11T05:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWwZZpLXoAAeEYt.jpg"
-  },
-  {
-   "id": "2120378475336888511",
-   "text": "the resurrection of the scarlet witch has gained more hype for the doomsday movie",
-   "url": "https://x.com/mandevil23edits/status/2120378475336888511",
-   "created_at": "2026-11-11T04:49:57+00:00",
-   "sent_at": "2026-11-11T04:49:57+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 26,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2102979468755120128/img/0ggbJhne5Xy-5Koq.jpg"
   },
   {
    "id": "2120362671136534627",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 7,
-   "like_count": 79,
+   "like_count": 93,
    "image": "https://pbs.twimg.com/media/HW0KnI2XMAAa5DH.jpg"
   },
   {
