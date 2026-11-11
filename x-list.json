@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T22:51:40+00:00",
+ "updated_at": "2026-11-11T23:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2120652795581747511",
+   "text": "S1 E7 'Down Neck' | 541 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120652795581747511",
+   "created_at": "2026-11-11T23:00:00+00:00",
+   "sent_at": "2026-11-11T23:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWwdMaQXsAAEgTW.jpg"
+  },
+  {
+   "id": "2120652638022689110",
+   "text": "kissing his armpit before kissing his mouth and maintaining eye contact the entire time is insane",
+   "url": "https://x.com/uhbucky/status/2120652638022689110",
+   "created_at": "2026-11-11T22:59:23+00:00",
+   "sent_at": "2026-11-11T22:59:23+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 3,
+   "like_count": 44,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HKZkWKEWQAAX1p4.jpg"
+  },
+  {
+   "id": "2120651201091870840",
+   "text": "Absolutely loved reading that \ud83e\udd72 #HenryCavillSuperman",
+   "url": "https://x.com/StebobM/status/2120651201091870840",
+   "created_at": "2026-11-11T22:53:40+00:00",
+   "sent_at": "2026-11-11T22:53:40+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2120649808369029122",
    "text": "A Taco Glizzy? Just for me? Like you read my mind? IM GOING TO TACO BELL!",
    "url": "https://x.com/TheManlet_King/status/2120649808369029122",
@@ -21,9 +63,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 0,
+   "reply_count": 2,
+   "repost_count": 1,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HW4PwYAX0AETl2Z.jpg"
   },
   {
@@ -50,8 +92,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 2,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2082618775921471488/img/Pjhg-QkcKraiK0Ej.jpg"
   },
   {
@@ -65,22 +107,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 8,
+   "like_count": 12,
    "image": ""
-  },
-  {
-   "id": "2120644991026331967",
-   "text": "S1 E7 'Down Neck' | 539 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120644991026331967",
-   "created_at": "2026-11-11T22:29:00+00:00",
-   "sent_at": "2026-11-11T22:29:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HWwdFJtWoAAwudZ.jpg"
   },
   {
    "id": "2120638505890222218",
@@ -93,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 9,
+   "like_count": 11,
    "image": ""
   },
   {
@@ -106,8 +134,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 11,
+   "repost_count": 2,
+   "like_count": 13,
    "image": ""
   },
   {
@@ -151,34 +179,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2120623336199987582",
-   "text": "\u201cLast summer\u2019s \u201cSuperman,\u201d which Gunn directed, offered signs of hope. The movie seriously divided critics, but I was far from alone in liking it, and it connected commercially.\u201d\n\nThe one thing objectively is that critically it was positive, what a weird line in this article",
-   "url": "https://x.com/StebobM/status/2120623336199987582",
-   "created_at": "2026-11-11T21:02:57+00:00",
-   "sent_at": "2026-11-11T21:02:57+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": ""
-  },
-  {
-   "id": "2120589290807722464",
-   "text": "family is coming home and they\u2019re about to be better than ever we are so back",
-   "url": "https://x.com/uhbucky/status/2120589290807722464",
-   "created_at": "2026-11-11T18:47:40+00:00",
-   "sent_at": "2026-11-11T18:47:40+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 221,
-   "like_count": 1599,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2093724428026712064/img/HPyDMMBxC4D1U_Ir.jpg"
   }
  ]
 }
