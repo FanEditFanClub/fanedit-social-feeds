@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T17:36:43+00:00",
+ "updated_at": "2026-11-11T17:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120574073327501606",
+   "text": "The greatest",
+   "url": "https://x.com/StebobM/status/2120574073327501606",
+   "created_at": "2026-11-11T17:47:12+00:00",
+   "sent_at": "2026-11-11T17:47:12+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2120573520128438648",
+   "text": "S1 E7 'Down Neck' | 520 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120573520128438648",
+   "created_at": "2026-11-11T17:45:00+00:00",
+   "sent_at": "2026-11-11T17:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HWwcEBGWwAAuzvn.jpg"
+  },
+  {
    "id": "2120569747104301519",
    "text": "S1 E7 'Down Neck' | 519 of 704",
    "url": "https://x.com/SopranosOrder/status/2120569747104301519",
@@ -25,20 +53,6 @@
    "repost_count": 1,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HWwcAyJWAAACc-2.jpg"
-  },
-  {
-   "id": "2120565970389569832",
-   "text": "S1 E7 'Down Neck' | 518 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120565970389569832",
-   "created_at": "2026-11-11T17:15:00+00:00",
-   "sent_at": "2026-11-11T17:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HWwb99JXoAA0Pay.jpg"
   },
   {
    "id": "2120565486656122934",
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2120563016043528409",
-   "text": "If Man of Tomorrow was the last DC/Superman anything I ever get I can live with it. I have thousands of comics I can go read and an absolute ton of animated & live action TV Shows & Movies I can revisit anytime.\n\nI am absolutely blessed to have all that I do as a fan of DC.",
-   "url": "https://x.com/StebobM/status/2120563016043528409",
-   "created_at": "2026-11-11T17:03:15+00:00",
-   "sent_at": "2026-11-11T17:03:15+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HW3A0f5X0AEUZSR.jpg"
-  },
-  {
    "id": "2120560811693240412",
    "text": "My wife saw this and asked what was wrong with how he talked. She was baffled anybody saw this as awkward or bad because this was the first time she related to any character in SW lol",
    "url": "https://x.com/TheManlet_King/status/2120560811693240412",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 19,
+   "like_count": 24,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 30,
+   "like_count": 31,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 6,
    "repost_count": 0,
-   "like_count": 71,
+   "like_count": 73,
    "image": "https://pbs.twimg.com/media/HW2YwtjW0AABpTC.jpg"
   },
   {
