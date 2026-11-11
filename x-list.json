@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T00:51:42+00:00",
+ "updated_at": "2026-11-11T01:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2120320609972547862",
+   "text": "S1 E7 'Down Neck' | 453 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120320609972547862",
+   "created_at": "2026-11-11T01:00:01+00:00",
+   "sent_at": "2026-11-11T01:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWwYj10WwAANXVU.jpg"
+  },
+  {
    "id": "2120316829059154169",
    "text": "S1 E7 'Down Neck' | 452 of 704",
    "url": "https://x.com/SopranosOrder/status/2120316829059154169",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HWwYfiaW8AE5nPS.jpg"
-  },
-  {
-   "id": "2120313056706125883",
-   "text": "S1 E7 'Down Neck' | 451 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120313056706125883",
-   "created_at": "2026-11-11T00:30:00+00:00",
-   "sent_at": "2026-11-11T00:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HWwYb68WcAAI8_R.jpg"
   },
   {
    "id": "2120311333841178843",
@@ -49,9 +49,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 4,
-   "like_count": 31,
+   "like_count": 38,
    "image": "https://pbs.twimg.com/media/HWzb6jwXEAA5Klv.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 10,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/media/HWzUbm2W8AIFw2_.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 40,
+   "like_count": 45,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 13,
+   "like_count": 14,
    "image": "https://pbs.twimg.com/media/HWy5R4TXUAAGJa5.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 1,
-   "like_count": 50,
+   "like_count": 51,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HWyxMyAWsAAI0bZ.jpg"
   },
   {
@@ -158,20 +158,6 @@
    "url": "https://x.com/FanEditFanClub/status/2120255405536182336",
    "created_at": "2026-11-10T20:40:55+00:00",
    "sent_at": "2026-11-10T20:40:55+00:00",
-   "author_name": "Fan Edit Fan Club",
-   "author_handle": "FanEditFanClub",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2120255345780007195",
-   "text": "New Post in The Fan Edit Fan Club Reddit Feed - The Red John Chronicles: Burning Bright.\n\nhttps://www.reddit.com/r/fanedits/comments/1xrfdcr/the_red_john_chronicles_burning_bright/",
-   "url": "https://x.com/FanEditFanClub/status/2120255345780007195",
-   "created_at": "2026-11-10T20:40:41+00:00",
-   "sent_at": "2026-11-10T20:40:41+00:00",
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
