@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T11:21:41+00:00",
+ "updated_at": "2026-11-11T11:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120479155578118335",
+   "text": "S1 E7 'Down Neck' | 495 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120479155578118335",
+   "created_at": "2026-11-11T11:30:01+00:00",
+   "sent_at": "2026-11-11T11:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HWwaygYWcAAXJu2.jpg"
+  },
+  {
+   "id": "2120478318118187201",
+   "text": "we\u2019ll be there for doomsday",
+   "url": "https://x.com/mandevil23edits/status/2120478318118187201",
+   "created_at": "2026-11-11T11:26:42+00:00",
+   "sent_at": "2026-11-11T11:26:42+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 2,
+   "repost_count": 1,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2120159883408592897/img/7Zmb012tcirUqw62.jpg"
+  },
+  {
    "id": "2120475373939097684",
    "text": "S1 E7 'Down Neck' | 494 of 704",
    "url": "https://x.com/SopranosOrder/status/2120475373939097684",
@@ -23,36 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HWwawE4XwAE9flY.jpg"
-  },
-  {
-   "id": "2120474585867129087",
-   "text": "oh sugah",
-   "url": "https://x.com/mandevil23edits/status/2120474585867129087",
-   "created_at": "2026-11-11T11:11:52+00:00",
-   "sent_at": "2026-11-11T11:11:52+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2120471620133457937",
-   "text": "S1 E7 'Down Neck' | 493 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120471620133457937",
-   "created_at": "2026-11-11T11:00:05+00:00",
-   "sent_at": "2026-11-11T11:00:05+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HWwata3XUAAQOIn.jpg"
   },
   {
    "id": "2120463384755708326",
@@ -63,9 +63,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 4,
    "image": ""
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 12,
-   "like_count": 157,
+   "like_count": 162,
    "image": "https://pbs.twimg.com/media/HW0KnI2XMAAa5DH.jpg"
   }
  ]
