@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T01:51:41+00:00",
+ "updated_at": "2026-11-11T02:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2120335707277283428",
+   "text": "S1 E7 'Down Neck' | 457 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120335707277283428",
+   "created_at": "2026-11-11T02:00:01+00:00",
+   "sent_at": "2026-11-11T02:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWwYxbgXEAErc3w.jpg"
+  },
   {
    "id": "2120331928171860345",
    "text": "S1 E7 'Down Neck' | 456 of 704",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HWwYtI1XQAA0gks.jpg"
   },
   {
-   "id": "2120328154015306162",
-   "text": "S1 E7 'Down Neck' | 455 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120328154015306162",
-   "created_at": "2026-11-11T01:30:00+00:00",
-   "sent_at": "2026-11-11T01:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HWwYp_sWQAAlJtr.jpg"
-  },
-  {
    "id": "2120328034678956500",
    "text": "the only man who can save the future of dc",
    "url": "https://x.com/mandevil23edits/status/2120328034678956500",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119843159827968000/img/E1galLW7GImDGaxI.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 6,
+   "like_count": 12,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120324121405837312/img/0X0x9KDOuyg-37fS.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 51,
+   "like_count": 56,
    "image": ""
   },
   {
