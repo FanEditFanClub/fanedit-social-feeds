@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T01:36:41+00:00",
+ "updated_at": "2026-11-11T01:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2120331928171860345",
+   "text": "S1 E7 'Down Neck' | 456 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120331928171860345",
+   "created_at": "2026-11-11T01:45:00+00:00",
+   "sent_at": "2026-11-11T01:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HWwYtI1XQAA0gks.jpg"
+  },
+  {
    "id": "2120328154015306162",
    "text": "S1 E7 'Down Neck' | 455 of 704",
    "url": "https://x.com/SopranosOrder/status/2120328154015306162",
@@ -22,8 +36,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
+   "repost_count": 1,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HWwYp_sWQAAlJtr.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2119843159827968000/img/E1galLW7GImDGaxI.jpg"
-  },
-  {
-   "id": "2120324378835521547",
-   "text": "S1 E7 'Down Neck' | 454 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120324378835521547",
-   "created_at": "2026-11-11T01:15:00+00:00",
-   "sent_at": "2026-11-11T01:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HWwYnCxW4AAo6WP.jpg"
   },
   {
    "id": "2120324136295891331",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120324121405837312/img/0X0x9KDOuyg-37fS.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 49,
+   "like_count": 51,
    "image": ""
   },
   {
@@ -135,22 +135,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 2,
    "repost_count": 1,
-   "like_count": 15,
+   "like_count": 16,
    "image": "https://pbs.twimg.com/media/HWy5R4TXUAAGJa5.jpg"
-  },
-  {
-   "id": "2120264410203574405",
-   "text": "Guess which series I'm FINALLY going to edit next?",
-   "url": "https://x.com/TheManlet_King/status/2120264410203574405",
-   "created_at": "2026-11-10T21:16:42+00:00",
-   "sent_at": "2026-11-10T21:16:42+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 6,
-   "repost_count": 1,
-   "like_count": 52,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HWyxMyAWsAAI0bZ.jpg"
   }
  ]
 }
