@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T21:36:43+00:00",
+ "updated_at": "2026-11-12T21:51:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120996306004975734",
+   "text": "S1 E7 'Down Neck' | 632 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120996306004975734",
+   "created_at": "2026-11-12T21:45:00+00:00",
+   "sent_at": "2026-11-12T21:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HW3MYjkXIAAtT56.jpg"
+  },
+  {
+   "id": "2120995968594202663",
+   "text": "I miss the old 4 photo grid layout. All those gigalogue's lost like tears in the rain.",
+   "url": "https://x.com/TheManlet_King/status/2120995968594202663",
+   "created_at": "2026-11-12T21:43:39+00:00",
+   "sent_at": "2026-11-12T21:43:39+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 20,
+   "image": "https://pbs.twimg.com/media/HW9KlbEXsAALKt3.jpg"
+  },
+  {
    "id": "2120992533241032944",
    "text": "S1 E7 'Down Neck' | 631 of 704",
    "url": "https://x.com/SopranosOrder/status/2120992533241032944",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HW3MVY0WMAITNwG.jpg"
   },
   {
@@ -55,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2120988756509638904",
-   "text": "S1 E7 'Down Neck' | 630 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120988756509638904",
-   "created_at": "2026-11-12T21:15:00+00:00",
-   "sent_at": "2026-11-12T21:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HW3MRt_WEAAagHr.jpg"
-  },
-  {
    "id": "2120986691825774816",
    "text": "https://www.reddit.com/r/TheExorcist/s/YqM9LZSMrn @RIPStacyKeach",
    "url": "https://x.com/VasGlorious/status/2120986691825774816",
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 4,
-   "like_count": 30,
+   "like_count": 31,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2022794852916772864/img/CijZYJzGHjR4r5Wh.jpg"
   },
   {
@@ -149,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
    "repost_count": 44,
-   "like_count": 293,
+   "like_count": 300,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120949560134545408/img/8mFcex-WiDNSgpqg.jpg"
   },
   {
@@ -163,22 +177,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 10,
    "repost_count": 0,
-   "like_count": 105,
+   "like_count": 110,
    "image": "https://pbs.twimg.com/media/HW8W8OTW8AAsodk.jpg"
-  },
-  {
-   "id": "2120914244661137429",
-   "text": "About time gas prices fell back under $3. Ridiculous it took this long.",
-   "url": "https://x.com/TheManlet_King/status/2120914244661137429",
-   "created_at": "2026-11-12T16:18:55+00:00",
-   "sent_at": "2026-11-12T16:18:55+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 13,
-   "repost_count": 3,
-   "like_count": 152,
-   "image": "https://pbs.twimg.com/media/HW8AQ3tWMAATFo4.jpg"
   }
  ]
 }
