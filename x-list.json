@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T23:21:40+00:00",
+ "updated_at": "2026-11-12T23:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121022734012469308",
+   "text": "S1 E7 'Down Neck' | 639 of 704",
+   "url": "https://x.com/SopranosOrder/status/2121022734012469308",
+   "created_at": "2026-11-12T23:30:01+00:00",
+   "sent_at": "2026-11-12T23:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HW3MxnCWAAA8e3q.jpg"
+  },
+  {
+   "id": "2121021381257404497",
+   "text": "none cause they all look possessed here",
+   "url": "https://x.com/mandevil23edits/status/2121021381257404497",
+   "created_at": "2026-11-12T23:24:38+00:00",
+   "sent_at": "2026-11-12T23:24:38+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": ""
+  },
+  {
    "id": "2121020133053284781",
    "text": "I heard we can post 20 pics now for some reason so here are 20 shanebugs and ilyapies",
    "url": "https://x.com/uhbucky/status/2121020133053284781",
@@ -22,8 +50,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 8,
+   "repost_count": 5,
+   "like_count": 58,
    "image": "https://pbs.twimg.com/media/HW9gkcEXwAAvDzh.jpg"
   },
   {
@@ -35,9 +63,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -51,36 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HW3MuXKWcAAk9kL.jpg"
-  },
-  {
-   "id": "2121018475938242838",
-   "text": "somebody stop the russos from talking about doomsday in these interviews",
-   "url": "https://x.com/mandevil23edits/status/2121018475938242838",
-   "created_at": "2026-11-12T23:13:05+00:00",
-   "sent_at": "2026-11-12T23:13:05+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": ""
-  },
-  {
-   "id": "2121015182759797051",
-   "text": "S1 E7 'Down Neck' | 637 of 704",
-   "url": "https://x.com/SopranosOrder/status/2121015182759797051",
-   "created_at": "2026-11-12T23:00:00+00:00",
-   "sent_at": "2026-11-12T23:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HW3MqwjXEAAX6aa.jpg"
   },
   {
    "id": "2121012435327062466",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 43,
+   "like_count": 46,
    "image": "https://pbs.twimg.com/media/HW9KlbEXsAALKt3.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": ""
   },
   {
