@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T20:06:40+00:00",
+ "updated_at": "2026-11-12T20:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2120973657346548073",
+   "text": "S1 E7 'Down Neck' | 626 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120973657346548073",
+   "created_at": "2026-11-12T20:15:00+00:00",
+   "sent_at": "2026-11-12T20:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW3MEkvXQAI_oFe.jpg"
+  },
+  {
    "id": "2120969889036828897",
    "text": "S1 E7 'Down Neck' | 625 of 704",
    "url": "https://x.com/SopranosOrder/status/2120969889036828897",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HW3MBlVWMAAn-UW.jpg"
   },
   {
@@ -37,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2120966106886353062",
-   "text": "S1 E7 'Down Neck' | 624 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120966106886353062",
-   "created_at": "2026-11-12T19:45:00+00:00",
-   "sent_at": "2026-11-12T19:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HW3L9m2XkAAQhVj.jpg"
-  },
-  {
    "id": "2120956744826601975",
    "text": "I\u2019m confused how does this prove anything?",
    "url": "https://x.com/StebobM/status/2120956744826601975",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 33,
-   "like_count": 193,
+   "repost_count": 34,
+   "like_count": 214,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120949560134545408/img/8mFcex-WiDNSgpqg.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 8,
    "repost_count": 0,
-   "like_count": 69,
+   "like_count": 75,
    "image": "https://pbs.twimg.com/media/HW8W8OTW8AAsodk.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 13,
    "repost_count": 2,
-   "like_count": 133,
+   "like_count": 138,
    "image": "https://pbs.twimg.com/media/HW8AQ3tWMAATFo4.jpg"
   }
  ]
