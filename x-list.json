@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T14:51:42+00:00",
+ "updated_at": "2026-11-12T15:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120894395528659336",
+   "text": "S1 E7 'Down Neck' | 605 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120894395528659336",
+   "created_at": "2026-11-12T15:00:02+00:00",
+   "sent_at": "2026-11-12T15:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HW3LAg2XgAEALV6.jpg"
+  },
+  {
+   "id": "2120893087496933638",
+   "text": "this scene is actually so mesmerizing their chemistry is so insane I love yearning",
+   "url": "https://x.com/uhbucky/status/2120893087496933638",
+   "created_at": "2026-11-12T14:54:51+00:00",
+   "sent_at": "2026-11-12T14:54:51+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 10,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2120489589563432960/img/63bb2D6HBpeNpqIt.jpg"
+  },
+  {
    "id": "2120890609624084898",
    "text": "S1 E7 'Down Neck' | 604 of 704",
    "url": "https://x.com/SopranosOrder/status/2120890609624084898",
@@ -22,7 +50,7 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
+   "repost_count": 1,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HW3K81-WwAAUwdi.jpg"
   },
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": ""
-  },
-  {
-   "id": "2120886840098238956",
-   "text": "S1 E7 'Down Neck' | 603 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120886840098238956",
-   "created_at": "2026-11-12T14:30:01+00:00",
-   "sent_at": "2026-11-12T14:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HW3K56GW8AAnVo-.jpg"
   },
   {
    "id": "2120881247362617470",
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 4,
-   "like_count": 23,
+   "like_count": 26,
    "image": ""
   },
   {
