@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T04:51:39+00:00",
+ "updated_at": "2026-11-12T05:06:44+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2120743395987513829",
+   "text": "S1 E7 'Down Neck' | 565 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120743395987513829",
+   "created_at": "2026-11-12T05:00:01+00:00",
+   "sent_at": "2026-11-12T05:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW3IsyOX0AANaaq.jpg"
+  },
   {
    "id": "2120740656020857122",
    "text": "#mywonderwoman",
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HW3Ini9XQAEzE11.jpg"
-  },
-  {
-   "id": "2120735842184614227",
-   "text": "S1 E7 'Down Neck' | 563 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120735842184614227",
-   "created_at": "2026-11-12T04:30:00+00:00",
-   "sent_at": "2026-11-12T04:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HW3IjONWEAEkymy.jpg"
   },
   {
    "id": "2120724156610216032",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2050445504882884608/rdoqP-2h_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 36,
-   "like_count": 645,
+   "repost_count": 38,
+   "like_count": 652,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HKZkWKEWQAAX1p4.jpg"
   },
   {
@@ -149,22 +149,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
    "repost_count": 2,
-   "like_count": 24,
+   "like_count": 25,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HW4PwYAX0AETl2Z.jpg"
-  },
-  {
-   "id": "2120646323691250077",
-   "text": "so far the biggest shock with moving from boston to new york is that it\u2019s 60 degrees out and people are in wool coats",
-   "url": "https://x.com/uhbucky/status/2120646323691250077",
-   "created_at": "2026-11-11T22:34:17+00:00",
-   "sent_at": "2026-11-11T22:34:17+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 12,
-   "repost_count": 1,
-   "like_count": 124,
-   "image": ""
   }
  ]
 }
