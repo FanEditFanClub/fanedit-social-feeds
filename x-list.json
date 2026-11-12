@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T07:21:46+00:00",
+ "updated_at": "2026-11-12T07:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2120781140051038716",
+   "text": "S1 E7 'Down Neck' | 575 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120781140051038716",
+   "created_at": "2026-11-12T07:30:00+00:00",
+   "sent_at": "2026-11-12T07:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HW3JN9nWAAAfETa.jpg"
+  },
   {
    "id": "2120777363579384040",
    "text": "S1 E7 'Down Neck' | 574 of 704",
@@ -35,24 +49,10 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 1,
-   "like_count": 15,
+   "reply_count": 7,
+   "repost_count": 3,
+   "like_count": 23,
    "image": ""
-  },
-  {
-   "id": "2120773592636125609",
-   "text": "S1 E7 'Down Neck' | 573 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120773592636125609",
-   "created_at": "2026-11-12T07:00:01+00:00",
-   "sent_at": "2026-11-12T07:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HW3JH6JXQAACsoV.jpg"
   },
   {
    "id": "2120771766016418073",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -77,9 +77,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 17,
+   "reply_count": 4,
+   "repost_count": 1,
+   "like_count": 24,
    "image": "https://pbs.twimg.com/media/HW59EYjW0AAUMuk.jpg"
   },
   {
