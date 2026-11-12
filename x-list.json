@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T08:36:50+00:00",
+ "updated_at": "2026-11-12T08:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2120800012938711151",
+   "text": "S1 E7 'Down Neck' | 580 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120800012938711151",
+   "created_at": "2026-11-12T08:45:00+00:00",
+   "sent_at": "2026-11-12T08:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HW3JflNXYAAQbqC.jpg"
+  },
+  {
    "id": "2120796792014971047",
    "text": "anne hathaway in big 2026",
    "url": "https://x.com/mandevil23edits/status/2120796792014971047",
@@ -22,8 +36,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
+   "repost_count": 1,
+   "like_count": 21,
    "image": "https://pbs.twimg.com/media/HW6VcPRWYAAufqn.jpg"
   },
   {
@@ -36,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HW3JbV3XUAA2ZE9.jpg"
-  },
-  {
-   "id": "2120792462880850179",
-   "text": "S1 E7 'Down Neck' | 578 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120792462880850179",
-   "created_at": "2026-11-12T08:15:00+00:00",
-   "sent_at": "2026-11-12T08:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
+   "repost_count": 1,
    "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HW3JYMFXAAEF_zs.jpg"
+   "image": "https://pbs.twimg.com/media/HW3JbV3XUAA2ZE9.jpg"
   },
   {
    "id": "2120773624563179699",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 8,
    "repost_count": 5,
-   "like_count": 38,
+   "like_count": 39,
    "image": ""
   },
   {
