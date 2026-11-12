@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T05:36:40+00:00",
+ "updated_at": "2026-11-12T05:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120754800610464057",
+   "text": "good riddance",
+   "url": "https://x.com/mandevil23edits/status/2120754800610464057",
+   "created_at": "2026-11-12T05:45:20+00:00",
+   "sent_at": "2026-11-12T05:45:20+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HW5vQB6XIAAX0L-.jpg"
+  },
+  {
+   "id": "2120754714262622520",
+   "text": "S1 E7 'Down Neck' | 568 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120754714262622520",
+   "created_at": "2026-11-12T05:45:00+00:00",
+   "sent_at": "2026-11-12T05:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW3I2q5W8AAi-_0.jpg"
+  },
+  {
    "id": "2120750939737039321",
    "text": "S1 E7 'Down Neck' | 567 of 704",
    "url": "https://x.com/SopranosOrder/status/2120750939737039321",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HW3IzmGXEAAHjx5.jpg"
-  },
-  {
-   "id": "2120747164376707528",
-   "text": "S1 E7 'Down Neck' | 566 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120747164376707528",
-   "created_at": "2026-11-12T05:15:00+00:00",
-   "sent_at": "2026-11-12T05:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
    "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HW3IvxFXIAA8P-U.jpg"
+   "image": "https://pbs.twimg.com/media/HW3IzmGXEAAHjx5.jpg"
   },
   {
    "id": "2120740656020857122",
@@ -67,20 +81,6 @@
    "repost_count": 0,
    "like_count": 3,
    "image": "https://pbs.twimg.com/media/HW5TYNWWMAAfsMT.jpg"
-  },
-  {
-   "id": "2120723513195511822",
-   "text": "that\u2019s elizabeth holmes from earth 2",
-   "url": "https://x.com/mandevil23edits/status/2120723513195511822",
-   "created_at": "2026-11-12T03:41:01+00:00",
-   "sent_at": "2026-11-12T03:41:01+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": ""
   },
   {
    "id": "2120720749811863589",
