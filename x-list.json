@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T06:36:40+00:00",
+ "updated_at": "2026-11-12T06:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2120769996175684029",
+   "text": "my batman comics ranking after reading batman: the knight",
+   "url": "https://x.com/mandevil23edits/status/2120769996175684029",
+   "created_at": "2026-11-12T06:45:43+00:00",
+   "sent_at": "2026-11-12T06:45:43+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW59EYjW0AAUMuk.jpg"
+  },
+  {
+   "id": "2120769813412999474",
+   "text": "S1 E7 'Down Neck' | 572 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120769813412999474",
+   "created_at": "2026-11-12T06:45:00+00:00",
+   "sent_at": "2026-11-12T06:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW3JDlbXEAAqZJJ.jpg"
+  },
   {
    "id": "2120766038585548814",
    "text": "S1 E7 'Down Neck' | 571 of 704",
@@ -37,36 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HW55RNtWIAAjfoT.jpg"
-  },
-  {
-   "id": "2120762263975989340",
-   "text": "S1 E7 'Down Neck' | 570 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120762263975989340",
-   "created_at": "2026-11-12T06:15:00+00:00",
-   "sent_at": "2026-11-12T06:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HW3I9zoWgAAy_nu.jpg"
-  },
-  {
-   "id": "2120754800610464057",
-   "text": "good riddance",
-   "url": "https://x.com/mandevil23edits/status/2120754800610464057",
-   "created_at": "2026-11-12T05:45:20+00:00",
-   "sent_at": "2026-11-12T05:45:20+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 18,
-   "image": "https://pbs.twimg.com/media/HW5vQB6XIAAX0L-.jpg"
   },
   {
    "id": "2120740656020857122",
