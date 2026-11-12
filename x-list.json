@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T02:51:40+00:00",
+ "updated_at": "2026-11-12T03:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2120713211380965534",
+   "text": "S1 E7 'Down Neck' | 557 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120713211380965534",
+   "created_at": "2026-11-12T03:00:05+00:00",
+   "sent_at": "2026-11-12T03:00:05+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HW3IOlIW8AEXEib.jpg"
+  },
+  {
    "id": "2120709415481569786",
    "text": "S1 E7 'Down Neck' | 556 of 704",
    "url": "https://x.com/SopranosOrder/status/2120709415481569786",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HW3ILvjWUAAclG6.jpg"
-  },
-  {
-   "id": "2120705642075652516",
-   "text": "S1 E7 'Down Neck' | 555 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120705642075652516",
-   "created_at": "2026-11-12T02:30:00+00:00",
-   "sent_at": "2026-11-12T02:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HW3IBPcWMAABMK5.jpg"
   },
   {
    "id": "2120704664039551450",
@@ -50,8 +50,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
+   "repost_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HW5BpkqXgAA5jE2.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 33,
-   "like_count": 583,
+   "like_count": 597,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HKZkWKEWQAAX1p4.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 12,
    "repost_count": 1,
-   "like_count": 104,
+   "like_count": 107,
    "image": ""
   },
   {
@@ -150,20 +150,6 @@
    "reply_count": 4,
    "repost_count": 1,
    "like_count": 29,
-   "image": ""
-  },
-  {
-   "id": "2120625684821229926",
-   "text": "That\u2019s never gonna happens too much money spent on it. And you\u2019re quoting an article from a known grifter page they lie constantly. They\u2019re said Zack Snyder is coming back like 12 times in the past year alone \ud83e\udd74",
-   "url": "https://x.com/StebobM/status/2120625684821229926",
-   "created_at": "2026-11-11T21:12:17+00:00",
-   "sent_at": "2026-11-11T21:12:17+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
    "image": ""
   }
  ]
