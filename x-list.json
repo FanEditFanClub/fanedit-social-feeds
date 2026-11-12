@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T08:21:43+00:00",
+ "updated_at": "2026-11-12T08:36:50+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2120796792014971047",
+   "text": "anne hathaway in big 2026",
+   "url": "https://x.com/mandevil23edits/status/2120796792014971047",
+   "created_at": "2026-11-12T08:32:12+00:00",
+   "sent_at": "2026-11-12T08:32:12+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HW6VcPRWYAAufqn.jpg"
+  },
+  {
+   "id": "2120796240388518259",
+   "text": "S1 E7 'Down Neck' | 579 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120796240388518259",
+   "created_at": "2026-11-12T08:30:00+00:00",
+   "sent_at": "2026-11-12T08:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HW3JbV3XUAA2ZE9.jpg"
+  },
+  {
    "id": "2120792462880850179",
    "text": "S1 E7 'Down Neck' | 578 of 704",
    "url": "https://x.com/SopranosOrder/status/2120792462880850179",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HW3JYMFXAAEF_zs.jpg"
-  },
-  {
-   "id": "2120788697188647206",
-   "text": "S1 E7 'Down Neck' | 577 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120788697188647206",
-   "created_at": "2026-11-12T08:00:02+00:00",
-   "sent_at": "2026-11-12T08:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HW3JVOpXEAE8X2D.jpg"
   },
   {
    "id": "2120773624563179699",
@@ -50,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 8,
-   "repost_count": 4,
-   "like_count": 35,
+   "repost_count": 5,
+   "like_count": 38,
    "image": ""
   },
   {
@@ -67,20 +81,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2120769996175684029",
-   "text": "my batman comics ranking after reading batman: the knight",
-   "url": "https://x.com/mandevil23edits/status/2120769996175684029",
-   "created_at": "2026-11-12T06:45:43+00:00",
-   "sent_at": "2026-11-12T06:45:43+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 1,
-   "like_count": 35,
-   "image": "https://pbs.twimg.com/media/HW59EYjW0AAUMuk.jpg"
   },
   {
    "id": "2120740656020857122",
@@ -108,20 +108,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 3,
-   "image": ""
-  },
-  {
-   "id": "2120690774320771554",
-   "text": "Women are people, not objects\n\nPass it on",
-   "url": "https://x.com/jrsilentboba/status/2120690774320771554",
-   "created_at": "2026-11-12T01:30:55+00:00",
-   "sent_at": "2026-11-12T01:30:55+00:00",
-   "author_name": "jrsilentboba",
-   "author_handle": "jrsilentboba",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2012170182035116032/_wPREpOl_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
    "image": ""
   }
  ]
