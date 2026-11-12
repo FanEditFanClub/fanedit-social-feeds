@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T05:21:40+00:00",
+ "updated_at": "2026-11-12T05:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2120750939737039321",
+   "text": "S1 E7 'Down Neck' | 567 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120750939737039321",
+   "created_at": "2026-11-12T05:30:00+00:00",
+   "sent_at": "2026-11-12T05:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HW3IzmGXEAAHjx5.jpg"
+  },
+  {
    "id": "2120747164376707528",
    "text": "S1 E7 'Down Neck' | 566 of 704",
    "url": "https://x.com/SopranosOrder/status/2120747164376707528",
@@ -25,20 +39,6 @@
    "repost_count": 1,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HW3IvxFXIAA8P-U.jpg"
-  },
-  {
-   "id": "2120743395987513829",
-   "text": "S1 E7 'Down Neck' | 565 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120743395987513829",
-   "created_at": "2026-11-12T05:00:01+00:00",
-   "sent_at": "2026-11-12T05:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HW3IsyOX0AANaaq.jpg"
   },
   {
    "id": "2120740656020857122",
@@ -109,48 +109,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2120652638022689110",
-   "text": "kissing his armpit before kissing his mouth and maintaining eye contact the entire time is insane",
-   "url": "https://x.com/uhbucky/status/2120652638022689110",
-   "created_at": "2026-11-11T22:59:23+00:00",
-   "sent_at": "2026-11-11T22:59:23+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 38,
-   "like_count": 659,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HKZkWKEWQAAX1p4.jpg"
-  },
-  {
-   "id": "2120651201091870840",
-   "text": "Absolutely loved reading that \ud83e\udd72 #HenryCavillSuperman",
-   "url": "https://x.com/StebobM/status/2120651201091870840",
-   "created_at": "2026-11-11T22:53:40+00:00",
-   "sent_at": "2026-11-11T22:53:40+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 5,
-   "image": ""
-  },
-  {
-   "id": "2120649808369029122",
-   "text": "A Taco Glizzy? Just for me? Like you read my mind? IM GOING TO TACO BELL!",
-   "url": "https://x.com/TheManlet_King/status/2120649808369029122",
-   "created_at": "2026-11-11T22:48:08+00:00",
-   "sent_at": "2026-11-11T22:48:08+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 2,
-   "like_count": 26,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HW4PwYAX0AETl2Z.jpg"
   }
  ]
 }
