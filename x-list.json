@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T13:21:41+00:00",
+ "updated_at": "2026-11-12T13:37:09+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2120871738162790431",
+   "text": "S1 E7 'Down Neck' | 599 of 704",
+   "url": "https://x.com/SopranosOrder/status/2120871738162790431",
+   "created_at": "2026-11-12T13:30:00+00:00",
+   "sent_at": "2026-11-12T13:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HW3KtAUXUAAZ2AS.jpg"
+  },
   {
    "id": "2120867960491315536",
    "text": "S1 E7 'Down Neck' | 598 of 704",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HW3KqNBWIAAtfPJ.jpg"
   },
   {
-   "id": "2120864197504348416",
-   "text": "S1 E7 'Down Neck' | 693 of 704",
-   "url": "https://x.com/SopranosOrder/status/2120864197504348416",
-   "created_at": "2026-11-12T13:00:03+00:00",
-   "sent_at": "2026-11-12T13:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HW61mW_WgAAqIwA.jpg"
-  },
-  {
    "id": "2120863707219513685",
    "text": "that first pic\u2026 (yo ass ain\u2019t slick, david)",
    "url": "https://x.com/mandevil23edits/status/2120863707219513685",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1599935205376249857/pu/img/Snq7HM4nvAtbWsI-.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 6,
    "image": ""
   },
   {
