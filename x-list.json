@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T01:51:40+00:00",
+ "updated_at": "2026-11-13T02:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2121060480739344591",
+   "text": "S1 E7 'Down Neck' | 649 of 704",
+   "url": "https://x.com/SopranosOrder/status/2121060480739344591",
+   "created_at": "2026-11-13T02:00:00+00:00",
+   "sent_at": "2026-11-13T02:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW6zR3VWgAASAbp.jpg"
+  },
   {
    "id": "2121056704053784635",
    "text": "S1 E7 'Down Neck' | 648 of 704",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HW6zNjQWIAArwWS.jpg"
   },
   {
-   "id": "2121052932682490142",
-   "text": "S1 E7 'Down Neck' | 647 of 704",
-   "url": "https://x.com/SopranosOrder/status/2121052932682490142",
-   "created_at": "2026-11-13T01:30:01+00:00",
-   "sent_at": "2026-11-13T01:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HW6zJ3OWwAAd_YR.jpg"
-  },
-  {
    "id": "2121049348591030304",
    "text": "the concept of removing blue beetle and supergirl, but not rick flag sr.",
    "url": "https://x.com/mandevil23edits/status/2121049348591030304",
@@ -49,9 +49,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 9,
-   "like_count": 62,
+   "reply_count": 6,
+   "repost_count": 15,
+   "like_count": 83,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1769387804679659520/pu/img/4g1_y3Tb_9P5Yp6d.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 47,
+   "like_count": 52,
    "image": "https://pbs.twimg.com/media/HW95mfhXkAEhamp.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121035690393645056/img/BycdMbw7yv7DnwFb.jpg"
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 54,
-   "like_count": 367,
+   "repost_count": 56,
+   "like_count": 385,
    "image": "https://pbs.twimg.com/media/HW9gkcEXwAAvDzh.jpg"
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 6,
+   "like_count": 5,
    "image": ""
   }
  ]
