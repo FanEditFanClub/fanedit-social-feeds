@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T00:06:41+00:00",
+ "updated_at": "2026-11-13T00:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121035705786794171",
+   "text": "putting sam wilson on the left side while steve rogers is front and center",
+   "url": "https://x.com/mandevil23edits/status/2121035705786794171",
+   "created_at": "2026-11-13T00:21:33+00:00",
+   "sent_at": "2026-11-13T00:21:33+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2121035690393645056/img/BycdMbw7yv7DnwFb.jpg"
+  },
+  {
+   "id": "2121034054980313209",
+   "text": "S1 E7 'Down Neck' | 642 of 704",
+   "url": "https://x.com/SopranosOrder/status/2121034054980313209",
+   "created_at": "2026-11-13T00:15:00+00:00",
+   "sent_at": "2026-11-13T00:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW6y4IQWYAArK4f.jpg"
+  },
+  {
    "id": "2121031829566152805",
    "text": "20 images of spider-man: brand new day (2026)",
    "url": "https://x.com/mandevil23edits/status/2121031829566152805",
@@ -22,8 +50,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 4,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/media/HW9rH7CWoAAOMxL.jpg"
   },
   {
@@ -41,34 +69,6 @@
    "image": "https://pbs.twimg.com/media/HW6y0raWsAAz6EL.jpg"
   },
   {
-   "id": "2121026504943641075",
-   "text": "S1 E7 'Down Neck' | 640 of 704",
-   "url": "https://x.com/SopranosOrder/status/2121026504943641075",
-   "created_at": "2026-11-12T23:45:00+00:00",
-   "sent_at": "2026-11-12T23:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HW3M1CDW4AEaKHA.jpg"
-  },
-  {
-   "id": "2121021381257404497",
-   "text": "none cause they all look possessed here",
-   "url": "https://x.com/mandevil23edits/status/2121021381257404497",
-   "created_at": "2026-11-12T23:24:38+00:00",
-   "sent_at": "2026-11-12T23:24:38+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 10,
-   "image": ""
-  },
-  {
    "id": "2121020133053284781",
    "text": "I heard we can post 20 pics now for some reason so here are 20 shanebugs and ilyapies",
    "url": "https://x.com/uhbucky/status/2121020133053284781",
@@ -77,9 +77,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 12,
-   "like_count": 129,
+   "reply_count": 1,
+   "repost_count": 21,
+   "like_count": 171,
    "image": "https://pbs.twimg.com/media/HW9gkcEXwAAvDzh.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 46,
+   "like_count": 49,
    "image": "https://pbs.twimg.com/media/HW9KlbEXsAALKt3.jpg"
   },
   {
