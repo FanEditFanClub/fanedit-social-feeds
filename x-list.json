@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T20:36:40+00:00",
+ "updated_at": "2026-11-13T20:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121344572953677824",
+   "text": "Watching a film or show with someone is the modern equivalent of the \"come sit, share my fire\" personal time from the wild west all the way back to cavemen.\n\nMan does not share his fireside lightly",
+   "url": "https://x.com/TheManlet_King/status/2121344572953677824",
+   "created_at": "2026-11-13T20:48:53+00:00",
+   "sent_at": "2026-11-13T20:48:53+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2121343594610995634",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 20 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121343594610995634",
+   "created_at": "2026-11-13T20:45:00+00:00",
+   "sent_at": "2026-11-13T20:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW63ljRX0AA7vK2.jpg"
+  },
+  {
    "id": "2121339820202979528",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 19 of 644",
    "url": "https://x.com/SopranosOrder/status/2121339820202979528",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HW63iFBWAAAfD13.jpg"
   },
   {
@@ -50,23 +78,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 1,
+   "like_count": 15,
    "image": ""
-  },
-  {
-   "id": "2121336044582998515",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 18 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121336044582998515",
-   "created_at": "2026-11-13T20:15:00+00:00",
-   "sent_at": "2026-11-13T20:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HW63epHXcAAA2d8.jpg"
   },
   {
    "id": "2121334342723248129",
@@ -92,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 50,
-   "like_count": 666,
+   "repost_count": 67,
+   "like_count": 826,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121312414498988032/img/MpxkqkmHo7Tpof-U.jpg"
   },
   {
