@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T17:36:41+00:00",
+ "updated_at": "2026-11-13T17:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121298295884583397",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 8 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121298295884583397",
+   "created_at": "2026-11-13T17:45:00+00:00",
+   "sent_at": "2026-11-13T17:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HW628HBWEAAdeAt.jpg"
+  },
+  {
+   "id": "2121296818864562526",
+   "text": "the posters from the batman",
+   "url": "https://x.com/mandevil23edits/status/2121296818864562526",
+   "created_at": "2026-11-13T17:39:08+00:00",
+   "sent_at": "2026-11-13T17:39:08+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 2,
+   "like_count": 9,
+   "image": "https://pbs.twimg.com/media/HXBcNfGW8AABmf3.jpg"
+  },
+  {
    "id": "2121294524253077867",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 7 of 644",
    "url": "https://x.com/SopranosOrder/status/2121294524253077867",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HW624_qW4AA_sRj.jpg"
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 2,
-   "image": ""
-  },
-  {
-   "id": "2121290746451960315",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 6 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121290746451960315",
-   "created_at": "2026-11-13T17:15:00+00:00",
-   "sent_at": "2026-11-13T17:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HW621QYWcAA5Tjt.jpg"
+   "image": ""
   },
   {
    "id": "2121265079534706849",
