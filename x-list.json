@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T03:21:41+00:00",
+ "updated_at": "2026-11-13T03:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2121083129117168100",
+   "text": "S1 E7 'Down Neck' | 655 of 704",
+   "url": "https://x.com/SopranosOrder/status/2121083129117168100",
+   "created_at": "2026-11-13T03:30:00+00:00",
+   "sent_at": "2026-11-13T03:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HW6zlbgXMAIZKD3.jpg"
+  },
+  {
    "id": "2121079779927667008",
    "text": "posting an edit tomorrow yay :)",
    "url": "https://x.com/uhbucky/status/2121079779927667008",
@@ -21,9 +35,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 6,
+   "like_count": 15,
    "image": "https://pbs.twimg.com/media/HW-W0SvW0AAamCi.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HW6ziqlXIAA-Plt.jpg"
-  },
-  {
-   "id": "2121075578279202975",
-   "text": "S1 E7 'Down Neck' | 653 of 704",
-   "url": "https://x.com/SopranosOrder/status/2121075578279202975",
-   "created_at": "2026-11-13T03:00:00+00:00",
-   "sent_at": "2026-11-13T03:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HW6zfZsXYAAHAxS.jpg"
   },
   {
    "id": "2121072397386473862",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 7,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/media/HW-QGfIX0AEIto_.jpg"
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 10,
+   "like_count": 13,
    "image": "https://pbs.twimg.com/media/HW-PfdwXgAAkSPh.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 69,
+   "like_count": 71,
    "image": "https://pbs.twimg.com/media/HW95mfhXkAEhamp.jpg"
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 76,
-   "like_count": 488,
+   "reply_count": 3,
+   "repost_count": 81,
+   "like_count": 528,
    "image": "https://pbs.twimg.com/media/HW9gkcEXwAAvDzh.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 40,
+   "like_count": 39,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HW9Zj6vXYAAFcPT.jpg"
   },
   {
@@ -161,20 +161,6 @@
    "author_name": "Fan Edit Fan Club",
    "author_handle": "FanEditFanClub",
    "author_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2120986691825774816",
-   "text": "https://www.reddit.com/r/TheExorcist/s/YqM9LZSMrn @RIPStacyKeach",
-   "url": "https://x.com/VasGlorious/status/2120986691825774816",
-   "created_at": "2026-11-12T21:06:48+00:00",
-   "sent_at": "2026-11-12T21:06:48+00:00",
-   "author_name": "Vincent Stauffer",
-   "author_handle": "VasGlorious",
-   "author_avatar": "https://pbs.twimg.com/profile_images/445810843234492416/93lDBCmP_normal.jpeg",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
