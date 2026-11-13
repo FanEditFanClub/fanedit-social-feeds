@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T15:21:49+00:00",
+ "updated_at": "2026-11-13T15:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121265079534706849",
+   "text": "Interesting line here \u201cWe took fan feedback to develop a new hockey mask that we think longtime, classic fans are going to love.\" \ud83e\udd14",
+   "url": "https://x.com/StebobM/status/2121265079534706849",
+   "created_at": "2026-11-13T15:33:00+00:00",
+   "sent_at": "2026-11-13T15:33:00+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2121264323016216635",
+   "text": "S1 E7 'Down Neck' | 703 of 704",
+   "url": "https://x.com/SopranosOrder/status/2121264323016216635",
+   "created_at": "2026-11-13T15:30:00+00:00",
+   "sent_at": "2026-11-13T15:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HW62JLwWIAAxyzk.jpg"
+  },
+  {
    "id": "2121260547781918816",
    "text": "S1 E7 'Down Neck' | 702 of 704",
    "url": "https://x.com/SopranosOrder/status/2121260547781918816",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HW62GC4XMAAkVPn.jpg"
   },
   {
@@ -38,34 +66,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 1,
-   "image": ""
-  },
-  {
-   "id": "2121256776482136296",
-   "text": "S1 E7 'Down Neck' | 701 of 704",
-   "url": "https://x.com/SopranosOrder/status/2121256776482136296",
-   "created_at": "2026-11-13T15:00:01+00:00",
-   "sent_at": "2026-11-13T15:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HW62C3HWIAAofXP.jpg"
-  },
-  {
-   "id": "2121253663884943751",
-   "text": "My requests\n\n- set it in the 1980s;\n- bring back Derek Mears\n- bring back Harry Manfredini (at least to do a theme)\n- use the classic Jason look\n- don\u2019t make it Gen Z\n- create likeable characters so we care when Jason F\u2019s them up\n\n#FridayThe13th",
-   "url": "https://x.com/StebobM/status/2121253663884943751",
-   "created_at": "2026-11-13T14:47:39+00:00",
-   "sent_at": "2026-11-13T14:47:39+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 0,
-   "like_count": 5,
    "image": ""
   },
   {
