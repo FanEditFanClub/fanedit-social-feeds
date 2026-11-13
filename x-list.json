@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T13:06:41+00:00",
+ "updated_at": "2026-11-13T13:21:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,32 +13,46 @@
  },
  "posts": [
   {
-   "id": "2121222798781932003",
-   "text": "S1 E7 'Down Neck' | 692 of 704",
-   "url": "https://x.com/SopranosOrder/status/2121222798781932003",
-   "created_at": "2026-11-13T12:45:00+00:00",
-   "sent_at": "2026-11-13T12:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "id": "2121231839998189790",
+   "text": "Woah holy fuck!\n\nAnd Steve Miner coming back is crazy\n\n#FridayThe13th",
+   "url": "https://x.com/StebobM/status/2121231839998189790",
+   "created_at": "2026-11-13T13:20:55+00:00",
+   "sent_at": "2026-11-13T13:20:55+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HW61iSzXIAA4kDS.jpg"
+   "like_count": 0,
+   "image": ""
   },
   {
-   "id": "2121219024897937642",
-   "text": "S1 E7 'Down Neck' | 691 of 704",
-   "url": "https://x.com/SopranosOrder/status/2121219024897937642",
-   "created_at": "2026-11-13T12:30:00+00:00",
-   "sent_at": "2026-11-13T12:30:00+00:00",
+   "id": "2121230349090873581",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 86 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121230349090873581",
+   "created_at": "2026-11-13T13:15:00+00:00",
+   "sent_at": "2026-11-13T13:15:00+00:00",
    "author_name": "Every Moment of The Sopranos in Order",
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HW61e9AXMAAuv72.jpg"
+   "image": "https://pbs.twimg.com/media/HW8zT3NWcAA2TeO.jpg"
+  },
+  {
+   "id": "2121230348147392809",
+   "text": "S1 E7 'Down Neck' | 694 of 704",
+   "url": "https://x.com/SopranosOrder/status/2121230348147392809",
+   "created_at": "2026-11-13T13:15:00+00:00",
+   "sent_at": "2026-11-13T13:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HW61pREXcAAEQct.jpg"
   },
   {
    "id": "2121193655813939616",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HW_-Yh0WoAAtMqu.jpg"
-  },
-  {
-   "id": "2121188997670318538",
-   "text": "If you keep David, you\u2019ve got to keep Rachel as well, plus all the Daily Planet cast and Hoult as Lex too",
-   "url": "https://x.com/StebobM/status/2121188997670318538",
-   "created_at": "2026-11-13T10:30:41+00:00",
-   "sent_at": "2026-11-13T10:30:41+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": ""
   },
   {
    "id": "2121180398143041775",
@@ -77,9 +77,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 8,
-   "like_count": 48,
+   "like_count": 52,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2118403878022422528/img/NrMwwwrGzpg09mnJ.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 26,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/media/HW_bym_WoAARFUd.jpg"
   }
  ]
