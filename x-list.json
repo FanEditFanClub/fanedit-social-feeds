@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T05:51:40+00:00",
+ "updated_at": "2026-11-13T06:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2121120884505338097",
+   "text": "S1 E7 'Down Neck' | 665 of 704",
+   "url": "https://x.com/SopranosOrder/status/2121120884505338097",
+   "created_at": "2026-11-13T06:00:02+00:00",
+   "sent_at": "2026-11-13T06:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW60JgNXgAAjEo1.jpg"
+  },
+  {
    "id": "2121117353610211826",
    "text": "S1 E7 'Down Neck' | 664 of 704",
    "url": "https://x.com/SopranosOrder/status/2121117353610211826",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HW60GVTXAAAA5wi.jpg"
-  },
-  {
-   "id": "2121113075390808532",
-   "text": "S1 E7 'Down Neck' | 663 of 704",
-   "url": "https://x.com/SopranosOrder/status/2121113075390808532",
-   "created_at": "2026-11-13T05:29:00+00:00",
-   "sent_at": "2026-11-13T05:29:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HW60BoMXIAAghxe.jpg"
+   "image": "https://pbs.twimg.com/media/HW60GVTXAAAA5wi.jpg"
   },
   {
    "id": "2121103180948029711",
@@ -50,8 +50,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 21,
+   "repost_count": 1,
+   "like_count": 22,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1348091851681779713/pu/img/-34bHDT1tXgeJRQZ.jpg"
   },
   {
@@ -63,9 +63,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 6,
+   "reply_count": 7,
    "repost_count": 2,
-   "like_count": 22,
+   "like_count": 23,
    "image": "https://pbs.twimg.com/media/HW-kJ2-XgAAR49T.jpg"
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "The2019Cut",
    "author_avatar": "https://pbs.twimg.com/profile_images/2119775894478680064/id7IFFp4_normal.jpg",
    "reply_count": 11,
-   "repost_count": 14,
-   "like_count": 120,
+   "repost_count": 15,
+   "like_count": 129,
    "image": "https://pbs.twimg.com/media/HW-dpRZXcAAzmIl.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 4,
-   "like_count": 97,
+   "like_count": 98,
    "image": "https://pbs.twimg.com/media/HW95mfhXkAEhamp.jpg"
   },
   {
@@ -134,23 +134,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
-   "repost_count": 93,
-   "like_count": 665,
+   "repost_count": 95,
+   "like_count": 680,
    "image": "https://pbs.twimg.com/media/HW9gkcEXwAAvDzh.jpg"
-  },
-  {
-   "id": "2121012435327062466",
-   "text": "I saw the end of 'Before GTA 6' jokes before Elder Scrolls 6.",
-   "url": "https://x.com/TheManlet_King/status/2121012435327062466",
-   "created_at": "2026-11-12T22:49:05+00:00",
-   "sent_at": "2026-11-12T22:49:05+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 2,
-   "like_count": 42,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HW9Zj6vXYAAFcPT.jpg"
   }
  ]
 }
