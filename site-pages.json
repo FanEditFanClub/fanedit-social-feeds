@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T10:07:15+00:00",
+ "updated_at": "2026-11-13T10:22:09+00:00",
  "source": "https://www.faneditfanclub.com",
  "nav": [
   {
@@ -1639,6 +1639,13 @@
      "type": "text",
      "tag": "li",
      "html": "<a href=\"https://discord.gg/bD9u7sHE7H\" target=\"_blank\" rel=\"noopener noreferrer\">The Star Wars Trilogy Community</a>",
+     "align": "left",
+     "font": "body"
+    },
+    {
+     "type": "text",
+     "tag": "p",
+     "html": "<a href=\"https://discord.gg/ZpJVvjm5Bz\" target=\"_blank\" rel=\"noopener noreferrer\">The Workprint Fan Edit And Format Appreciation Society</a>",
      "align": "left",
      "font": "body"
     },

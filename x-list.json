@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T10:06:50+00:00",
+ "updated_at": "2026-11-13T10:21:45+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121185640515527146",
+   "text": "I\u2019ve always been against a merger because I don\u2019t feel like the worlds fit together. But, given the state of things I feel it might be the smartest play. I still think they\u2019d need to soft boot, both new suits to signal a new era and as I\u2019ve said elsewhere, I would do the Trinity.",
+   "url": "https://x.com/StebobM/status/2121185640515527146",
+   "created_at": "2026-11-13T10:17:21+00:00",
+   "sent_at": "2026-11-13T10:17:21+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HW_3GMwXoAAF6sk.jpg"
+  },
+  {
+   "id": "2121185049957831088",
+   "text": "S1 E7 'Down Neck' | 682 of 704",
+   "url": "https://x.com/SopranosOrder/status/2121185049957831088",
+   "created_at": "2026-11-13T10:15:00+00:00",
+   "sent_at": "2026-11-13T10:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HW61CgOX0AE3-8Z.jpg"
+  },
+  {
    "id": "2121181417178530262",
    "text": "Something like this",
    "url": "https://x.com/StebobM/status/2121181417178530262",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HW_zQbbXAAAXyX7.jpg"
   },
   {
@@ -50,8 +78,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
+   "repost_count": 1,
+   "like_count": 13,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2118403878022422528/img/NrMwwwrGzpg09mnJ.jpg"
   },
   {
@@ -65,36 +93,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/media/HW_bym_WoAARFUd.jpg"
-  },
-  {
-   "id": "2121177500768518423",
-   "text": "S1 E7 'Down Neck' | 680 of 704",
-   "url": "https://x.com/SopranosOrder/status/2121177500768518423",
-   "created_at": "2026-11-13T09:45:00+00:00",
-   "sent_at": "2026-11-13T09:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HW608EGXwAAngZb.jpg"
-  },
-  {
-   "id": "2121175551927111729",
-   "text": "If so give him a decent suit and something in more in line with a comic book aesthetic. Basically abandon the realism armour BS.\n\nSomething more like this (trunks optional)",
-   "url": "https://x.com/StebobM/status/2121175551927111729",
-   "created_at": "2026-11-13T09:37:15+00:00",
-   "sent_at": "2026-11-13T09:37:15+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HW_t6_hW0AAFnhi.jpg"
   }
  ]
 }
