@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T00:51:40+00:00",
+ "updated_at": "2026-11-13T01:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2121045984524583418",
+   "text": "I'm calling it now...\n\nMatt Reeves and Robert Pattinson will not return for The Batman III.",
+   "url": "https://x.com/JoshNitsche/status/2121045984524583418",
+   "created_at": "2026-11-13T01:02:24+00:00",
+   "sent_at": "2026-11-13T01:02:24+00:00",
+   "author_name": "Feline Good, P.I.",
+   "author_handle": "JoshNitsche",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2111277439284654080/QcJnHeIg_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2121045387360477572",
+   "text": "S1 E7 'Down Neck' | 645 of 704",
+   "url": "https://x.com/SopranosOrder/status/2121045387360477572",
+   "created_at": "2026-11-13T01:00:02+00:00",
+   "sent_at": "2026-11-13T01:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HW6zCzaX0AAKkeP.jpg"
+  },
+  {
+   "id": "2121045029275697430",
+   "text": "the full cast of mcu x-men so far",
+   "url": "https://x.com/mandevil23edits/status/2121045029275697430",
+   "created_at": "2026-11-13T00:58:36+00:00",
+   "sent_at": "2026-11-13T00:58:36+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW93L6aWMAAJsY2.jpg"
+  },
+  {
    "id": "2121041604483911897",
    "text": "S1 E7 'Down Neck' | 644 of 704",
    "url": "https://x.com/SopranosOrder/status/2121041604483911897",
@@ -23,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HW6y-gZXcAAlfUa.jpg"
-  },
-  {
-   "id": "2121037829975531608",
-   "text": "S1 E7 'Down Neck' | 643 of 704",
-   "url": "https://x.com/SopranosOrder/status/2121037829975531608",
-   "created_at": "2026-11-13T00:30:00+00:00",
-   "sent_at": "2026-11-13T00:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HW6y7c_XoAECMd_.jpg"
   },
   {
    "id": "2121035705786794171",
@@ -51,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121035690393645056/img/BycdMbw7yv7DnwFb.jpg"
-  },
-  {
-   "id": "2121031829566152805",
-   "text": "20 images of spider-man: brand new day (2026)",
-   "url": "https://x.com/mandevil23edits/status/2121031829566152805",
-   "created_at": "2026-11-13T00:06:09+00:00",
-   "sent_at": "2026-11-13T00:06:09+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 4,
-   "like_count": 35,
-   "image": "https://pbs.twimg.com/media/HW9rH7CWoAAOMxL.jpg"
   },
   {
    "id": "2121020133053284781",
@@ -78,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 32,
-   "like_count": 260,
+   "repost_count": 40,
+   "like_count": 304,
    "image": "https://pbs.twimg.com/media/HW9gkcEXwAAvDzh.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 52,
+   "like_count": 53,
    "image": "https://pbs.twimg.com/media/HW9KlbEXsAALKt3.jpg"
   },
   {
@@ -165,20 +179,6 @@
    "repost_count": 0,
    "like_count": 5,
    "image": ""
-  },
-  {
-   "id": "2120950790902972542",
-   "text": "Gonna be honest I have a feeling these Man of Tomorrow is a disaster \u201crumours\u201d are part of these Paramount hit pieces so they can claim they saved the movie.\n\nThis isn\u2019t a defence of James Gunn tweet either I think his run has been flat but it\u2019s clear what\u2019s going on.",
-   "url": "https://x.com/StebobM/status/2120950790902972542",
-   "created_at": "2026-11-12T18:44:08+00:00",
-   "sent_at": "2026-11-12T18:44:08+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 2,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HW8hf0JWIAA4NPW.jpg"
   }
  ]
 }
