@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T12:51:40+00:00",
+ "updated_at": "2026-11-13T13:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 8,
-   "like_count": 46,
+   "like_count": 48,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2118403878022422528/img/NrMwwwrGzpg09mnJ.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 23,
+   "like_count": 26,
    "image": "https://pbs.twimg.com/media/HW_bym_WoAARFUd.jpg"
   }
  ]
