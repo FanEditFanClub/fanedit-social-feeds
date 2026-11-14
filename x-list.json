@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T07:36:39+00:00",
+ "updated_at": "2026-11-14T07:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121509688747454515",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 64 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121509688747454515",
+   "created_at": "2026-11-14T07:45:00+00:00",
+   "sent_at": "2026-11-14T07:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW8yGFSWcAAUvul.jpg"
+  },
+  {
+   "id": "2121507705210941900",
+   "text": "Oh wow\n\nI like the name Jason Returns if that ends up being the title\n\n#FridayThe13th",
+   "url": "https://x.com/StebobM/status/2121507705210941900",
+   "created_at": "2026-11-14T07:37:07+00:00",
+   "sent_at": "2026-11-14T07:37:07+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2121505916038332648",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 63 of 644",
    "url": "https://x.com/SopranosOrder/status/2121505916038332648",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HW8yB8mWwAAfbua.jpg"
   },
   {
@@ -41,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2121502139264741776",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 62 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121502139264741776",
-   "created_at": "2026-11-14T07:15:00+00:00",
-   "sent_at": "2026-11-14T07:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HW8x-rKWEAI6MlY.jpg"
-  },
-  {
    "id": "2121459070678802583",
    "text": "20 images of avengers: doomsday (2026)",
    "url": "https://x.com/mandevil23edits/status/2121459070678802583",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 5,
    "repost_count": 10,
-   "like_count": 103,
+   "like_count": 105,
    "image": "https://pbs.twimg.com/media/HXDvxrCW8AAf5XP.jpg"
   },
   {
@@ -81,20 +95,6 @@
    "repost_count": 4,
    "like_count": 22,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXDj3KPX0AAtwzz.jpg"
-  },
-  {
-   "id": "2121425202659602797",
-   "text": "I could make an entire film for $102,725. Live action with real people, on location with practical fx.\n\nIt wouldn't be ironic or exploitative, but an actual real film you would go see.\n\nI need to figure out how to crowdfund or something because I belive in this.",
-   "url": "https://x.com/TheManlet_King/status/2121425202659602797",
-   "created_at": "2026-11-14T02:09:17+00:00",
-   "sent_at": "2026-11-14T02:09:17+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 3,
-   "like_count": 117,
-   "image": ""
   }
  ]
 }
