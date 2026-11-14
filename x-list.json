@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T18:21:39+00:00",
+ "updated_at": "2026-11-14T18:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2121672010883321981",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 107 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121672010883321981",
+   "created_at": "2026-11-14T18:30:00+00:00",
+   "sent_at": "2026-11-14T18:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HW80buNWYAAnbmb.jpg"
+  },
+  {
    "id": "2121669776636297463",
    "text": "Every time I think about fast food I have a mental picture in my head of a man shouting \"Goy piggy! Fat little goy piggy!\" With a teary eyed pig responding 'ooooink oooooiiink' in the voice of an anime girl, as excitedly as possible.\n\nLong story short I still got Taco Bell.",
    "url": "https://x.com/TheManlet_King/status/2121669776636297463",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 7,
    "image": ""
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HW80YoxWYAAqE-7.jpg"
-  },
-  {
-   "id": "2121664461115191569",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 105 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121664461115191569",
-   "created_at": "2026-11-14T18:00:00+00:00",
-   "sent_at": "2026-11-14T18:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HW80VXvW0AAxqyb.jpg"
   },
   {
    "id": "2121663101787316290",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 21,
+   "like_count": 26,
    "image": ""
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 13,
+   "like_count": 16,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120027349035192320/img/eBRI9cpMkAGYHEBD.jpg"
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
-   "repost_count": 29,
-   "like_count": 1083,
+   "repost_count": 32,
+   "like_count": 1266,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HRuH9vzakAA5DJ1.jpg"
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 6,
+   "reply_count": 7,
    "repost_count": 16,
-   "like_count": 184,
+   "like_count": 187,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121611327143587840/img/DueyOd41jfrNKsfv.jpg"
   },
   {
