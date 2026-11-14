@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T17:51:39+00:00",
+ "updated_at": "2026-11-14T18:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121664461115191569",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 105 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121664461115191569",
+   "created_at": "2026-11-14T18:00:00+00:00",
+   "sent_at": "2026-11-14T18:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW80VXvW0AAxqyb.jpg"
+  },
+  {
+   "id": "2121663101787316290",
+   "text": "What medicinal fact is openly denied by Christians as a whole and just Christians?",
+   "url": "https://x.com/TheManlet_King/status/2121663101787316290",
+   "created_at": "2026-11-14T17:54:36+00:00",
+   "sent_at": "2026-11-14T17:54:36+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 13,
+   "image": ""
+  },
+  {
    "id": "2121660684161163274",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 104 of 644",
    "url": "https://x.com/SopranosOrder/status/2121660684161163274",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HW80RMcXwAA9MiE.jpg"
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 7,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120027349035192320/img/eBRI9cpMkAGYHEBD.jpg"
-  },
-  {
-   "id": "2121656911690928273",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 103 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121656911690928273",
-   "created_at": "2026-11-14T17:30:00+00:00",
-   "sent_at": "2026-11-14T17:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HW80N3EWAAAt3s7.jpg"
   },
   {
    "id": "2121641641773539391",
@@ -64,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
-   "repost_count": 20,
-   "like_count": 744,
+   "repost_count": 27,
+   "like_count": 909,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HRuH9vzakAA5DJ1.jpg"
   },
   {
@@ -92,8 +106,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 6,
-   "repost_count": 15,
-   "like_count": 174,
+   "repost_count": 16,
+   "like_count": 177,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121611327143587840/img/DueyOd41jfrNKsfv.jpg"
   },
   {
