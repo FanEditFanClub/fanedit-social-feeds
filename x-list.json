@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T00:36:39+00:00",
+ "updated_at": "2026-11-14T00:52:54+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2121403992731193698",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 36 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121403992731193698",
+   "created_at": "2026-11-14T00:45:00+00:00",
+   "sent_at": "2026-11-14T00:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HW8wgjIXQAA76nD.jpg"
+  },
+  {
+   "id": "2121403976255955415",
+   "text": "It would be *really* cool if I played a part in the film. I think that would be the best thing to do.",
+   "url": "https://x.com/TheManlet_King/status/2121403976255955415",
+   "created_at": "2026-11-14T00:44:56+00:00",
+   "sent_at": "2026-11-14T00:44:56+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 6,
+   "image": ""
+  },
+  {
+   "id": "2121402099388834198",
+   "text": "going from \u201crestorethesnyderverse\u201d to \u201creloadthegunn\u201d",
+   "url": "https://x.com/mandevil23edits/status/2121402099388834198",
+   "created_at": "2026-11-14T00:37:28+00:00",
+   "sent_at": "2026-11-14T00:37:28+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 5,
+   "repost_count": 1,
+   "like_count": 13,
+   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1240137267739582469/pu/img/97TLze_LT8zqrmQ0.jpg"
+  },
+  {
    "id": "2121400217803338007",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 35 of 644",
    "url": "https://x.com/SopranosOrder/status/2121400217803338007",
@@ -22,23 +64,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HW8wcxnXMAAjPLE.jpg"
-  },
-  {
-   "id": "2121396442652955058",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 34 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121396442652955058",
-   "created_at": "2026-11-14T00:15:00+00:00",
-   "sent_at": "2026-11-14T00:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HW8wZM_WEAAJcXL.jpg"
   },
   {
    "id": "2121387926965670198",
@@ -64,23 +92,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 5,
-   "like_count": 26,
+   "repost_count": 6,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXCtxNWWgAA3Omu.jpg"
-  },
-  {
-   "id": "2121370605391896995",
-   "text": "The true ranking of the best slasher franchise.",
-   "url": "https://x.com/TheManlet_King/status/2121370605391896995",
-   "created_at": "2026-11-13T22:32:20+00:00",
-   "sent_at": "2026-11-13T22:32:20+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 11,
-   "image": "https://pbs.twimg.com/media/HXCfUhvXgAAoK9s.jpg"
   },
   {
    "id": "2121368735944429832",
@@ -120,23 +134,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 9,
-   "repost_count": 114,
-   "like_count": 430,
+   "repost_count": 117,
+   "like_count": 461,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121312872466698240/img/PhltvqDSHGz8s0RL.jpg"
-  },
-  {
-   "id": "2121339446683684940",
-   "text": "top 3 best lgbt film ever made",
-   "url": "https://x.com/mandevil23edits/status/2121339446683684940",
-   "created_at": "2026-11-13T20:28:31+00:00",
-   "sent_at": "2026-11-13T20:28:31+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 23,
-   "image": ""
   },
   {
    "id": "2121334342723248129",
@@ -162,8 +162,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 186,
-   "like_count": 3006,
+   "repost_count": 198,
+   "like_count": 3113,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121312414498988032/img/MpxkqkmHo7Tpof-U.jpg"
   }
  ]
