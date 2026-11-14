@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T16:21:41+00:00",
+ "updated_at": "2026-11-14T16:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121641811190174044",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 99 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121641811190174044",
+   "created_at": "2026-11-14T16:30:00+00:00",
+   "sent_at": "2026-11-14T16:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HW80A9hWAAEkm2V.jpg"
+  },
+  {
+   "id": "2121641641773539391",
+   "text": "shane just blatantly staring at ilya\u2019s body and looking nowhere near his face is killing me so bad",
+   "url": "https://x.com/uhbucky/status/2121641641773539391",
+   "created_at": "2026-11-14T16:29:20+00:00",
+   "sent_at": "2026-11-14T16:29:20+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 30,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HRuH9vzakAA5DJ1.jpg"
+  },
+  {
    "id": "2121638034382942607",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 98 of 644",
    "url": "https://x.com/SopranosOrder/status/2121638034382942607",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HW8z9-TXYAAGZxI.jpg"
-  },
-  {
-   "id": "2121634267855716553",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 97 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121634267855716553",
-   "created_at": "2026-11-14T16:00:02+00:00",
-   "sent_at": "2026-11-14T16:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HW8z6_8WUAAgTJ0.jpg"
   },
   {
    "id": "2121619264780300441",
@@ -64,8 +78,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 6,
-   "repost_count": 11,
-   "like_count": 119,
+   "repost_count": 12,
+   "like_count": 132,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121611327143587840/img/DueyOd41jfrNKsfv.jpg"
   },
   {
