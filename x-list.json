@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T19:06:39+00:00",
+ "updated_at": "2026-11-14T19:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2121683332937244689",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 110 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121683332937244689",
+   "created_at": "2026-11-14T19:15:00+00:00",
+   "sent_at": "2026-11-14T19:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW80mZgWoAAqZBH.jpg"
+  },
+  {
    "id": "2121679629132161441",
    "text": "hi I\u2019ll probs delete this later but does anyone have any tips for managing period symptoms? my cramp pain has been bordering on unbearable and my nausea and dizziness have gotten so bad and I am desperate for some relief. I take midol and use a heating pad but idk what else to do",
    "url": "https://x.com/uhbucky/status/2121679629132161441",
@@ -21,9 +35,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 8,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 8,
    "image": ""
   },
   {
@@ -37,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HW80jC7XIAEG_Tw.jpg"
   },
   {
@@ -50,23 +64,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 7,
+   "repost_count": 5,
+   "like_count": 19,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2120207238514008065/img/WSBwZwHeN72Q-5Ro.jpg"
-  },
-  {
-   "id": "2121676871511523572",
-   "text": "My physical media collection\u2026 \ud83d\udcc0 \ud83d\udcbf",
-   "url": "https://x.com/SopranosOrder/status/2121676871511523572",
-   "created_at": "2026-11-14T18:49:19+00:00",
-   "sent_at": "2026-11-14T18:49:19+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXG116uXwAANdSx.jpg"
   },
   {
    "id": "2121673856465404144",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 2,
-   "like_count": 17,
+   "like_count": 22,
    "image": "https://pbs.twimg.com/media/HXGzA_5XgAA05Rg.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 36,
+   "like_count": 46,
    "image": ""
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
-   "repost_count": 40,
-   "like_count": 1597,
+   "repost_count": 42,
+   "like_count": 1776,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HRuH9vzakAA5DJ1.jpg"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 7,
-   "repost_count": 20,
-   "like_count": 203,
+   "repost_count": 21,
+   "like_count": 206,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121611327143587840/img/DueyOd41jfrNKsfv.jpg"
   },
   {
