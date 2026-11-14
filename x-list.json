@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T14:21:43+00:00",
+ "updated_at": "2026-11-14T14:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2121611613992374370",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 91 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121611613992374370",
+   "created_at": "2026-11-14T14:30:01+00:00",
+   "sent_at": "2026-11-14T14:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW8zk7xWEAAzsl3.jpg"
+  },
+  {
+   "id": "2121611380050550987",
+   "text": "Top (00)7 random Pierce Brosnan noises",
+   "url": "https://x.com/tomsmason91/status/2121611380050550987",
+   "created_at": "2026-11-14T14:29:05+00:00",
+   "sent_at": "2026-11-14T14:29:05+00:00",
+   "author_name": "Tom Mason",
+   "author_handle": "tomsmason91",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 2,
+   "like_count": 7,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2121611327143587840/img/DueyOd41jfrNKsfv.jpg"
+  },
   {
    "id": "2121607835544965496",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 90 of 644",
@@ -27,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HW8zh4eX0AAFGml.jpg"
   },
   {
-   "id": "2121604063309734133",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 89 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121604063309734133",
-   "created_at": "2026-11-14T14:00:00+00:00",
-   "sent_at": "2026-11-14T14:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HW8ze89WYAASECq.jpg"
-  },
-  {
    "id": "2121596791946981566",
    "text": "and the only good horror films here is obsession, resident evil, backrooms",
    "url": "https://x.com/mandevil23edits/status/2121596791946981566",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 25,
+   "like_count": 26,
    "image": "https://pbs.twimg.com/media/HXFnFQaXQAAbkzV.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXFFMljXQAAjOJ_.jpg"
   }
  ]
