@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T01:51:42+00:00",
+ "updated_at": "2026-11-14T02:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121422868911157513",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 41 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121422868911157513",
+   "created_at": "2026-11-14T02:00:00+00:00",
+   "sent_at": "2026-11-14T02:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HW8wyztXoAAWk2k.jpg"
+  },
+  {
+   "id": "2121422121393856982",
+   "text": "i wonder why",
+   "url": "https://x.com/mandevil23edits/status/2121422121393856982",
+   "created_at": "2026-11-14T01:57:02+00:00",
+   "sent_at": "2026-11-14T01:57:02+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2120382005208596480/img/7bevWMbEMwIEApog.jpg"
+  },
+  {
    "id": "2121419091751915892",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 40 of 644",
    "url": "https://x.com/SopranosOrder/status/2121419091751915892",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HW8wvLzXsAAc-lT.jpg"
-  },
-  {
-   "id": "2121415317654298940",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 39 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121415317654298940",
-   "created_at": "2026-11-14T01:30:00+00:00",
-   "sent_at": "2026-11-14T01:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HW8wrlTW4AA2qMR.jpg"
   },
   {
    "id": "2121408077757136923",
@@ -50,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 2,
-   "like_count": 40,
+   "repost_count": 3,
+   "like_count": 43,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2110368410144026624/img/c1RR-WcVGGJGVyX2.jpg"
   },
   {
@@ -69,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2121402099388834198",
-   "text": "going from \u201crestorethesnyderverse\u201d to \u201creloadthegunn\u201d",
-   "url": "https://x.com/mandevil23edits/status/2121402099388834198",
-   "created_at": "2026-11-14T00:37:28+00:00",
-   "sent_at": "2026-11-14T00:37:28+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 7,
-   "repost_count": 4,
-   "like_count": 51,
-   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1240137267739582469/pu/img/97TLze_LT8zqrmQ0.jpg"
-  },
-  {
    "id": "2121387926965670198",
    "text": "\"WAIT black shield man! We have t- ah oh ow ow! Sorry I stretched a little far estopping you. It's got a limit you know.\"",
    "url": "https://x.com/TheManlet_King/status/2121387926965670198",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 22,
+   "like_count": 23,
    "image": "https://pbs.twimg.com/media/HXCvE46WIAEiqNA.jpg"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 10,
-   "repost_count": 172,
-   "like_count": 728,
+   "repost_count": 188,
+   "like_count": 830,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121312872466698240/img/PhltvqDSHGz8s0RL.jpg"
   },
   {
