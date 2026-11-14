@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T10:21:40+00:00",
+ "updated_at": "2026-11-14T10:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2121551215246897231",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 75 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121551215246897231",
+   "created_at": "2026-11-14T10:30:00+00:00",
+   "sent_at": "2026-11-14T10:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HW8ytV0XAAA6F_N.jpg"
+  },
+  {
    "id": "2121547480110428646",
    "text": "That scene was funny as fuck",
    "url": "https://x.com/StebobM/status/2121547480110428646",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2121543662647513375",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 73 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121543662647513375",
-   "created_at": "2026-11-14T10:00:00+00:00",
-   "sent_at": "2026-11-14T10:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HW8ym8xXUAAm1ck.jpg"
-  },
-  {
    "id": "2121459070678802583",
    "text": "20 images of avengers: doomsday (2026)",
    "url": "https://x.com/mandevil23edits/status/2121459070678802583",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 5,
    "repost_count": 11,
-   "like_count": 133,
+   "like_count": 135,
    "image": "https://pbs.twimg.com/media/HXDvxrCW8AAf5XP.jpg"
   }
  ]
