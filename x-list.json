@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T03:21:41+00:00",
+ "updated_at": "2026-11-15T03:36:45+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121807909239640539",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 143 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121807909239640539",
+   "created_at": "2026-11-15T03:30:01+00:00",
+   "sent_at": "2026-11-15T03:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXFYRmBWwAAVjR0.jpg"
+  },
+  {
+   "id": "2121807807896793227",
+   "text": "this takes me when i first read the amazing fantasy comic when i was a teenager",
+   "url": "https://x.com/mandevil23edits/status/2121807807896793227",
+   "created_at": "2026-11-15T03:29:37+00:00",
+   "sent_at": "2026-11-15T03:29:37+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2121804129026637874",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 142 of 644",
    "url": "https://x.com/SopranosOrder/status/2121804129026637874",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HXFYOcUXkAEOPVO.jpg"
-  },
-  {
-   "id": "2121800102335410632",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 141 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121800102335410632",
-   "created_at": "2026-11-15T02:59:00+00:00",
-   "sent_at": "2026-11-15T02:59:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXFYLyjXkAAHLcs.jpg"
   },
   {
    "id": "2121790518912844278",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 4,
-   "like_count": 24,
+   "like_count": 33,
    "image": ""
-  },
-  {
-   "id": "2121773206537158892",
-   "text": "bob the void",
-   "url": "https://x.com/mandevil23edits/status/2121773206537158892",
-   "created_at": "2026-11-15T01:12:07+00:00",
-   "sent_at": "2026-11-15T01:12:07+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 20,
-   "image": "https://pbs.twimg.com/media/HXINe-DXUAAlCnZ.jpg"
   },
   {
    "id": "2121763516768014532",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 16,
    "repost_count": 0,
-   "like_count": 36,
+   "like_count": 38,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXIEp_qWsAAR9FV.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HXHNC0uXYAASTr8.jpg"
   },
   {
@@ -134,23 +134,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 13,
-   "repost_count": 188,
-   "like_count": 6165,
+   "repost_count": 191,
+   "like_count": 6279,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HRuH9vzakAA5DJ1.jpg"
-  },
-  {
-   "id": "2121611380050550987",
-   "text": "Top (00)7 random Pierce Brosnan noises",
-   "url": "https://x.com/tomsmason91/status/2121611380050550987",
-   "created_at": "2026-11-14T14:29:05+00:00",
-   "sent_at": "2026-11-14T14:29:05+00:00",
-   "author_name": "Tom Mason",
-   "author_handle": "tomsmason91",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 8,
-   "repost_count": 48,
-   "like_count": 359,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2121611327143587840/img/DueyOd41jfrNKsfv.jpg"
   }
  ]
 }
