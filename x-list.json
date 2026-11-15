@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T01:21:39+00:00",
+ "updated_at": "2026-11-15T01:36:47+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2121777708430733448",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 135 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121777708430733448",
+   "created_at": "2026-11-15T01:30:01+00:00",
+   "sent_at": "2026-11-15T01:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXFX2nWWEAASd3S.jpg"
+  },
+  {
    "id": "2121774181658292608",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 134 of 644",
    "url": "https://x.com/SopranosOrder/status/2121774181658292608",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXFXzOHWsAE_N_a.jpg"
   },
   {
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HXINe-DXUAAlCnZ.jpg"
   },
   {
-   "id": "2121770407196008591",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 133 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121770407196008591",
-   "created_at": "2026-11-15T01:01:00+00:00",
-   "sent_at": "2026-11-15T01:01:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXFXvSeX0AAa24p.jpg"
-  },
-  {
    "id": "2121763516768014532",
    "text": "A film you've watched more than six times with a gif. No Star Trek, Star Wars, Lord of the Rings, Marvel, Disney or Ghibli",
    "url": "https://x.com/TheManlet_King/status/2121763516768014532",
@@ -63,9 +63,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 6,
+   "reply_count": 8,
    "repost_count": 0,
-   "like_count": 15,
+   "like_count": 21,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXIEp_qWsAAR9FV.jpg"
   },
   {
@@ -77,9 +77,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 4,
-   "like_count": 65,
+   "reply_count": 4,
+   "repost_count": 8,
+   "like_count": 103,
    "image": "https://pbs.twimg.com/media/HXIEDS2W8AEmfWY.jpg"
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
-   "repost_count": 2,
-   "like_count": 42,
+   "repost_count": 3,
+   "like_count": 43,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121716201025892352/img/bc_2Irl202VJwDpx.jpg"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 10,
-   "repost_count": 159,
-   "like_count": 5289,
+   "repost_count": 161,
+   "like_count": 5407,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HRuH9vzakAA5DJ1.jpg"
   },
   {
@@ -148,8 +148,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 8,
-   "repost_count": 44,
-   "like_count": 325,
+   "repost_count": 45,
+   "like_count": 331,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121611327143587840/img/DueyOd41jfrNKsfv.jpg"
   }
  ]
