@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T10:51:43+00:00",
+ "updated_at": "2026-11-15T11:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2121921150007525419",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 173 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121921150007525419",
+   "created_at": "2026-11-15T11:00:00+00:00",
+   "sent_at": "2026-11-15T11:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXFab-dXQAANiRE.jpg"
+  },
   {
    "id": "2121917375683461351",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 172 of 644",
@@ -36,8 +50,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
+   "repost_count": 2,
+   "like_count": 19,
    "image": "https://pbs.twimg.com/media/HXKPkgkX0AEIW58.jpg"
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2121913604073259487",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 171 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121913604073259487",
-   "created_at": "2026-11-15T10:30:01+00:00",
-   "sent_at": "2026-11-15T10:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXFaVLoWUAApHbw.jpg"
-  },
-  {
    "id": "2121888851836928347",
    "text": "A film you've watched more than six times with a gif. No Star Trek, Star Wars, Lord of the Rings, Marvel, Disney or Ghibli.",
    "url": "https://x.com/StebobM/status/2121888851836928347",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXJ2qHeXUAAKI64.jpg"
   },
   {
@@ -107,22 +107,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 1,
-   "like_count": 22,
+   "like_count": 24,
    "image": ""
-  },
-  {
-   "id": "2121763516768014532",
-   "text": "A film you've watched more than six times with a gif. No Star Trek, Star Wars, Lord of the Rings, Marvel, Disney or Ghibli",
-   "url": "https://x.com/TheManlet_King/status/2121763516768014532",
-   "created_at": "2026-11-15T00:33:37+00:00",
-   "sent_at": "2026-11-15T00:33:37+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 22,
-   "repost_count": 0,
-   "like_count": 68,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HXIEp_qWsAAR9FV.jpg"
   }
  ]
 }
