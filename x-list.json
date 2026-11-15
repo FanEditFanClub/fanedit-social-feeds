@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T05:36:46+00:00",
+ "updated_at": "2026-11-15T05:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121841877850661025",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 152 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121841877850661025",
+   "created_at": "2026-11-15T05:45:00+00:00",
+   "sent_at": "2026-11-15T05:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXFYwpjW8AAIEzY.jpg"
+  },
+  {
+   "id": "2121840260326052164",
+   "text": "20 images of batman: forever (1995)",
+   "url": "https://x.com/mandevil23edits/status/2121840260326052164",
+   "created_at": "2026-11-15T05:38:34+00:00",
+   "sent_at": "2026-11-15T05:38:34+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXJKdopXwAAhUFX.jpg"
+  },
+  {
    "id": "2121838104512528623",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 151 of 644",
    "url": "https://x.com/SopranosOrder/status/2121838104512528623",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HXFYta5WkAAflub.jpg"
-  },
-  {
-   "id": "2121834327856062500",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 150 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121834327856062500",
-   "created_at": "2026-11-15T05:15:00+00:00",
-   "sent_at": "2026-11-15T05:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HXFYp1cXgAAt9QM.jpg"
   },
   {
    "id": "2121811418731155923",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HXIwPScXkAAsq4i.jpg"
-  },
-  {
-   "id": "2121807807896793227",
-   "text": "this takes me when i first read the amazing fantasy comic when i was a teenager",
-   "url": "https://x.com/mandevil23edits/status/2121807807896793227",
-   "created_at": "2026-11-15T03:29:37+00:00",
-   "sent_at": "2026-11-15T03:29:37+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 10,
-   "image": ""
+   "image": "https://pbs.twimg.com/media/HXIwPScXkAAsq4i.jpg"
   },
   {
    "id": "2121763516768014532",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 64,
+   "like_count": 65,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121716201025892352/img/bc_2Irl202VJwDpx.jpg"
   },
   {
