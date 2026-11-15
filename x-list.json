@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T17:06:43+00:00",
+ "updated_at": "2026-11-15T17:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122015521944015215",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 198 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122015521944015215",
+   "created_at": "2026-11-15T17:15:00+00:00",
+   "sent_at": "2026-11-15T17:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXFbzInXMAA3gQm.jpg"
+  },
+  {
+   "id": "2122013908894400886",
+   "text": "the posters of richard donner\u2019s superman: the movie >>>",
+   "url": "https://x.com/mandevil23edits/status/2122013908894400886",
+   "created_at": "2026-11-15T17:08:35+00:00",
+   "sent_at": "2026-11-15T17:08:35+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 2,
+   "like_count": 15,
+   "image": "https://pbs.twimg.com/media/HXLoZnpWsAAUOk8.jpg"
+  },
+  {
    "id": "2122011751860642035",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 197 of 644",
    "url": "https://x.com/SopranosOrder/status/2122011751860642035",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXFbv-NW8AACMrN.jpg"
-  },
-  {
-   "id": "2122007972369076659",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 196 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122007972369076659",
-   "created_at": "2026-11-15T16:45:00+00:00",
-   "sent_at": "2026-11-15T16:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXFbru-XMAATeI-.jpg"
+   "image": "https://pbs.twimg.com/media/HXFbv-NW8AACMrN.jpg"
   },
   {
    "id": "2122006590807330943",
@@ -49,9 +63,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
    "repost_count": 0,
-   "like_count": 58,
+   "like_count": 60,
    "image": ""
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 47,
+   "like_count": 49,
    "image": "https://pbs.twimg.com/media/HXLIf85WUAEMDdv.jpg"
   },
   {
@@ -92,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 5,
-   "like_count": 149,
+   "repost_count": 6,
+   "like_count": 157,
    "image": "https://pbs.twimg.com/media/HXK-MwnWwAAOnfb.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 5,
+   "like_count": 6,
    "image": ""
   },
   {
@@ -135,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 87,
+   "like_count": 89,
    "image": "https://pbs.twimg.com/media/HXKPkgkX0AEIW58.jpg"
   }
  ]
