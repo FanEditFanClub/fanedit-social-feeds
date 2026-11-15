@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T08:51:39+00:00",
+ "updated_at": "2026-11-15T09:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2121890962310103298",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 165 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121890962310103298",
+   "created_at": "2026-11-15T09:00:02+00:00",
+   "sent_at": "2026-11-15T09:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXFaAamWwAARDhA.jpg"
+  },
+  {
+   "id": "2121888851836928347",
+   "text": "A film you've watched more than six times with a gif. No Star Trek, Star Wars, Lord of the Rings, Marvel, Disney or Ghibli.",
+   "url": "https://x.com/StebobM/status/2121888851836928347",
+   "created_at": "2026-11-15T08:51:39+00:00",
+   "sent_at": "2026-11-15T08:51:39+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HXJ2qHeXUAAKI64.jpg"
+  },
   {
    "id": "2121887426671206840",
    "text": "It depends what the opinions are about. If it\u2019s something subjective (which most things are) then you can\u2019t argue with people and their opinions are valid.\n\nSeeing stuff like this just makes me think that you are insecure & you don\u2019t like anyone having an opinion that isn\u2019t yours",
@@ -51,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HXFZ8pUWcAACpqu.jpg"
-  },
-  {
-   "id": "2121883401947078946",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 163 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121883401947078946",
-   "created_at": "2026-11-15T08:30:00+00:00",
-   "sent_at": "2026-11-15T08:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXFZ5RQXUAAvkh4.jpg"
   },
   {
    "id": "2121878695459852388",
@@ -121,22 +135,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 68,
+   "like_count": 69,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121716201025892352/img/bc_2Irl202VJwDpx.jpg"
-  },
-  {
-   "id": "2121702352499482884",
-   "text": "They try it a lot I still remember Venom that was a big Fk You to the critics that film did so well with the audience making $857,429,119 worldwide",
-   "url": "https://x.com/StebobM/status/2121702352499482884",
-   "created_at": "2026-11-14T20:30:34+00:00",
-   "sent_at": "2026-11-14T20:30:34+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HXHNC0uXYAASTr8.jpg"
   }
  ]
 }
