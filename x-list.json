@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T17:51:39+00:00",
+ "updated_at": "2026-11-15T18:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122026848582258947",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 201 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122026848582258947",
+   "created_at": "2026-11-15T18:00:00+00:00",
+   "sent_at": "2026-11-15T18:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXFb-SAWgAAatST.jpg"
+  },
+  {
    "id": "2122023478241230922",
    "text": "when you realize you\u2019re about to get another highest-grossing mcu film right after spider-man: brand new day this year",
    "url": "https://x.com/mandevil23edits/status/2122023478241230922",
@@ -21,9 +35,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 2,
+   "reply_count": 3,
+   "repost_count": 2,
+   "like_count": 17,
    "image": "https://pbs.twimg.com/media/HXLxGvyX0AAeNK5.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXFb6MMXcAAyZgG.jpg"
-  },
-  {
-   "id": "2122019296696025120",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 199 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122019296696025120",
-   "created_at": "2026-11-15T17:30:00+00:00",
-   "sent_at": "2026-11-15T17:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
    "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXFb2UXW4AAozYP.jpg"
+   "image": "https://pbs.twimg.com/media/HXFb6MMXcAAyZgG.jpg"
   },
   {
    "id": "2122013908894400886",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 4,
-   "like_count": 24,
+   "like_count": 30,
    "image": "https://pbs.twimg.com/media/HXLoZnpWsAAUOk8.jpg"
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 4,
+   "repost_count": 1,
+   "like_count": 7,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
    "repost_count": 0,
-   "like_count": 66,
+   "like_count": 68,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 50,
+   "like_count": 52,
    "image": "https://pbs.twimg.com/media/HXLIf85WUAEMDdv.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 7,
-   "like_count": 190,
+   "like_count": 202,
    "image": "https://pbs.twimg.com/media/HXK-MwnWwAAOnfb.jpg"
   },
   {
