@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T02:21:40+00:00",
+ "updated_at": "2026-11-15T02:36:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2121792805936754805",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 139 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121792805936754805",
+   "created_at": "2026-11-15T02:30:00+00:00",
+   "sent_at": "2026-11-15T02:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXFYEcpWIAAaOIQ.jpg"
+  },
+  {
    "id": "2121790518912844278",
    "text": "the way this scene feels ripped straight off a 1961 comic cover of jack kirby and stan lee\u2019s fantastic four is actually insane",
    "url": "https://x.com/mandevil23edits/status/2121790518912844278",
@@ -21,9 +35,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 6,
    "image": ""
   },
   {
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HXFYBVNXYAAhKCf.jpg"
   },
   {
-   "id": "2121785260677398856",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 137 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121785260677398856",
-   "created_at": "2026-11-15T02:00:01+00:00",
-   "sent_at": "2026-11-15T02:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HXFX-KfXAAAvS-r.jpg"
-  },
-  {
    "id": "2121773206537158892",
    "text": "bob the void",
    "url": "https://x.com/mandevil23edits/status/2121773206537158892",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 15,
+   "like_count": 16,
    "image": "https://pbs.twimg.com/media/HXINe-DXUAAlCnZ.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 53,
+   "like_count": 55,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121716201025892352/img/bc_2Irl202VJwDpx.jpg"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 10,
-   "repost_count": 174,
-   "like_count": 5778,
+   "repost_count": 180,
+   "like_count": 5885,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HRuH9vzakAA5DJ1.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 8,
    "repost_count": 46,
-   "like_count": 343,
+   "like_count": 346,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121611327143587840/img/DueyOd41jfrNKsfv.jpg"
   }
  ]
