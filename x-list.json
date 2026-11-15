@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T10:21:39+00:00",
+ "updated_at": "2026-11-15T10:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121914045146272129",
+   "text": "Or how about they review the F\u2019n movie presented",
+   "url": "https://x.com/StebobM/status/2121914045146272129",
+   "created_at": "2026-11-15T10:31:46+00:00",
+   "sent_at": "2026-11-15T10:31:46+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2121913604073259487",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 171 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121913604073259487",
+   "created_at": "2026-11-15T10:30:01+00:00",
+   "sent_at": "2026-11-15T10:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXFaVLoWUAApHbw.jpg"
+  },
+  {
    "id": "2121909825453891598",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 170 of 644",
    "url": "https://x.com/SopranosOrder/status/2121909825453891598",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXFaSDjX0AAzkYD.jpg"
-  },
-  {
-   "id": "2121906059921305834",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 169 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121906059921305834",
-   "created_at": "2026-11-15T10:00:02+00:00",
-   "sent_at": "2026-11-15T10:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXFaOb0XMAA_3qH.jpg"
+   "image": "https://pbs.twimg.com/media/HXFaSDjX0AAzkYD.jpg"
   },
   {
    "id": "2121888851836928347",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HXJ2qHeXUAAKI64.jpg"
-  },
-  {
-   "id": "2121887426671206840",
-   "text": "It depends what the opinions are about. If it\u2019s something subjective (which most things are) then you can\u2019t argue with people and their opinions are valid.\n\nSeeing stuff like this just makes me think that you are insecure & you don\u2019t like anyone having an opinion that isn\u2019t yours",
-   "url": "https://x.com/StebobM/status/2121887426671206840",
-   "created_at": "2026-11-15T08:45:59+00:00",
-   "sent_at": "2026-11-15T08:45:59+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 1,
-   "image": ""
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HXJ2qHeXUAAKI64.jpg"
   },
   {
    "id": "2121887403346371050",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 1,
-   "like_count": 18,
+   "like_count": 20,
    "image": ""
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 41,
+   "like_count": 42,
    "image": "https://pbs.twimg.com/media/HXJrNL_WsAA_r2O.jpg"
   },
   {
