@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T18:36:40+00:00",
+ "updated_at": "2026-11-15T18:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,48 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2122039594698899638",
+   "text": "Can\u2019t wait for Florida! @EVSemiFleetCorp \ud83c\udf1e",
+   "url": "https://x.com/CarsonGallo/status/2122039594698899638",
+   "created_at": "2026-11-15T18:50:39+00:00",
+   "sent_at": "2026-11-15T18:50:39+00:00",
+   "author_name": "Carson J Gallo",
+   "author_handle": "CarsonGallo",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2122039173724926086",
+   "text": "batman: earth one the batman",
+   "url": "https://x.com/mandevil23edits/status/2122039173724926086",
+   "created_at": "2026-11-15T18:48:59+00:00",
+   "sent_at": "2026-11-15T18:48:59+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXL_XObW0AEzneb.jpg"
+  },
+  {
+   "id": "2122038171030729180",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 204 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122038171030729180",
+   "created_at": "2026-11-15T18:45:00+00:00",
+   "sent_at": "2026-11-15T18:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXFcH-aXcAAxDT8.jpg"
+  },
   {
    "id": "2122034144716726279",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 203 of 644",
@@ -27,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HXFcEoVWgAAkFSx.jpg"
   },
   {
-   "id": "2122030873046663317",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 202 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122030873046663317",
-   "created_at": "2026-11-15T18:16:00+00:00",
-   "sent_at": "2026-11-15T18:16:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXFcBi-WoAAfkuW.jpg"
-  },
-  {
    "id": "2122030269347570058",
    "text": "for such a talented chameleon actor with a remarkable range in every character he plays, it\u2019s easy to simply cast him as the next james bond.",
    "url": "https://x.com/mandevil23edits/status/2122030269347570058",
@@ -51,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 7,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXL3RLWXYAAIbwQ.jpg"
-  },
-  {
-   "id": "2122023478241230922",
-   "text": "when you realize you\u2019re about to get another highest-grossing mcu film right after spider-man: brand new day this year",
-   "url": "https://x.com/mandevil23edits/status/2122023478241230922",
-   "created_at": "2026-11-15T17:46:37+00:00",
-   "sent_at": "2026-11-15T17:46:37+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 4,
-   "like_count": 34,
-   "image": "https://pbs.twimg.com/media/HXLxGvyX0AAeNK5.jpg"
   },
   {
    "id": "2122006590807330943",
@@ -78,8 +92,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 8,
+   "repost_count": 2,
+   "like_count": 10,
    "image": ""
   },
   {
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 8,
-   "like_count": 221,
+   "like_count": 227,
    "image": "https://pbs.twimg.com/media/HXK-MwnWwAAOnfb.jpg"
   },
   {
