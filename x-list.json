@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T22:21:39+00:00",
+ "updated_at": "2026-11-15T22:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122094795598483484",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 219 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122094795598483484",
+   "created_at": "2026-11-15T22:30:00+00:00",
+   "sent_at": "2026-11-15T22:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HXFc8yTW4AAp9PO.jpg"
+  },
+  {
    "id": "2122092618763096307",
    "text": "#anyalise: I know I could have loved you but you would not let me",
    "url": "https://x.com/uhbucky/status/2122092618763096307",
@@ -21,9 +35,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "reply_count": 3,
+   "repost_count": 12,
+   "like_count": 28,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2122089916863598592/img/9LwtH-b_gUfHBM6-.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HXFc6EjXsAAsDIh.jpg"
-  },
-  {
-   "id": "2122087248204296207",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 217 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122087248204296207",
-   "created_at": "2026-11-15T22:00:01+00:00",
-   "sent_at": "2026-11-15T22:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXFc24JWAAAmnqN.jpg"
   },
   {
    "id": "2122080201404481552",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 4,
    "repost_count": 1,
-   "like_count": 12,
+   "like_count": 15,
    "image": "https://pbs.twimg.com/media/HXMksL_W8AEvVfo.jpg"
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 9,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/media/HXMc_ESXAAAfw16.jpg"
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 16,
-   "like_count": 96,
+   "repost_count": 18,
+   "like_count": 103,
    "image": "https://pbs.twimg.com/media/HXMN29dWwAAYiBk.jpg"
   },
   {
@@ -122,20 +122,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 1,
-   "image": ""
-  },
-  {
-   "id": "2122006590807330943",
-   "text": "I Expect You to Buy: Episode 1\n\n@LicenceToQueer and I honestly (perhaps too honestly) review some of the biggest Bond gifts this Christmas! We also reveal which past Bond item we'd love to have and which unmade Bond merch we want to see...\n\nhttps://www.youtube.com/watch?v=nuADJvom_wY",
-   "url": "https://x.com/tomsmason91/status/2122006590807330943",
-   "created_at": "2026-11-15T16:39:30+00:00",
-   "sent_at": "2026-11-15T16:39:30+00:00",
-   "author_name": "Tom Mason",
-   "author_handle": "tomsmason91",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 3,
-   "like_count": 12,
    "image": ""
   }
  ]
