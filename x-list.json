@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T19:06:40+00:00",
+ "updated_at": "2026-11-15T19:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122045720848900371",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 206 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122045720848900371",
+   "created_at": "2026-11-15T19:15:00+00:00",
+   "sent_at": "2026-11-15T19:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXFcQEoWkAAh3NT.jpg"
+  },
+  {
+   "id": "2122044473245085910",
+   "text": "3 doomillion dollars",
+   "url": "https://x.com/mandevil23edits/status/2122044473245085910",
+   "created_at": "2026-11-15T19:10:02+00:00",
+   "sent_at": "2026-11-15T19:10:02+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 7,
+   "image": ""
+  },
+  {
    "id": "2122041947422392325",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 205 of 644",
    "url": "https://x.com/SopranosOrder/status/2122041947422392325",
@@ -22,8 +50,8 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 9,
+   "repost_count": 4,
+   "like_count": 14,
    "image": "https://pbs.twimg.com/media/HXFcMa3WsAAmcs5.jpg"
   },
   {
@@ -51,36 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HXL_XObW0AEzneb.jpg"
-  },
-  {
-   "id": "2122038171030729180",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 204 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122038171030729180",
-   "created_at": "2026-11-15T18:45:00+00:00",
-   "sent_at": "2026-11-15T18:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HXFcH-aXcAAxDT8.jpg"
-  },
-  {
-   "id": "2122030269347570058",
-   "text": "for such a talented chameleon actor with a remarkable range in every character he plays, it\u2019s easy to simply cast him as the next james bond.",
-   "url": "https://x.com/mandevil23edits/status/2122030269347570058",
-   "created_at": "2026-11-15T18:13:36+00:00",
-   "sent_at": "2026-11-15T18:13:36+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 14,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HXL3RLWXYAAIbwQ.jpg"
   },
   {
    "id": "2122006590807330943",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
    "repost_count": 0,
-   "like_count": 74,
+   "like_count": 76,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 8,
-   "like_count": 235,
+   "like_count": 240,
    "image": "https://pbs.twimg.com/media/HXK-MwnWwAAOnfb.jpg"
   },
   {
