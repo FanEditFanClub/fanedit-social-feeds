@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T19:36:38+00:00",
+ "updated_at": "2026-11-15T19:51:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122053522157949043",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 208 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122053522157949043",
+   "created_at": "2026-11-15T19:46:00+00:00",
+   "sent_at": "2026-11-15T19:46:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXFcWLDWgAAQz39.jpg"
+  },
+  {
+   "id": "2122053218901635137",
+   "text": "my 5 star movies (there\u2019s still more. i just didn\u2019t feel like screenshotting that many.)",
+   "url": "https://x.com/mandevil23edits/status/2122053218901635137",
+   "created_at": "2026-11-15T19:44:47+00:00",
+   "sent_at": "2026-11-15T19:44:47+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 2,
+   "repost_count": 0,
+   "like_count": 8,
+   "image": "https://pbs.twimg.com/media/HXMMJrLWoAAmqlH.jpg"
+  },
+  {
    "id": "2122049495668289840",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 207 of 644",
    "url": "https://x.com/SopranosOrder/status/2122049495668289840",
@@ -22,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXFcTFFW8AAqyS6.jpg"
-  },
-  {
-   "id": "2122045720848900371",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 206 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122045720848900371",
-   "created_at": "2026-11-15T19:15:00+00:00",
-   "sent_at": "2026-11-15T19:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
    "repost_count": 1,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HXFcQEoWkAAh3NT.jpg"
+   "like_count": 6,
+   "image": "https://pbs.twimg.com/media/HXFcTFFW8AAqyS6.jpg"
   },
   {
    "id": "2122044473245085910",
@@ -50,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 10,
+   "repost_count": 2,
+   "like_count": 13,
    "image": ""
   },
   {
@@ -67,20 +81,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2122039173724926086",
-   "text": "batman: earth one the batman",
-   "url": "https://x.com/mandevil23edits/status/2122039173724926086",
-   "created_at": "2026-11-15T18:48:59+00:00",
-   "sent_at": "2026-11-15T18:48:59+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HXL_XObW0AEzneb.jpg"
   },
   {
    "id": "2122006590807330943",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
    "repost_count": 0,
-   "like_count": 76,
+   "like_count": 78,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 8,
-   "like_count": 243,
+   "like_count": 247,
    "image": "https://pbs.twimg.com/media/HXK-MwnWwAAOnfb.jpg"
   },
   {
