@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T13:06:40+00:00",
+ "updated_at": "2026-11-15T13:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2121955123983257768",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 182 of 644",
+   "url": "https://x.com/SopranosOrder/status/2121955123983257768",
+   "created_at": "2026-11-15T13:15:00+00:00",
+   "sent_at": "2026-11-15T13:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXFa598WkAApaV7.jpg"
+  },
+  {
+   "id": "2121953947921395753",
+   "text": "This is brilliant \ud83e\udd23\n\nKind of funny how Adam West Batman morphed into Bryan Cranston at the end \ud83e\udd23",
+   "url": "https://x.com/StebobM/status/2121953947921395753",
+   "created_at": "2026-11-15T13:10:19+00:00",
+   "sent_at": "2026-11-15T13:10:19+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2121951361285718447",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 181 of 644",
    "url": "https://x.com/SopranosOrder/status/2121951361285718447",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXFa3ZjWoAIqyub.jpg"
-  },
-  {
-   "id": "2121947574265340055",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 180 of 644",
-   "url": "https://x.com/SopranosOrder/status/2121947574265340055",
-   "created_at": "2026-11-15T12:45:00+00:00",
-   "sent_at": "2026-11-15T12:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXFazMwWYAAxZ0e.jpg"
   },
   {
    "id": "2121922960634318900",
@@ -69,20 +83,6 @@
    "image": "https://pbs.twimg.com/media/HXKPkgkX0AEIW58.jpg"
   },
   {
-   "id": "2121914045146272129",
-   "text": "Or how about they review the F\u2019n movie presented",
-   "url": "https://x.com/StebobM/status/2121914045146272129",
-   "created_at": "2026-11-15T10:31:46+00:00",
-   "sent_at": "2026-11-15T10:31:46+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
    "id": "2121887403346371050",
    "text": "Fool us into subscribing...by spending over $70 million and giving us our dream movie they said would never happen. I feel like an idiot now!",
    "url": "https://x.com/T800s_Batcave/status/2121887403346371050",
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 2,
-   "like_count": 33,
+   "like_count": 34,
    "image": ""
   }
  ]
