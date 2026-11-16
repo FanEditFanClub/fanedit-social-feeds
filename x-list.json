@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T09:36:41+00:00",
+ "updated_at": "2026-11-16T09:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122264664029741188",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 264 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122264664029741188",
+   "created_at": "2026-11-16T09:45:00+00:00",
+   "sent_at": "2026-11-16T09:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXK2NnCWQAAn8Px.jpg"
+  },
+  {
+   "id": "2122262613249900964",
+   "text": "Really baffles me on this app how people resort to personal insults and accuse you do racism over opinions\n\nSome very strange individuals\n\nAlso draw the line at someone trying to make out I am lying about my family. Why would I lie about that?",
+   "url": "https://x.com/StebobM/status/2122262613249900964",
+   "created_at": "2026-11-16T09:36:51+00:00",
+   "sent_at": "2026-11-16T09:36:51+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HXPKmFpXMAAQGIH.jpg"
+  },
+  {
    "id": "2122260636944286004",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 263 of 644",
    "url": "https://x.com/SopranosOrder/status/2122260636944286004",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXK2LB_XUAAh8w1.jpg"
-  },
-  {
-   "id": "2122257113917575420",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 262 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122257113917575420",
-   "created_at": "2026-11-16T09:15:00+00:00",
-   "sent_at": "2026-11-16T09:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXK2HYeXEAA7afj.jpg"
   },
   {
    "id": "2122237900133957908",
@@ -49,9 +63,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 4,
+   "reply_count": 5,
    "repost_count": 2,
-   "like_count": 43,
+   "like_count": 45,
    "image": "https://pbs.twimg.com/media/HXO0HnzW8AAs5NS.jpg"
   },
   {
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 7,
-   "like_count": 55,
+   "like_count": 62,
    "image": ""
   },
   {
