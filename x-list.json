@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T03:36:41+00:00",
+ "updated_at": "2026-11-16T03:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122174067612545394",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 240 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122174067612545394",
+   "created_at": "2026-11-16T03:45:00+00:00",
+   "sent_at": "2026-11-16T03:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HXK0vtQWkAEyMw7.jpg"
+  },
+  {
    "id": "2122170294865375718",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 239 of 644",
    "url": "https://x.com/SopranosOrder/status/2122170294865375718",
@@ -22,23 +36,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HXK0sN-XUAALypb.jpg"
-  },
-  {
-   "id": "2122166516850274547",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 238 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122166516850274547",
-   "created_at": "2026-11-16T03:15:00+00:00",
-   "sent_at": "2026-11-16T03:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HXK0o06XwAAXPMk.jpg"
   },
   {
    "id": "2122165793052151964",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 4,
-   "like_count": 38,
+   "like_count": 39,
    "image": ""
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 5,
-   "repost_count": 7,
-   "like_count": 67,
+   "repost_count": 8,
+   "like_count": 71,
    "image": "https://pbs.twimg.com/media/HXNKZ03XwAANJek.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 50,
+   "like_count": 52,
    "image": "https://pbs.twimg.com/media/HXNE_W7WMAAOq7T.jpg"
   },
   {
@@ -120,23 +120,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 8,
-   "repost_count": 90,
-   "like_count": 345,
+   "repost_count": 91,
+   "like_count": 350,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2122089916863598592/img/9LwtH-b_gUfHBM6-.jpg"
-  },
-  {
-   "id": "2122071724778987694",
-   "text": "I have a feeling DCU will be entirely theatrical after the last Gunn projects are done.\n\nAnother thing l I feel is it\u2019s all going to be PG-13 & under going forward. Which is another reason I think you can kiss goodbye to the Batman Part 3, Lanterns S2, etc",
-   "url": "https://x.com/StebobM/status/2122071724778987694",
-   "created_at": "2026-11-15T20:58:20+00:00",
-   "sent_at": "2026-11-15T20:58:20+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 0,
-   "like_count": 14,
-   "image": "https://pbs.twimg.com/media/HXMc_ESXAAAfw16.jpg"
   }
  ]
 }
