@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T16:21:40+00:00",
+ "updated_at": "2026-11-16T16:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122366588338716855",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 291 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122366588338716855",
+   "created_at": "2026-11-16T16:30:00+00:00",
+   "sent_at": "2026-11-16T16:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXK36rtWUAA18PE.jpg"
+  },
+  {
    "id": "2122363502459547938",
    "text": "My idea for introducing the DCU Bruce Wayne in Man of Tomorrow:",
    "url": "https://x.com/StebobM/status/2122363502459547938",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HXQmWxcWIAE8ory.jpg"
   },
   {
@@ -37,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HXK33E7WIAAM8-g.jpg"
   },
   {
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 9,
+   "like_count": 23,
    "image": "https://pbs.twimg.com/media/HXQlCY5WEAAwxPS.jpg"
-  },
-  {
-   "id": "2122359046900457820",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 289 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122359046900457820",
-   "created_at": "2026-11-16T16:00:02+00:00",
-   "sent_at": "2026-11-16T16:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXK30CvWMAA3MNX.jpg"
   },
   {
    "id": "2122354001702494714",
@@ -77,7 +77,7 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 1,
    "like_count": 6,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXQdtkzW8AAb8N4.jpg"
@@ -106,8 +106,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 0,
-   "repost_count": 12,
-   "like_count": 210,
+   "repost_count": 13,
+   "like_count": 230,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2122344739731042304/img/dDDefQ9XGxeSCr1o.jpg"
   },
   {
@@ -121,22 +121,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 35,
-   "like_count": 288,
+   "like_count": 306,
    "image": "https://pbs.twimg.com/amplify_video_thumb/1965075403699023872/img/Z0QODL-bty7nOL89.jpg"
-  },
-  {
-   "id": "2122311040486519172",
-   "text": "Really let herself go in under 6 months. Sad.",
-   "url": "https://x.com/TheManlet_King/status/2122311040486519172",
-   "created_at": "2026-11-16T12:49:17+00:00",
-   "sent_at": "2026-11-16T12:49:17+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 48,
-   "image": ""
   }
  ]
 }
