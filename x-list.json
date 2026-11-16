@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T22:06:42+00:00",
+ "updated_at": "2026-11-16T22:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2122454749777985902",
+   "text": "niggas on here blaming matt reeves for the skydance/gunn & safran situation is just dumb. assuming that was the case is stupid.",
+   "url": "https://x.com/mandevil23edits/status/2122454749777985902",
+   "created_at": "2026-11-16T22:20:20+00:00",
+   "sent_at": "2026-11-16T22:20:20+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2113481465560178688/img/d9eQzKyfAV6TkHnF.jpg"
+  },
+  {
+   "id": "2122453407105442166",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 314 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122453407105442166",
+   "created_at": "2026-11-16T22:15:00+00:00",
+   "sent_at": "2026-11-16T22:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HXK5QzIWsAA6pYs.jpg"
+  },
   {
    "id": "2122449635629580663",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 313 of 644",
@@ -55,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2122445857375367227",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 312 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122445857375367227",
-   "created_at": "2026-11-16T21:45:00+00:00",
-   "sent_at": "2026-11-16T21:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXK5KVfWIAA-JFy.jpg"
-  },
-  {
    "id": "2122444798464262281",
    "text": "A New Row has been added to The Fan Edit Central Database - A Fan Edit of Death Stranding called Death Stranding Cinematic Re-edit (Episode 13: Sam Strand) by Re-edit studios.\n\nhttps://faneditcentral.wixsite.com/home",
    "url": "https://x.com/FanEditFanClub/status/2122444798464262281",
@@ -106,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 6,
-   "repost_count": 68,
-   "like_count": 805,
+   "repost_count": 86,
+   "like_count": 978,
    "image": "https://pbs.twimg.com/media/HXRq9Y4WoAA2DQR.jpg"
   },
   {
@@ -123,20 +137,6 @@
    "repost_count": 1,
    "like_count": 28,
    "image": "https://pbs.twimg.com/media/HXRp8uiWcAA9yNt.jpg"
-  },
-  {
-   "id": "2122434903098962323",
-   "text": "none of those niggas from the audition process have motion like robert pattinson",
-   "url": "https://x.com/mandevil23edits/status/2122434903098962323",
-   "created_at": "2026-11-16T21:01:28+00:00",
-   "sent_at": "2026-11-16T21:01:28+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 13,
-   "image": "https://pbs.twimg.com/media/HXQQrtTXcAAFwxQ.png"
   }
  ]
 }
