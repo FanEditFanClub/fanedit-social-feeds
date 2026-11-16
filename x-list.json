@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T16:06:41+00:00",
+ "updated_at": "2026-11-16T16:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2122363502459547938",
+   "text": "My idea for introducing the DCU Bruce Wayne in Man of Tomorrow:",
+   "url": "https://x.com/StebobM/status/2122363502459547938",
+   "created_at": "2026-11-16T16:17:45+00:00",
+   "sent_at": "2026-11-16T16:17:45+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXQmWxcWIAE8ory.jpg"
+  },
+  {
+   "id": "2122362810168381588",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 290 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122362810168381588",
+   "created_at": "2026-11-16T16:15:00+00:00",
+   "sent_at": "2026-11-16T16:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXK33E7WIAAM8-g.jpg"
+  },
+  {
+   "id": "2122362295690899811",
+   "text": "Pretty interesting/telling that they\u2019re clearly echoing that iconic reveal photo of Daniel Craig as Bond for the Pattinson announcement",
+   "url": "https://x.com/tomsmason91/status/2122362295690899811",
+   "created_at": "2026-11-16T16:12:57+00:00",
+   "sent_at": "2026-11-16T16:12:57+00:00",
+   "author_name": "Tom Mason",
+   "author_handle": "tomsmason91",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 9,
+   "image": "https://pbs.twimg.com/media/HXQlCY5WEAAwxPS.jpg"
+  },
+  {
    "id": "2122359046900457820",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 289 of 644",
    "url": "https://x.com/SopranosOrder/status/2122359046900457820",
@@ -23,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXK30CvWMAA3MNX.jpg"
-  },
-  {
-   "id": "2122355261142908980",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 288 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122355261142908980",
-   "created_at": "2026-11-16T15:45:00+00:00",
-   "sent_at": "2026-11-16T15:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXK3vrOXUAAjWxD.jpg"
   },
   {
    "id": "2122354001702494714",
@@ -49,9 +77,9 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 3,
+   "reply_count": 2,
+   "repost_count": 1,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXQdtkzW8AAb8N4.jpg"
   },
   {
@@ -65,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1608048769635069953/H88GVJQx_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 4,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/media/HXQX68VW8AAdFBi.jpg"
   },
   {
@@ -78,23 +106,9 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 0,
-   "repost_count": 11,
-   "like_count": 174,
+   "repost_count": 12,
+   "like_count": 210,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2122344739731042304/img/dDDefQ9XGxeSCr1o.jpg"
-  },
-  {
-   "id": "2122344262004097179",
-   "text": "There it is",
-   "url": "https://x.com/StebobM/status/2122344262004097179",
-   "created_at": "2026-11-16T15:01:17+00:00",
-   "sent_at": "2026-11-16T15:01:17+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 1,
-   "like_count": 5,
-   "image": ""
   },
   {
    "id": "2122327286452003150",
@@ -106,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 32,
-   "like_count": 265,
+   "repost_count": 35,
+   "like_count": 288,
    "image": "https://pbs.twimg.com/amplify_video_thumb/1965075403699023872/img/Z0QODL-bty7nOL89.jpg"
   },
   {
@@ -123,20 +137,6 @@
    "repost_count": 0,
    "like_count": 48,
    "image": ""
-  },
-  {
-   "id": "2122306246606799198",
-   "text": "Paramount gotta die, because what the fuck is this?",
-   "url": "https://x.com/jrsilentboba/status/2122306246606799198",
-   "created_at": "2026-11-16T12:30:14+00:00",
-   "sent_at": "2026-11-16T12:30:14+00:00",
-   "author_name": "jrsilentboba",
-   "author_handle": "jrsilentboba",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2122095532789149696/PtN6h7rs_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2122306234682388480/img/WzjVYFTj-RxS_SXk.jpg"
   }
  ]
 }
