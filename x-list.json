@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T06:36:40+00:00",
+ "updated_at": "2026-11-16T06:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122220122022506578",
+   "text": "can\u2019t forget about danai gurira and lupita nyong'o",
+   "url": "https://x.com/mandevil23edits/status/2122220122022506578",
+   "created_at": "2026-11-16T06:48:00+00:00",
+   "sent_at": "2026-11-16T06:48:00+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXOj81QXIAAObz-.jpg"
+  },
+  {
+   "id": "2122219365026377938",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 252 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122219365026377938",
+   "created_at": "2026-11-16T06:45:00+00:00",
+   "sent_at": "2026-11-16T06:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXK1ksQWkAArm0N.jpg"
+  },
+  {
    "id": "2122215591574745191",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 251 of 644",
    "url": "https://x.com/SopranosOrder/status/2122215591574745191",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HXK1hX3WcAANj9t.jpg"
-  },
-  {
-   "id": "2122211815254102294",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 250 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122211815254102294",
-   "created_at": "2026-11-16T06:15:00+00:00",
-   "sent_at": "2026-11-16T06:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXK1eNFX0AAAqaS.jpg"
   },
   {
    "id": "2122205730925113574",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 22,
+   "like_count": 24,
    "image": ""
   },
   {
@@ -66,20 +80,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2122190960381853753",
-   "text": "mogs the hell out of the yellow one",
-   "url": "https://x.com/mandevil23edits/status/2122190960381853753",
-   "created_at": "2026-11-16T04:52:08+00:00",
-   "sent_at": "2026-11-16T04:52:08+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 6,
-   "like_count": 60,
    "image": ""
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 64,
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 65,
    "image": "https://pbs.twimg.com/media/HXNE_W7WMAAOq7T.jpg"
   },
   {
