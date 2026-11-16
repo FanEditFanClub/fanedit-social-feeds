@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T15:06:42+00:00",
+ "updated_at": "2026-11-16T15:21:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122348019014127716",
+   "text": "Bond fans getting ready to interact with normies this week.",
+   "url": "https://x.com/PentexP/status/2122348019014127716",
+   "created_at": "2026-11-16T15:16:13+00:00",
+   "sent_at": "2026-11-16T15:16:13+00:00",
+   "author_name": "Pentex",
+   "author_handle": "PentexP",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1608048769635069953/H88GVJQx_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXQX68VW8AAdFBi.jpg"
+  },
+  {
+   "id": "2122347710875386345",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 286 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122347710875386345",
+   "created_at": "2026-11-16T15:15:00+00:00",
+   "sent_at": "2026-11-16T15:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXK3pN7WsAASGBY.jpg"
+  },
+  {
    "id": "2122344796190618029",
    "text": "Waiting for the announcement like:",
    "url": "https://x.com/tomsmason91/status/2122344796190618029",
@@ -22,8 +50,8 @@
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 4,
+   "repost_count": 2,
+   "like_count": 19,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2122344739731042304/img/dDDefQ9XGxeSCr1o.jpg"
   },
   {
@@ -35,9 +63,9 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 1,
+   "reply_count": 3,
+   "repost_count": 1,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -51,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HXK3mQOWwAIRGni.jpg"
   },
   {
@@ -69,20 +97,6 @@
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXQS5-1WQAAHOcd.jpg"
   },
   {
-   "id": "2122340161635893655",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 284 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122340161635893655",
-   "created_at": "2026-11-16T14:45:00+00:00",
-   "sent_at": "2026-11-16T14:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXK3iaWX0AAg8IT.jpg"
-  },
-  {
    "id": "2122327286452003150",
    "text": "OLIVIA RODRIGO THIS GRAMMY SEASON IS YOURS",
    "url": "https://x.com/uhbucky/status/2122327286452003150",
@@ -92,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 22,
-   "like_count": 187,
+   "repost_count": 25,
+   "like_count": 214,
    "image": "https://pbs.twimg.com/amplify_video_thumb/1965075403699023872/img/Z0QODL-bty7nOL89.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 40,
+   "like_count": 44,
    "image": ""
   },
   {
@@ -134,8 +148,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
-   "repost_count": 4,
-   "like_count": 57,
+   "repost_count": 5,
+   "like_count": 62,
    "image": ""
   },
   {
