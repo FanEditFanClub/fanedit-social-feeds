@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T06:06:53+00:00",
+ "updated_at": "2026-11-16T06:21:47+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122211815254102294",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 250 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122211815254102294",
+   "created_at": "2026-11-16T06:15:00+00:00",
+   "sent_at": "2026-11-16T06:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXK1eNFX0AAAqaS.jpg"
+  },
+  {
    "id": "2122208048550731862",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 249 of 644",
    "url": "https://x.com/SopranosOrder/status/2122208048550731862",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HXK1X1rXwAAFD1X.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 8,
+   "like_count": 17,
    "image": ""
-  },
-  {
-   "id": "2122204265598833088",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 248 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122204265598833088",
-   "created_at": "2026-11-16T05:45:00+00:00",
-   "sent_at": "2026-11-16T05:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXK1UdCWIAATLcZ.jpg"
   },
   {
    "id": "2122194808160550957",
@@ -78,8 +78,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 3,
-   "like_count": 54,
+   "repost_count": 4,
+   "like_count": 55,
    "image": ""
   },
   {
@@ -105,8 +105,8 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
+   "reply_count": 1,
+   "repost_count": 0,
    "like_count": 64,
    "image": "https://pbs.twimg.com/media/HXNE_W7WMAAOq7T.jpg"
   },
@@ -123,20 +123,6 @@
    "repost_count": 0,
    "like_count": 3,
    "image": "https://pbs.twimg.com/media/HXM-36kW8AAAq_r.jpg"
-  },
-  {
-   "id": "2122092618763096307",
-   "text": "#anyalise: I know I could have loved you but you would not let me",
-   "url": "https://x.com/uhbucky/status/2122092618763096307",
-   "created_at": "2026-11-15T22:21:21+00:00",
-   "sent_at": "2026-11-15T22:21:21+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 8,
-   "repost_count": 98,
-   "like_count": 387,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2122089916863598592/img/9LwtH-b_gUfHBM6-.jpg"
   }
  ]
 }
