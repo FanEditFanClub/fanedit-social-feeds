@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T23:51:39+00:00",
+ "updated_at": "2026-11-16T00:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122117450636444090",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 225 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122117450636444090",
+   "created_at": "2026-11-16T00:00:01+00:00",
+   "sent_at": "2026-11-16T00:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXKznoXXIAAqXC7.jpg"
+  },
+  {
+   "id": "2122115707848593465",
+   "text": "Long story short",
+   "url": "https://x.com/TheManlet_King/status/2122115707848593465",
+   "created_at": "2026-11-15T23:53:06+00:00",
+   "sent_at": "2026-11-15T23:53:06+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 16,
+   "image": "https://pbs.twimg.com/media/HXNE_W7WMAAOq7T.jpg"
+  },
+  {
    "id": "2122113668552724968",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 224 of 644",
    "url": "https://x.com/SopranosOrder/status/2122113668552724968",
@@ -22,23 +50,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 7,
+   "repost_count": 2,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/media/HXFdOt4X0AAIzhs.jpg"
-  },
-  {
-   "id": "2122109894115422708",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 223 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122109894115422708",
-   "created_at": "2026-11-15T23:30:00+00:00",
-   "sent_at": "2026-11-15T23:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HXFdLW2WkAAb5xQ.jpg"
   },
   {
    "id": "2122108983875899833",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HXM-36kW8AAAq_r.jpg"
   },
   {
@@ -64,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 8,
-   "repost_count": 58,
-   "like_count": 223,
+   "repost_count": 60,
+   "like_count": 237,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2122089916863598592/img/9LwtH-b_gUfHBM6-.jpg"
   },
   {
@@ -91,9 +105,9 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 0,
-   "like_count": 12,
+   "like_count": 13,
    "image": "https://pbs.twimg.com/media/HXMc_ESXAAAfw16.jpg"
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 19,
-   "like_count": 117,
+   "like_count": 118,
    "image": "https://pbs.twimg.com/media/HXMN29dWwAAYiBk.jpg"
   },
   {
