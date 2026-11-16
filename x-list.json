@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T20:21:41+00:00",
+ "updated_at": "2026-11-16T20:36:52+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2122427977464000677",
+   "text": "good afternoon",
+   "url": "https://x.com/mandevil23edits/status/2122427977464000677",
+   "created_at": "2026-11-16T20:33:57+00:00",
+   "sent_at": "2026-11-16T20:33:57+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXRg_n9X0AA7U--.jpg"
+  },
+  {
+   "id": "2122427773172191462",
+   "text": "denis villeneuve himself knew that robert pattinson was the right guy for the job to play the james bond, and i\u2019m highly glad that it happened.",
+   "url": "https://x.com/mandevil23edits/status/2122427773172191462",
+   "created_at": "2026-11-16T20:33:08+00:00",
+   "sent_at": "2026-11-16T20:33:08+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2122426985012146253",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 307 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122426985012146253",
+   "created_at": "2026-11-16T20:30:00+00:00",
+   "sent_at": "2026-11-16T20:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXK4zupXEAAfFmc.jpg"
+  },
+  {
    "id": "2122423854559551568",
    "text": "These petitions are getting silly now \ud83e\udd26\u200d\u2642\ufe0f",
    "url": "https://x.com/StebobM/status/2122423854559551568",
@@ -23,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -51,36 +93,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2122421809010106698",
-   "text": "i just woke up and found out that robert pattinson is officially james bond\n\nthis is how i win",
-   "url": "https://x.com/mandevil23edits/status/2122421809010106698",
-   "created_at": "2026-11-16T20:09:26+00:00",
-   "sent_at": "2026-11-16T20:09:26+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 16,
-   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1497653174681083905/pu/img/U1geO-uPISNa5KVF.jpg"
-  },
-  {
-   "id": "2122419437940731937",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 305 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122419437940731937",
-   "created_at": "2026-11-16T20:00:01+00:00",
-   "sent_at": "2026-11-16T20:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXK4q5qWsAA9usE.jpg"
   },
   {
    "id": "2122398604992397752",
@@ -93,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 5,
    "repost_count": 9,
-   "like_count": 53,
+   "like_count": 59,
    "image": "https://pbs.twimg.com/media/HXRGLH7W8AAOGsi.jpg"
   }
  ]
