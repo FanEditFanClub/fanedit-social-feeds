@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T11:06:40+00:00",
+ "updated_at": "2026-11-16T11:21:47+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122287313158091122",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 270 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122287313158091122",
+   "created_at": "2026-11-16T11:15:00+00:00",
+   "sent_at": "2026-11-16T11:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXK2m9wWsAAavH8.jpg"
+  },
+  {
    "id": "2122283554361229761",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 269 of 644",
    "url": "https://x.com/SopranosOrder/status/2122283554361229761",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HXK2j3xWoAAoNeF.jpg"
-  },
-  {
-   "id": "2122279763566055484",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 268 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122279763566055484",
-   "created_at": "2026-11-16T10:45:00+00:00",
-   "sent_at": "2026-11-16T10:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXK2buSXoAABhGf.jpg"
   },
   {
    "id": "2122267816476778664",
@@ -78,8 +78,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 6,
-   "repost_count": 3,
-   "like_count": 55,
+   "repost_count": 4,
+   "like_count": 57,
    "image": "https://pbs.twimg.com/media/HXO0HnzW8AAs5NS.jpg"
   },
   {
