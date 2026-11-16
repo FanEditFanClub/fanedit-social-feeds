@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T11:51:41+00:00",
+ "updated_at": "2026-11-16T12:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122298638869147759",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 273 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122298638869147759",
+   "created_at": "2026-11-16T12:00:00+00:00",
+   "sent_at": "2026-11-16T12:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXK2x2hWkAAAiey.jpg"
+  },
+  {
    "id": "2122294862821130715",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 272 of 644",
    "url": "https://x.com/SopranosOrder/status/2122294862821130715",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HXK2tyVW0AE3hP8.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 6,
+   "like_count": 11,
    "image": ""
-  },
-  {
-   "id": "2122291339601539483",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 271 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122291339601539483",
-   "created_at": "2026-11-16T11:31:00+00:00",
-   "sent_at": "2026-11-16T11:31:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXK2qDJWYAAP52w.jpg"
   },
   {
    "id": "2122267816476778664",
@@ -93,22 +93,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 6,
    "repost_count": 5,
-   "like_count": 62,
+   "like_count": 63,
    "image": "https://pbs.twimg.com/media/HXO0HnzW8AAs5NS.jpg"
-  },
-  {
-   "id": "2122194808160550957",
-   "text": "Taking a little break from editing with no release dates for now. feeling the burnout. All planned edits, including Beware My Power, still happening soon. be back when inspiration strikes!",
-   "url": "https://x.com/LightSpeedCuts/status/2122194808160550957",
-   "created_at": "2026-11-16T05:07:25+00:00",
-   "sent_at": "2026-11-16T05:07:25+00:00",
-   "author_name": "Light Speed Studios",
-   "author_handle": "LightSpeedCuts",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2122199300960645120/VBlSUzd8_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
   }
  ]
 }
