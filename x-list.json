@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T07:21:42+00:00",
+ "updated_at": "2026-11-16T07:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122231223716331729",
+   "text": "same actress and same year btw",
+   "url": "https://x.com/mandevil23edits/status/2122231223716331729",
+   "created_at": "2026-11-16T07:32:07+00:00",
+   "sent_at": "2026-11-16T07:32:07+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXOuDDuXwAA62MR.jpg"
+  },
+  {
+   "id": "2122230691769250144",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 255 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122230691769250144",
+   "created_at": "2026-11-16T07:30:00+00:00",
+   "sent_at": "2026-11-16T07:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXK1vCjXoAE-OLk.jpg"
+  },
+  {
    "id": "2122228142215676213",
    "text": "florence pugh stuns (as always)",
    "url": "https://x.com/mandevil23edits/status/2122228142215676213",
@@ -22,22 +50,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": ""
-  },
-  {
-   "id": "2122227444572627284",
-   "text": "more opening montages of heroes saving people and fighting crime in the mcu pls",
-   "url": "https://x.com/mandevil23edits/status/2122227444572627284",
-   "created_at": "2026-11-16T07:17:06+00:00",
-   "sent_at": "2026-11-16T07:17:06+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "repost_count": 1,
+   "like_count": 9,
    "image": ""
   },
   {
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HXK1r9BWIAAzMu_.jpg"
-  },
-  {
-   "id": "2122223147185496236",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 253 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122223147185496236",
-   "created_at": "2026-11-16T07:00:01+00:00",
-   "sent_at": "2026-11-16T07:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HXK1o1QXIAA4YQy.jpg"
   },
   {
    "id": "2122194808160550957",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 5,
    "repost_count": 9,
-   "like_count": 80,
+   "like_count": 82,
    "image": "https://pbs.twimg.com/media/HXNKZ03XwAANJek.jpg"
   },
   {
@@ -105,8 +105,8 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
+   "reply_count": 1,
+   "repost_count": 0,
    "like_count": 65,
    "image": "https://pbs.twimg.com/media/HXNE_W7WMAAOq7T.jpg"
   },
