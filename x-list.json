@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T01:21:45+00:00",
+ "updated_at": "2026-11-16T01:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122140093439717547",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 231 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122140093439717547",
+   "created_at": "2026-11-16T01:30:00+00:00",
+   "sent_at": "2026-11-16T01:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXK0EO9WQAAIgzm.jpg"
+  },
+  {
    "id": "2122136317731508397",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 230 of 644",
    "url": "https://x.com/SopranosOrder/status/2122136317731508397",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HXK0A_-XEAAk17n.jpg"
-  },
-  {
-   "id": "2122132545458573388",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 229 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122132545458573388",
-   "created_at": "2026-11-16T01:00:00+00:00",
-   "sent_at": "2026-11-16T01:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HXKz9UlXYAAuWcb.jpg"
   },
   {
    "id": "2122121816911282294",
@@ -50,8 +50,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
-   "repost_count": 3,
-   "like_count": 40,
+   "repost_count": 4,
+   "like_count": 48,
    "image": "https://pbs.twimg.com/media/HXNKZ03XwAANJek.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 34,
+   "like_count": 38,
    "image": "https://pbs.twimg.com/media/HXNE_W7WMAAOq7T.jpg"
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 8,
-   "repost_count": 66,
-   "like_count": 282,
+   "repost_count": 70,
+   "like_count": 292,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2122089916863598592/img/9LwtH-b_gUfHBM6-.jpg"
   },
   {
@@ -135,22 +135,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 19,
-   "like_count": 122,
+   "like_count": 123,
    "image": "https://pbs.twimg.com/media/HXMN29dWwAAYiBk.jpg"
-  },
-  {
-   "id": "2122039594698899638",
-   "text": "Can\u2019t wait for Florida! @EVSemiFleetCorp \ud83c\udf1e",
-   "url": "https://x.com/CarsonGallo/status/2122039594698899638",
-   "created_at": "2026-11-15T18:50:39+00:00",
-   "sent_at": "2026-11-15T18:50:39+00:00",
-   "author_name": "Carson J Gallo",
-   "author_handle": "CarsonGallo",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1266408873159729158/K_iCWtor_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
   }
  ]
 }
