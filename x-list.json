@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T14:21:43+00:00",
+ "updated_at": "2026-11-17T14:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2122698776666120659",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 379 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122698776666120659",
+   "created_at": "2026-11-17T14:30:00+00:00",
+   "sent_at": "2026-11-17T14:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXPO-OcWMAAhGbX.jpg"
+  },
   {
    "id": "2122694999611769280",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 378 of 644",
@@ -41,20 +55,6 @@
    "image": ""
   },
   {
-   "id": "2122691232900251973",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 377 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122691232900251973",
-   "created_at": "2026-11-17T14:00:02+00:00",
-   "sent_at": "2026-11-17T14:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXPO3vSXIAAXxrs.jpg"
-  },
-  {
    "id": "2122688013994164434",
    "text": "Brother? who are you Hulk Hogan? \ud83e\udd23\n\nYet the end of the film clearly has scenes where it would have totally fit for him to become that version?\n\nLook you can be ok with it but some of us weren\u2019t happy with it",
    "url": "https://x.com/StebobM/status/2122688013994164434",
@@ -78,8 +78,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
-   "repost_count": 2,
-   "like_count": 40,
+   "repost_count": 3,
+   "like_count": 45,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 9,
-   "like_count": 75,
+   "like_count": 77,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
   },
   {
