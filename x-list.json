@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T14:06:41+00:00",
+ "updated_at": "2026-11-17T14:21:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2122694999611769280",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 378 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122694999611769280",
+   "created_at": "2026-11-17T14:15:00+00:00",
+   "sent_at": "2026-11-17T14:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXPO6xjWoAA55ip.jpg"
+  },
   {
    "id": "2122691952646951307",
    "text": "He literally brought Batman out of the shadows he\u2019s moving into that territory. It would have made more sense for him to be more Bruce like after that. Instead he acts the same.\n\nAs I said you can be fine with it but doesn\u2019t mean everyone has to be",
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2122687449801400701",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 376 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122687449801400701",
-   "created_at": "2026-11-17T13:45:00+00:00",
-   "sent_at": "2026-11-17T13:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXPOz6mWAAASQaL.jpg"
-  },
-  {
    "id": "2122668097572110426",
    "text": "Read this too fast and saw \"What the Floyd are you doing George?!\"",
    "url": "https://x.com/TheManlet_King/status/2122668097572110426",
@@ -77,9 +77,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 2,
-   "like_count": 36,
+   "like_count": 40,
    "image": ""
   },
   {
