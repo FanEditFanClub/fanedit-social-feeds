@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T08:36:43+00:00",
+ "updated_at": "2026-11-17T08:51:50+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122611952078012751",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 356 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122611952078012751",
+   "created_at": "2026-11-17T08:45:00+00:00",
+   "sent_at": "2026-11-17T08:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXPNr8sWIAAgKYq.jpg"
+  },
+  {
+   "id": "2122611096762949832",
+   "text": "and ppl tried so hard to convince me that callum turner was a better option for the role of james bond than robert pattinson \ud83d\ude02\u270c\ud83c\udffd",
+   "url": "https://x.com/mandevil23edits/status/2122611096762949832",
+   "created_at": "2026-11-17T08:41:36+00:00",
+   "sent_at": "2026-11-17T08:41:36+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2122608177925570707",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 355 of 644",
    "url": "https://x.com/SopranosOrder/status/2122608177925570707",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXPNoMhWYAEy2BD.jpg"
-  },
-  {
-   "id": "2122604402871816280",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 354 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122604402871816280",
-   "created_at": "2026-11-17T08:15:00+00:00",
-   "sent_at": "2026-11-17T08:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXPNk8PWAAAJK6S.jpg"
+   "image": "https://pbs.twimg.com/media/HXPNoMhWYAEy2BD.jpg"
   },
   {
    "id": "2122602865118314692",
@@ -50,23 +64,9 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 11,
+   "repost_count": 2,
+   "like_count": 15,
    "image": ""
-  },
-  {
-   "id": "2122602650340667656",
-   "text": "as much as i love civil war and winter soldier, the first avenger movie turns out to be the best one out of the trilogy for me.",
-   "url": "https://x.com/mandevil23edits/status/2122602650340667656",
-   "created_at": "2026-11-17T08:08:02+00:00",
-   "sent_at": "2026-11-17T08:08:02+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 10,
-   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1753821019742326784/pu/img/GbAxjqdZiVF40cTn.jpg"
   },
   {
    "id": "2122592607528206613",
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 25,
-   "like_count": 732,
+   "like_count": 745,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1799292544636887040/pu/img/Ts0d199Kx4fyXvTa.jpg"
   },
   {
@@ -162,8 +162,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 44,
-   "like_count": 427,
+   "repost_count": 45,
+   "like_count": 430,
    "image": "https://pbs.twimg.com/media/HXSND8CXAAAcVmM.jpg"
   }
  ]
