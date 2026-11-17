@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T00:21:41+00:00",
+ "updated_at": "2026-11-17T00:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,18 +13,18 @@
  },
  "posts": [
   {
-   "id": "2122484779421762006",
+   "id": "2122487804735500536",
    "text": "you can\u2019t blame robert pattinson for being a workaholic",
-   "url": "https://x.com/mandevil23edits/status/2122484779421762006",
-   "created_at": "2026-11-17T00:19:39+00:00",
-   "sent_at": "2026-11-17T00:19:39+00:00",
+   "url": "https://x.com/mandevil23edits/status/2122487804735500536",
+   "created_at": "2026-11-17T00:31:41+00:00",
+   "sent_at": "2026-11-17T00:31:41+00:00",
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXSO67mWUAAk5hF.jpg"
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXSXZlkXAAAb19a.jpg"
   },
   {
    "id": "2122482786988851640",
@@ -35,9 +35,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 41,
+   "reply_count": 1,
+   "repost_count": 3,
+   "like_count": 82,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1799292544636887040/pu/img/Ts0d199Kx4fyXvTa.jpg"
   },
   {
@@ -50,8 +50,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 12,
-   "like_count": 129,
+   "repost_count": 14,
+   "like_count": 159,
    "image": "https://pbs.twimg.com/media/HXSND8CXAAAcVmM.jpg"
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 7,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HXK5W1kXAAA5nAr.jpg"
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 4,
    "repost_count": 3,
-   "like_count": 94,
+   "like_count": 106,
    "image": ""
   },
   {
