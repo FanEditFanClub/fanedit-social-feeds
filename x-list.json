@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T23:06:40+00:00",
+ "updated_at": "2026-11-17T23:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2122830895086485729",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 414 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122830895086485729",
+   "created_at": "2026-11-17T23:15:00+00:00",
+   "sent_at": "2026-11-17T23:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HXPRKk_XwAAwjzr.jpg"
+  },
+  {
+   "id": "2122830688235778142",
+   "text": "aleks just walked in and snatched the entire mcu daredevil chain",
+   "url": "https://x.com/mandevil23edits/status/2122830688235778142",
+   "created_at": "2026-11-17T23:14:11+00:00",
+   "sent_at": "2026-11-17T23:14:11+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXXPQm1W4AAjxJ8.jpg"
+  },
+  {
+   "id": "2122829210901241995",
+   "text": "the avengers still holds up so well on a rewatch when the jokes actually landed and every hero had a moment to shine, effortlessly juggling six massive egos with pure comic book perfection.",
+   "url": "https://x.com/mandevil23edits/status/2122829210901241995",
+   "created_at": "2026-11-17T23:08:18+00:00",
+   "sent_at": "2026-11-17T23:08:18+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 7,
+   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1710623081528745984/pu/img/VpbMGpdjkm8cWFHI.jpg"
+  },
+  {
    "id": "2122827124444897639",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 413 of 644",
    "url": "https://x.com/SopranosOrder/status/2122827124444897639",
@@ -23,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HXPRHDgWAAAIYnj.jpg"
-  },
-  {
-   "id": "2122823344705994964",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 412 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122823344705994964",
-   "created_at": "2026-11-17T22:45:00+00:00",
-   "sent_at": "2026-11-17T22:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXPRCyfXYAAgz9u.jpg"
   },
   {
    "id": "2122795993011777719",
@@ -50,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 50,
-   "like_count": 687,
+   "repost_count": 53,
+   "like_count": 733,
    "image": "https://pbs.twimg.com/media/HXWvtKEWcAA-YXt.jpg"
   },
   {
@@ -65,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 38,
+   "like_count": 42,
    "image": "https://pbs.twimg.com/media/HXWqvPyWgAAhzxj.jpg"
   },
   {
@@ -79,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1608048769635069953/H88GVJQx_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 4,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -105,7 +133,7 @@
    "author_name": "T-800",
    "author_handle": "T800s_Batcave",
    "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 0,
    "repost_count": 18,
    "like_count": 29,
    "image": ""
@@ -123,34 +151,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXWHWVgWEAEhUJf.jpg"
-  },
-  {
-   "id": "2122750521182150745",
-   "text": "#nrw the avengers (2012)",
-   "url": "https://x.com/mandevil23edits/status/2122750521182150745",
-   "created_at": "2026-11-17T17:55:37+00:00",
-   "sent_at": "2026-11-17T17:55:37+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 15,
-   "image": "https://pbs.twimg.com/media/HXWGWD2XcAA48iF.jpg"
-  },
-  {
-   "id": "2122734615433736548",
-   "text": "take my money again honestly. i need to see what they left on the cutting room floor and experience spider-man: brand new day on the big screen one more time.",
-   "url": "https://x.com/mandevil23edits/status/2122734615433736548",
-   "created_at": "2026-11-17T16:52:25+00:00",
-   "sent_at": "2026-11-17T16:52:25+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 4,
-   "like_count": 32,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2111786347845345280/img/8OGs26ELTOSYH1YA.jpg"
   }
  ]
 }
