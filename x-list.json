@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T00:06:39+00:00",
+ "updated_at": "2026-11-17T00:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122484779421762006",
+   "text": "you can\u2019t blame robert pattinson for being a workaholic",
+   "url": "https://x.com/mandevil23edits/status/2122484779421762006",
+   "created_at": "2026-11-17T00:19:39+00:00",
+   "sent_at": "2026-11-17T00:19:39+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXSO67mWUAAk5hF.jpg"
+  },
+  {
+   "id": "2122482786988851640",
+   "text": "how it feels wearing my heated rivalry jerseys to actual hockey games",
+   "url": "https://x.com/uhbucky/status/2122482786988851640",
+   "created_at": "2026-11-17T00:11:44+00:00",
+   "sent_at": "2026-11-17T00:11:44+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 2,
+   "like_count": 41,
+   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1799292544636887040/pu/img/Ts0d199Kx4fyXvTa.jpg"
+  },
+  {
    "id": "2122476426519814189",
    "text": "how it feels having so much queer media to consume finally",
    "url": "https://x.com/uhbucky/status/2122476426519814189",
@@ -22,8 +50,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 8,
-   "like_count": 86,
+   "repost_count": 12,
+   "like_count": 129,
    "image": "https://pbs.twimg.com/media/HXSND8CXAAAcVmM.jpg"
   },
   {
@@ -79,22 +107,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 12,
+   "like_count": 14,
    "image": "https://pbs.twimg.com/media/HXOus1XXIAA0Qfp.jpg"
-  },
-  {
-   "id": "2122457521944182872",
-   "text": "every major version (comics, 90s animated, spectacular, andrew garfield, etc.) has peter running his mouth during fights.\n\nyou just don\u2019t understand spider-man",
-   "url": "https://x.com/mandevil23edits/status/2122457521944182872",
-   "created_at": "2026-11-16T22:31:21+00:00",
-   "sent_at": "2026-11-16T22:31:21+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 2,
-   "like_count": 40,
-   "image": ""
   },
   {
    "id": "2122456532591739040",
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 87,
+   "like_count": 94,
    "image": ""
   },
   {
@@ -119,9 +133,9 @@
    "author_name": "Man of Steven",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 2,
+   "reply_count": 1,
+   "repost_count": 2,
+   "like_count": 4,
    "image": ""
   },
   {
@@ -151,20 +165,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2122438931430130078",
-   "text": "shane saying \u201cI\u2019ll always find you\u201d to ilya \u2639\ufe0f\u2639\ufe0f\u2639\ufe0f he loves his baby so much \u2639\ufe0f\u2639\ufe0f\u2639\ufe0f",
-   "url": "https://x.com/uhbucky/status/2122438931430130078",
-   "created_at": "2026-11-16T21:17:28+00:00",
-   "sent_at": "2026-11-16T21:17:28+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 6,
-   "repost_count": 138,
-   "like_count": 1719,
-   "image": "https://pbs.twimg.com/media/HXRq9Y4WoAA2DQR.jpg"
   }
  ]
 }
