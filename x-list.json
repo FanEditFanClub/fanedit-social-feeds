@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T07:21:43+00:00",
+ "updated_at": "2026-11-17T07:36:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122593078800166995",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 351 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122593078800166995",
+   "created_at": "2026-11-17T07:30:00+00:00",
+   "sent_at": "2026-11-17T07:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXPNZfHXoAA9J65.jpg"
+  },
+  {
+   "id": "2122592607528206613",
+   "text": "Reboot in the 70s? I\u2019m in\n\nHopefully true \ud83d\ude4f\n\n#Halloween",
+   "url": "https://x.com/StebobM/status/2122592607528206613",
+   "created_at": "2026-11-17T07:28:08+00:00",
+   "sent_at": "2026-11-17T07:28:08+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2122589302525727029",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 350 of 644",
    "url": "https://x.com/SopranosOrder/status/2122589302525727029",
@@ -21,9 +49,9 @@
    "author_name": "Every Moment of The Sopranos in Order",
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "reply_count": 1,
+   "repost_count": 1,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HXPNWVqWAAAkG4b.jpg"
   },
   {
@@ -41,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2122585529417875456",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 349 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122585529417875456",
-   "created_at": "2026-11-17T07:00:00+00:00",
-   "sent_at": "2026-11-17T07:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXPNTXJXgAAMJTx.jpg"
-  },
-  {
    "id": "2122584783196942808",
    "text": "\u201cdenis villeneuve\u201d",
    "url": "https://x.com/mandevil23edits/status/2122584783196942808",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 8,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1524943342542405641/pu/img/KQYm_relC_H5829t.jpg"
   },
   {
@@ -77,9 +91,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 3,
+   "reply_count": 4,
    "repost_count": 5,
-   "like_count": 84,
+   "like_count": 115,
    "image": ""
   },
   {
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 4,
-   "like_count": 72,
+   "like_count": 73,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXSZvFEWIAAHjrY.jpg"
   },
   {
@@ -135,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 24,
-   "like_count": 673,
+   "like_count": 682,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1799292544636887040/pu/img/Ts0d199Kx4fyXvTa.jpg"
   },
   {
@@ -148,23 +162,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 40,
-   "like_count": 404,
+   "repost_count": 41,
+   "like_count": 409,
    "image": "https://pbs.twimg.com/media/HXSND8CXAAAcVmM.jpg"
-  },
-  {
-   "id": "2122459657369235853",
-   "text": "Exactly, these scoopers didn\u2019t even know that Gunn & Safran were losing their roles as DC studios heads yet they want us to believe they have all this detailed information about what\u2019s supposedly happening with Man of Tomorrow? Also the new guy starts on Dec 1st",
-   "url": "https://x.com/StebobM/status/2122459657369235853",
-   "created_at": "2026-11-16T22:39:50+00:00",
-   "sent_at": "2026-11-16T22:39:50+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": ""
   }
  ]
 }
