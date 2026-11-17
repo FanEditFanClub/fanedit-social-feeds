@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T13:36:52+00:00",
+ "updated_at": "2026-11-17T13:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122688013994164434",
+   "text": "Brother? who are you Hulk Hogan? \ud83e\udd23\n\nYet the end of the film clearly has scenes where it would have totally fit for him to become that version?\n\nLook you can be ok with it but some of us weren\u2019t happy with it",
+   "url": "https://x.com/StebobM/status/2122688013994164434",
+   "created_at": "2026-11-17T13:47:14+00:00",
+   "sent_at": "2026-11-17T13:47:14+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2122687449801400701",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 376 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122687449801400701",
+   "created_at": "2026-11-17T13:45:00+00:00",
+   "sent_at": "2026-11-17T13:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXPOz6mWAAASQaL.jpg"
+  },
+  {
    "id": "2122683678958714883",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 375 of 644",
    "url": "https://x.com/SopranosOrder/status/2122683678958714883",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HXPOwYsWQAACfQS.jpg"
-  },
-  {
-   "id": "2122679900444258794",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 374 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122679900444258794",
-   "created_at": "2026-11-17T13:15:00+00:00",
-   "sent_at": "2026-11-17T13:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HXPOtAiWUAAIlTr.jpg"
   },
   {
    "id": "2122668097572110426",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 20,
+   "like_count": 28,
    "image": ""
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 9,
-   "like_count": 74,
+   "like_count": 75,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
   },
   {
@@ -95,20 +109,6 @@
    "repost_count": 0,
    "like_count": 21,
    "image": "https://pbs.twimg.com/media/HXUVJXsWoAAaGP-.jpg"
-  },
-  {
-   "id": "2122592607528206613",
-   "text": "Reboot in the 70s? I\u2019m in\n\nHopefully true \ud83d\ude4f\n\n#Halloween",
-   "url": "https://x.com/StebobM/status/2122592607528206613",
-   "created_at": "2026-11-17T07:28:08+00:00",
-   "sent_at": "2026-11-17T07:28:08+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": ""
   }
  ]
 }
