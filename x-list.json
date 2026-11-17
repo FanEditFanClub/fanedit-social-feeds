@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T16:36:41+00:00",
+ "updated_at": "2026-11-17T16:51:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2122732748196433998",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 388 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122732748196433998",
+   "created_at": "2026-11-17T16:45:00+00:00",
+   "sent_at": "2026-11-17T16:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXPPe0yWgAAA3_Z.jpg"
+  },
+  {
+   "id": "2122732272541720951",
+   "text": "I feel like this & People vs Grodd are only guaranteed to release because they\u2019re already done. Mr Miracle I feel has a huge question mark on it. Is the animation already been worked on/done? Have the actors already recorded their dialogue?",
+   "url": "https://x.com/StebobM/status/2122732272541720951",
+   "created_at": "2026-11-17T16:43:06+00:00",
+   "sent_at": "2026-11-17T16:43:06+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2122730941256753623",
+   "text": "now just imagine how visually stunning the new james bond movie would look with greig fraser as director of photography",
+   "url": "https://x.com/mandevil23edits/status/2122730941256753623",
+   "created_at": "2026-11-17T16:37:49+00:00",
+   "sent_at": "2026-11-17T16:37:49+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 6,
+   "image": ""
+  },
+  {
    "id": "2122729888948109425",
    "text": "I don\u2019t think the time is now for #RestoreTheSnyderVerse under SkyDance if I\u2019m honest. I think it\u2019s far more likely we get a legacy sequel in say 5-10 years than right now. But were it to happen I\u2019d be ecstatic as it\u2019s my favourite live action DC Universe.\n\nOne day\u2026",
    "url": "https://x.com/StebobM/status/2122729888948109425",
@@ -23,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXVzlBuW4AAMkP1.jpg"
   },
   {
@@ -35,23 +77,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 2,
-   "image": ""
-  },
-  {
-   "id": "2122729052280881446",
-   "text": "Batman suffered the same problem as Supergirl you\u2019re making a show about a character associated with a much more popular relation and just making them a female version of said character instead of making them their own",
-   "url": "https://x.com/StebobM/status/2122729052280881446",
-   "created_at": "2026-11-17T16:30:19+00:00",
-   "sent_at": "2026-11-17T16:30:19+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -65,22 +93,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HXPPbOFXQAAobAU.jpg"
-  },
-  {
-   "id": "2122728831505121665",
-   "text": "good afternoon",
-   "url": "https://x.com/mandevil23edits/status/2122728831505121665",
-   "created_at": "2026-11-17T16:29:26+00:00",
-   "sent_at": "2026-11-17T16:29:26+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXVynvXWUAAPK-5.jpg"
   },
   {
    "id": "2122725647743422802",
@@ -91,9 +105,9 @@
    "author_name": "T-800",
    "author_handle": "T800s_Batcave",
    "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 4,
+   "reply_count": 1,
+   "repost_count": 2,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/media/HXVvt1QXEAAk02Q.jpg"
   },
   {
@@ -106,23 +120,9 @@
    "author_handle": "T800s_Batcave",
    "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
    "reply_count": 0,
-   "repost_count": 10,
-   "like_count": 18,
+   "repost_count": 22,
+   "like_count": 50,
    "image": "https://pbs.twimg.com/media/HXVvmV6XEAEyRcc.jpg"
-  },
-  {
-   "id": "2122725198080401513",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 386 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122725198080401513",
-   "created_at": "2026-11-17T16:15:00+00:00",
-   "sent_at": "2026-11-17T16:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXPPX4PWwAAE2r3.jpg"
   },
   {
    "id": "2122668097572110426",
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 57,
+   "like_count": 58,
    "image": ""
   }
  ]
