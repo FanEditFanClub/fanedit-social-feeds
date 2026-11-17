@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T18:51:40+00:00",
+ "updated_at": "2026-11-17T19:06:46+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122766726832242918",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 397 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122766726832242918",
+   "created_at": "2026-11-17T19:00:01+00:00",
+   "sent_at": "2026-11-17T19:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXPQAMEWMAASwoI.jpg"
+  },
+  {
+   "id": "2122764705110593848",
+   "text": "Unite the League\n#RestoreTheSnyderVerse\n\nhttps://www.youtube.com/watch?v=UNDtDFGoO9M",
+   "url": "https://x.com/T800s_Batcave/status/2122764705110593848",
+   "created_at": "2026-11-17T18:51:59+00:00",
+   "sent_at": "2026-11-17T18:51:59+00:00",
+   "author_name": "T-800",
+   "author_handle": "T800s_Batcave",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 2,
+   "like_count": 1,
+   "image": ""
+  },
+  {
    "id": "2122762946753229167",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 396 of 644",
    "url": "https://x.com/SopranosOrder/status/2122762946753229167",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXPP778XkAAdIdI.jpg"
-  },
-  {
-   "id": "2122759174757241291",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 395 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122759174757241291",
-   "created_at": "2026-11-17T18:30:00+00:00",
-   "sent_at": "2026-11-17T18:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXPP3xlWcAAsP1v.jpg"
+   "image": "https://pbs.twimg.com/media/HXPP778XkAAdIdI.jpg"
   },
   {
    "id": "2122751626792583465",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 8,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/media/HXWGWD2XcAA48iF.jpg"
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 20,
+   "like_count": 23,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111786347845345280/img/8OGs26ELTOSYH1YA.jpg"
   },
   {
@@ -107,22 +121,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
    "reply_count": 1,
    "repost_count": 42,
-   "like_count": 83,
+   "like_count": 84,
    "image": "https://pbs.twimg.com/media/HXVvt1QXEAAk02Q.jpg"
-  },
-  {
-   "id": "2122725513357910421",
-   "text": "#RestoreTheSnyderVerse",
-   "url": "https://x.com/T800s_Batcave/status/2122725513357910421",
-   "created_at": "2026-11-17T16:16:15+00:00",
-   "sent_at": "2026-11-17T16:16:15+00:00",
-   "author_name": "T-800",
-   "author_handle": "T800s_Batcave",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 59,
-   "like_count": 113,
-   "image": "https://pbs.twimg.com/media/HXVvmV6XEAEyRcc.jpg"
   }
  ]
 }
