@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T19:36:40+00:00",
+ "updated_at": "2026-11-17T19:51:45+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122778046797328753",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 400 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122778046797328753",
+   "created_at": "2026-11-17T19:45:00+00:00",
+   "sent_at": "2026-11-17T19:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXPQKMOWEAEikFu.jpg"
+  },
+  {
+   "id": "2122775967429247038",
+   "text": "Common sense answer \ud83d\udc4f",
+   "url": "https://x.com/StebobM/status/2122775967429247038",
+   "created_at": "2026-11-17T19:36:44+00:00",
+   "sent_at": "2026-11-17T19:36:44+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2122774271386910733",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 399 of 644",
    "url": "https://x.com/SopranosOrder/status/2122774271386910733",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXPQG13WUAAX5m6.jpg"
-  },
-  {
-   "id": "2122770496617877988",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 398 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122770496617877988",
-   "created_at": "2026-11-17T19:15:00+00:00",
-   "sent_at": "2026-11-17T19:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXPQDQxXcAA_qk3.jpg"
+   "image": "https://pbs.twimg.com/media/HXPQG13WUAAX5m6.jpg"
   },
   {
    "id": "2122764705110593848",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
    "reply_count": 0,
    "repost_count": 10,
-   "like_count": 15,
+   "like_count": 16,
    "image": ""
   },
   {
@@ -93,22 +107,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 4,
-   "like_count": 25,
+   "like_count": 26,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111786347845345280/img/8OGs26ELTOSYH1YA.jpg"
-  },
-  {
-   "id": "2122732272541720951",
-   "text": "I feel like this & People vs Grodd are only guaranteed to release because they\u2019re already done. Mr Miracle I feel has a huge question mark on it. Is the animation already been worked on/done? Have the actors already recorded their dialogue?",
-   "url": "https://x.com/StebobM/status/2122732272541720951",
-   "created_at": "2026-11-17T16:43:06+00:00",
-   "sent_at": "2026-11-17T16:43:06+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": ""
   },
   {
    "id": "2122725647743422802",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
    "reply_count": 1,
    "repost_count": 45,
-   "like_count": 89,
+   "like_count": 90,
    "image": "https://pbs.twimg.com/media/HXVvt1QXEAAk02Q.jpg"
   }
  ]
