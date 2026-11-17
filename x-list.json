@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T09:36:41+00:00",
+ "updated_at": "2026-11-17T09:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,18 +13,46 @@
  },
  "posts": [
   {
-   "id": "2122623344495177952",
-   "text": "marvin\u2019s room, easily.",
-   "url": "https://x.com/mandevil23edits/status/2122623344495177952",
-   "created_at": "2026-11-17T09:30:16+00:00",
-   "sent_at": "2026-11-17T09:30:16+00:00",
+   "id": "2122627809709621661",
+   "text": "robert pattinson and florence pugh in denis villeneuve\u2019s james bond after dune: part three",
+   "url": "https://x.com/mandevil23edits/status/2122627809709621661",
+   "created_at": "2026-11-17T09:48:01+00:00",
+   "sent_at": "2026-11-17T09:48:01+00:00",
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 0,
-   "image": ""
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
+  },
+  {
+   "id": "2122627051358454207",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 360 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122627051358454207",
+   "created_at": "2026-11-17T09:45:00+00:00",
+   "sent_at": "2026-11-17T09:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXPN6lnXIAAx1yQ.jpg"
+  },
+  {
+   "id": "2122626057597784142",
+   "text": "#nrw thor (2011)",
+   "url": "https://x.com/mandevil23edits/status/2122626057597784142",
+   "created_at": "2026-11-17T09:41:03+00:00",
+   "sent_at": "2026-11-17T09:41:03+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXUVJXsWoAAaGP-.jpg"
   },
   {
    "id": "2122623277319471416",
@@ -36,37 +64,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 2,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXPN25CWYAAsA0h.jpg"
-  },
-  {
-   "id": "2122620705929838973",
-   "text": "i mean he is a villain (in real life), so sure, why not.",
-   "url": "https://x.com/mandevil23edits/status/2122620705929838973",
-   "created_at": "2026-11-17T09:19:47+00:00",
-   "sent_at": "2026-11-17T09:19:47+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 9,
-   "image": ""
-  },
-  {
-   "id": "2122619502160441722",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 358 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122619502160441722",
-   "created_at": "2026-11-17T09:15:00+00:00",
-   "sent_at": "2026-11-17T09:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXPNys1W4AAqxO8.jpg"
   },
   {
    "id": "2122592607528206613",
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 25,
-   "like_count": 777,
+   "like_count": 785,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1799292544636887040/pu/img/Ts0d199Kx4fyXvTa.jpg"
   }
  ]
