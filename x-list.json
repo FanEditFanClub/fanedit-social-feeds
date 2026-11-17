@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T10:21:41+00:00",
+ "updated_at": "2026-11-17T10:36:45+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122638376817815830",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 363 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122638376817815830",
+   "created_at": "2026-11-17T10:30:00+00:00",
+   "sent_at": "2026-11-17T10:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXPOEoXWoAAWA3X.jpg"
+  },
+  {
    "id": "2122635279924076759",
    "text": "Great thread \ud83d\udc4f",
    "url": "https://x.com/StebobM/status/2122635279924076759",
@@ -22,8 +36,8 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HXPOBKaXAAAQdk0.jpg"
   },
   {
-   "id": "2122630826190152174",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 361 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122630826190152174",
-   "created_at": "2026-11-17T10:00:00+00:00",
-   "sent_at": "2026-11-17T10:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXPN-XqWMAAB4Ka.jpg"
-  },
-  {
    "id": "2122627809709621661",
    "text": "robert pattinson and florence pugh in denis villeneuve\u2019s james bond after dune: part three",
    "url": "https://x.com/mandevil23edits/status/2122627809709621661",
@@ -64,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 3,
-   "like_count": 30,
+   "repost_count": 4,
+   "like_count": 38,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 16,
+   "like_count": 17,
    "image": "https://pbs.twimg.com/media/HXUVJXsWoAAaGP-.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -123,20 +123,6 @@
    "repost_count": 0,
    "like_count": 13,
    "image": ""
-  },
-  {
-   "id": "2122490447226445986",
-   "text": "Robert Pattinson's 007 when the Bond Girl, Faye Sittonya tries to seduce him like the predator she is.",
-   "url": "https://x.com/TheManlet_King/status/2122490447226445986",
-   "created_at": "2026-11-17T00:42:11+00:00",
-   "sent_at": "2026-11-17T00:42:11+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 4,
-   "like_count": 82,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HXSZvFEWIAAHjrY.jpg"
   }
  ]
 }
