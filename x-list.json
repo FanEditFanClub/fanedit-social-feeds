@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T18:06:44+00:00",
+ "updated_at": "2026-11-17T18:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122755397412913313",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 394 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122755397412913313",
+   "created_at": "2026-11-17T18:15:00+00:00",
+   "sent_at": "2026-11-17T18:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXPP0WpXEAA3Gmy.jpg"
+  },
+  {
    "id": "2122751632052310127",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 393 of 644",
    "url": "https://x.com/SopranosOrder/status/2122751632052310127",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXPPxNZWYAAr7Sd.jpg"
   },
   {
@@ -32,12 +46,12 @@
    "url": "https://x.com/StebobM/status/2122751626792583465",
    "created_at": "2026-11-17T18:00:01+00:00",
    "sent_at": "2026-11-17T18:00:01+00:00",
-   "author_name": "Man of Steven",
+   "author_name": "Man of Steven \ud83c\udf84",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXWHWVgWEAEhUJf.jpg"
   },
   {
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HXWGWD2XcAA48iF.jpg"
-  },
-  {
-   "id": "2122748099110273141",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 392 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122748099110273141",
-   "created_at": "2026-11-17T17:46:00+00:00",
-   "sent_at": "2026-11-17T17:46:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXPPsh3WUAAYCWj.jpg"
   },
   {
    "id": "2122734615433736548",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 17,
+   "like_count": 18,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111786347845345280/img/8OGs26ELTOSYH1YA.jpg"
   },
   {
@@ -88,7 +88,7 @@
    "url": "https://x.com/StebobM/status/2122732272541720951",
    "created_at": "2026-11-17T16:43:06+00:00",
    "sent_at": "2026-11-17T16:43:06+00:00",
-   "author_name": "Man of Steven",
+   "author_name": "Man of Steven \ud83c\udf84",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
@@ -106,8 +106,8 @@
    "author_handle": "T800s_Batcave",
    "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
    "reply_count": 1,
-   "repost_count": 38,
-   "like_count": 71,
+   "repost_count": 39,
+   "like_count": 74,
    "image": "https://pbs.twimg.com/media/HXVvt1QXEAAk02Q.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "T800s_Batcave",
    "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
    "reply_count": 0,
-   "repost_count": 54,
-   "like_count": 105,
+   "repost_count": 58,
+   "like_count": 109,
    "image": "https://pbs.twimg.com/media/HXVvmV6XEAEyRcc.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 61,
+   "like_count": 63,
    "image": ""
   }
  ]
