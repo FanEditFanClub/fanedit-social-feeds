@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T08:51:50+00:00",
+ "updated_at": "2026-11-17T09:06:48+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,48 @@
  },
  "posts": [
   {
+   "id": "2122616731667734942",
+   "text": "1/10 bait",
+   "url": "https://x.com/mandevil23edits/status/2122616731667734942",
+   "created_at": "2026-11-17T09:03:59+00:00",
+   "sent_at": "2026-11-17T09:03:59+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2122615956388171953",
+   "text": "denis villeneuve, please do not pick up that phone",
+   "url": "https://x.com/mandevil23edits/status/2122615956388171953",
+   "created_at": "2026-11-17T09:00:54+00:00",
+   "sent_at": "2026-11-17T09:00:54+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2081194274004107264/img/Pyrkn3Zpfs6CA8sF.jpg"
+  },
+  {
+   "id": "2122615745159082051",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 357 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122615745159082051",
+   "created_at": "2026-11-17T09:00:04+00:00",
+   "sent_at": "2026-11-17T09:00:04+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXPNvhkXEAAJD-A.jpg"
+  },
+  {
    "id": "2122611952078012751",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 356 of 644",
    "url": "https://x.com/SopranosOrder/status/2122611952078012751",
@@ -25,48 +67,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HXPNr8sWIAAgKYq.jpg"
-  },
-  {
-   "id": "2122611096762949832",
-   "text": "and ppl tried so hard to convince me that callum turner was a better option for the role of james bond than robert pattinson \ud83d\ude02\u270c\ud83c\udffd",
-   "url": "https://x.com/mandevil23edits/status/2122611096762949832",
-   "created_at": "2026-11-17T08:41:36+00:00",
-   "sent_at": "2026-11-17T08:41:36+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
-  },
-  {
-   "id": "2122608177925570707",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 355 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122608177925570707",
-   "created_at": "2026-11-17T08:30:00+00:00",
-   "sent_at": "2026-11-17T08:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXPNoMhWYAEy2BD.jpg"
-  },
-  {
-   "id": "2122602865118314692",
-   "text": "but avengers: age of ultron was an event movie tho",
-   "url": "https://x.com/mandevil23edits/status/2122602865118314692",
-   "created_at": "2026-11-17T08:08:53+00:00",
-   "sent_at": "2026-11-17T08:08:53+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 2,
-   "like_count": 15,
-   "image": ""
   },
   {
    "id": "2122592607528206613",
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 25,
-   "like_count": 745,
+   "like_count": 757,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1799292544636887040/pu/img/Ts0d199Kx4fyXvTa.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 45,
-   "like_count": 430,
+   "like_count": 433,
    "image": "https://pbs.twimg.com/media/HXSND8CXAAAcVmM.jpg"
   }
  ]
