@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T21:51:40+00:00",
+ "updated_at": "2026-11-17T22:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2122812024962830488",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 409 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122812024962830488",
+   "created_at": "2026-11-17T22:00:01+00:00",
+   "sent_at": "2026-11-17T22:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXPQ49iXYAAU4jq.jpg"
+  },
   {
    "id": "2122808245391950112",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 408 of 644",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HXPQ0PKXkAEG2wN.jpg"
   },
   {
-   "id": "2122804470824239454",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 407 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122804470824239454",
-   "created_at": "2026-11-17T21:30:00+00:00",
-   "sent_at": "2026-11-17T21:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HXPQxDcWgAAWEsx.jpg"
-  },
-  {
    "id": "2122795993011777719",
    "text": "holding their baby \u2639\ufe0f\u2639\ufe0f\u2639\ufe0f",
    "url": "https://x.com/uhbucky/status/2122795993011777719",
@@ -50,8 +50,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 32,
-   "like_count": 409,
+   "repost_count": 36,
+   "like_count": 471,
    "image": "https://pbs.twimg.com/media/HXWvtKEWcAA-YXt.jpg"
   },
   {
@@ -63,9 +63,9 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 26,
+   "like_count": 29,
    "image": "https://pbs.twimg.com/media/HXWqvPyWgAAhzxj.jpg"
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "T800s_Batcave",
    "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
    "reply_count": 0,
-   "repost_count": 16,
-   "like_count": 26,
+   "repost_count": 17,
+   "like_count": 27,
    "image": ""
   },
   {
