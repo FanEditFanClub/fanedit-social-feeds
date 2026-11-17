@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T14:51:40+00:00",
+ "updated_at": "2026-11-17T15:06:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122706338723627467",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 381 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122706338723627467",
+   "created_at": "2026-11-17T15:00:03+00:00",
+   "sent_at": "2026-11-17T15:00:03+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXPPGVmXgAEMcxK.jpg"
+  },
+  {
    "id": "2122702549211885776",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 380 of 644",
    "url": "https://x.com/SopranosOrder/status/2122702549211885776",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXPPBiOWoAAm_zB.jpg"
-  },
-  {
-   "id": "2122698776666120659",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 379 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122698776666120659",
-   "created_at": "2026-11-17T14:30:00+00:00",
-   "sent_at": "2026-11-17T14:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXPO-OcWMAAhGbX.jpg"
   },
   {
    "id": "2122691952646951307",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 3,
-   "like_count": 50,
+   "like_count": 53,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 9,
-   "like_count": 78,
+   "like_count": 80,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
   },
   {
