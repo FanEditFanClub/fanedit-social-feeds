@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T11:06:41+00:00",
+ "updated_at": "2026-11-17T11:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122649701732524376",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 366 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122649701732524376",
+   "created_at": "2026-11-17T11:15:00+00:00",
+   "sent_at": "2026-11-17T11:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXPOQXbWgAAa-mG.jpg"
+  },
+  {
    "id": "2122645935373345001",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 365 of 644",
    "url": "https://x.com/SopranosOrder/status/2122645935373345001",
@@ -22,23 +36,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXPOMx4WsAA8_nx.jpg"
-  },
-  {
-   "id": "2122642151347753448",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 364 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122642151347753448",
-   "created_at": "2026-11-17T10:45:00+00:00",
-   "sent_at": "2026-11-17T10:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
    "repost_count": 1,
    "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXPOIgyWsAA_VeU.jpg"
+   "image": "https://pbs.twimg.com/media/HXPOMx4WsAA8_nx.jpg"
   },
   {
    "id": "2122635279924076759",
@@ -64,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 6,
-   "like_count": 49,
+   "repost_count": 8,
+   "like_count": 57,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
   },
   {
@@ -94,20 +94,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 3,
-   "image": ""
-  },
-  {
-   "id": "2122506983852871783",
-   "text": "https://docs.google.com/forms/d/e/1FAIpQLSejrR28lD01NgnZMatTRyZvmYf7rOpmlp_DNxDrhbhHhqBhKg/viewform\nHere's the form to apply! :)",
-   "url": "https://x.com/The2019Cut/status/2122506983852871783",
-   "created_at": "2026-11-17T01:47:53+00:00",
-   "sent_at": "2026-11-17T01:47:53+00:00",
-   "author_name": "Sonic The Hedgehog: The 2019 Cut",
-   "author_handle": "The2019Cut",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2119775894478680064/id7IFFp4_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 8,
-   "like_count": 54,
    "image": ""
   }
  ]
