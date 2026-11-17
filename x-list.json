@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T22:06:40+00:00",
+ "updated_at": "2026-11-17T22:21:47+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2122815795231096981",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 410 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122815795231096981",
+   "created_at": "2026-11-17T22:15:00+00:00",
+   "sent_at": "2026-11-17T22:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXPQ7_2WMAAUAxH.jpg"
+  },
   {
    "id": "2122812024962830488",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 409 of 644",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HXPQ49iXYAAU4jq.jpg"
   },
   {
-   "id": "2122808245391950112",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 408 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122808245391950112",
-   "created_at": "2026-11-17T21:45:00+00:00",
-   "sent_at": "2026-11-17T21:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXPQ0PKXkAEG2wN.jpg"
-  },
-  {
    "id": "2122795993011777719",
    "text": "holding their baby \u2639\ufe0f\u2639\ufe0f\u2639\ufe0f",
    "url": "https://x.com/uhbucky/status/2122795993011777719",
@@ -50,8 +50,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 36,
-   "like_count": 471,
+   "repost_count": 40,
+   "like_count": 536,
    "image": "https://pbs.twimg.com/media/HXWvtKEWcAA-YXt.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 29,
+   "like_count": 31,
    "image": "https://pbs.twimg.com/media/HXWqvPyWgAAhzxj.jpg"
   },
   {
@@ -151,20 +151,6 @@
    "repost_count": 4,
    "like_count": 31,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2111786347845345280/img/8OGs26ELTOSYH1YA.jpg"
-  },
-  {
-   "id": "2122725647743422802",
-   "text": "#RestoreTheSnyderVerse",
-   "url": "https://x.com/T800s_Batcave/status/2122725647743422802",
-   "created_at": "2026-11-17T16:16:47+00:00",
-   "sent_at": "2026-11-17T16:16:47+00:00",
-   "author_name": "T-800",
-   "author_handle": "T800s_Batcave",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 51,
-   "like_count": 105,
-   "image": "https://pbs.twimg.com/media/HXVvt1QXEAAk02Q.jpg"
   }
  ]
 }
