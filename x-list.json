@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T09:51:41+00:00",
+ "updated_at": "2026-11-17T10:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122630826190152174",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 361 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122630826190152174",
+   "created_at": "2026-11-17T10:00:00+00:00",
+   "sent_at": "2026-11-17T10:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXPN-XqWMAAB4Ka.jpg"
+  },
+  {
    "id": "2122627809709621661",
    "text": "robert pattinson and florence pugh in denis villeneuve\u2019s james bond after dune: part three",
    "url": "https://x.com/mandevil23edits/status/2122627809709621661",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
   },
   {
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 15,
    "image": "https://pbs.twimg.com/media/HXUVJXsWoAAaGP-.jpg"
-  },
-  {
-   "id": "2122623277319471416",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 359 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122623277319471416",
-   "created_at": "2026-11-17T09:30:00+00:00",
-   "sent_at": "2026-11-17T09:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXPN25CWYAAsA0h.jpg"
   },
   {
    "id": "2122592607528206613",
@@ -135,22 +135,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 4,
-   "like_count": 80,
+   "like_count": 81,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXSZvFEWIAAHjrY.jpg"
-  },
-  {
-   "id": "2122482786988851640",
-   "text": "how it feels wearing my heated rivalry jerseys to actual hockey games",
-   "url": "https://x.com/uhbucky/status/2122482786988851640",
-   "created_at": "2026-11-17T00:11:44+00:00",
-   "sent_at": "2026-11-17T00:11:44+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 25,
-   "like_count": 785,
-   "image": "https://pbs.twimg.com/ext_tw_video_thumb/1799292544636887040/pu/img/Ts0d199Kx4fyXvTa.jpg"
   }
  ]
 }
