@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-17T10:06:41+00:00",
+ "updated_at": "2026-11-17T10:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2122635279924076759",
+   "text": "Great thread \ud83d\udc4f",
+   "url": "https://x.com/StebobM/status/2122635279924076759",
+   "created_at": "2026-11-17T10:17:42+00:00",
+   "sent_at": "2026-11-17T10:17:42+00:00",
+   "author_name": "Man of Steven",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2122634601051177167",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 362 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122634601051177167",
+   "created_at": "2026-11-17T10:15:00+00:00",
+   "sent_at": "2026-11-17T10:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXPOBKaXAAAQdk0.jpg"
+  },
   {
    "id": "2122630826190152174",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 361 of 644",
@@ -35,24 +63,10 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 9,
+   "reply_count": 1,
+   "repost_count": 3,
+   "like_count": 30,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
-  },
-  {
-   "id": "2122627051358454207",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 360 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122627051358454207",
-   "created_at": "2026-11-17T09:45:00+00:00",
-   "sent_at": "2026-11-17T09:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXPN6lnXIAAx1yQ.jpg"
   },
   {
    "id": "2122626057597784142",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 15,
+   "like_count": 16,
    "image": "https://pbs.twimg.com/media/HXUVJXsWoAAaGP-.jpg"
   },
   {
@@ -80,20 +94,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 2,
-   "image": ""
-  },
-  {
-   "id": "2122585964258496939",
-   "text": "Look I think he\u2019s done after Part 2 but the Wrap is notoriously bad for getting things like this completely wrong lol so take it with a pinch of salt",
-   "url": "https://x.com/StebobM/status/2122585964258496939",
-   "created_at": "2026-11-17T07:01:44+00:00",
-   "sent_at": "2026-11-17T07:01:44+00:00",
-   "author_name": "Man of Steven",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 4,
-   "like_count": 81,
+   "like_count": 82,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXSZvFEWIAAHjrY.jpg"
   }
  ]
