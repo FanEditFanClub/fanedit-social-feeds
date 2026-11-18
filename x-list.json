@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T10:21:41+00:00",
+ "updated_at": "2026-11-18T10:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2123000767984370091",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 459 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123000767984370091",
+   "created_at": "2026-11-18T10:30:01+00:00",
+   "sent_at": "2026-11-18T10:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HXUciZLWkAAwex2.jpg"
+  },
   {
    "id": "2122996989826588733",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 458 of 644",
@@ -39,20 +53,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": ""
-  },
-  {
-   "id": "2122993466556727447",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 457 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122993466556727447",
-   "created_at": "2026-11-18T10:01:00+00:00",
-   "sent_at": "2026-11-18T10:01:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXUccPuXAAAR7id.jpg"
   },
   {
    "id": "2122955092064354342",
