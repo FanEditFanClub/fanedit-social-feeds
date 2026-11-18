@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T15:21:45+00:00",
+ "updated_at": "2026-11-18T15:37:07+00:00",
  "source": "https://www.faneditfanclub.com",
  "nav": [
   {
@@ -1030,6 +1030,13 @@
      "type": "text",
      "tag": "li",
      "html": "<a href=\"https://pastebin.com/3j6pBdn1\" target=\"_blank\" rel=\"noopener noreferrer\">RetroStranger95\u2019s Fan Edits</a> (<a href=\"https://pastebin.com/3j6pBdn1\" target=\"_blank\" rel=\"noopener noreferrer\">Password:</a><a href=\"https://pastebin.com/3j6pBdn1\" target=\"_blank\" rel=\"noopener noreferrer\">J120qPS2wqe</a>)",
+     "align": "left",
+     "font": "body"
+    },
+    {
+     "type": "text",
+     "tag": "li",
+     "html": "<a href=\"https://drive.google.com/drive/folders/1Hbwi08hvhVyDXw27Fydp-Wfu25wc7mNa\" target=\"_blank\" rel=\"noopener noreferrer\">Rettflix&#x27;s Fan Edits</a>",
      "align": "left",
      "font": "body"
     },
