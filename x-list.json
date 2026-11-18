@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T00:36:41+00:00",
+ "updated_at": "2026-11-18T00:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122853543782891703",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 420 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122853543782891703",
+   "created_at": "2026-11-18T00:45:00+00:00",
+   "sent_at": "2026-11-18T00:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXUaY8eWYAApw6E.jpg"
+  },
+  {
    "id": "2122851397024534808",
    "text": "nobody was expecting an ai version of cyclops\u2019s comic-accurate suit bruh",
    "url": "https://x.com/mandevil23edits/status/2122851397024534808",
@@ -21,9 +35,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HXUaUmJW4AAg3BR.jpg"
-  },
-  {
-   "id": "2122845994119303479",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 418 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122845994119303479",
-   "created_at": "2026-11-18T00:15:00+00:00",
-   "sent_at": "2026-11-18T00:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXUaQ3rXIAAE_ri.jpg"
   },
   {
    "id": "2122845715043070412",
@@ -77,9 +77,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 10,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXXc6zIWwAA8Nfr.jpg"
   },
   {
@@ -92,8 +92,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 4,
-   "like_count": 16,
+   "repost_count": 5,
+   "like_count": 17,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1502362133677461510/pu/img/Q3o0285_qT_p9Q_b.jpg"
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 64,
-   "like_count": 901,
+   "repost_count": 65,
+   "like_count": 926,
    "image": "https://pbs.twimg.com/media/HXWvtKEWcAA-YXt.jpg"
   },
   {
@@ -119,9 +119,9 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 2,
-   "like_count": 51,
+   "like_count": 53,
    "image": "https://pbs.twimg.com/media/HXWqvPyWgAAhzxj.jpg"
   },
   {
@@ -161,7 +161,7 @@
    "author_name": "T-800",
    "author_handle": "T800s_Batcave",
    "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 0,
    "repost_count": 22,
    "like_count": 34,
    "image": ""
