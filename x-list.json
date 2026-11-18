@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T09:51:41+00:00",
+ "updated_at": "2026-11-18T10:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122993857419788562",
+   "text": "Best of luck in your retirement, we only had you at Chelsea for a short time but in my eyes you\u2019re a legend \ud83d\udc99",
+   "url": "https://x.com/StebobM/status/2122993857419788562",
+   "created_at": "2026-11-18T10:02:33+00:00",
+   "sent_at": "2026-11-18T10:02:33+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": ""
+  },
+  {
+   "id": "2122993466556727447",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 457 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122993466556727447",
+   "created_at": "2026-11-18T10:01:00+00:00",
+   "sent_at": "2026-11-18T10:01:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXUccPuXAAAR7id.jpg"
+  },
+  {
    "id": "2122989439840571738",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 456 of 644",
    "url": "https://x.com/SopranosOrder/status/2122989439840571738",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXUcYH2XoAAhf8k.jpg"
-  },
-  {
-   "id": "2122985664308248747",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 455 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122985664308248747",
-   "created_at": "2026-11-18T09:30:00+00:00",
-   "sent_at": "2026-11-18T09:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXUcUtOXMAAcY4J.jpg"
   },
   {
    "id": "2122955092064354342",
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 6,
    "image": ""
   },
   {
@@ -79,21 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 5,
-   "image": ""
-  },
-  {
-   "id": "2122940081401127302",
-   "text": "It\u2019s same as the Dark Knight the reason those films are used to compare and contrast is because they\u2019re the elite to people when it comes to those properties.",
-   "url": "https://x.com/StebobM/status/2122940081401127302",
-   "created_at": "2026-11-18T06:28:52+00:00",
-   "sent_at": "2026-11-18T06:28:52+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
+   "like_count": 6,
    "image": ""
   }
  ]
