@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T22:21:42+00:00",
+ "updated_at": "2026-11-18T22:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2123181960570769865",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 507 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123181960570769865",
+   "created_at": "2026-11-18T22:30:00+00:00",
+   "sent_at": "2026-11-18T22:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HXUftSLXwAA_bas.jpg"
+  },
+  {
+   "id": "2123181182695133466",
+   "text": "Shadow (35mm 6K Scan) Open Matte - DTS",
+   "url": "https://x.com/NCseventeen/status/2123181182695133466",
+   "created_at": "2026-11-18T22:26:55+00:00",
+   "sent_at": "2026-11-18T22:26:55+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 3,
+   "like_count": 7,
+   "image": "https://pbs.twimg.com/media/HXcNxhlXUAAAwh_.jpg"
+  },
+  {
    "id": "2123178182899896534",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 506 of 644",
    "url": "https://x.com/SopranosOrder/status/2123178182899896534",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HXUfprWXMAAsooB.jpg"
-  },
-  {
-   "id": "2123174413814345754",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 505 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123174413814345754",
-   "created_at": "2026-11-18T22:00:01+00:00",
-   "sent_at": "2026-11-18T22:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXUfmryW4AA0LCI.jpg"
   },
   {
    "id": "2123168026174337460",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -65,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 29,
+   "like_count": 32,
    "image": "https://pbs.twimg.com/media/HXby_7cXwAAieF5.jpg"
   },
   {
@@ -92,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 9,
-   "repost_count": 65,
-   "like_count": 420,
+   "repost_count": 68,
+   "like_count": 436,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2064189394693832704/img/iYrr7KiZ2x_jmKFP.jpg"
   },
   {
@@ -165,20 +179,6 @@
    "repost_count": 1,
    "like_count": 27,
    "image": "https://pbs.twimg.com/media/HXa4qjkWoAAJg8q.jpg"
-  },
-  {
-   "id": "2123064902461899171",
-   "text": "that\u2019s what I like to hear",
-   "url": "https://x.com/uhbucky/status/2123064902461899171",
-   "created_at": "2026-11-18T14:44:52+00:00",
-   "sent_at": "2026-11-18T14:44:52+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 8,
-   "like_count": 140,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
   }
  ]
 }
