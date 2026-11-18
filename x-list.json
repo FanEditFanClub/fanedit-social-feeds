@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T08:21:40+00:00",
+ "updated_at": "2026-11-18T08:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2122970568576102600",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 451 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122970568576102600",
+   "created_at": "2026-11-18T08:30:01+00:00",
+   "sent_at": "2026-11-18T08:30:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXUcGDOXQAAQS51.jpg"
+  },
   {
    "id": "2122966790015738335",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 450 of 644",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HXUcC3pWYAAMwLd.jpg"
   },
   {
-   "id": "2122963015083364597",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 449 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122963015083364597",
-   "created_at": "2026-11-18T08:00:00+00:00",
-   "sent_at": "2026-11-18T08:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXUb_ZDWgAAwIs7.jpg"
-  },
-  {
    "id": "2122955092064354342",
    "text": "into the spider-verse, easily. the writing is outstanding cause miles morales\u2019 journey feels authentic, the dialogue sequences hits hard, and it treats it\u2019s characters with real care so the emotional payoff is fully earned.",
    "url": "https://x.com/mandevil23edits/status/2122955092064354342",
@@ -49,9 +49,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 2,
-   "like_count": 14,
+   "like_count": 15,
    "image": ""
   },
   {
