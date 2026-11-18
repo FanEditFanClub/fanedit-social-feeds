@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T18:36:40+00:00",
+ "updated_at": "2026-11-18T18:51:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2123126653165740318",
+   "text": "walking him like a dog I love to see it",
+   "url": "https://x.com/uhbucky/status/2123126653165740318",
+   "created_at": "2026-11-18T18:50:14+00:00",
+   "sent_at": "2026-11-18T18:50:14+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2123126634257473536/img/ams3GoXWyk5Wxnd_.jpg"
+  },
+  {
+   "id": "2123125336346853751",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 492 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123125336346853751",
+   "created_at": "2026-11-18T18:45:00+00:00",
+   "sent_at": "2026-11-18T18:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HXUebgwX0AAdOO1.jpg"
+  },
+  {
    "id": "2123121567261679702",
    "text": "Had to pick up lunch for work and of the 11 other men in the restaurant only 2 weren't wearing glasses.\n\nThen a usual suspect came in REEKING of weed. Lord save me from the Billions!",
    "url": "https://x.com/TheManlet_King/status/2123121567261679702",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 6,
+   "like_count": 16,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXbXyJ1WoAI_giC.jpg"
   },
   {
@@ -37,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HXUeYHnW0AA8QwI.jpg"
-  },
-  {
-   "id": "2123117785618276799",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 490 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123117785618276799",
-   "created_at": "2026-11-18T18:15:00+00:00",
-   "sent_at": "2026-11-18T18:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXUeUL5WEAEPKZu.jpg"
   },
   {
    "id": "2123110122486698217",
@@ -63,9 +77,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 2,
-   "like_count": 15,
+   "reply_count": 2,
+   "repost_count": 3,
+   "like_count": 18,
    "image": ""
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 3,
-   "like_count": 19,
+   "like_count": 20,
    "image": ""
   },
   {
@@ -163,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 3,
-   "like_count": 108,
+   "like_count": 110,
    "image": "https://pbs.twimg.com/media/HXaYBnlXcAARzts.jpg"
   }
  ]
