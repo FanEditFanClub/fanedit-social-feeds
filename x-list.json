@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T17:36:46+00:00",
+ "updated_at": "2026-11-18T17:51:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2123110235271245884",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 488 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123110235271245884",
+   "created_at": "2026-11-18T17:45:00+00:00",
+   "sent_at": "2026-11-18T17:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXUeMHKXcAAYjG2.jpg"
+  },
+  {
+   "id": "2123110122486698217",
+   "text": "My new video analysing the Robert Pattinson Bond reveal media itself and what it suggests about the future direction of the Bond franchise.\n\nOverall, I think those who (like me) had worries over Amazon's possible plans should be somewhat reassured...!\n\nhttps://www.youtube.com/watch?v=nyWJUUg4628",
+   "url": "https://x.com/tomsmason91/status/2123110122486698217",
+   "created_at": "2026-11-18T17:44:33+00:00",
+   "sent_at": "2026-11-18T17:44:33+00:00",
+   "author_name": "Tom Mason",
+   "author_handle": "tomsmason91",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": ""
+  },
+  {
    "id": "2123106461219721583",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 487 of 644",
    "url": "https://x.com/SopranosOrder/status/2123106461219721583",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HXUeH_uXQAAH-Zl.jpg"
-  },
-  {
-   "id": "2123102685394288715",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 486 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123102685394288715",
-   "created_at": "2026-11-18T17:15:00+00:00",
-   "sent_at": "2026-11-18T17:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXUeElzXUAAzpLK.jpg"
   },
   {
    "id": "2123089559101575425",
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 23,
+   "like_count": 25,
    "image": "https://pbs.twimg.com/media/HXa4qjkWoAAJg8q.jpg"
   },
   {
@@ -120,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 6,
-   "like_count": 107,
+   "repost_count": 7,
+   "like_count": 114,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
   },
   {
@@ -135,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 3,
-   "like_count": 106,
+   "like_count": 108,
    "image": "https://pbs.twimg.com/media/HXaYBnlXcAARzts.jpg"
   }
  ]
