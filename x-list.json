@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T04:21:40+00:00",
+ "updated_at": "2026-11-18T04:36:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122910167041753273",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 435 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122910167041753273",
+   "created_at": "2026-11-18T04:30:00+00:00",
+   "sent_at": "2026-11-18T04:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXUbNFCWYAAXlQT.jpg"
+  },
+  {
    "id": "2122906392071970826",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 434 of 644",
    "url": "https://x.com/SopranosOrder/status/2122906392071970826",
@@ -22,23 +36,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
+   "repost_count": 1,
+   "like_count": 9,
    "image": "https://pbs.twimg.com/media/HXUbJoeXAAAx1g4.jpg"
-  },
-  {
-   "id": "2122902622239867288",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 433 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122902622239867288",
-   "created_at": "2026-11-18T04:00:01+00:00",
-   "sent_at": "2026-11-18T04:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HXUbGoKXkAA2rYF.jpg"
   },
   {
    "id": "2122883729173737541",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 17,
+   "like_count": 20,
    "image": "https://pbs.twimg.com/media/HXX_fscXoAA4Pcs.jpg"
   },
   {
@@ -63,9 +63,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 15,
+   "like_count": 18,
    "image": ""
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
    "repost_count": 10,
-   "like_count": 153,
+   "like_count": 156,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXXpZFrXcAAY-gM.jpg"
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 10,
+   "reply_count": 11,
    "repost_count": 2,
-   "like_count": 54,
+   "like_count": 55,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXXc6zIWwAA8Nfr.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 87,
-   "like_count": 1268,
+   "like_count": 1284,
    "image": "https://pbs.twimg.com/media/HXWvtKEWcAA-YXt.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 3,
    "repost_count": 2,
-   "like_count": 73,
+   "like_count": 74,
    "image": "https://pbs.twimg.com/media/HXWqvPyWgAAhzxj.jpg"
   },
   {
@@ -163,21 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
-   "image": ""
-  },
-  {
-   "id": "2122764705110593848",
-   "text": "Unite the League\n#RestoreTheSnyderVerse\n\nhttps://www.youtube.com/watch?v=UNDtDFGoO9M",
-   "url": "https://x.com/T800s_Batcave/status/2122764705110593848",
-   "created_at": "2026-11-17T18:51:59+00:00",
-   "sent_at": "2026-11-17T18:51:59+00:00",
-   "author_name": "T-800",
-   "author_handle": "T800s_Batcave",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 26,
-   "like_count": 37,
+   "like_count": 2,
    "image": ""
   }
  ]
