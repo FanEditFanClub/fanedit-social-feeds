@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T21:21:41+00:00",
+ "updated_at": "2026-11-18T21:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2123168026174337460",
+   "text": "That does not shock me given Gunn\u2019s love of All Star Superman and I am here for it #ManofTomorrow",
+   "url": "https://x.com/StebobM/status/2123168026174337460",
+   "created_at": "2026-11-18T21:34:38+00:00",
+   "sent_at": "2026-11-18T21:34:38+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2123166860283670911",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 503 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123166860283670911",
+   "created_at": "2026-11-18T21:30:00+00:00",
+   "sent_at": "2026-11-18T21:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXUfFrsW0AAQVm4.jpg"
+  },
+  {
    "id": "2123163083824848958",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 502 of 644",
    "url": "https://x.com/SopranosOrder/status/2123163083824848958",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXUfBV3WYAEQmXC.jpg"
-  },
-  {
-   "id": "2123159314772767206",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 501 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123159314772767206",
-   "created_at": "2026-11-18T21:00:01+00:00",
-   "sent_at": "2026-11-18T21:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HXUe-QBXYAA5PBB.jpg"
   },
   {
    "id": "2123151461143957831",
@@ -49,9 +63,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
-   "like_count": 16,
+   "like_count": 20,
    "image": "https://pbs.twimg.com/media/HXby_7cXwAAieF5.jpg"
   },
   {
@@ -65,22 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": ""
-  },
-  {
-   "id": "2123150794958553192",
-   "text": "New suits? #ManofTomorrow",
-   "url": "https://x.com/StebobM/status/2123150794958553192",
-   "created_at": "2026-11-18T20:26:10+00:00",
-   "sent_at": "2026-11-18T20:26:10+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HXbyZGXXMAALycM.jpg"
   },
   {
    "id": "2123127591364370517",
@@ -91,9 +91,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 7,
-   "repost_count": 37,
-   "like_count": 307,
+   "reply_count": 8,
+   "repost_count": 46,
+   "like_count": 349,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2064189394693832704/img/iYrr7KiZ2x_jmKFP.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 48,
+   "like_count": 50,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXbXyJ1WoAI_giC.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 3,
    "repost_count": 4,
-   "like_count": 26,
+   "like_count": 29,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 22,
+   "like_count": 23,
    "image": ""
   },
   {
@@ -177,7 +177,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 8,
-   "like_count": 136,
+   "like_count": 137,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
   }
  ]
