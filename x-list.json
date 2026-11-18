@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T06:51:45+00:00",
+ "updated_at": "2026-11-18T07:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2122949098957631729",
+   "text": "laura bailey appreciation post",
+   "url": "https://x.com/mandevil23edits/status/2122949098957631729",
+   "created_at": "2026-11-18T07:04:42+00:00",
+   "sent_at": "2026-11-18T07:04:42+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXY68uEWoAEyCUn.jpg"
+  },
+  {
+   "id": "2122947919213113604",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 445 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122947919213113604",
+   "created_at": "2026-11-18T07:00:01+00:00",
+   "sent_at": "2026-11-18T07:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXUbx2xWsAAcw2-.jpg"
+  },
   {
    "id": "2122944141222965492",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 444 of 644",
@@ -35,9 +63,9 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 4,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 12,
    "image": "https://pbs.twimg.com/media/HXY0jIHXwAA2OPM.jpg"
   },
   {
@@ -55,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2122940366244704722",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 443 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122940366244704722",
-   "created_at": "2026-11-18T06:30:00+00:00",
-   "sent_at": "2026-11-18T06:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXUbqhqWgAAkN3x.jpg"
-  },
-  {
    "id": "2122940081401127302",
    "text": "It\u2019s same as the Dark Knight the reason those films are used to compare and contrast is because they\u2019re the elite to people when it comes to those properties.",
    "url": "https://x.com/StebobM/status/2122940081401127302",
@@ -81,20 +95,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": ""
-  },
-  {
-   "id": "2122930462062673964",
-   "text": "i\u2019ll probably replace you can see everything with dune: part three",
-   "url": "https://x.com/mandevil23edits/status/2122930462062673964",
-   "created_at": "2026-11-18T05:50:38+00:00",
-   "sent_at": "2026-11-18T05:50:38+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 11,
-   "image": "https://pbs.twimg.com/media/HXYqAKsWwAANeSW.jpg"
   }
  ]
 }
