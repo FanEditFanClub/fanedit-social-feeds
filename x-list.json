@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T20:21:41+00:00",
+ "updated_at": "2026-11-18T20:36:45+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,62 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2123151761036976582",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 499 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123151761036976582",
+   "created_at": "2026-11-18T20:30:00+00:00",
+   "sent_at": "2026-11-18T20:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXUe1_HXoAARb41.jpg"
+  },
+  {
+   "id": "2123151461143957831",
+   "text": "Idk who Theo Von is, why he is a caked up ai soul singer, or what it all means, and at this point I'm scared to ask.",
+   "url": "https://x.com/TheManlet_King/status/2123151461143957831",
+   "created_at": "2026-11-18T20:28:49+00:00",
+   "sent_at": "2026-11-18T20:28:49+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 6,
+   "image": "https://pbs.twimg.com/media/HXby_7cXwAAieF5.jpg"
+  },
+  {
+   "id": "2123151418366582961",
+   "text": "\ud83d\udc40 my god Christmas really may have some early",
+   "url": "https://x.com/StebobM/status/2123151418366582961",
+   "created_at": "2026-11-18T20:28:39+00:00",
+   "sent_at": "2026-11-18T20:28:39+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2123150794958553192",
+   "text": "New suits? #ManofTomorrow",
+   "url": "https://x.com/StebobM/status/2123150794958553192",
+   "created_at": "2026-11-18T20:26:10+00:00",
+   "sent_at": "2026-11-18T20:26:10+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HXbyZGXXMAALycM.jpg"
+  },
   {
    "id": "2123147984560910771",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 498 of 644",
@@ -27,20 +83,6 @@
    "image": "https://pbs.twimg.com/media/HXUeynFWoAA3MKQ.jpg"
   },
   {
-   "id": "2123144213462225138",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 497 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123144213462225138",
-   "created_at": "2026-11-18T20:00:01+00:00",
-   "sent_at": "2026-11-18T20:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXUeuQvWsAEV0rZ.jpg"
-  },
-  {
    "id": "2123127591364370517",
    "text": "just so everyone is aware my account will be very percy jackson pilled soon and I\u2019m gonna need everyone to lock in on this season because I need that s4 and s5 renewal so I need all my followers to STEP UP TO THE PLATE",
    "url": "https://x.com/uhbucky/status/2123127591364370517",
@@ -49,9 +91,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 20,
-   "like_count": 147,
+   "reply_count": 6,
+   "repost_count": 23,
+   "like_count": 176,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2064189394693832704/img/iYrr7KiZ2x_jmKFP.jpg"
   },
   {
@@ -65,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 41,
+   "like_count": 44,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXbXyJ1WoAI_giC.jpg"
   },
   {
@@ -125,34 +167,6 @@
    "image": "https://pbs.twimg.com/media/HXa4qjkWoAAJg8q.jpg"
   },
   {
-   "id": "2123076148733325451",
-   "text": "Yeah I\u2019m good\n\nThis franchise needs a reset",
-   "url": "https://x.com/StebobM/status/2123076148733325451",
-   "created_at": "2026-11-18T15:29:33+00:00",
-   "sent_at": "2026-11-18T15:29:33+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 6,
-   "image": ""
-  },
-  {
-   "id": "2123067786318745946",
-   "text": "What a summer for me next year I got Superman and Jason Voorhees on the big screen to look forward too \ud83d\ude4c\ud83c\udffb\n\n#ManofTomorrow\n#Jason",
-   "url": "https://x.com/StebobM/status/2123067786318745946",
-   "created_at": "2026-11-18T14:56:19+00:00",
-   "sent_at": "2026-11-18T14:56:19+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HXam5PjWMAAJHiQ.jpg"
-  },
-  {
    "id": "2123064902461899171",
    "text": "that\u2019s what I like to hear",
    "url": "https://x.com/uhbucky/status/2123064902461899171",
@@ -163,22 +177,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 8,
-   "like_count": 131,
+   "like_count": 133,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
-  },
-  {
-   "id": "2123051431145902585",
-   "text": "Going on a 40 minute autistic info dump of Steven Seagal lore to my wife while she just stares at me like this:",
-   "url": "https://x.com/TheManlet_King/status/2123051431145902585",
-   "created_at": "2026-11-18T13:51:20+00:00",
-   "sent_at": "2026-11-18T13:51:20+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 6,
-   "repost_count": 3,
-   "like_count": 116,
-   "image": "https://pbs.twimg.com/media/HXaYBnlXcAARzts.jpg"
   }
  ]
 }
