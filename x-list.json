@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T05:06:40+00:00",
+ "updated_at": "2026-11-18T05:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122921491553718409",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 438 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122921491553718409",
+   "created_at": "2026-11-18T05:15:00+00:00",
+   "sent_at": "2026-11-18T05:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 5,
+   "image": "https://pbs.twimg.com/media/HXUbXvAXYAAUbW5.jpg"
+  },
+  {
+   "id": "2122919480489648395",
+   "text": "everything about this movie is fantastic",
+   "url": "https://x.com/mandevil23edits/status/2122919480489648395",
+   "created_at": "2026-11-18T05:07:00+00:00",
+   "sent_at": "2026-11-18T05:07:00+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 4,
+   "repost_count": 0,
+   "like_count": 29,
+   "image": "https://pbs.twimg.com/media/HXYgA8nXMAAFLYk.jpg"
+  },
+  {
    "id": "2122919087940440476",
    "text": "language and bloody images\u2026 doctor doom not holding back at all lmao",
    "url": "https://x.com/mandevil23edits/status/2122919087940440476",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HXYfqJiXEAAp5d1.jpg"
   },
   {
@@ -37,36 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HXUbUsuXIAEYlHf.jpg"
-  },
-  {
-   "id": "2122916716523008497",
-   "text": "it\u2019s my first time watching a james bond film besides daniel craig\u2019s take on the character, and yet this is definitely a certified classic.",
-   "url": "https://x.com/mandevil23edits/status/2122916716523008497",
-   "created_at": "2026-11-18T04:56:01+00:00",
-   "sent_at": "2026-11-18T04:56:01+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HXYdf4HXkAA9kYk.jpg"
-  },
-  {
-   "id": "2122913941689114801",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 436 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122913941689114801",
-   "created_at": "2026-11-18T04:45:00+00:00",
-   "sent_at": "2026-11-18T04:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HXUbQUiX0AI-l0C.jpg"
   },
   {
    "id": "2122859481893904505",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
    "repost_count": 10,
-   "like_count": 163,
+   "like_count": 166,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXXpZFrXcAAY-gM.jpg"
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 11,
+   "reply_count": 12,
    "repost_count": 4,
-   "like_count": 64,
+   "like_count": 68,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXXc6zIWwAA8Nfr.jpg"
   }
  ]
