@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T01:21:45+00:00",
+ "updated_at": "2026-11-18T01:36:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122864870454694219",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 423 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122864870454694219",
+   "created_at": "2026-11-18T01:30:00+00:00",
+   "sent_at": "2026-11-18T01:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HXUajboXkAEhdS2.jpg"
+  },
+  {
    "id": "2122861094083379380",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 422 of 644",
    "url": "https://x.com/SopranosOrder/status/2122861094083379380",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HXUagaPWAAA7hQ3.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 1,
-   "like_count": 21,
+   "like_count": 43,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXXpZFrXcAAY-gM.jpg"
-  },
-  {
-   "id": "2122857330538619326",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 421 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122857330538619326",
-   "created_at": "2026-11-18T01:00:03+00:00",
-   "sent_at": "2026-11-18T01:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HXUadTxWoAAm1tG.jpg"
   },
   {
    "id": "2122851397024534808",
@@ -64,8 +64,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 16,
+   "repost_count": 1,
+   "like_count": 22,
    "image": ""
   },
   {
@@ -91,9 +91,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 1,
-   "like_count": 19,
+   "like_count": 21,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXXc6zIWwAA8Nfr.jpg"
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
-   "repost_count": 5,
-   "like_count": 18,
+   "repost_count": 6,
+   "like_count": 22,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/1502362133677461510/pu/img/Q3o0285_qT_p9Q_b.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 69,
-   "like_count": 997,
+   "repost_count": 70,
+   "like_count": 1027,
    "image": "https://pbs.twimg.com/media/HXWvtKEWcAA-YXt.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 3,
    "repost_count": 2,
-   "like_count": 56,
+   "like_count": 58,
    "image": "https://pbs.twimg.com/media/HXWqvPyWgAAhzxj.jpg"
   },
   {
@@ -175,7 +175,7 @@
    "author_name": "T-800",
    "author_handle": "T800s_Batcave",
    "author_avatar": "https://pbs.twimg.com/profile_images/2058641541611040768/eo77umox_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 0,
    "repost_count": 23,
    "like_count": 35,
    "image": ""
