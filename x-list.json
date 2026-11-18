@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T10:51:40+00:00",
+ "updated_at": "2026-11-18T11:06:46+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2123008313743065380",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 461 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123008313743065380",
+   "created_at": "2026-11-18T11:00:00+00:00",
+   "sent_at": "2026-11-18T11:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXUcqQpWkAEwR2k.jpg"
+  },
+  {
+   "id": "2123007479629955555",
+   "text": "Always find one of the saddest things about any version of A Christmas Carol is we never know if Ebenezer Scrooge ever reunited with his long lost love Belle.",
+   "url": "https://x.com/StebobM/status/2123007479629955555",
+   "created_at": "2026-11-18T10:56:41+00:00",
+   "sent_at": "2026-11-18T10:56:41+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXZwDNVXgAAOiVd.jpg"
+  },
+  {
    "id": "2123004538806280465",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 460 of 644",
    "url": "https://x.com/SopranosOrder/status/2123004538806280465",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HXUcl5yXsAAPpE-.jpg"
-  },
-  {
-   "id": "2123000767984370091",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 459 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123000767984370091",
-   "created_at": "2026-11-18T10:30:01+00:00",
-   "sent_at": "2026-11-18T10:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HXUciZLWkAAwex2.jpg"
   },
   {
    "id": "2122993857419788562",
@@ -64,7 +78,7 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 5,
-   "repost_count": 2,
+   "repost_count": 3,
    "like_count": 21,
    "image": ""
   },
@@ -80,20 +94,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 7,
-   "image": ""
-  },
-  {
-   "id": "2122940408544321708",
-   "text": "Well I hope if it does have a cliffhanger it\u2019s not one of those like the Pirates of the Caribbean sequel and more something that\u2019s like an epilogue or addendum cause if we don\u2019t get another one it\u2019s gonna feel frustrating that it ends there. This of course is if all this is true.",
-   "url": "https://x.com/StebobM/status/2122940408544321708",
-   "created_at": "2026-11-18T06:30:10+00:00",
-   "sent_at": "2026-11-18T06:30:10+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 6,
    "image": ""
   }
  ]
