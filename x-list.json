@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T16:06:41+00:00",
+ "updated_at": "2026-11-18T16:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,48 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2123088484101394653",
+   "text": "Imma need at least a locked 30",
+   "url": "https://x.com/Onyx_Tw/status/2123088484101394653",
+   "created_at": "2026-11-18T16:18:34+00:00",
+   "sent_at": "2026-11-18T16:18:34+00:00",
+   "author_name": "onyx",
+   "author_handle": "Onyx_Tw",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2050445504882884608/rdoqP-2h_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2123087585991909847",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 482 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123087585991909847",
+   "created_at": "2026-11-18T16:15:00+00:00",
+   "sent_at": "2026-11-18T16:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXUdyEMWoAAdLEO.jpg"
+  },
+  {
+   "id": "2123087320425374145",
+   "text": "good afternoon",
+   "url": "https://x.com/mandevil23edits/status/2123087320425374145",
+   "created_at": "2026-11-18T16:13:56+00:00",
+   "sent_at": "2026-11-18T16:13:56+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HXa4qjkWoAAJg8q.jpg"
+  },
   {
    "id": "2123083818110271832",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 481 of 644",
@@ -27,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HXUdvQgXwAAn4Uz.jpg"
   },
   {
-   "id": "2123080036261511671",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 480 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123080036261511671",
-   "created_at": "2026-11-18T15:45:00+00:00",
-   "sent_at": "2026-11-18T15:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXUdq33WwAA3OOT.jpg"
-  },
-  {
    "id": "2123076148733325451",
    "text": "Yeah I\u2019m good\n\nThis franchise needs a reset",
    "url": "https://x.com/StebobM/status/2123076148733325451",
@@ -51,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 2,
+   "like_count": 3,
    "image": ""
   },
   {
@@ -78,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 4,
-   "like_count": 66,
+   "repost_count": 6,
+   "like_count": 72,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2121528326468861952/img/fsqK58xMzQnygZ3m.jpg"
   },
   {
@@ -93,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 6,
    "repost_count": 3,
-   "like_count": 92,
+   "like_count": 96,
    "image": "https://pbs.twimg.com/media/HXaYBnlXcAARzts.jpg"
   },
   {
@@ -108,20 +136,6 @@
    "reply_count": 7,
    "repost_count": 4,
    "like_count": 39,
-   "image": ""
-  },
-  {
-   "id": "2122951259456237699",
-   "text": "for a second i thought this was illustrated by frank quitely, yet it still looks beautiful",
-   "url": "https://x.com/mandevil23edits/status/2122951259456237699",
-   "created_at": "2026-11-18T07:13:17+00:00",
-   "sent_at": "2026-11-18T07:13:17+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 23,
    "image": ""
   }
  ]
