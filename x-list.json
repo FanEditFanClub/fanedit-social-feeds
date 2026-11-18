@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T04:36:40+00:00",
+ "updated_at": "2026-11-18T04:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2122913941689114801",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 436 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122913941689114801",
+   "created_at": "2026-11-18T04:45:00+00:00",
+   "sent_at": "2026-11-18T04:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HXUbQUiX0AI-l0C.jpg"
+  },
+  {
    "id": "2122910167041753273",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 435 of 644",
    "url": "https://x.com/SopranosOrder/status/2122910167041753273",
@@ -22,23 +36,9 @@
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXUbNFCWYAAXlQT.jpg"
-  },
-  {
-   "id": "2122906392071970826",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 434 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122906392071970826",
-   "created_at": "2026-11-18T04:15:00+00:00",
-   "sent_at": "2026-11-18T04:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
    "repost_count": 1,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HXUbJoeXAAAx1g4.jpg"
+   "like_count": 7,
+   "image": "https://pbs.twimg.com/media/HXUbNFCWYAAXlQT.jpg"
   },
   {
    "id": "2122883729173737541",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 18,
+   "like_count": 19,
    "image": ""
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 5,
    "repost_count": 10,
-   "like_count": 156,
+   "like_count": 158,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXXpZFrXcAAY-gM.jpg"
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 11,
-   "repost_count": 2,
-   "like_count": 55,
+   "repost_count": 4,
+   "like_count": 61,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXXc6zIWwAA8Nfr.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 87,
-   "like_count": 1284,
+   "repost_count": 88,
+   "like_count": 1307,
    "image": "https://pbs.twimg.com/media/HXWvtKEWcAA-YXt.jpg"
   },
   {
@@ -137,34 +137,6 @@
    "repost_count": 2,
    "like_count": 74,
    "image": "https://pbs.twimg.com/media/HXWqvPyWgAAhzxj.jpg"
-  },
-  {
-   "id": "2122782545469227408",
-   "text": "Can't believe we can finally talk about our next Bond actor!\n\nThanks for having me on the show @SpyHards",
-   "url": "https://x.com/PentexP/status/2122782545469227408",
-   "created_at": "2026-11-17T20:02:52+00:00",
-   "sent_at": "2026-11-17T20:02:52+00:00",
-   "author_name": "Pentex",
-   "author_handle": "PentexP",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1608048769635069953/H88GVJQx_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 7,
-   "image": ""
-  },
-  {
-   "id": "2122775967429247038",
-   "text": "Common sense answer \ud83d\udc4f",
-   "url": "https://x.com/StebobM/status/2122775967429247038",
-   "created_at": "2026-11-17T19:36:44+00:00",
-   "sent_at": "2026-11-17T19:36:44+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": ""
   }
  ]
 }
