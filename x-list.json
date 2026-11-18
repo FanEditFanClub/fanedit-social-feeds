@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T06:36:50+00:00",
+ "updated_at": "2026-11-18T06:51:45+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122944141222965492",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 444 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122944141222965492",
+   "created_at": "2026-11-18T06:45:00+00:00",
+   "sent_at": "2026-11-18T06:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HXUbtuwXoAAhgSK.jpg"
+  },
+  {
+   "id": "2122942057799119091",
+   "text": "i don\u2019t remember seeing this in avengers: endgame encore",
+   "url": "https://x.com/mandevil23edits/status/2122942057799119091",
+   "created_at": "2026-11-18T06:36:43+00:00",
+   "sent_at": "2026-11-18T06:36:43+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 2,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HXY0jIHXwAA2OPM.jpg"
+  },
+  {
    "id": "2122940408544321708",
    "text": "Well I hope if it does have a cliffhanger it\u2019s not one of those like the Pirates of the Caribbean sequel and more something that\u2019s like an epilogue or addendum cause if we don\u2019t get another one it\u2019s gonna feel frustrating that it ends there. This of course is if all this is true.",
    "url": "https://x.com/StebobM/status/2122940408544321708",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 2,
+   "like_count": 5,
    "image": ""
   },
   {
@@ -37,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXUbqhqWgAAkN3x.jpg"
   },
   {
@@ -55,20 +83,6 @@
    "image": ""
   },
   {
-   "id": "2122936591761187160",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 442 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122936591761187160",
-   "created_at": "2026-11-18T06:15:00+00:00",
-   "sent_at": "2026-11-18T06:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXUblqWXAAA2sI9.jpg"
-  },
-  {
    "id": "2122930462062673964",
    "text": "i\u2019ll probably replace you can see everything with dune: part three",
    "url": "https://x.com/mandevil23edits/status/2122930462062673964",
@@ -79,22 +93,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 10,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/media/HXYqAKsWwAANeSW.jpg"
-  },
-  {
-   "id": "2122919480489648395",
-   "text": "everything about this movie is fantastic",
-   "url": "https://x.com/mandevil23edits/status/2122919480489648395",
-   "created_at": "2026-11-18T05:07:00+00:00",
-   "sent_at": "2026-11-18T05:07:00+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 6,
-   "repost_count": 5,
-   "like_count": 63,
-   "image": "https://pbs.twimg.com/media/HXYgA8nXMAAFLYk.jpg"
   }
  ]
 }
