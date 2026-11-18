@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T05:36:40+00:00",
+ "updated_at": "2026-11-18T05:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122930462062673964",
+   "text": "i\u2019ll probably replace you can see everything with dune: part three",
+   "url": "https://x.com/mandevil23edits/status/2122930462062673964",
+   "created_at": "2026-11-18T05:50:38+00:00",
+   "sent_at": "2026-11-18T05:50:38+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXYqAKsWwAANeSW.jpg"
+  },
+  {
+   "id": "2122929041514861003",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 440 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122929041514861003",
+   "created_at": "2026-11-18T05:45:00+00:00",
+   "sent_at": "2026-11-18T05:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXUbeDmWgAAcEjc.jpg"
+  },
+  {
    "id": "2122925268826522017",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 439 of 644",
    "url": "https://x.com/SopranosOrder/status/2122925268826522017",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXUbatQWIAA_bn0.jpg"
-  },
-  {
-   "id": "2122921491553718409",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 438 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122921491553718409",
-   "created_at": "2026-11-18T05:15:00+00:00",
-   "sent_at": "2026-11-18T05:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 7,
-   "image": "https://pbs.twimg.com/media/HXUbXvAXYAAUbW5.jpg"
   },
   {
    "id": "2122919480489648395",
@@ -49,24 +63,10 @@
    "author_name": "mandevil23backup",
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 2,
-   "like_count": 44,
+   "reply_count": 5,
+   "repost_count": 3,
+   "like_count": 54,
    "image": "https://pbs.twimg.com/media/HXYgA8nXMAAFLYk.jpg"
-  },
-  {
-   "id": "2122919087940440476",
-   "text": "language and bloody images\u2026 doctor doom not holding back at all lmao",
-   "url": "https://x.com/mandevil23edits/status/2122919087940440476",
-   "created_at": "2026-11-18T05:05:27+00:00",
-   "sent_at": "2026-11-18T05:05:27+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 10,
-   "image": "https://pbs.twimg.com/media/HXYfqJiXEAAp5d1.jpg"
   },
   {
    "id": "2122859481893904505",
@@ -78,8 +78,8 @@
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 7,
-   "repost_count": 10,
-   "like_count": 171,
+   "repost_count": 11,
+   "like_count": 175,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXXpZFrXcAAY-gM.jpg"
   }
  ]
