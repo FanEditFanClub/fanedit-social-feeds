@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T07:06:42+00:00",
+ "updated_at": "2026-11-18T07:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2122951690580103645",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 446 of 644",
+   "url": "https://x.com/SopranosOrder/status/2122951690580103645",
+   "created_at": "2026-11-18T07:15:00+00:00",
+   "sent_at": "2026-11-18T07:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HXUb0zxWgAAk8DM.jpg"
+  },
+  {
+   "id": "2122951259456237699",
+   "text": "for a second i thought this was illustrated by frank quitely, yet it still looks beautiful",
+   "url": "https://x.com/mandevil23edits/status/2122951259456237699",
+   "created_at": "2026-11-18T07:13:17+00:00",
+   "sent_at": "2026-11-18T07:13:17+00:00",
+   "author_name": "mandevil23backup",
+   "author_handle": "mandevil23edits",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2122949098957631729",
    "text": "laura bailey appreciation post",
    "url": "https://x.com/mandevil23edits/status/2122949098957631729",
@@ -22,8 +50,8 @@
    "author_handle": "mandevil23edits",
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 20,
    "image": "https://pbs.twimg.com/media/HXY68uEWoAEyCUn.jpg"
   },
   {
@@ -39,34 +67,6 @@
    "repost_count": 1,
    "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXUbx2xWsAAcw2-.jpg"
-  },
-  {
-   "id": "2122944141222965492",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 444 of 644",
-   "url": "https://x.com/SopranosOrder/status/2122944141222965492",
-   "created_at": "2026-11-18T06:45:00+00:00",
-   "sent_at": "2026-11-18T06:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXUbtuwXoAAhgSK.jpg"
-  },
-  {
-   "id": "2122942057799119091",
-   "text": "i don\u2019t remember seeing this in avengers: endgame encore",
-   "url": "https://x.com/mandevil23edits/status/2122942057799119091",
-   "created_at": "2026-11-18T06:36:43+00:00",
-   "sent_at": "2026-11-18T06:36:43+00:00",
-   "author_name": "mandevil23backup",
-   "author_handle": "mandevil23edits",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 0,
-   "like_count": 12,
-   "image": "https://pbs.twimg.com/media/HXY0jIHXwAA2OPM.jpg"
   },
   {
    "id": "2122940408544321708",
