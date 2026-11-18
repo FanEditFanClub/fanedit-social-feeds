@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T13:06:41+00:00",
+ "updated_at": "2026-11-18T13:21:43+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2123042287672246710",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 470 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123042287672246710",
+   "created_at": "2026-11-18T13:15:00+00:00",
+   "sent_at": "2026-11-18T13:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXUdITEW0AAO7x1.jpg"
+  },
   {
    "id": "2123038513486819343",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 469 of 644",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HXUdFCaXsAEzPM3.jpg"
   },
   {
-   "id": "2123034737824452867",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 468 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123034737824452867",
-   "created_at": "2026-11-18T12:45:00+00:00",
-   "sent_at": "2026-11-18T12:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXUdBWqXIAAVs97.jpg"
-  },
-  {
    "id": "2123007479629955555",
    "text": "Always find one of the saddest things about any version of A Christmas Carol is we never know if Ebenezer Scrooge ever reunited with his long lost love Belle.",
    "url": "https://x.com/StebobM/status/2123007479629955555",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HXZwDNVXgAAOiVd.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1955993464933326857/oWaMpl80_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 15,
+   "like_count": 16,
    "image": ""
   }
  ]
