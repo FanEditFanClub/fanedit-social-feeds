@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T01:51:39+00:00",
+ "updated_at": "2026-11-19T02:06:44+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2123234554332807594",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 521 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123234554332807594",
+   "created_at": "2026-11-19T01:59:00+00:00",
+   "sent_at": "2026-11-19T01:59:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HXZwu0BXAAAIjNF.jpg"
+  },
+  {
    "id": "2123231044048707638",
    "text": "This and Caprica.",
    "url": "https://x.com/Coops_Kino/status/2123231044048707638",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1998622738047709185/_VQe1qvR_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 2,
    "image": ""
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HXZwrDeWAAAWRlg.jpg"
-  },
-  {
-   "id": "2123229238148890883",
-   "text": "I can\u2019t stop laughing I just noticed they used the exact same shot of ilya back to back in this scene",
-   "url": "https://x.com/uhbucky/status/2123229238148890883",
-   "created_at": "2026-11-19T01:37:52+00:00",
-   "sent_at": "2026-11-19T01:37:52+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
-   "like_count": 20,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2123229194855260160/img/Q2POXaWOZDUIXDHY.jpg"
   },
   {
    "id": "2123227681575596328",
@@ -65,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 5,
+   "like_count": 15,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2064189394693832704/img/iYrr7KiZ2x_jmKFP.jpg"
-  },
-  {
-   "id": "2123227260039651803",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 519 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123227260039651803",
-   "created_at": "2026-11-19T01:30:01+00:00",
-   "sent_at": "2026-11-19T01:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HXZwoAMXYAAgaqT.jpg"
   },
   {
    "id": "2123221474307706928",
@@ -125,6 +111,20 @@
    "image": "https://pbs.twimg.com/media/HXcQdfcXAAA3joi.jpg"
   },
   {
+   "id": "2123183470239437148",
+   "text": "ilya\u2019s lil smile cause he thought things had gone well and then the panic in shane\u2019s eyes harm me so badly :(",
+   "url": "https://x.com/uhbucky/status/2123183470239437148",
+   "created_at": "2026-11-18T22:36:00+00:00",
+   "sent_at": "2026-11-18T22:36:00+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 4,
+   "repost_count": 51,
+   "like_count": 1191,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2123182896831754240/img/XtV0-4PZpDxr5l-F.jpg"
+  },
+  {
    "id": "2123181182695133466",
    "text": "Shadow (35mm 6K Scan) Open Matte - DTS",
    "url": "https://x.com/NCseventeen/status/2123181182695133466",
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
    "repost_count": 10,
-   "like_count": 105,
+   "like_count": 111,
    "image": "https://pbs.twimg.com/media/HXcNxhlXUAAAwh_.jpg"
   },
   {
@@ -147,7 +147,7 @@
    "author_name": "Man of Steven \ud83c\udf84",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 0,
    "like_count": 1,
    "image": ""
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 49,
+   "like_count": 51,
    "image": "https://pbs.twimg.com/media/HXby_7cXwAAieF5.jpg"
   },
   {
