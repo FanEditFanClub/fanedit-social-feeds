@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T21:06:40+00:00",
+ "updated_at": "2026-11-19T21:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2123526047446536272",
+   "text": "\"Zo close ve can almost taste it!\"",
+   "url": "https://x.com/TheManlet_King/status/2123526047446536272",
+   "created_at": "2026-11-19T21:17:17+00:00",
+   "sent_at": "2026-11-19T21:17:17+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2123526033320161281/img/c0jZOrjFDLAoFHx1.jpg"
+  },
+  {
+   "id": "2123525471312781759",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 598 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123525471312781759",
+   "created_at": "2026-11-19T21:15:00+00:00",
+   "sent_at": "2026-11-19T21:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXZ1RD1XcAAXdGz.jpg"
+  },
+  {
    "id": "2123521705796943888",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 597 of 644",
    "url": "https://x.com/SopranosOrder/status/2123521705796943888",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXZ1OFyW4AAE6nW.jpg"
   },
   {
@@ -39,20 +67,6 @@
    "repost_count": 0,
    "like_count": 2,
    "image": ""
-  },
-  {
-   "id": "2123517922035253552",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 596 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123517922035253552",
-   "created_at": "2026-11-19T20:45:00+00:00",
-   "sent_at": "2026-11-19T20:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXZ1EN1WoAAFufP.jpg"
   },
   {
    "id": "2123431529799876925",
