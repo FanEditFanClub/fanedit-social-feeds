@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T09:36:45+00:00",
+ "updated_at": "2026-11-19T09:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2123352799450669362",
+   "text": "I\u2019m in such a weird place with DC currently. I am glad James Gunn isn\u2019t the head anymore as I don\u2019t think he was right for that job. But I loved #Superman and am still really excited for #ManOfTomorrow.\n\nAs long as MOT pleases me I don\u2019t really care what happens after.",
+   "url": "https://x.com/StebobM/status/2123352799450669362",
+   "created_at": "2026-11-19T09:48:52+00:00",
+   "sent_at": "2026-11-19T09:48:52+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HXeqG98WkAIzkLz.jpg"
+  },
+  {
+   "id": "2123351828582596616",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 552 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123351828582596616",
+   "created_at": "2026-11-19T09:45:00+00:00",
+   "sent_at": "2026-11-19T09:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXZybaNXEAAErtv.jpg"
+  },
+  {
    "id": "2123348055093067905",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 551 of 644",
    "url": "https://x.com/SopranosOrder/status/2123348055093067905",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HXZyYW1W8AAJGgV.jpg"
-  },
-  {
-   "id": "2123344278965637502",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 550 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123344278965637502",
-   "created_at": "2026-11-19T09:15:00+00:00",
-   "sent_at": "2026-11-19T09:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXZyVJVXwAEG8P0.jpg"
   },
   {
    "id": "2123315822680739895",
@@ -83,20 +97,6 @@
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXcyrB8W8AA_SP1.jpg"
   },
   {
-   "id": "2123184443020255724",
-   "text": "Oh my god yes!",
-   "url": "https://x.com/StebobM/status/2123184443020255724",
-   "created_at": "2026-11-18T22:39:52+00:00",
-   "sent_at": "2026-11-18T22:39:52+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 10,
-   "image": ""
-  },
-  {
    "id": "2123183855230198135",
    "text": "So far my game of the year is....",
    "url": "https://x.com/Onyx_Tw/status/2123183855230198135",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
    "repost_count": 102,
-   "like_count": 2338,
+   "like_count": 2360,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2123182896831754240/img/XtV0-4PZpDxr5l-F.jpg"
   },
   {
@@ -133,9 +133,9 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 5,
+   "reply_count": 6,
    "repost_count": 25,
-   "like_count": 333,
+   "like_count": 335,
    "image": "https://pbs.twimg.com/media/HXcNxhlXUAAAwh_.jpg"
   },
   {
