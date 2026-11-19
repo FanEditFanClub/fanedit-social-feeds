@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T07:21:39+00:00",
+ "updated_at": "2026-11-19T07:36:46+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2123317854460100791",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 543 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123317854460100791",
+   "created_at": "2026-11-19T07:30:00+00:00",
+   "sent_at": "2026-11-19T07:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXZx9xuXIAAV7M_.jpg"
+  },
+  {
+   "id": "2123315822680739895",
+   "text": "Because of some suits being used? Just admit you\u2019re gonna hate everything about it no matter what\n\nHonestly all this app is is people hating on stuff for the grift. It\u2019s sad how far it\u2019s fallen.",
+   "url": "https://x.com/StebobM/status/2123315822680739895",
+   "created_at": "2026-11-19T07:21:56+00:00",
+   "sent_at": "2026-11-19T07:21:56+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2123314078433296461",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 542 of 644",
    "url": "https://x.com/SopranosOrder/status/2123314078433296461",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HXZx6iyWgAAAiao.jpg"
-  },
-  {
-   "id": "2123310304897446310",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 541 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123310304897446310",
-   "created_at": "2026-11-19T07:00:00+00:00",
-   "sent_at": "2026-11-19T07:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXZx3dXXUAAAEej.jpg"
   },
   {
    "id": "2123231044048707638",
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 5,
    "repost_count": 95,
-   "like_count": 2069,
+   "like_count": 2103,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2123182896831754240/img/XtV0-4PZpDxr5l-F.jpg"
   },
   {
@@ -121,22 +135,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 5,
    "repost_count": 22,
-   "like_count": 304,
+   "like_count": 307,
    "image": "https://pbs.twimg.com/media/HXcNxhlXUAAAwh_.jpg"
-  },
-  {
-   "id": "2123168026174337460",
-   "text": "That does not shock me given Gunn\u2019s love of All Star Superman and I am here for it #ManofTomorrow",
-   "url": "https://x.com/StebobM/status/2123168026174337460",
-   "created_at": "2026-11-18T21:34:38+00:00",
-   "sent_at": "2026-11-18T21:34:38+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": ""
   },
   {
    "id": "2123151461143957831",
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 0,
-   "like_count": 62,
+   "like_count": 63,
    "image": "https://pbs.twimg.com/media/HXby_7cXwAAieF5.jpg"
   }
  ]
