@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T16:51:40+00:00",
+ "updated_at": "2026-11-19T17:06:50+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2123461300894494966",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 581 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123461300894494966",
+   "created_at": "2026-11-19T17:00:00+00:00",
+   "sent_at": "2026-11-19T17:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXZ0SIvX0AAg2OF.jpg"
+  },
+  {
    "id": "2123457524410261563",
    "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 580 of 644",
    "url": "https://x.com/SopranosOrder/status/2123457524410261563",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HXZ0OSvWcAEfaNz.jpg"
-  },
-  {
-   "id": "2123453750064918864",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 579 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123453750064918864",
-   "created_at": "2026-11-19T16:30:00+00:00",
-   "sent_at": "2026-11-19T16:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXZ0KabXwAAdiYW.jpg"
   },
   {
    "id": "2123431529799876925",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 8,
    "repost_count": 14,
-   "like_count": 250,
+   "like_count": 258,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
    "repost_count": 76,
-   "like_count": 1001,
+   "like_count": 1011,
    "image": "https://pbs.twimg.com/ext_tw_video_thumb/2027930355370799104/pu/img/fJNBQmYc5uRi0wwe.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HXer40xXEAAj2qG.jpg"
   }
  ]
