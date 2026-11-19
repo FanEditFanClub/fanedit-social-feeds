@@ -1,17 +1,45 @@
 {
- "updated_at": "2026-11-19T21:21:40+00:00",
+ "updated_at": "2026-11-19T21:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
   "id": "2072540475530084770",
   "name": "Fan Editors",
-  "member_count": 55,
+  "member_count": 54,
   "url": "https://x.com/i/lists/2072540475530084770",
   "owner_name": "Fan Edit Fan Club",
   "owner_handle": "FanEditFanClub",
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2123529498125566426",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 599 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123529498125566426",
+   "created_at": "2026-11-19T21:31:00+00:00",
+   "sent_at": "2026-11-19T21:31:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXZ1UIPXgAAdCRh.jpg"
+  },
+  {
+   "id": "2123528548493222327",
+   "text": "\"Grand Theft Auto VI? Oh... I think I remember.\"",
+   "url": "https://x.com/TheManlet_King/status/2123528548493222327",
+   "created_at": "2026-11-19T21:27:13+00:00",
+   "sent_at": "2026-11-19T21:27:13+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 7,
+   "image": "https://pbs.twimg.com/media/HXhJ9fUXoAAPw0i.jpg"
+  },
   {
    "id": "2123526047446536272",
    "text": "\"Zo close ve can almost taste it!\"",
@@ -23,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 7,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2123526033320161281/img/c0jZOrjFDLAoFHx1.jpg"
   },
   {
@@ -41,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HXZ1RD1XcAAXdGz.jpg"
   },
   {
-   "id": "2123521705796943888",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 597 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123521705796943888",
-   "created_at": "2026-11-19T21:00:02+00:00",
-   "sent_at": "2026-11-19T21:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXZ1OFyW4AAE6nW.jpg"
-  },
-  {
    "id": "2123520218228302126",
    "text": "What makes me laugh is I keep seeing people talk like this money is going to DC. Skydance are billions in debt this money will be used to get them out of the whole",
    "url": "https://x.com/StebobM/status/2123520218228302126",
@@ -63,24 +77,10 @@
    "author_name": "Man of Steven \ud83c\udf84",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 2,
+   "reply_count": 2,
+   "repost_count": 1,
+   "like_count": 5,
    "image": ""
-  },
-  {
-   "id": "2123431529799876925",
-   "text": "Something got GOT down here man.",
-   "url": "https://x.com/TheManlet_King/status/2123431529799876925",
-   "created_at": "2026-11-19T15:01:42+00:00",
-   "sent_at": "2026-11-19T15:01:42+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HXfxt6hXkAAtj3G.jpg"
   }
  ]
 }
