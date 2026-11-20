@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T15:51:40+00:00",
+ "updated_at": "2026-11-20T16:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2123808592306278600",
+   "text": "S1 E9 'Boca' | 29 of 688",
+   "url": "https://x.com/SopranosOrder/status/2123808592306278600",
+   "created_at": "2026-11-20T16:00:01+00:00",
+   "sent_at": "2026-11-20T16:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXfQWEoWIAAEkvc.jpg"
+  },
   {
    "id": "2123804811976204392",
    "text": "S1 E9 'Boca' | 28 of 688",
@@ -37,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXlC25mWYAAmZtY.jpg"
   },
   {
@@ -55,20 +69,6 @@
    "image": ""
   },
   {
-   "id": "2123801037446218041",
-   "text": "S1 E9 'Boca' | 27 of 688",
-   "url": "https://x.com/SopranosOrder/status/2123801037446218041",
-   "created_at": "2026-11-20T15:30:00+00:00",
-   "sent_at": "2026-11-20T15:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXfQPOkW8AA8Hmx.jpg"
-  },
-  {
    "id": "2123800250397741111",
    "text": "All my chud buddies are silent and hidden but I sure as heck see every post from Brazil, Nigeria and Indonesia.\n\nThank you globalized community. I love shouting over the whole planet to talk to my neighbor.",
    "url": "https://x.com/TheManlet_King/status/2123800250397741111",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 34,
+   "like_count": 46,
    "image": ""
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 6,
-   "repost_count": 27,
-   "like_count": 204,
+   "repost_count": 30,
+   "like_count": 246,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2123702299990142976/img/KDpggZ5qx9NuUPZN.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
    "repost_count": 92,
-   "like_count": 1188,
+   "like_count": 1194,
    "image": "https://pbs.twimg.com/media/HXiRB52XEAAKvK_.jpg"
   }
  ]
