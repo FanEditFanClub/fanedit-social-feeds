@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T16:36:40+00:00",
+ "updated_at": "2026-11-20T16:51:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2123819911902580953",
+   "text": "S1 E9 'Boca' | 32 of 688",
+   "url": "https://x.com/SopranosOrder/status/2123819911902580953",
+   "created_at": "2026-11-20T16:45:00+00:00",
+   "sent_at": "2026-11-20T16:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXfQf0YX0AA7UF7.jpg"
+  },
+  {
+   "id": "2123818084188221741",
+   "text": "This is an idea I had some time ago. I like the sound of it #Jason",
+   "url": "https://x.com/StebobM/status/2123818084188221741",
+   "created_at": "2026-11-20T16:37:44+00:00",
+   "sent_at": "2026-11-20T16:37:44+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2123816136840184054",
    "text": "S1 E9 'Boca' | 31 of 688",
    "url": "https://x.com/SopranosOrder/status/2123816136840184054",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXfQc30XsAAGTau.jpg"
-  },
-  {
-   "id": "2123812361865719809",
-   "text": "S1 E9 'Boca' | 30 of 688",
-   "url": "https://x.com/SopranosOrder/status/2123812361865719809",
-   "created_at": "2026-11-20T16:15:00+00:00",
-   "sent_at": "2026-11-20T16:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXfQZSaXMAAl0nU.jpg"
   },
   {
    "id": "2123802240720802175",
@@ -79,21 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 1,
-   "like_count": 59,
-   "image": ""
-  },
-  {
-   "id": "2123788240364707863",
-   "text": "Yes he was done dirty but not in the way you are suggesting here\n\nHe didn\u2019t have a contract when he did Black Adam. His previous 4 movie contract had expired. He was paid for this & a cameo in the Flash (that was cut) and promised a return that was taken away from him.",
-   "url": "https://x.com/StebobM/status/2123788240364707863",
-   "created_at": "2026-11-20T14:39:09+00:00",
-   "sent_at": "2026-11-20T14:39:09+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
+   "like_count": 64,
    "image": ""
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
-   "repost_count": 40,
-   "like_count": 311,
+   "repost_count": 47,
+   "like_count": 365,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2123702299990142976/img/KDpggZ5qx9NuUPZN.jpg"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 93,
-   "like_count": 1204,
+   "repost_count": 95,
+   "like_count": 1213,
    "image": "https://pbs.twimg.com/media/HXiRB52XEAAKvK_.jpg"
   }
  ]
