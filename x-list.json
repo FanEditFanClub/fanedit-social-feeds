@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T11:06:41+00:00",
+ "updated_at": "2026-11-20T11:21:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2123737115951607915",
+   "text": "S1 E9 'Boca' | 10 of 688",
+   "url": "https://x.com/SopranosOrder/status/2123737115951607915",
+   "created_at": "2026-11-20T11:16:00+00:00",
+   "sent_at": "2026-11-20T11:16:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXfL7cyWEAAn32H.jpg"
+  },
+  {
    "id": "2123733107907969384",
    "text": "S1 E9 'Boca' | 9 of 688",
    "url": "https://x.com/SopranosOrder/status/2123733107907969384",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HXfL4TBW8AAg86t.jpg"
-  },
-  {
-   "id": "2123729314491556313",
-   "text": "S1 E9 'Boca' | 8 of 688",
-   "url": "https://x.com/SopranosOrder/status/2123729314491556313",
-   "created_at": "2026-11-20T10:45:00+00:00",
-   "sent_at": "2026-11-20T10:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXfL0DcXcAAYa1s.jpg"
   },
   {
    "id": "2123716767734464634",
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 68,
-   "like_count": 1031,
+   "repost_count": 70,
+   "like_count": 1044,
    "image": "https://pbs.twimg.com/media/HXiRB52XEAAKvK_.jpg"
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
-   "repost_count": 146,
-   "like_count": 963,
+   "repost_count": 148,
+   "like_count": 968,
    "image": "https://pbs.twimg.com/media/HXiJT-WWQAE63oW.jpg"
   },
   {
