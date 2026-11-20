@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T02:06:49+00:00",
+ "updated_at": "2026-11-20T02:21:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2123601892358205442",
+   "text": "yay she\u2019s done :) and now I just have to be patient and sit on it for a week. I can do that. I can show restraint.",
+   "url": "https://x.com/uhbucky/status/2123601892358205442",
+   "created_at": "2026-11-20T02:18:40+00:00",
+   "sent_at": "2026-11-20T02:18:40+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 6,
+   "image": "https://pbs.twimg.com/media/HXiMqmFX0AAW-Sf.jpg"
+  },
+  {
+   "id": "2123600968738828415",
+   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 618 of 644",
+   "url": "https://x.com/SopranosOrder/status/2123600968738828415",
+   "created_at": "2026-11-20T02:15:00+00:00",
+   "sent_at": "2026-11-20T02:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXfJk1mXoAAjFbh.jpg"
+  },
+  {
    "id": "2123598206156320895",
    "text": "MY SWEET BUDDIE :(",
    "url": "https://x.com/uhbucky/status/2123598206156320895",
@@ -21,9 +49,9 @@
    "author_name": "mellie",
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 14,
-   "like_count": 82,
+   "reply_count": 2,
+   "repost_count": 80,
+   "like_count": 433,
    "image": "https://pbs.twimg.com/media/HXiJT-WWQAE63oW.jpg"
   },
   {
@@ -39,34 +67,6 @@
    "repost_count": 1,
    "like_count": 3,
    "image": "https://pbs.twimg.com/media/HXfJh8gXsAA2Xs1.jpg"
-  },
-  {
-   "id": "2123593419222331809",
-   "text": "S1 E8 'The Legend of Tennessee Moltisanti' | 616 of 644",
-   "url": "https://x.com/SopranosOrder/status/2123593419222331809",
-   "created_at": "2026-11-20T01:45:00+00:00",
-   "sent_at": "2026-11-20T01:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXfJdTUXUAAWetv.jpg"
-  },
-  {
-   "id": "2123589997643055307",
-   "text": "paralleling buddie to both brothers and a couple in this episode alone. 911 is the definition of never let them know your next move",
-   "url": "https://x.com/uhbucky/status/2123589997643055307",
-   "created_at": "2026-11-20T01:31:24+00:00",
-   "sent_at": "2026-11-20T01:31:24+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 5,
-   "repost_count": 61,
-   "like_count": 639,
-   "image": ""
   },
   {
    "id": "2123552738747306182",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 0,
-   "like_count": 35,
+   "like_count": 36,
    "image": "https://pbs.twimg.com/media/HXhJ9fUXoAAPw0i.jpg"
   },
   {
