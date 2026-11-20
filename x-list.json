@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T12:06:40+00:00",
+ "updated_at": "2026-11-20T12:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2123751964718805258",
+   "text": "S1 E9 'Boca' | 14 of 688",
+   "url": "https://x.com/SopranosOrder/status/2123751964718805258",
+   "created_at": "2026-11-20T12:15:00+00:00",
+   "sent_at": "2026-11-20T12:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXfPjGJXUAAomKe.jpg"
+  },
   {
    "id": "2123748195826098671",
    "text": "S1 E9 'Boca' | 13 of 688",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HXfPfvfXEAA9iP_.jpg"
   },
   {
-   "id": "2123744414879424989",
-   "text": "S1 E9 'Boca' | 12 of 688",
-   "url": "https://x.com/SopranosOrder/status/2123744414879424989",
-   "created_at": "2026-11-20T11:45:00+00:00",
-   "sent_at": "2026-11-20T11:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXfMFJKXYAACjPz.jpg"
-  },
-  {
    "id": "2123716767734464634",
    "text": "\u201cWhat it talks about with mental health and all of that\u201d can a superhero thing just be a superhero thing? Oh wait it\u2019s Tom King \ud83d\ude44",
    "url": "https://x.com/StebobM/status/2123716767734464634",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": ""
   },
   {
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 75,
-   "like_count": 1074,
+   "repost_count": 76,
+   "like_count": 1084,
    "image": "https://pbs.twimg.com/media/HXiRB52XEAAKvK_.jpg"
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
-   "repost_count": 150,
-   "like_count": 986,
+   "repost_count": 151,
+   "like_count": 992,
    "image": "https://pbs.twimg.com/media/HXiJT-WWQAE63oW.jpg"
   },
   {
@@ -95,34 +95,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2123528548493222327",
-   "text": "\"Grand Theft Auto VI? Oh... I think I remember.\"",
-   "url": "https://x.com/TheManlet_King/status/2123528548493222327",
-   "created_at": "2026-11-19T21:27:13+00:00",
-   "sent_at": "2026-11-19T21:27:13+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 0,
-   "like_count": 42,
-   "image": "https://pbs.twimg.com/media/HXhJ9fUXoAAPw0i.jpg"
-  },
-  {
-   "id": "2123526047446536272",
-   "text": "\"Zo close ve can almost taste it!\"",
-   "url": "https://x.com/TheManlet_King/status/2123526047446536272",
-   "created_at": "2026-11-19T21:17:17+00:00",
-   "sent_at": "2026-11-19T21:17:17+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 22,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2123526033320161281/img/c0jZOrjFDLAoFHx1.jpg"
   }
  ]
 }
