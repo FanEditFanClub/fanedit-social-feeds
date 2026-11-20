@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T11:36:40+00:00",
+ "updated_at": "2026-11-20T11:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2123744414879424989",
+   "text": "S1 E9 'Boca' | 12 of 688",
+   "url": "https://x.com/SopranosOrder/status/2123744414879424989",
+   "created_at": "2026-11-20T11:45:00+00:00",
+   "sent_at": "2026-11-20T11:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXfMFJKXYAACjPz.jpg"
+  },
+  {
    "id": "2123740644959203451",
    "text": "S1 E9 'Boca' | 11 of 688",
    "url": "https://x.com/SopranosOrder/status/2123740644959203451",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HXfL-VXXMAAylQI.jpg"
-  },
-  {
-   "id": "2123737115951607915",
-   "text": "S1 E9 'Boca' | 10 of 688",
-   "url": "https://x.com/SopranosOrder/status/2123737115951607915",
-   "created_at": "2026-11-20T11:16:00+00:00",
-   "sent_at": "2026-11-20T11:16:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HXfL7cyWEAAn32H.jpg"
   },
   {
    "id": "2123716767734464634",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
    "repost_count": 71,
-   "like_count": 1057,
+   "like_count": 1063,
    "image": "https://pbs.twimg.com/media/HXiRB52XEAAKvK_.jpg"
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
-   "repost_count": 149,
-   "like_count": 974,
+   "repost_count": 150,
+   "like_count": 978,
    "image": "https://pbs.twimg.com/media/HXiJT-WWQAE63oW.jpg"
   },
   {
@@ -123,20 +123,6 @@
    "repost_count": 1,
    "like_count": 21,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2123526033320161281/img/c0jZOrjFDLAoFHx1.jpg"
-  },
-  {
-   "id": "2123520218228302126",
-   "text": "What makes me laugh is I keep seeing people talk like this money is going to DC. Skydance are billions in debt this money will be used to get them out of the whole",
-   "url": "https://x.com/StebobM/status/2123520218228302126",
-   "created_at": "2026-11-19T20:54:07+00:00",
-   "sent_at": "2026-11-19T20:54:07+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 9,
-   "image": ""
   }
  ]
 }
