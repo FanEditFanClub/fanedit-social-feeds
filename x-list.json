@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T09:36:39+00:00",
+ "updated_at": "2026-11-21T09:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2124076602921300405",
+   "text": "S1 E9 'Boca' | 100 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124076602921300405",
+   "created_at": "2026-11-21T09:45:00+00:00",
+   "sent_at": "2026-11-21T09:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXkLg2CXEAAQ-_C.jpg"
+  },
+  {
+   "id": "2124074498844492095",
+   "text": "Bless his cotton socks, he really is the perfect River Cartwright.\n\nhttps://variety.com/2026/film/news/bond-robert-pattinson-screen-test-amazon-execs-1236954194/",
+   "url": "https://x.com/PentexP/status/2124074498844492095",
+   "created_at": "2026-11-21T09:36:38+00:00",
+   "sent_at": "2026-11-21T09:36:38+00:00",
+   "author_name": "Pentex",
+   "author_handle": "PentexP",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1608048769635069953/H88GVJQx_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXo6f8-WYAAJEBe.jpg"
+  },
+  {
    "id": "2124072832351306201",
    "text": "S1 E9 'Boca' | 99 of 688",
    "url": "https://x.com/SopranosOrder/status/2124072832351306201",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXkLdpYXsAAdsP7.jpg"
-  },
-  {
-   "id": "2124069053140500605",
-   "text": "S1 E9 'Boca' | 98 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124069053140500605",
-   "created_at": "2026-11-21T09:15:00+00:00",
-   "sent_at": "2026-11-21T09:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXkLZg7WwAAn1dk.jpg"
+   "image": "https://pbs.twimg.com/media/HXkLdpYXsAAdsP7.jpg"
   },
   {
    "id": "2124066325186412950",
@@ -64,7 +78,7 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 1,
+   "repost_count": 0,
    "like_count": 9,
    "image": ""
   },
@@ -121,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 17,
    "repost_count": 19,
-   "like_count": 462,
+   "like_count": 465,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2123907729693483008/img/Br34NiiMFg8sYIU_.jpg"
   }
  ]
