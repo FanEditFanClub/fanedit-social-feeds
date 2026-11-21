@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T09:51:41+00:00",
+ "updated_at": "2026-11-21T10:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2124080386888122492",
+   "text": "S1 E9 'Boca' | 101 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124080386888122492",
+   "created_at": "2026-11-21T10:00:02+00:00",
+   "sent_at": "2026-11-21T10:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXkLkkhXsAAdysd.jpg"
+  },
   {
    "id": "2124076602921300405",
    "text": "S1 E9 'Boca' | 100 of 688",
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HXo6f8-WYAAJEBe.jpg"
   },
   {
-   "id": "2124072832351306201",
-   "text": "S1 E9 'Boca' | 99 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124072832351306201",
-   "created_at": "2026-11-21T09:30:01+00:00",
-   "sent_at": "2026-11-21T09:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXkLdpYXsAAdsP7.jpg"
-  },
-  {
    "id": "2124066325186412950",
    "text": "Crisis should have been the Arrowverse finale",
    "url": "https://x.com/StebobM/status/2124066325186412950",
@@ -78,7 +78,7 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 0,
+   "repost_count": 1,
    "like_count": 9,
    "image": ""
   },
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 4,
    "repost_count": 7,
-   "like_count": 87,
+   "like_count": 89,
    "image": "https://pbs.twimg.com/media/HXnA6vSXAAEZkDQ.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 17,
    "repost_count": 19,
-   "like_count": 465,
+   "like_count": 468,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2123907729693483008/img/Br34NiiMFg8sYIU_.jpg"
   }
  ]
