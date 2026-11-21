@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T20:51:40+00:00",
+ "updated_at": "2026-11-21T21:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2124246472044523592",
+   "text": "S1 E9 'Boca' | 145 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124246472044523592",
+   "created_at": "2026-11-21T21:00:00+00:00",
+   "sent_at": "2026-11-21T21:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXprLlAWcAAYQ_C.jpg"
+  },
+  {
    "id": "2124243373519262001",
    "text": "They still didn\u2019t quote it in the article which was my point",
    "url": "https://x.com/StebobM/status/2124243373519262001",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXprKGhWsAAuz4r.jpg"
-  },
-  {
-   "id": "2124238924163727854",
-   "text": "S1 E9 'Boca' | 143 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124238924163727854",
-   "created_at": "2026-11-21T20:30:00+00:00",
-   "sent_at": "2026-11-21T20:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXprIr1W8AAzYv0.jpg"
+   "image": "https://pbs.twimg.com/media/HXprKGhWsAAuz4r.jpg"
   },
   {
    "id": "2124236143616987379",
