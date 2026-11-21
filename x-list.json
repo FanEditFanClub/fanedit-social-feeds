@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T00:51:40+00:00",
+ "updated_at": "2026-11-21T01:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2123944493011620146",
+   "text": "S1 E9 'Boca' | 65 of 688",
+   "url": "https://x.com/SopranosOrder/status/2123944493011620146",
+   "created_at": "2026-11-21T01:00:02+00:00",
+   "sent_at": "2026-11-21T01:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXkJVhBXIAEmIsF.jpg"
+  },
+  {
    "id": "2123941049286668658",
    "text": "Archiving my personal print of Terminator Genisys (35mm 6K Scan) Scope - DTS - SSRD",
    "url": "https://x.com/NCseventeen/status/2123941049286668658",
@@ -22,8 +36,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 1,
-   "repost_count": 0,
-   "like_count": 8,
+   "repost_count": 1,
+   "like_count": 18,
    "image": "https://pbs.twimg.com/media/HXnA6vSXAAEZkDQ.jpg"
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HXkJRkuXEAAsCJs.jpg"
-  },
-  {
-   "id": "2123936933780832511",
-   "text": "S1 E9 'Boca' | 63 of 688",
-   "url": "https://x.com/SopranosOrder/status/2123936933780832511",
-   "created_at": "2026-11-21T00:30:00+00:00",
-   "sent_at": "2026-11-21T00:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HXkJN7lXwAAiw6b.jpg"
   },
   {
    "id": "2123913726122414481",
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
    "repost_count": 19,
-   "like_count": 199,
+   "like_count": 212,
    "image": "https://pbs.twimg.com/media/HXmoRx4XAAAMaz4.jpg"
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 8,
    "repost_count": 5,
-   "like_count": 172,
+   "like_count": 204,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 8,
    "repost_count": 12,
-   "like_count": 270,
+   "like_count": 274,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2123907729693483008/img/Br34NiiMFg8sYIU_.jpg"
   },
   {
@@ -133,9 +133,9 @@
    "author_name": "Tom Mason",
    "author_handle": "tomsmason91",
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
-   "reply_count": 91,
+   "reply_count": 92,
    "repost_count": 11,
-   "like_count": 158,
+   "like_count": 159,
    "image": "https://pbs.twimg.com/media/HXlXXQbW0AAINvH.jpg"
   }
  ]
