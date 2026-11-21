@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T05:51:44+00:00",
+ "updated_at": "2026-11-21T06:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2124019985726988593",
+   "text": "S1 E9 'Boca' | 85 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124019985726988593",
+   "created_at": "2026-11-21T06:00:01+00:00",
+   "sent_at": "2026-11-21T06:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXkKmMZWgAAvJNt.jpg"
+  },
   {
    "id": "2124016205174657037",
    "text": "S1 E9 'Boca' | 84 of 688",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HXkKdaFXQAA0WK0.jpg"
   },
   {
-   "id": "2124012431198544052",
-   "text": "S1 E9 'Boca' | 83 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124012431198544052",
-   "created_at": "2026-11-21T05:30:00+00:00",
-   "sent_at": "2026-11-21T05:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXkKZTaXMAAtr9b.jpg"
-  },
-  {
    "id": "2124010178190200841",
    "text": "He\u2019s still Cap, it\u2019s like in Batman Beyond Terry may be Batman but that doesn\u2019t mean Bruce isn\u2019t Batman.",
    "url": "https://x.com/StebobM/status/2124010178190200841",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 3,
    "repost_count": 4,
-   "like_count": 67,
+   "like_count": 69,
    "image": "https://pbs.twimg.com/media/HXnA6vSXAAEZkDQ.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
    "repost_count": 26,
-   "like_count": 340,
+   "like_count": 343,
    "image": "https://pbs.twimg.com/media/HXmoRx4XAAAMaz4.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 14,
    "repost_count": 17,
-   "like_count": 387,
+   "like_count": 394,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2123907729693483008/img/Br34NiiMFg8sYIU_.jpg"
   }
  ]
