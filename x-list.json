@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T22:21:40+00:00",
+ "updated_at": "2026-11-21T22:36:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,32 +13,32 @@
  },
  "posts": [
   {
-   "id": "2124265346379247681",
-   "text": "S1 E9 'Boca' | 150 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124265346379247681",
-   "created_at": "2026-11-21T22:15:00+00:00",
-   "sent_at": "2026-11-21T22:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXprTURWUAAwzbi.jpg"
-  },
-  {
-   "id": "2124261574911389768",
-   "text": "S1 E9 'Boca' | 149 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124261574911389768",
-   "created_at": "2026-11-21T22:00:00+00:00",
-   "sent_at": "2026-11-21T22:00:00+00:00",
+   "id": "2124269121462571467",
+   "text": "S1 E9 'Boca' | 151 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124269121462571467",
+   "created_at": "2026-11-21T22:30:00+00:00",
+   "sent_at": "2026-11-21T22:30:00+00:00",
    "author_name": "Every Moment of The Sopranos in Order",
    "author_handle": "SopranosOrder",
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXprR1XXMAAE1pM.jpg"
+   "image": "https://pbs.twimg.com/media/HXprUsQXMAA6zQ2.jpg"
+  },
+  {
+   "id": "2124269121328050509",
+   "text": "S1 E9 'Boca' | 152 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124269121328050509",
+   "created_at": "2026-11-21T22:30:00+00:00",
+   "sent_at": "2026-11-21T22:30:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXprWEsWcAAW8wM.jpg"
   },
   {
    "id": "2124259523653234759",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 1,
+   "like_count": 3,
    "image": ""
   },
   {
