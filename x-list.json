@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T12:51:41+00:00",
+ "updated_at": "2026-11-21T13:06:46+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2124125688362156292",
+   "text": "S1 E9 'Boca' | 113 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124125688362156292",
+   "created_at": "2026-11-21T13:00:03+00:00",
+   "sent_at": "2026-11-21T13:00:03+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXkMKoHWcAANT26.jpg"
+  },
+  {
    "id": "2124121901270434038",
    "text": "S1 E9 'Boca' | 112 of 688",
    "url": "https://x.com/SopranosOrder/status/2124121901270434038",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HXkMG2yW8AAPs_p.jpg"
-  },
-  {
-   "id": "2124118128523436175",
-   "text": "S1 E9 'Boca' | 111 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124118128523436175",
-   "created_at": "2026-11-21T12:30:00+00:00",
-   "sent_at": "2026-11-21T12:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXkMELiWIAAsNgq.jpg"
   },
   {
    "id": "2124074498844492095",
@@ -109,20 +109,6 @@
    "repost_count": 8,
    "like_count": 95,
    "image": "https://pbs.twimg.com/media/HXnA6vSXAAEZkDQ.jpg"
-  },
-  {
-   "id": "2123913726122414481",
-   "text": "everyone tune in and watch percy jackson or I\u2019m deleting every edit I\u2019ve ever made",
-   "url": "https://x.com/uhbucky/status/2123913726122414481",
-   "created_at": "2026-11-20T22:57:47+00:00",
-   "sent_at": "2026-11-20T22:57:47+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 4,
-   "repost_count": 27,
-   "like_count": 400,
-   "image": "https://pbs.twimg.com/media/HXmoRx4XAAAMaz4.jpg"
   },
   {
    "id": "2123907756252164303",
