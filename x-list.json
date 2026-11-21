@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T13:06:46+00:00",
+ "updated_at": "2026-11-21T13:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2124129451357131161",
+   "text": "S1 E9 'Boca' | 114 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124129451357131161",
+   "created_at": "2026-11-21T13:15:00+00:00",
+   "sent_at": "2026-11-21T13:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXkMNl3WYAAOtWr.jpg"
+  },
+  {
    "id": "2124125688362156292",
    "text": "S1 E9 'Boca' | 113 of 688",
    "url": "https://x.com/SopranosOrder/status/2124125688362156292",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HXkMKoHWcAANT26.jpg"
-  },
-  {
-   "id": "2124121901270434038",
-   "text": "S1 E9 'Boca' | 112 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124121901270434038",
-   "created_at": "2026-11-21T12:45:00+00:00",
-   "sent_at": "2026-11-21T12:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXkMG2yW8AAPs_p.jpg"
   },
   {
    "id": "2124074498844492095",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 18,
    "repost_count": 19,
-   "like_count": 488,
+   "like_count": 489,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2123907729693483008/img/Br34NiiMFg8sYIU_.jpg"
   }
  ]
