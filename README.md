@@ -44,6 +44,15 @@ Embed code (swap the file name and title). The box ratio is set in the Sites edi
 | `embed-paypal.html` | **4:5** | 1.25 | PayPal / Venmo card (hosted button `6N34NNU436TT4`). The amount field and buttons stay inside the box; the PayPal window may open as a popup |
 | `embed-support.html` | **4:5** | 1.25 | Same PayPal / Venmo card for the Support Us page. Title, subtitle, and the hosted heading and amount stay centered, including at a 320–430px wide box |
 | `embed-icons.html` | **11:6** | 0.545 | Social icon grid, 11 across × 6 rows (65 icons; the last row is centered). The Website icon opens `https://www.faneditfanclub.com`. The Email icon opens a new email to FanEditFanClub@gmail.com (see below) |
+| `embed-master-links.html` | **1:2** | 2.00 | Master Links page. This one **does scroll** inside the box (the document is long). The native Google Docs preview is replaced because on phones Sites shows a cropped first-page thumbnail that cannot be scrolled |
+
+The Master Links page is different from the feed cards. Google Sites' built-in Google Docs embed does not scroll on phones: it hides the live iframe and shows a cropped first-page thumbnail (`overflow: hidden`) that fills the screen, so the rest of the document is unreachable. `embed-master-links.html` is a copy of the published doc (refreshed by `fetch.py` from the HTML export) in a full-height, touch-scrollable box (`overflow-y: auto; -webkit-overflow-scrolling: touch`). Embed URL:
+
+```html
+<iframe src="https://faneditfanclub.github.io/fanedit-social-feeds/embed-master-links.html" title="Fan Edit Fan Club Master Links" style="width:100%;height:100%;border:0;"></iframe>
+```
+
+Aim for a tall box, about **1:2** (height = 2 × width) or fill the area under the header. A 390px-wide phone then gets about 780px of reading room, and the page inside the box still scrolls to the end. After switching the Site off the native Docs embed, `fetch.py` keeps using the known Master Links document id so the app copy and this embed stay in sync.
 
 Do not drop a 5:8 card into a full-width desktop section. At 1366px that box is 2186px tall. Use columns; Google Sites stacks a multi-column section into full width on phones.
 

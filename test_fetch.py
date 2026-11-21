@@ -265,5 +265,32 @@ class SitePageTests(unittest.TestCase):
         self.assertEqual(nav[1]["children"][0]["href"], "https://x.com/FanEditFanClub")
 
 
+    def test_find_doc_url_reads_iframe_data_src(self):
+        raw = '<iframe data-src="https://docs.google.com/document/d/1DL6YCoZLM_ju75DuseNQPtEt3vM4nP_nF2bNqmKtDjo/preview"></iframe>'
+        self.assertIn("1DL6YCoZLM_ju75DuseNQPtEt3vM4nP_nF2bNqmKtDjo/export?format=html", fetch.find_doc_url(raw))
+
+    def test_master_links_embed_is_touch_scrollable(self):
+        raw = (
+            "<html><head><style>body{color:#fff}.c57{max-width:468pt;padding:72pt}</style></head>"
+            "<body class=\"c57 doc-content\">"
+            "<h2>Master Links</h2>"
+            "<p><a href=\"https://www.google.com/url?q=https%3A%2F%2Ffanedit.org&amp;sa=D\">FANEDIT.ORG</a></p>"
+            "<p>Search Engines</p>"
+            "</body></html>"
+        )
+        page = fetch.build_master_links_embed(raw, "1DL6YCoZLM_ju75DuseNQPtEt3vM4nP_nF2bNqmKtDjo")
+        self.assertIn('id="scroller"', page)
+        self.assertIn("-webkit-overflow-scrolling:touch", page)
+        self.assertIn("overflow-y:auto", page)
+        self.assertIn("Master Links", page)
+        self.assertIn("Search Engines", page)
+        self.assertIn('href="https://fanedit.org"', page)
+        self.assertNotIn("google.com/url?q=", page)
+        self.assertIn("max-width:100% !important", page)
+        self.assertNotIn("<script", page.lower().split("<style")[0])  # no script in head before style is fine
+        self.assertNotIn("<script", page.lower().split("</style>")[-1])
+        self.assertIn("1DL6YCoZLM_ju75DuseNQPtEt3vM4nP_nF2bNqmKtDjo/preview", page)
+
+
 if __name__ == "__main__":
     unittest.main()
