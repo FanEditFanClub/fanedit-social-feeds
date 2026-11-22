@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T10:51:43+00:00",
+ "updated_at": "2026-11-22T11:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2124457880644628648",
+   "text": "S1 E9 'Boca' | 201 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124457880644628648",
+   "created_at": "2026-11-22T11:00:03+00:00",
+   "sent_at": "2026-11-22T11:00:03+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXqiE0gXEAAiUqH.jpg"
+  },
+  {
    "id": "2124454090256138567",
    "text": "S1 E9 'Boca' | 200 of 688",
    "url": "https://x.com/SopranosOrder/status/2124454090256138567",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HXqiBVVXQAEqBSQ.jpg"
-  },
-  {
-   "id": "2124450317161103803",
-   "text": "S1 E9 'Boca' | 199 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124450317161103803",
-   "created_at": "2026-11-22T10:30:00+00:00",
-   "sent_at": "2026-11-22T10:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXqh9y9XUAALidX.jpg"
   },
   {
    "id": "2124422899054354619",
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 6,
-   "like_count": 598,
+   "repost_count": 7,
+   "like_count": 611,
    "image": "https://pbs.twimg.com/media/HXscZ7sXwAARGRL.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 2,
    "repost_count": 5,
-   "like_count": 110,
+   "like_count": 111,
    "image": ""
   },
   {
