@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T13:51:44+00:00",
+ "updated_at": "2026-11-22T14:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2124503170986422502",
+   "text": "S1 E9 'Boca' | 213 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124503170986422502",
+   "created_at": "2026-11-22T14:00:01+00:00",
+   "sent_at": "2026-11-22T14:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXqitHpWUAAr_Mw.jpg"
+  },
+  {
+   "id": "2124502994318200923",
+   "text": "You'll notice that this kind of thinking exploded after camera phones became a thing.\n\nShe doesn't care, not really, she cares how 'caring' looks. That's why she's filming herself crying the entire time.\n\n\"Look at ME! I am a GOOD person.\" Zero care for anything else.",
+   "url": "https://x.com/TheManlet_King/status/2124502994318200923",
+   "created_at": "2026-11-22T13:59:19+00:00",
+   "sent_at": "2026-11-22T13:59:19+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 2,
+   "like_count": 6,
+   "image": ""
+  },
+  {
    "id": "2124500376401621317",
    "text": "I was just wondering that myself \ud83d\udc40 #ManofTomorrow",
    "url": "https://x.com/StebobM/status/2124500376401621317",
@@ -22,8 +50,8 @@
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -55,20 +83,6 @@
    "image": "https://pbs.twimg.com/media/HXqipRIWoAAQRqZ.jpg"
   },
   {
-   "id": "2124495618567495756",
-   "text": "S1 E9 'Boca' | 211 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124495618567495756",
-   "created_at": "2026-11-22T13:30:01+00:00",
-   "sent_at": "2026-11-22T13:30:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXqil1oXcAAM-wK.jpg"
-  },
-  {
    "id": "2124422899054354619",
    "text": "Calling it now the moment he actually arrives is when Superman is getting his 1A revenge on Lex\n\n#ManOfTomorrow",
    "url": "https://x.com/StebobM/status/2124422899054354619",
@@ -95,34 +109,6 @@
    "repost_count": 0,
    "like_count": 10,
    "image": ""
-  },
-  {
-   "id": "2124294582955340028",
-   "text": "Not even the coal mines are safe smh",
-   "url": "https://x.com/TheManlet_King/status/2124294582955340028",
-   "created_at": "2026-11-22T00:11:10+00:00",
-   "sent_at": "2026-11-22T00:11:10+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 5,
-   "like_count": 113,
-   "image": ""
-  },
-  {
-   "id": "2124256821821002085",
-   "text": "Love Actually: The PG-13 Cut, I cut out all the Nudity and a few character stories, in order to focus the overall\nnarrative and create a more Family-Friendly holiday rom-com.",
-   "url": "https://x.com/Agent9Editor/status/2124256821821002085",
-   "created_at": "2026-11-21T21:41:07+00:00",
-   "sent_at": "2026-11-21T21:41:07+00:00",
-   "author_name": "Agent9.Editor",
-   "author_handle": "Agent9Editor",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1860062244240760832/dujDW8Rm_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXrf_4yWQAAHP-I.jpg"
   }
  ]
 }
