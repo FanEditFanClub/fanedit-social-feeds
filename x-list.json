@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T09:51:42+00:00",
+ "updated_at": "2026-11-23T10:06:47+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2124805159930728453",
+   "text": "S1 E9 'Boca' | 263 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124805159930728453",
+   "created_at": "2026-11-23T10:00:01+00:00",
+   "sent_at": "2026-11-23T10:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXvjX41WIAAtBu4.jpg"
+  },
   {
    "id": "2124802233179255083",
    "text": "We\u2019ve had some great movie trailers over the years but for me nothing will ever come close to this\n\nMan of Steel - Official Trailer 3 [HD]\n\nhttps://youtu.be/T6DJcgm3wNY?is=pi4YbxvwtYa8ELkI via @YouTube",
@@ -41,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HXvjUWiWkAEwbaJ.jpg"
   },
   {
-   "id": "2124774955326033921",
-   "text": "S1 E9 'Boca' | 261 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124774955326033921",
-   "created_at": "2026-11-23T08:00:00+00:00",
-   "sent_at": "2026-11-23T08:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 10,
-   "image": "https://pbs.twimg.com/media/HXvjRHpWEAAqz9U.jpg"
-  },
-  {
    "id": "2124773157341221083",
    "text": "No. I will do what I want with MY account thanks. I also never replied to you Guatavo I was replying to my friend.\n\nI don\u2019t really care what you think one way or the other",
    "url": "https://x.com/StebobM/status/2124773157341221083",
@@ -78,8 +78,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
-   "repost_count": 1,
-   "like_count": 83,
+   "repost_count": 2,
+   "like_count": 97,
    "image": "https://pbs.twimg.com/media/HXyyNrgWEAAepbd.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 21,
-   "like_count": 321,
+   "like_count": 323,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXwkTAAXcAASX4t.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 53,
-   "like_count": 848,
+   "like_count": 854,
    "image": "https://pbs.twimg.com/media/HXv4OwMWMAEQzGV.jpg"
   },
   {
