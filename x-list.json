@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T13:51:41+00:00",
+ "updated_at": "2026-11-23T14:06:48+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2124865563411484683",
+   "text": "S1 E9 'Boca' | 291 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124865563411484683",
+   "created_at": "2026-11-23T14:00:03+00:00",
+   "sent_at": "2026-11-23T14:00:03+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXzg-PzWIAAP6eU.jpg"
+  },
+  {
+   "id": "2124865556750713289",
+   "text": "S1 E9 'Boca' | 267 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124865556750713289",
+   "created_at": "2026-11-23T14:00:01+00:00",
+   "sent_at": "2026-11-23T14:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HXvjmVJXMAAW7_u.jpg"
+  },
   {
    "id": "2124858148301250894",
    "text": "The first 2 roles he was aged out of at the time\n\nBond he was second choice to Craig back in the day and didn\u2019t even audition this time\n\nDumb take https://x.com/bigbluefarmboy/status/2124849497012588614",
@@ -27,20 +55,6 @@
    "image": ""
   },
   {
-   "id": "2124850458410009041",
-   "text": "S1 E9 'Boca' | 266 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124850458410009041",
-   "created_at": "2026-11-23T13:00:01+00:00",
-   "sent_at": "2026-11-23T13:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HXvji-OXwAA-Q9K.jpg"
-  },
-  {
    "id": "2124849725606142287",
    "text": "My fastest 100m was 10.68. He's officially faster than me now. Dang it.",
    "url": "https://x.com/TheManlet_King/status/2124849725606142287",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 12,
+   "like_count": 15,
    "image": ""
-  },
-  {
-   "id": "2124835368759435298",
-   "text": "S1 E9 'Boca' | 265 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124835368759435298",
-   "created_at": "2026-11-23T12:00:04+00:00",
-   "sent_at": "2026-11-23T12:00:04+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 1,
-   "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HXvjfl4XwAAae4W.jpg"
   },
   {
    "id": "2124808164751396873",
@@ -92,8 +92,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 4,
-   "repost_count": 8,
-   "like_count": 261,
+   "repost_count": 10,
+   "like_count": 272,
    "image": "https://pbs.twimg.com/media/HXyyNrgWEAAepbd.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 36,
+   "like_count": 37,
    "image": "https://pbs.twimg.com/media/HXx-e4sWAAAraMT.jpg"
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 21,
-   "like_count": 334,
+   "like_count": 335,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXwkTAAXcAASX4t.jpg"
   },
   {
@@ -151,20 +151,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": ""
-  },
-  {
-   "id": "2124564586791944343",
-   "text": "lil nosy asses",
-   "url": "https://x.com/uhbucky/status/2124564586791944343",
-   "created_at": "2026-11-22T18:04:04+00:00",
-   "sent_at": "2026-11-22T18:04:04+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 65,
-   "like_count": 990,
-   "image": "https://pbs.twimg.com/media/HXv4OwMWMAEQzGV.jpg"
   }
  ]
 }
