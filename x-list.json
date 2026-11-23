@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T10:06:47+00:00",
+ "updated_at": "2026-11-23T10:21:46+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2124808164751396873",
+   "text": "I prefer Joe Chill but you have to look at how movies were made in the 1980s. There were a lot of revenge action flicks in those days & this was just a normal back then. I can guarantee you, general audiences did not give a shit.",
+   "url": "https://x.com/StebobM/status/2124808164751396873",
+   "created_at": "2026-11-23T10:11:58+00:00",
+   "sent_at": "2026-11-23T10:11:58+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2124805159930728453",
    "text": "S1 E9 'Boca' | 263 of 688",
    "url": "https://x.com/SopranosOrder/status/2124805159930728453",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HXvjX41WIAAtBu4.jpg"
   },
   {
@@ -55,20 +69,6 @@
    "image": "https://pbs.twimg.com/media/HXvjUWiWkAEwbaJ.jpg"
   },
   {
-   "id": "2124773157341221083",
-   "text": "No. I will do what I want with MY account thanks. I also never replied to you Guatavo I was replying to my friend.\n\nI don\u2019t really care what you think one way or the other",
-   "url": "https://x.com/StebobM/status/2124773157341221083",
-   "created_at": "2026-11-23T07:52:51+00:00",
-   "sent_at": "2026-11-23T07:52:51+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": ""
-  },
-  {
    "id": "2124769278633050394",
    "text": "My archived print of Cape Fear (35mm 6K Scan) Scope - Stereo",
    "url": "https://x.com/NCseventeen/status/2124769278633050394",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
    "repost_count": 2,
-   "like_count": 97,
+   "like_count": 107,
    "image": "https://pbs.twimg.com/media/HXyyNrgWEAAepbd.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 2,
    "repost_count": 3,
-   "like_count": 30,
+   "like_count": 31,
    "image": "https://pbs.twimg.com/media/HXx-e4sWAAAraMT.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 53,
-   "like_count": 854,
+   "like_count": 859,
    "image": "https://pbs.twimg.com/media/HXv4OwMWMAEQzGV.jpg"
   },
   {
