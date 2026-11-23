@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T07:51:46+00:00",
+ "updated_at": "2026-11-23T08:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2124774955326033921",
+   "text": "S1 E9 'Boca' | 261 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124774955326033921",
+   "created_at": "2026-11-23T08:00:00+00:00",
+   "sent_at": "2026-11-23T08:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HXvjRHpWEAAqz9U.jpg"
+  },
+  {
+   "id": "2124773157341221083",
+   "text": "No. I will do what I want with MY account thanks. I also never replied to you Guatavo I was replying to my friend.\n\nI don\u2019t really care what you think one way or the other",
+   "url": "https://x.com/StebobM/status/2124773157341221083",
+   "created_at": "2026-11-23T07:52:51+00:00",
+   "sent_at": "2026-11-23T07:52:51+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
   {
    "id": "2124769763696210017",
    "text": "You couldn\u2019t have replied in your quote? \ud83e\udd37\u200d\u2642\ufe0f",
@@ -37,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/media/HXyyNrgWEAAepbd.jpg"
   },
   {
@@ -51,36 +79,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 1,
    "repost_count": 2,
-   "like_count": 7,
+   "like_count": 8,
    "image": "https://pbs.twimg.com/media/HXvjNGDWEAAKUlJ.jpg"
-  },
-  {
-   "id": "2124756125308625022",
-   "text": "Pa? #ManOfTomorrow",
-   "url": "https://x.com/StebobM/status/2124756125308625022",
-   "created_at": "2026-11-23T06:45:10+00:00",
-   "sent_at": "2026-11-23T06:45:10+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HXymblkWIAALFSO.jpg"
-  },
-  {
-   "id": "2124744755418382552",
-   "text": "S1 E9 'Boca' | 259 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124744755418382552",
-   "created_at": "2026-11-23T06:00:00+00:00",
-   "sent_at": "2026-11-23T06:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 10,
-   "image": "https://pbs.twimg.com/media/HXvjJRtWQAE56m5.jpg"
   },
   {
    "id": "2124712208773140500",
@@ -91,9 +91,9 @@
    "author_name": "Peter Ncseventeen (Scanners Inc)",
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 1,
+   "reply_count": 2,
    "repost_count": 3,
-   "like_count": 26,
+   "like_count": 27,
    "image": "https://pbs.twimg.com/media/HXx-e4sWAAAraMT.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 19,
-   "like_count": 307,
+   "like_count": 309,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXwkTAAXcAASX4t.jpg"
   },
   {
@@ -149,7 +149,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 51,
-   "like_count": 798,
+   "like_count": 805,
    "image": "https://pbs.twimg.com/media/HXv4OwMWMAEQzGV.jpg"
   },
   {
