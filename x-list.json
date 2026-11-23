@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T16:51:50+00:00",
+ "updated_at": "2026-11-23T17:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,18 +13,46 @@
  },
  "posts": [
   {
-   "id": "2124906902827966642",
-   "text": "List so bad it'll make a game journalist blush. Like wow. 40% naughty dog? Disgusting. Abysmal even.",
-   "url": "https://x.com/TheManlet_King/status/2124906902827966642",
-   "created_at": "2026-11-23T16:44:19+00:00",
-   "sent_at": "2026-11-23T16:44:19+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "id": "2124910849990983700",
+   "text": "S1 E9 'Boca' | 270 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124910849990983700",
+   "created_at": "2026-11-23T17:00:00+00:00",
+   "sent_at": "2026-11-23T17:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 15,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXvjxbsWUAAmS39.jpg"
+  },
+  {
+   "id": "2124910119011971579",
+   "text": "I'm sorry, HOW TF DO YOU HACK ROCKSTAR WITH AN AMAZON FIRE TV STICK?!",
+   "url": "https://x.com/jrsilentboba/status/2124910119011971579",
+   "created_at": "2026-11-23T16:57:05+00:00",
+   "sent_at": "2026-11-23T16:57:05+00:00",
+   "author_name": "jrsilentboba",
+   "author_handle": "jrsilentboba",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2122095532789149696/PtN6h7rs_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
    "image": ""
+  },
+  {
+   "id": "2124909783031357654",
+   "text": "shane hollander I am endlessly endeared by you",
+   "url": "https://x.com/uhbucky/status/2124909783031357654",
+   "created_at": "2026-11-23T16:55:45+00:00",
+   "sent_at": "2026-11-23T16:55:45+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 20,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HX0yLL4WMAAEMjt.jpg"
   },
   {
    "id": "2124895757215887502",
@@ -37,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 5,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HXvjt6zXMAA74GB.jpg"
   },
   {
@@ -69,20 +97,6 @@
    "image": ""
   },
   {
-   "id": "2124880655356166271",
-   "text": "S1 E9 'Boca' | 268 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124880655356166271",
-   "created_at": "2026-11-23T15:00:01+00:00",
-   "sent_at": "2026-11-23T15:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HXvjpzjXcAAZKMm.jpg"
-  },
-  {
    "id": "2124849725606142287",
    "text": "My fastest 100m was 10.68. He's officially faster than me now. Dang it.",
    "url": "https://x.com/TheManlet_King/status/2124849725606142287",
@@ -91,9 +105,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 21,
+   "like_count": 23,
    "image": ""
   },
   {
@@ -107,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 6,
    "repost_count": 15,
-   "like_count": 357,
+   "like_count": 367,
    "image": "https://pbs.twimg.com/media/HXyyNrgWEAAepbd.jpg"
   },
   {
