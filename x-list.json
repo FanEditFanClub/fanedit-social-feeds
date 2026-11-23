@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T05:51:40+00:00",
+ "updated_at": "2026-11-23T06:06:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2124744755418382552",
+   "text": "S1 E9 'Boca' | 259 of 688",
+   "url": "https://x.com/SopranosOrder/status/2124744755418382552",
+   "created_at": "2026-11-23T06:00:00+00:00",
+   "sent_at": "2026-11-23T06:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 2,
+   "image": "https://pbs.twimg.com/media/HXvjJRtWQAE56m5.jpg"
+  },
+  {
    "id": "2124729660164526243",
    "text": "S1 E9 'Boca' | 258 of 688",
    "url": "https://x.com/SopranosOrder/status/2124729660164526243",
@@ -23,22 +37,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HXvjFxDWEAAC6JF.jpg"
-  },
-  {
-   "id": "2124714557239111860",
-   "text": "S1 E9 'Boca' | 257 of 688",
-   "url": "https://x.com/SopranosOrder/status/2124714557239111860",
-   "created_at": "2026-11-23T04:00:00+00:00",
-   "sent_at": "2026-11-23T04:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 2,
    "like_count": 6,
-   "image": "https://pbs.twimg.com/media/HXvjA5SX0AADbqa.jpg"
+   "image": "https://pbs.twimg.com/media/HXvjFxDWEAAC6JF.jpg"
   },
   {
    "id": "2124712208773140500",
@@ -64,8 +64,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 18,
-   "like_count": 296,
+   "repost_count": 19,
+   "like_count": 297,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HXwkTAAXcAASX4t.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
    "repost_count": 48,
-   "like_count": 751,
+   "like_count": 759,
    "image": "https://pbs.twimg.com/media/HXv4OwMWMAEQzGV.jpg"
   },
   {
@@ -123,20 +123,6 @@
    "repost_count": 0,
    "like_count": 33,
    "image": ""
-  },
-  {
-   "id": "2124518194467766686",
-   "text": "APPRECIATION POST: Celebrating No-Let7716 and preserving their awesome Kenobi fanedit reviews\n\n#kenobi #MRDb #FanEdit\n\nhttps://www.reddit.com/r/moviesremastered/comments/1y2qnpn/preciation_post_celebrating_nolet7716_and/",
-   "url": "https://x.com/MoviesRemaster/status/2124518194467766686",
-   "created_at": "2026-11-22T14:59:43+00:00",
-   "sent_at": "2026-11-22T14:59:43+00:00",
-   "author_name": "Movies Remastered",
-   "author_handle": "MoviesRemaster",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1816591966303342592/8fBVI70g_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HXvOA0kWUAAIOUX.jpg"
   }
  ]
 }
