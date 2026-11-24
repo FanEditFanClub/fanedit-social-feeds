@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T07:06:42+00:00",
+ "updated_at": "2026-11-24T07:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -23,7 +23,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HXzgl4nXQAAmSGH.jpg"
   },
   {
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 3,
    "image": "https://pbs.twimg.com/media/HX3xhTaW0AEWpCe.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 1,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 5,
    "image": "https://pbs.twimg.com/media/HXzgigGXgAALypK.jpg"
   },
   {
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
    "repost_count": 11,
-   "like_count": 96,
+   "like_count": 97,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2125054734864207872/img/4r_Jdy1OSnDFfT8L.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 3,
    "repost_count": 10,
-   "like_count": 556,
+   "like_count": 565,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HX1cg19XcAArO3h.jpg"
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 25,
    "repost_count": 159,
-   "like_count": 1865,
+   "like_count": 1871,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2124917477209419776/img/nnTMcIe772_vQJCD.jpg"
   },
   {
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 23,
-   "like_count": 855,
+   "like_count": 861,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HX0yLL4WMAAEMjt.jpg"
   }
  ]
