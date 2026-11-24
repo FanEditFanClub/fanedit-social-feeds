@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T11:51:45+00:00",
+ "updated_at": "2026-11-24T12:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2125197740623761516",
+   "text": "S1 E9 'Boca' | 289 of 688",
+   "url": "https://x.com/SopranosOrder/status/2125197740623761516",
+   "created_at": "2026-11-24T12:00:00+00:00",
+   "sent_at": "2026-11-24T12:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HXzg4VmWIAAGbGq.jpg"
+  },
+  {
    "id": "2125182645000933722",
    "text": "S1 E9 'Boca' | 288 of 688",
    "url": "https://x.com/SopranosOrder/status/2125182645000933722",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 5,
    "image": "https://pbs.twimg.com/media/HXzg0pQXsAAS9VK.jpg"
-  },
-  {
-   "id": "2125167556298502216",
-   "text": "S1 E9 'Boca' | 287 of 688",
-   "url": "https://x.com/SopranosOrder/status/2125167556298502216",
-   "created_at": "2026-11-24T10:00:03+00:00",
-   "sent_at": "2026-11-24T10:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HXzgxveW0AAmxQ6.jpg"
   },
   {
    "id": "2125167071235596305",
@@ -163,7 +163,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 28,
    "repost_count": 167,
-   "like_count": 1980,
+   "like_count": 1981,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2124917477209419776/img/nnTMcIe772_vQJCD.jpg"
   },
   {
