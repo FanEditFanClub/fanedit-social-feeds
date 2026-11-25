@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T12:51:48+00:00",
+ "updated_at": "2026-11-25T13:06:42+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2125575230823272771",
+   "text": "S1 E9 'Boca' | 314 of 688",
+   "url": "https://x.com/SopranosOrder/status/2125575230823272771",
+   "created_at": "2026-11-25T13:00:00+00:00",
+   "sent_at": "2026-11-25T13:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HX4tkH0XAAATVz9.jpg"
+  },
   {
    "id": "2125560129819169103",
    "text": "S1 E9 'Boca' | 313 of 688",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HX4thQ0WsAE2B5i.jpg"
   },
   {
-   "id": "2125545042571878688",
-   "text": "S1 E9 'Boca' | 312 of 688",
-   "url": "https://x.com/SopranosOrder/status/2125545042571878688",
-   "created_at": "2026-11-25T11:00:03+00:00",
-   "sent_at": "2026-11-25T11:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HX4tdqyXwAARHLU.jpg"
-  },
-  {
    "id": "2125439484317806868",
    "text": "EZRA FRECH HAS WON DANCING WITH THE STARS WE DID IT",
    "url": "https://x.com/uhbucky/status/2125439484317806868",
@@ -51,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 8,
    "repost_count": 61,
-   "like_count": 336,
+   "like_count": 337,
    "image": "https://pbs.twimg.com/amplify_video_thumb/1965075403699023872/img/Z0QODL-bty7nOL89.jpg"
   },
   {
@@ -65,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 7,
    "repost_count": 25,
-   "like_count": 619,
+   "like_count": 632,
    "image": "https://pbs.twimg.com/media/HX7pO0uXwAAT-Gi.jpg"
   },
   {
@@ -78,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 4,
-   "repost_count": 455,
-   "like_count": 11221,
+   "repost_count": 470,
+   "like_count": 11466,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2125357142613835777/img/AsQ7HrCb9UhxNFxU.jpg"
   },
   {
