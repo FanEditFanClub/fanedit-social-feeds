@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T03:51:40+00:00",
+ "updated_at": "2026-11-25T04:06:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2125439484317806868",
+   "text": "EZRA FRECH HAS WON DANCING WITH THE STARS WE DID IT",
+   "url": "https://x.com/uhbucky/status/2125439484317806868",
+   "created_at": "2026-11-25T04:00:36+00:00",
+   "sent_at": "2026-11-25T04:00:36+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 3,
+   "repost_count": 23,
+   "like_count": 132,
+   "image": "https://pbs.twimg.com/amplify_video_thumb/1965075403699023872/img/Z0QODL-bty7nOL89.jpg"
+  },
+  {
+   "id": "2125439337257161081",
+   "text": "S1 E9 'Boca' | 305 of 688",
+   "url": "https://x.com/SopranosOrder/status/2125439337257161081",
+   "created_at": "2026-11-25T04:00:01+00:00",
+   "sent_at": "2026-11-25T04:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HX4tFkjXsAA4A1M.jpg"
+  },
+  {
    "id": "2125424238454845453",
    "text": "S1 E9 'Boca' | 304 of 688",
    "url": "https://x.com/SopranosOrder/status/2125424238454845453",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HX4tBw5XMAA8LhK.jpg"
-  },
-  {
-   "id": "2125409135504007305",
-   "text": "S1 E9 'Boca' | 303 of 688",
-   "url": "https://x.com/SopranosOrder/status/2125409135504007305",
-   "created_at": "2026-11-25T02:00:00+00:00",
-   "sent_at": "2026-11-25T02:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 1,
-   "like_count": 5,
-   "image": "https://pbs.twimg.com/media/HX4s-fjWsAA5hlq.jpg"
   },
   {
    "id": "2125392518724436249",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 4,
    "repost_count": 11,
-   "like_count": 206,
+   "like_count": 222,
    "image": "https://pbs.twimg.com/media/HX7pO0uXwAAT-Gi.jpg"
   },
   {
@@ -64,8 +78,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
-   "repost_count": 164,
-   "like_count": 3685,
+   "repost_count": 179,
+   "like_count": 3915,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2125357142613835777/img/AsQ7HrCb9UhxNFxU.jpg"
   },
   {
