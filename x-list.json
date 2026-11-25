@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T19:36:40+00:00",
+ "updated_at": "2026-11-25T19:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2125677319159164990",
+   "text": "Is there an actual source for this or is it pure speculation?",
+   "url": "https://x.com/StebobM/status/2125677319159164990",
+   "created_at": "2026-11-25T19:45:40+00:00",
+   "sent_at": "2026-11-25T19:45:40+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
    "id": "2125665828909559928",
    "text": "S1 E9 'Boca' | 320 of 688",
    "url": "https://x.com/SopranosOrder/status/2125665828909559928",
@@ -23,7 +37,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 4,
+   "like_count": 6,
    "image": "https://pbs.twimg.com/media/HX4t41lW0AEUNuv.jpg"
   },
   {
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1966880660280254464/YsCpMDmr_normal.jpg",
    "reply_count": 2,
    "repost_count": 1,
-   "like_count": 10,
+   "like_count": 11,
    "image": ""
   },
   {
@@ -66,20 +80,6 @@
    "reply_count": 0,
    "repost_count": 0,
    "like_count": 5,
-   "image": ""
-  },
-  {
-   "id": "2125632400709574801",
-   "text": "Where is this information coming from? Are people just guessing because of the CCXP poster? #ManofTomorrow",
-   "url": "https://x.com/StebobM/status/2125632400709574801",
-   "created_at": "2026-11-25T16:47:11+00:00",
-   "sent_at": "2026-11-25T16:47:11+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
    "image": ""
   },
   {
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 11,
    "repost_count": 33,
-   "like_count": 841,
+   "like_count": 847,
    "image": "https://pbs.twimg.com/media/HX7pO0uXwAAT-Gi.jpg"
   },
   {
@@ -134,8 +134,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
-   "repost_count": 821,
-   "like_count": 21158,
+   "repost_count": 835,
+   "like_count": 21509,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2125357142613835777/img/AsQ7HrCb9UhxNFxU.jpg"
   },
   {
