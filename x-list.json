@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T07:51:43+00:00",
+ "updated_at": "2026-11-26T08:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2125862119262564605",
+   "text": "S1 E9 'Boca' | 333 of 688",
+   "url": "https://x.com/SopranosOrder/status/2125862119262564605",
+   "created_at": "2026-11-26T08:00:00+00:00",
+   "sent_at": "2026-11-26T08:00:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HX4umjBW0AA86Yz.jpg"
+  },
   {
    "id": "2125847859287208039",
    "text": "With #ManOfTomorrow I\u2019d just tease Brainiac\u2014his voice & ship appearing at the end while Superman fights Lex. Save the full reveal for next year so it\u2019s a huge deal. I think doing that with Doomsday risks it being forgotten quickly.",
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 3,
+   "like_count": 4,
    "image": "https://pbs.twimg.com/media/HX4uizQWwAE14yP.jpg"
-  },
-  {
-   "id": "2125831927542513952",
-   "text": "S1 E9 'Boca' | 331 of 688",
-   "url": "https://x.com/SopranosOrder/status/2125831927542513952",
-   "created_at": "2026-11-26T06:00:02+00:00",
-   "sent_at": "2026-11-26T06:00:02+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 10,
-   "image": "https://pbs.twimg.com/media/HX4ufyTXgAAEOJR.jpg"
   },
   {
    "id": "2125780016000614840",
@@ -77,9 +77,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 5,
-   "like_count": 108,
+   "like_count": 110,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 60,
-   "like_count": 911,
+   "like_count": 917,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HX_9RiwWUAA58NR.jpg"
   },
   {
