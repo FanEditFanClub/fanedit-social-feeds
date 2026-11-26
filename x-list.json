@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T09:51:48+00:00",
+ "updated_at": "2026-11-26T10:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2125893499371634723",
+   "text": "Can we really say it wasn\u2019t a hit? It had 4 seasons? It did fantastic numbers in the UK which is huge for a show like this & the reasons it ended weren\u2019t it own. It because the CW changed direction & James Gunn\u2019s DCU. It didn\u2019t end because it had bad ratings.",
+   "url": "https://x.com/StebobM/status/2125893499371634723",
+   "created_at": "2026-11-26T10:04:42+00:00",
+   "sent_at": "2026-11-26T10:04:42+00:00",
+   "author_name": "Man of Steven \ud83c\udf84",
+   "author_handle": "StebobM",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": ""
+  },
+  {
+   "id": "2125892331429679608",
+   "text": "S1 E9 'Boca' | 335 of 688",
+   "url": "https://x.com/SopranosOrder/status/2125892331429679608",
+   "created_at": "2026-11-26T10:00:03+00:00",
+   "sent_at": "2026-11-26T10:00:03+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HX4uuSJXMAAoQtp.jpg"
+  },
+  {
    "id": "2125877217561375175",
    "text": "S1 E9 'Boca' | 334 of 688",
    "url": "https://x.com/SopranosOrder/status/2125877217561375175",
@@ -25,20 +53,6 @@
    "repost_count": 0,
    "like_count": 7,
    "image": "https://pbs.twimg.com/media/HX4up6cW8AAtWiC.jpg"
-  },
-  {
-   "id": "2125862119262564605",
-   "text": "S1 E9 'Boca' | 333 of 688",
-   "url": "https://x.com/SopranosOrder/status/2125862119262564605",
-   "created_at": "2026-11-26T08:00:00+00:00",
-   "sent_at": "2026-11-26T08:00:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HX4umjBW0AA86Yz.jpg"
   },
   {
    "id": "2125847859287208039",
@@ -79,21 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 6,
-   "like_count": 130,
-   "image": ""
-  },
-  {
-   "id": "2125713560496189489",
-   "text": "Oh no \ud83d\ude14 RIP",
-   "url": "https://x.com/StebobM/status/2125713560496189489",
-   "created_at": "2026-11-25T22:09:41+00:00",
-   "sent_at": "2026-11-25T22:09:41+00:00",
-   "author_name": "Man of Steven \ud83c\udf84",
-   "author_handle": "StebobM",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2116652994355728384/3Hs95nPA_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
+   "like_count": 133,
    "image": ""
   },
   {
@@ -135,7 +135,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 0,
    "repost_count": 62,
-   "like_count": 963,
+   "like_count": 967,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HX_9RiwWUAA58NR.jpg"
   },
   {
