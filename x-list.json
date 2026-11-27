@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T23:36:39+00:00",
+ "updated_at": "2026-11-27T23:51:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,20 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2126462322868912303",
+   "text": "S1 E9 'Boca' | 384 of 688",
+   "url": "https://x.com/SopranosOrder/status/2126462322868912303",
+   "created_at": "2026-11-27T23:45:00+00:00",
+   "sent_at": "2026-11-27T23:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 1,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HYJz32KXwAAp38K.jpg"
+  },
   {
    "id": "2126458551891873816",
    "text": "S1 E9 'Boca' | 383 of 688",
@@ -27,20 +41,6 @@
    "image": "https://pbs.twimg.com/media/HYJz08qXwAA7jl3.jpg"
   },
   {
-   "id": "2126454773322789051",
-   "text": "S1 E9 'Boca' | 382 of 688",
-   "url": "https://x.com/SopranosOrder/status/2126454773322789051",
-   "created_at": "2026-11-27T23:15:00+00:00",
-   "sent_at": "2026-11-27T23:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 9,
-   "image": "https://pbs.twimg.com/media/HYJzyHkWwAA_T9G.jpg"
-  },
-  {
    "id": "2126452638136864864",
    "text": "Enough time has passed. It's time for Ernest movies to come back. We just need it to follow his son on whacky adventures.\n\nI think Ernest Jr getting caught up in the Ukraine conflict, exploring Antarctica and going to Mars all while staying PG would be funny.",
    "url": "https://x.com/TheManlet_King/status/2126452638136864864",
@@ -49,9 +49,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 2,
+   "reply_count": 3,
    "repost_count": 0,
-   "like_count": 24,
+   "like_count": 30,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HYKtYJNWUAIfF1c.jpg"
   },
   {
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 31,
    "repost_count": 34,
-   "like_count": 2215,
+   "like_count": 2245,
    "image": ""
   },
   {
@@ -106,8 +106,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 3,
-   "repost_count": 720,
-   "like_count": 5912,
+   "repost_count": 738,
+   "like_count": 6027,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HYIHiQJWIAEJvPr.jpg"
   },
   {
@@ -120,8 +120,8 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 12,
-   "repost_count": 858,
-   "like_count": 6864,
+   "repost_count": 866,
+   "like_count": 6973,
    "image": "https://pbs.twimg.com/media/HYIlJPUWcAE-AI1.jpg"
   }
  ]
