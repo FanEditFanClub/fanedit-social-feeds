@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T23:51:41+00:00",
+ "updated_at": "2026-11-27T00:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2126103719250977001",
+   "text": "S1 E9 'Boca' | 349 of 688",
+   "url": "https://x.com/SopranosOrder/status/2126103719250977001",
+   "created_at": "2026-11-27T00:00:02+00:00",
+   "sent_at": "2026-11-27T00:00:02+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HYDCS4XXIAArQe4.jpg"
+  },
+  {
+   "id": "2126102758918930480",
+   "text": "Grok has channeled the greatest of cartoonists to recreate this mid-dinner mishap.",
+   "url": "https://x.com/TheManlet_King/status/2126102758918930480",
+   "created_at": "2026-11-26T23:56:13+00:00",
+   "sent_at": "2026-11-26T23:56:13+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 4,
+   "image": "https://pbs.twimg.com/media/HYFvLKtWYAAvhpv.jpg"
+  },
   {
    "id": "2126088623091318977",
    "text": "S1 E9 'Boca' | 348 of 688",
@@ -27,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HX4veFHXEAAL8PC.jpg"
   },
   {
-   "id": "2126073523034522098",
-   "text": "S1 E9 'Boca' | 347 of 688",
-   "url": "https://x.com/SopranosOrder/status/2126073523034522098",
-   "created_at": "2026-11-26T22:00:03+00:00",
-   "sent_at": "2026-11-26T22:00:03+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HX4var1XcAAv3cG.jpg"
-  },
-  {
    "id": "2126068908205523002",
    "text": "I think I\u2019m gonna rewatch the first two episodes tonight at midnight just to feel something again",
    "url": "https://x.com/uhbucky/status/2126068908205523002",
@@ -51,7 +65,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
    "repost_count": 6,
-   "like_count": 220,
+   "like_count": 228,
    "image": ""
   },
   {
@@ -79,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 4,
-   "like_count": 133,
+   "like_count": 136,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2125979362100908032/img/7iaFL1d7KRsho2pg.jpg"
   },
   {
@@ -95,20 +109,6 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HYDzQ4_WYAA5Djp.jpg"
-  },
-  {
-   "id": "2125941368862175250",
-   "text": "Call of Duty: Modern Warfare 2 did it 17 years ago, better.",
-   "url": "https://x.com/TheManlet_King/status/2125941368862175250",
-   "created_at": "2026-11-26T13:14:55+00:00",
-   "sent_at": "2026-11-26T13:14:55+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 2,
-   "like_count": 96,
-   "image": "https://pbs.twimg.com/media/HYDcaBBWkAAuLOc.jpg"
   },
   {
    "id": "2125920023914959019",
