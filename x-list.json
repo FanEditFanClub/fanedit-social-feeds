@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T15:51:39+00:00",
+ "updated_at": "2026-11-27T16:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2126346930166935891",
+   "text": "after years of bearing so much responsibility, she finally had something for herself. and then she died as soon as she got it. at twelve years old. we all have to explode.",
+   "url": "https://x.com/uhbucky/status/2126346930166935891",
+   "created_at": "2026-11-27T16:06:28+00:00",
+   "sent_at": "2026-11-27T16:06:28+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/tweet_video_thumb/HYH5ZSGWwAA0pRP.jpg"
+  },
+  {
+   "id": "2126345315485720716",
+   "text": "S1 E9 'Boca' | 365 of 688",
+   "url": "https://x.com/SopranosOrder/status/2126345315485720716",
+   "created_at": "2026-11-27T16:00:03+00:00",
+   "sent_at": "2026-11-27T16:00:03+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HYDDSAlX0AEMYLH.jpg"
+  },
   {
    "id": "2126330211549458943",
    "text": "S1 E9 'Boca' | 364 of 688",
@@ -35,24 +63,10 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 7,
-   "repost_count": 4,
-   "like_count": 163,
+   "reply_count": 8,
+   "repost_count": 5,
+   "like_count": 244,
    "image": ""
-  },
-  {
-   "id": "2126315106434765092",
-   "text": "S1 E9 'Boca' | 363 of 688",
-   "url": "https://x.com/SopranosOrder/status/2126315106434765092",
-   "created_at": "2026-11-27T14:00:01+00:00",
-   "sent_at": "2026-11-27T14:00:01+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 2,
-   "image": "https://pbs.twimg.com/media/HYDDKvHXgAAUBxS.jpg"
   },
   {
    "id": "2126313489434329289",
@@ -64,23 +78,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 60,
-   "like_count": 611,
+   "repost_count": 74,
+   "like_count": 726,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HYIHiQJWIAEJvPr.jpg"
-  },
-  {
-   "id": "2126302818550346018",
-   "text": "no bc we\u2019ve never seen percy this scared before and my stomach actually hurts so bad he\u2019s just a 14 year old boy :(",
-   "url": "https://x.com/uhbucky/status/2126302818550346018",
-   "created_at": "2026-11-27T13:11:11+00:00",
-   "sent_at": "2026-11-27T13:11:11+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 6,
-   "repost_count": 98,
-   "like_count": 830,
-   "image": "https://pbs.twimg.com/media/HYIlJPUWcAE-AI1.jpg"
   },
   {
    "id": "2126290971612639324",
@@ -121,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 1,
    "repost_count": 5,
-   "like_count": 241,
+   "like_count": 243,
    "image": "https://pbs.twimg.com/media/HYGLQP5WYAAq0z3.jpg"
   },
   {
