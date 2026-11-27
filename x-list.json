@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T00:06:40+00:00",
+ "updated_at": "2026-11-27T00:21:39+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -23,22 +23,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 1,
+   "like_count": 2,
    "image": "https://pbs.twimg.com/media/HYDCS4XXIAArQe4.jpg"
-  },
-  {
-   "id": "2126102758918930480",
-   "text": "Grok has channeled the greatest of cartoonists to recreate this mid-dinner mishap.",
-   "url": "https://x.com/TheManlet_King/status/2126102758918930480",
-   "created_at": "2026-11-26T23:56:13+00:00",
-   "sent_at": "2026-11-26T23:56:13+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 4,
-   "image": "https://pbs.twimg.com/media/HYFvLKtWYAAvhpv.jpg"
   },
   {
    "id": "2126088623091318977",
@@ -65,7 +51,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 7,
    "repost_count": 6,
-   "like_count": 228,
+   "like_count": 237,
    "image": ""
   },
   {
@@ -93,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 0,
    "repost_count": 4,
-   "like_count": 136,
+   "like_count": 139,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2125979362100908032/img/7iaFL1d7KRsho2pg.jpg"
   },
   {
@@ -109,6 +95,20 @@
    "repost_count": 0,
    "like_count": 0,
    "image": "https://pbs.twimg.com/media/HYDzQ4_WYAA5Djp.jpg"
+  },
+  {
+   "id": "2125941368862175250",
+   "text": "Call of Duty: Modern Warfare 2 did it 17 years ago, better.",
+   "url": "https://x.com/TheManlet_King/status/2125941368862175250",
+   "created_at": "2026-11-26T13:14:55+00:00",
+   "sent_at": "2026-11-26T13:14:55+00:00",
+   "author_name": "Manlet King \u2629",
+   "author_handle": "TheManlet_King",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
+   "reply_count": 1,
+   "repost_count": 2,
+   "like_count": 96,
+   "image": "https://pbs.twimg.com/media/HYDcaBBWkAAuLOc.jpg"
   },
   {
    "id": "2125920023914959019",
