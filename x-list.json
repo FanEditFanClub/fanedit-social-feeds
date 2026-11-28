@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T09:51:40+00:00",
+ "updated_at": "2026-11-28T10:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,34 @@
  },
  "posts": [
   {
+   "id": "2126617096301764911",
+   "text": "S1 E9 'Boca' | 425 of 688",
+   "url": "https://x.com/SopranosOrder/status/2126617096301764911",
+   "created_at": "2026-11-28T10:00:01+00:00",
+   "sent_at": "2026-11-28T10:00:01+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HYJ2QokXkAAa9Y9.jpg"
+  },
+  {
+   "id": "2126616249685660126",
+   "text": "From my personal collection Terminator Genisys (35mm 6K Scan) Scope DTS",
+   "url": "https://x.com/NCseventeen/status/2126616249685660126",
+   "created_at": "2026-11-28T09:56:39+00:00",
+   "sent_at": "2026-11-28T09:56:39+00:00",
+   "author_name": "Peter Ncseventeen (Scanners Inc)",
+   "author_handle": "NCseventeen",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 3,
+   "image": "https://pbs.twimg.com/media/HYNCCMwWQAAG6xp.jpg"
+  },
+  {
    "id": "2126613318232121580",
    "text": "S1 E9 'Boca' | 424 of 688",
    "url": "https://x.com/SopranosOrder/status/2126613318232121580",
@@ -23,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HYJ2DmbXAAAlrid.jpg"
-  },
-  {
-   "id": "2126609544486982003",
-   "text": "S1 E9 'Boca' | 423 of 688",
-   "url": "https://x.com/SopranosOrder/status/2126609544486982003",
-   "created_at": "2026-11-28T09:30:00+00:00",
-   "sent_at": "2026-11-28T09:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 3,
-   "image": "https://pbs.twimg.com/media/HYJ2ADPWAAAH8rS.jpg"
   },
   {
    "id": "2126599210166374862",
@@ -51,22 +65,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 10,
+   "like_count": 11,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2126599137688727552/img/ZP5uYQmwWpVBDDXM.jpg"
-  },
-  {
-   "id": "2126596690857849277",
-   "text": "Here are some clips from my Cape Fear (35mm 6K Scan) Scope - Music (NC-17 Cape Fear RMX)",
-   "url": "https://x.com/NCseventeen/status/2126596690857849277",
-   "created_at": "2026-11-28T08:38:56+00:00",
-   "sent_at": "2026-11-28T08:38:56+00:00",
-   "author_name": "Peter Ncseventeen (Scanners Inc)",
-   "author_handle": "NCseventeen",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
-   "reply_count": 1,
-   "repost_count": 2,
-   "like_count": 15,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2126596458249859072/img/-2vhRKVzeWxZD9kA.jpg"
   },
   {
    "id": "2126573634965954863",
@@ -93,7 +93,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 11,
    "repost_count": 6,
-   "like_count": 171,
+   "like_count": 174,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HYKtYJNWUAIfF1c.jpg"
   },
   {
