@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T13:06:39+00:00",
+ "updated_at": "2026-11-28T13:21:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2126666166336659537",
+   "text": "S1 E9 'Boca' | 438 of 688",
+   "url": "https://x.com/SopranosOrder/status/2126666166336659537",
+   "created_at": "2026-11-28T13:15:00+00:00",
+   "sent_at": "2026-11-28T13:15:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 1,
+   "image": "https://pbs.twimg.com/media/HYJ2-ljWgAAf5Xi.jpg"
+  },
+  {
    "id": "2126662402670518695",
    "text": "S1 E9 'Boca' | 437 of 688",
    "url": "https://x.com/SopranosOrder/status/2126662402670518695",
@@ -25,20 +39,6 @@
    "repost_count": 0,
    "like_count": 1,
    "image": "https://pbs.twimg.com/media/HYJ27v-WgAAMCze.jpg"
-  },
-  {
-   "id": "2126658616711143783",
-   "text": "S1 E9 'Boca' | 436 of 688",
-   "url": "https://x.com/SopranosOrder/status/2126658616711143783",
-   "created_at": "2026-11-28T12:45:00+00:00",
-   "sent_at": "2026-11-28T12:45:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 1,
-   "image": "https://pbs.twimg.com/media/HYJ23dIXcAA3_i9.jpg"
   },
   {
    "id": "2126643845827874987",
@@ -79,7 +79,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 37,
+   "like_count": 38,
    "image": "https://pbs.twimg.com/media/HYNCCMwWQAAG6xp.jpg"
   },
   {
@@ -105,9 +105,9 @@
    "author_name": "Manlet King \u2629",
    "author_handle": "TheManlet_King",
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 11,
+   "reply_count": 12,
    "repost_count": 6,
-   "like_count": 180,
+   "like_count": 181,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HYKtYJNWUAIfF1c.jpg"
   }
  ]
