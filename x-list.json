@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T15:36:40+00:00",
+ "updated_at": "2026-11-28T15:51:41+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -12,6 +12,34 @@
   "owner_avatar": "https://pbs.twimg.com/profile_images/2080355210656894976/TTNqFvlD_normal.jpg"
  },
  "posts": [
+  {
+   "id": "2126704330556530707",
+   "text": "I remember when the russian translation didn\u2019t work when you had the subtitles on and I was thinking \u201cwow, what an immersive experience you have to use context clues from the scene to figure out what they\u2019re saying! how genius!\u201d",
+   "url": "https://x.com/uhbucky/status/2126704330556530707",
+   "created_at": "2026-11-28T15:46:39+00:00",
+   "sent_at": "2026-11-28T15:46:39+00:00",
+   "author_name": "mellie",
+   "author_handle": "uhbucky",
+   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 2,
+   "like_count": 33,
+   "image": ""
+  },
+  {
+   "id": "2126703915123007827",
+   "text": "S1 E9 'Boca' | 448 of 688",
+   "url": "https://x.com/SopranosOrder/status/2126703915123007827",
+   "created_at": "2026-11-28T15:45:00+00:00",
+   "sent_at": "2026-11-28T15:45:00+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HYJ3otPXMAA80jj.jpg"
+  },
   {
    "id": "2126700142615228492",
    "text": "S1 E9 'Boca' | 447 of 688",
@@ -27,20 +55,6 @@
    "image": "https://pbs.twimg.com/media/HYJ3lf2W4AESQsX.jpg"
   },
   {
-   "id": "2126696365384237140",
-   "text": "S1 E9 'Boca' | 446 of 688",
-   "url": "https://x.com/SopranosOrder/status/2126696365384237140",
-   "created_at": "2026-11-28T15:15:00+00:00",
-   "sent_at": "2026-11-28T15:15:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HYJ3iwTWsAATVI6.jpg"
-  },
-  {
    "id": "2126695025795084632",
    "text": "baby hollanov my chest hurts",
    "url": "https://x.com/uhbucky/status/2126695025795084632",
@@ -50,37 +64,9 @@
    "author_handle": "uhbucky",
    "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
    "reply_count": 1,
-   "repost_count": 60,
-   "like_count": 273,
+   "repost_count": 76,
+   "like_count": 386,
    "image": "https://pbs.twimg.com/media/HYOJ2pFXAAAW-WM.jpg"
-  },
-  {
-   "id": "2126693763439632424",
-   "text": "MY HOLLANOV THEY WERE BABIES",
-   "url": "https://x.com/uhbucky/status/2126693763439632424",
-   "created_at": "2026-11-28T15:04:39+00:00",
-   "sent_at": "2026-11-28T15:04:39+00:00",
-   "author_name": "mellie",
-   "author_handle": "uhbucky",
-   "author_avatar": "https://pbs.twimg.com/profile_images/2114842919962034176/7IYfE7XA_normal.jpg",
-   "reply_count": 2,
-   "repost_count": 67,
-   "like_count": 490,
-   "image": "https://pbs.twimg.com/amplify_video_thumb/2126693198064181248/img/_8jm_9eNZkHAEeqd.jpg"
-  },
-  {
-   "id": "2126687402454286820",
-   "text": "I think that this has immense potential and someone should get on making it asap. I'll happily help. Hollow Earth needs some good ol Worrell shenanigans.",
-   "url": "https://x.com/TheManlet_King/status/2126687402454286820",
-   "created_at": "2026-11-28T14:39:23+00:00",
-   "sent_at": "2026-11-28T14:39:23+00:00",
-   "author_name": "Manlet King \u2629",
-   "author_handle": "TheManlet_King",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
-   "reply_count": 3,
-   "repost_count": 0,
-   "like_count": 21,
-   "image": "https://pbs.twimg.com/tweet_video_thumb/HYOC6leWoAAiTF1.jpg"
   },
   {
    "id": "2126643845827874987",
@@ -121,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 1,
-   "like_count": 51,
+   "like_count": 53,
    "image": "https://pbs.twimg.com/media/HYNCCMwWQAAG6xp.jpg"
   },
   {
@@ -135,7 +121,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
    "repost_count": 2,
-   "like_count": 21,
+   "like_count": 22,
    "image": "https://pbs.twimg.com/amplify_video_thumb/2126599137688727552/img/ZP5uYQmwWpVBDDXM.jpg"
   }
  ]
