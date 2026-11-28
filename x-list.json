@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T11:51:40+00:00",
+ "updated_at": "2026-11-28T12:06:40+00:00",
  "source": "syndication.twitter.com/srv/timeline-list",
  "author_cap": 2,
  "list": {
@@ -13,6 +13,20 @@
  },
  "posts": [
   {
+   "id": "2126647311606378996",
+   "text": "S1 E9 'Boca' | 433 of 688",
+   "url": "https://x.com/SopranosOrder/status/2126647311606378996",
+   "created_at": "2026-11-28T12:00:04+00:00",
+   "sent_at": "2026-11-28T12:00:04+00:00",
+   "author_name": "Every Moment of The Sopranos in Order",
+   "author_handle": "SopranosOrder",
+   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
+   "reply_count": 0,
+   "repost_count": 0,
+   "like_count": 0,
+   "image": "https://pbs.twimg.com/media/HYJ2tevWkAAmp_q.jpg"
+  },
+  {
    "id": "2126643845827874987",
    "text": "No it\u2019s clearly fake because it\u2019s clearly fake to anyone who has reading comprehension.",
    "url": "https://x.com/StebobM/status/2126643845827874987",
@@ -21,9 +35,9 @@
    "author_name": "Man of Stevenmas \ud83c\udf84",
    "author_handle": "StebobM",
    "author_avatar": "https://pbs.twimg.com/profile_images/2126348008405057536/Hz9jWVUs_normal.jpg",
-   "reply_count": 0,
+   "reply_count": 1,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": ""
   },
   {
@@ -37,22 +51,8 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
    "reply_count": 0,
    "repost_count": 0,
-   "like_count": 0,
+   "like_count": 1,
    "image": "https://pbs.twimg.com/media/HYJ2pW0WwAA7dtD.jpg"
-  },
-  {
-   "id": "2126639744394424610",
-   "text": "S1 E9 'Boca' | 431 of 688",
-   "url": "https://x.com/SopranosOrder/status/2126639744394424610",
-   "created_at": "2026-11-28T11:30:00+00:00",
-   "sent_at": "2026-11-28T11:30:00+00:00",
-   "author_name": "Every Moment of The Sopranos in Order",
-   "author_handle": "SopranosOrder",
-   "author_avatar": "https://pbs.twimg.com/profile_images/1970007338099650560/GDY7nbaJ_normal.jpg",
-   "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 0,
-   "image": "https://pbs.twimg.com/media/HYJ2mciXkAIJEl8.jpg"
   },
   {
    "id": "2126638843054960719",
@@ -78,8 +78,8 @@
    "author_handle": "NCseventeen",
    "author_avatar": "https://pbs.twimg.com/profile_images/1916296553280548864/VrYxqq8F_normal.jpg",
    "reply_count": 0,
-   "repost_count": 0,
-   "like_count": 25,
+   "repost_count": 1,
+   "like_count": 29,
    "image": "https://pbs.twimg.com/media/HYNCCMwWQAAG6xp.jpg"
   },
   {
@@ -107,7 +107,7 @@
    "author_avatar": "https://pbs.twimg.com/profile_images/1876723469800427520/hrntv36K_normal.jpg",
    "reply_count": 11,
    "repost_count": 6,
-   "like_count": 177,
+   "like_count": 178,
    "image": "https://pbs.twimg.com/tweet_video_thumb/HYKtYJNWUAIfF1c.jpg"
   }
  ]
